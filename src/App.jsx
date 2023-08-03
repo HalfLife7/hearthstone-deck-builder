@@ -1,12 +1,21 @@
-import './App.css'
-import React from "react";
+import {Route, Routes} from "react-router-dom";
+import Navigation from "./components/Navigation.jsx";
+import Homepage from "./components/Homepage.jsx";
+import ShoppingCart from "./components/ShoppingCart.jsx";
+import Products from "./components/Products.jsx";
 
-function App() {
-  return (
-    <>
-      <div className="text-3xl font-bold underline">Hello World!</div>
-    </>
-  )
-}
+const App = () => {
+    return (
+        <div>
+            <Navigation />
+            <Routes>
+                <Route path="/" element={<Homepage/>} />
+                <Route path="/products" element={<Products/>} />
+                <Route path="/cart" element={<ShoppingCart/>} />
+            </Routes>
+        </div>
+    );
+};
 
-export default App
+export default App;
+
