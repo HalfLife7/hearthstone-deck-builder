@@ -3,6 +3,8 @@ import '@testing-library/jest-dom'
 import {render, screen, waitFor} from "@testing-library/react";
 import React from "react";
 import {useQuery} from "react-query";
+import userEvent from "@testing-library/user-event";
+import {DeckProvider} from "../context/DeckContext.jsx";
 
 jest.mock('react-query', () => {
     return {
@@ -114,11 +116,35 @@ describe('CardList', () => {
     it('renders the images', async () => {
         useQuery.mockReturnValue({ isLoading: false, error: false, data: mockData }),
 
-        render(<CardList />);
+        render(
+            <DeckProvider>
+                <CardList />
+            </DeckProvider>
+        );
+        const allImages = screen.queryAllByRole('img');
 
         await waitFor(() => {
-            const allImages = screen.queryAllByRole('img');
             expect(allImages.length).toEqual(mockData["Legacy"].length)
         });
     });
+
+    it('it adds the card to the deck when clicked', async () => {
+        const user = userEvent.setup();
+        useQuery.mockReturnValue({isLoading: false, error: false, data: mockData}),
+
+            render(
+                <DeckProvider>
+                    <CardList />
+                </DeckProvider>
+            );
+        const allImages = screen.queryAllByRole('img');
+
+        await waitFor(() => {
+            expect(allImages.length).toEqual(mockData["Legacy"].length)
+        });
+
+        await user.click(allImages[0])
+
+
+    })
 })

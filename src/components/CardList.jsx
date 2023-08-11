@@ -1,5 +1,4 @@
-import Card from "./Card.jsx";
-import React from "react";
+
 
 const fileNames = [
     // "ashes_of_outland",
@@ -55,7 +54,10 @@ const fileNames = [
     // "wild_event",
 ]
 
+import Card from "./Card.jsx";
+import React, {useContext, useState} from "react";
 import {useQuery} from "react-query";
+import DeckMenu from "./DeckMenu.jsx";
 
 const CardList = () => {
     const { isLoading, error, data } = useQuery('cardsData', () =>
@@ -69,13 +71,13 @@ const CardList = () => {
     if (error) return 'An error has occurred: ' + error.message
 
     return (
-        <div className="flex justify-center pl-32">
-            <div className="flex flex-row flex-wrap items-center">
-                {/*{console.log(data["Legacy"])}*/}
+        <div className="flex">
+            <div className="flex flex-wrap justify-center w-4/5">
                 {data["Legacy"].filter((card) => card.img).map((card) => {
                     return <Card key={card.cardId} card={card}/>
                 })}
             </div>
+            <DeckMenu />
         </div>
     )
 }
