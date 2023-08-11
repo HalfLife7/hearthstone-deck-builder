@@ -10,7 +10,7 @@ const DeckItem = ({card}) => {
 
             </div>
             <div className="flex items-center ml-2 pb-2">
-                <span className="text-white tracking-wider">
+                <span className="text-border-black text-border-1 text-white tracking-wider">
                     {card.name}
                 </span>
             </div>
