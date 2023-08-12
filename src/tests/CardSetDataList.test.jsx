@@ -54,7 +54,6 @@ describe('CardSetDataList', () => {
         const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
         await user.click(input)
 
-
         cardSetNames.map((setName) => {
             expect(screen.getByText(setName.split("_").join(" "))).toBeInTheDocument()
         })
@@ -62,5 +61,22 @@ describe('CardSetDataList', () => {
         await user.click(screen.getByText(cardSetNames[0].split("_").join(" ")))
 
         expect(input.value).toEqual(cardSetNames[0].replace(/_/g," "))
+    })
+
+    it('shows suggestions that contain the text entered into the input', async () => {
+        const user = userEvent.setup();
+        render(<CardSetDataList items={cardSetNames}/>)
+
+        const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
+        await user.type(input, "ba")
+
+        const expectedSetNames = ["basic", "battlegrounds"]
+        cardSetNames.map((setName) => {
+            if (expectedSetNames.includes(setName)) {
+                return expect(screen.getByText(setName.split("_").join(" "))).toBeInTheDocument()
+            }
+
+            return expect(screen.queryByText(setName.split("_").join(" "))).not.toBeInTheDocument()
+        })
     })
 })
