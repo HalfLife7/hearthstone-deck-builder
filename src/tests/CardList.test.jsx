@@ -95,32 +95,32 @@ const mockData = {
 describe('CardList', () => {
     it('renders loading state', () => {
 
-        useQuery.mockReturnValue({ isLoading: true, error: false, data: {} }),
+        useQuery.mockReturnValue({isLoading: true, error: false, data: {}}),
 
-        render(<CardList />);
+            render(<CardList/>);
         const loadingElement = screen.getByText('Loading...');
 
         expect(loadingElement).toBeInTheDocument();
     });
 
     it('renders error state', () => {
-        const error = { message: 'Fake Error' }
-        useQuery.mockReturnValue({ isLoading: false, error, data: {} }),
+        const error = {message: 'Fake Error'}
+        useQuery.mockReturnValue({isLoading: false, error, data: {}}),
 
-        render(<CardList />);
+            render(<CardList/>);
         const errorElement = screen.getByText(`An error has occurred: ${error.message}`);
 
         expect(errorElement).toBeInTheDocument();
     });
 
-    it('renders the images', async () => {
-        useQuery.mockReturnValue({ isLoading: false, error: false, data: mockData }),
+    it('renders the cards', async () => {
+        useQuery.mockReturnValue({isLoading: false, error: false, data: mockData}),
 
-        render(
-            <DeckProvider>
-                <CardList />
-            </DeckProvider>
-        );
+            render(
+                <DeckProvider>
+                    <CardList/>
+                </DeckProvider>
+            );
         const allImages = screen.queryAllByRole('img');
 
         await waitFor(() => {
@@ -134,7 +134,7 @@ describe('CardList', () => {
 
             render(
                 <DeckProvider>
-                    <CardList />
+                    <CardList/>
                 </DeckProvider>
             );
         const allImages = screen.queryAllByRole('img');
@@ -145,6 +145,6 @@ describe('CardList', () => {
 
         await user.click(allImages[0])
 
-
+        expect(screen.getByText(mockData["Legacy"][0].name)).toBeInTheDocument();
     })
 })
