@@ -95,9 +95,10 @@ const mockData = {
 describe('CardList', () => {
     it('renders loading state', () => {
 
-        useQuery.mockReturnValue({isLoading: true, error: false, data: {}}),
+        useQuery.mockReturnValue({isLoading: true, error: false, data: {}})
 
-            render(<CardList/>);
+        render(<CardList/>);
+
         const loadingElement = screen.getByText('Loading...');
 
         expect(loadingElement).toBeInTheDocument();
@@ -105,22 +106,24 @@ describe('CardList', () => {
 
     it('renders error state', () => {
         const error = {message: 'Fake Error'}
-        useQuery.mockReturnValue({isLoading: false, error, data: {}}),
+        useQuery.mockReturnValue({isLoading: false, error, data: {}})
 
-            render(<CardList/>);
+        render(<CardList/>);
+
         const errorElement = screen.getByText(`An error has occurred: ${error.message}`);
 
         expect(errorElement).toBeInTheDocument();
     });
 
     it('renders the cards', async () => {
-        useQuery.mockReturnValue({isLoading: false, error: false, data: mockData}),
+        useQuery.mockReturnValue({isLoading: false, error: false, data: mockData})
 
-            render(
-                <DeckProvider>
-                    <CardList/>
-                </DeckProvider>
-            );
+        render(
+            <DeckProvider>
+                <CardList/>
+            </DeckProvider>
+        );
+
         const allImages = screen.queryAllByRole('img');
 
         await waitFor(() => {
@@ -130,13 +133,14 @@ describe('CardList', () => {
 
     it('it adds the card to the deck when clicked', async () => {
         const user = userEvent.setup();
-        useQuery.mockReturnValue({isLoading: false, error: false, data: mockData}),
+        useQuery.mockReturnValue({isLoading: false, error: false, data: mockData})
 
-            render(
-                <DeckProvider>
-                    <CardList/>
-                </DeckProvider>
-            );
+        render(
+            <DeckProvider>
+                <CardList/>
+            </DeckProvider>
+        );
+
         const allImages = screen.queryAllByRole('img');
 
         await waitFor(() => {
@@ -146,5 +150,30 @@ describe('CardList', () => {
         await user.click(allImages[0])
 
         expect(screen.getByText(mockData["Legacy"][0].name)).toBeInTheDocument();
+    })
+
+    it('selecting a new card set changes the cards displayed', async () => {
+        const user = userEvent.setup();
+
+        useQuery.mockReturnValue({isLoading: false, error: false, data: mockData})
+
+        render(
+            <DeckProvider>
+                <CardList/>
+            </DeckProvider>
+        );
+
+        const allImages = screen.queryAllByRole('img');
+
+        await waitFor(() => {
+            expect(allImages.length).toEqual(mockData["Legacy"].length)
+        });
+
+        const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
+        await user.type(input, "Descent Of Dragons")
+
+        await waitFor(() => {
+            expect(screen.getByRole('img', {alt: 'Dragonqueen Alexstrasza'})).toBeInTheDocument()
+        })
     })
 })
