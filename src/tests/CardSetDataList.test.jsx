@@ -79,4 +79,22 @@ describe('CardSetDataList', () => {
             return expect(screen.queryByText(setName.split("_").join(" "))).not.toBeInTheDocument()
         })
     })
+
+    it('shows suggestions that contain the multiple words entered into the input', async () => {
+        const user = userEvent.setup();
+        render(<CardSetDataList items={cardSetNames}/>)
+
+        const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
+        await user.type(input, "Ashes of")
+
+        const expectedSetNames = ["ashes_of_outland"]
+        cardSetNames.map((setName) => {
+
+            if (expectedSetNames.includes(setName)) {
+                return expect(screen.getByText(setName.split("_").join(" "))).toBeInTheDocument()
+            }
+
+            expect(screen.queryByText(setName.split("_").join(" "))).not.toBeInTheDocument()
+        })
+    })
 })

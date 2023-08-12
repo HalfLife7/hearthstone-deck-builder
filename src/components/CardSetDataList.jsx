@@ -15,7 +15,7 @@ const CardSetDataList = ({ items }) => {
         setInputValue(value);
 
         const filteredSuggestions = items.filter(item =>
-            item.toLowerCase().includes(value.toLowerCase())
+            item.replace(/_/g," ").toLowerCase().includes(value.toLowerCase())
         );
         setSuggestions(filteredSuggestions);
         setShowDropdown(true);
