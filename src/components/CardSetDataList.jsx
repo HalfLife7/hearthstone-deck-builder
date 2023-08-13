@@ -1,6 +1,6 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React, {useEffect, useRef, useState} from 'react';
 
-const CardSetDataList = ({ items }) => {
+const CardSetDataList = ({items, onChange}) => {
     const [inputValue, setInputValue] = useState('');
     const [suggestions, setSuggestions] = useState([]);
     const [showDropdown, setShowDropdown] = useState(false);
@@ -13,9 +13,8 @@ const CardSetDataList = ({ items }) => {
     const handleInputChange = (e) => {
         const value = e.target.value;
         setInputValue(value);
-
         const filteredSuggestions = items.filter(item =>
-            item.replace(/_/g," ").toLowerCase().includes(value.toLowerCase())
+            item.replace(/_/g, " ").toLowerCase().includes(value.toLowerCase())
         );
         setSuggestions(filteredSuggestions);
         setShowDropdown(true);
@@ -23,7 +22,7 @@ const CardSetDataList = ({ items }) => {
 
     const handleInputBlur = () => {
         setTimeout(() => {
-            if (!inputRef.current.contains(document.activeElement)) {
+            if (!inputRef.current?.contains(document.activeElement)) {
                 setShowDropdown(false);
             }
         }, 200);
@@ -35,6 +34,7 @@ const CardSetDataList = ({ items }) => {
         setInputValue(e.target.innerHTML);
         setShowDropdown(false);
         setSuggestions([]);
+        onChange(e.target.innerHTML);
     };
 
     return (

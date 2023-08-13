@@ -8,7 +8,7 @@ import {DeckProvider} from "../context/DeckContext.jsx";
 
 jest.mock('react-query', () => {
     return {
-        useQuery: jest.fn()
+        useQuery: jest.fn(),
     };
 });
 
@@ -155,7 +155,7 @@ describe('CardList', () => {
     it('selecting a new card set changes the cards displayed', async () => {
         const user = userEvent.setup();
 
-        useQuery.mockReturnValue({isLoading: false, error: false, data: mockData})
+        useQuery.mockReturnValueOnce({isLoading: false, error: false, data: mockData, refetch: jest.fn()})
 
         render(
             <DeckProvider>
@@ -169,11 +169,48 @@ describe('CardList', () => {
             expect(allImages.length).toEqual(mockData["Legacy"].length)
         });
 
-        const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
-        await user.type(input, "Descent Of Dragons")
-
-        await waitFor(() => {
-            expect(screen.getByRole('img', {alt: 'Dragonqueen Alexstrasza'})).toBeInTheDocument()
+        const descentOfDragonsMockData = {
+            "Legacy": [
+                {
+                    "cardId": "DRG_089",
+                    "dbfId": 55441,
+                    "name": "Dragonqueen Alexstrasza",
+                    "cardSet": "Descent of Dragons",
+                    "type": "Minion",
+                    "rarity": "Legendary",
+                    "cost": 9,
+                    "attack": 8,
+                    "health": 8,
+                    "text": "[x]<b>Battlecry:</b> If your deck has\nno duplicates, add 2 other\nrandom Dragons to your\nhand. They cost (0).",
+                    "flavor": "Givin' lives and takin' names.",
+                    "artist": "Ludo Lullabi",
+                    "collectible": true,
+                    "elite": true,
+                    "race": "Dragon",
+                    "playerClass": "Neutral",
+                    "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9cade007269d115d1fd485449412c070eada5dd3d21a892a49d4fb74be91aa3.png",
+                    "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4908ae89df1190e6c0183794f3f86c167f4219457d3648f1927e673737fce6f1.png",
+                    "locale": "enUS",
+                    "mechanics": [
+                        {
+                            "name": "Battlecry"
+                        }
+                    ]
+                }
+            ]
+        }
+        useQuery.mockReturnValueOnce({
+            isLoading: false,
+            error: false,
+            data: descentOfDragonsMockData,
+            refetch: jest.fn()
         })
+
+        const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
+        await user.type(input, "Descent Of")
+
+        await user.click(screen.getByText("descent of dragons"))
+
+        expect(screen.getByAltText('Dragonqueen Alexstrasza')).toBeInTheDocument()
     })
 })
