@@ -39,6 +39,18 @@ const DataList = ({items, onChange, label}) => {
         onChange(e.target.innerHTML);
     };
 
+    const handleOnKeyDown = (e) => {
+        if (e.key === 'Escape') {
+            onChange(e.target.value);
+            inputRef.current.blur();
+        }
+
+        if (e.key === 'Enter') {
+            onChange(e.target.value);
+            inputRef.current.blur();
+        }
+    }
+
     return (
         <div>
             <label className="inline-block align-middle text-center w-24" htmlFor={`${hyphenatedLabel}-data-list`}>{label}:</label>
@@ -47,6 +59,7 @@ const DataList = ({items, onChange, label}) => {
                 type="text"
                 value={inputValue}
                 onChange={handleInputChange}
+                onKeyDown={handleOnKeyDown}
                 onFocus={() => setShowDropdown(true)}
                 onBlur={handleInputBlur}
                 ref={inputRef}

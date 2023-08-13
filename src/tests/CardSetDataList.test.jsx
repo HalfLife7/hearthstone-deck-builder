@@ -97,4 +97,28 @@ describe('CardSetDataList', () => {
             expect(screen.queryByText(setName.split("_").join(" "))).not.toBeInTheDocument()
         })
     })
+
+    it('fires the onChange event when the user hits enter', async () => {
+        const mockOnChange = jest.fn();
+        const user = userEvent.setup();
+        render(<CardSetDataList items={cardSetNames} onChange={mockOnChange}/>)
+
+        const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
+        await user.type(input, "Blackrock Mountain")
+
+        await user.type(input, '{enter}')
+        expect(mockOnChange).toHaveBeenCalledTimes(1)
+    })
+
+    it('fires the onChange event when the user hits escape', async () => {
+        const mockOnChange = jest.fn();
+        const user = userEvent.setup();
+        render(<CardSetDataList items={cardSetNames} onChange={mockOnChange}/>)
+
+        const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
+        await user.type(input, "Blackrock Mountain")
+
+        await user.type(input, '{escape}')
+        expect(mockOnChange).toHaveBeenCalledTimes(1)
+    })
 })
