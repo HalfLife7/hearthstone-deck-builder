@@ -1,6 +1,6 @@
 import React from "react";
 import DeckItem from "../components/DeckItem.jsx";
-import {render, screen, waitFor} from "@testing-library/react";
+import {render, screen} from "@testing-library/react";
 import '@testing-library/jest-dom'
 
 const card = {

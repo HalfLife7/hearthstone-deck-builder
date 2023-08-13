@@ -1,9 +1,9 @@
-import React, {useEffect, useRef, useState} from 'react';
+import React from 'react';
 import DataList from "./DataList.jsx";
 
 const CardSetDataList = ({items, onChange}) => {
     return (
-        <DataList items={items} onChange={onChange} label={"Card Set"} />
+        <DataList items={items} onChange={onChange} label={"Card Set"}/>
     )
 };
 

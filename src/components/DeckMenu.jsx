@@ -3,7 +3,7 @@ import DeckItem from "./DeckItem.jsx";
 import {DeckContext} from "../context/DeckContext.jsx";
 
 const DeckMenu = () => {
-    const [ deckState, deckDispatch ] = useContext(DeckContext)
+    const [deckState, deckDispatch] = useContext(DeckContext)
 
     return (
         <div className="w-1/5">

@@ -1,5 +1,5 @@
 import React from "react";
-import {render, waitFor, screen} from "@testing-library/react";
+import {render, screen, waitFor} from "@testing-library/react";
 import '@testing-library/jest-dom'
 import userEvent from "@testing-library/user-event";
 import CardSetDataList from "../components/CardSetDataList.jsx";
@@ -60,7 +60,7 @@ describe('CardSetDataList', () => {
 
         await user.click(screen.getByText(cardSetNames[0].split("_").join(" ")))
 
-        expect(input.value).toEqual(cardSetNames[0].replace(/_/g," "))
+        expect(input.value).toEqual(cardSetNames[0].replace(/_/g, " "))
     })
 
     it('shows suggestions that contain the text entered into the input', async () => {

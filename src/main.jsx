@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import {createBrowserRouter, RouterProvider} from "react-router-dom";
 import App from "./App";
 import CardList from "./components/CardList.jsx";
 import ShoppingCart from "./components/ShoppingCart.jsx";
@@ -9,15 +9,15 @@ import './index.css'
 const router = createBrowserRouter([
     {
         path: "",
-        element: <App />,
+        element: <App/>,
         children: [
             {
                 path: "/cards",
-                element: <CardList />,
+                element: <CardList/>,
             },
             {
                 path: "/cart",
-                element: <ShoppingCart />,
+                element: <ShoppingCart/>,
             },
         ]
     },
@@ -25,6 +25,6 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById("root")).render(
     <React.StrictMode>
-        <RouterProvider router={router} />
+        <RouterProvider router={router}/>
     </React.StrictMode>
 );

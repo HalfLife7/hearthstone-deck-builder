@@ -53,7 +53,8 @@ const DataList = ({items, onChange, label}) => {
 
     return (
         <div>
-            <label className="inline-block align-middle text-center w-24" htmlFor={`${hyphenatedLabel}-data-list`}>{label}:</label>
+            <label className="inline-block align-middle text-center w-24"
+                   htmlFor={`${hyphenatedLabel}-data-list`}>{label}:</label>
             <input
                 id={hyphenatedLabel}
                 type="text"

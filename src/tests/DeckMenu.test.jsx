@@ -1,7 +1,7 @@
 import React from "react";
 import {render, screen, waitFor} from "@testing-library/react";
 import DeckMenu from "../components/DeckMenu.jsx";
-import {DeckContext, DeckProvider} from "../context/DeckContext.jsx";
+import {DeckContext} from "../context/DeckContext.jsx";
 
 const MockDeckProvider = ({children, deckState = []}) => {
     const dispatch = jest.fn();
@@ -70,7 +70,7 @@ describe('DeckMenu', () => {
 
         render(
             <MockDeckProvider deckState={deckState}>
-                <DeckMenu />
+                <DeckMenu/>
             </MockDeckProvider>
         );
 
