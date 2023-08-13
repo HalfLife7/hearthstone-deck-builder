@@ -49,7 +49,7 @@ describe('CardSetDataList', () => {
 
     it('sets the value of the input to be the suggestion clicked', async () => {
         const user = userEvent.setup();
-        render(<CardSetDataList items={cardSetNames}/>)
+        render(<CardSetDataList items={cardSetNames} onChange={jest.fn()}/>)
 
         const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
         await user.click(input)
