@@ -65,7 +65,7 @@ const DataList = ({items, onChange, label}) => {
                 onBlur={handleInputBlur}
                 ref={inputRef}
                 className="border w-48 capitalize"
-                aria-label="Select or search for a card set"
+                aria-label={`Select a ${label.toLowerCase()}`}
             />
             {showDropdown && (
                 <ul className="absolute z-50 w-48 max-h-40 overflow-y-auto ml-24">
