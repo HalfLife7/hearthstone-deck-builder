@@ -1,0 +1,1122 @@
+{
+  "The League of Explorers": [
+    {
+      "cardId": "LOEA10_3",
+      "dbfId": 13879,
+      "name": "Murloc Tinyfin",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 0,
+      "attack": 1,
+      "health": 1,
+      "flavor": "High mortality rate, from often being hugged to death.",
+      "artist": "Oliver Chipping",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Ruined City, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in The Ruined City, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd6fbf8bd6c61d4e6e686044df86e047d715bac020ee9aa2c38a404b02bc9ccf.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOE_118",
+      "dbfId": 35025,
+      "name": "Cursed Blade",
+      "cardSet": "The League of Explorers",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 2,
+      "durability": 3,
+      "text": "Double all damage dealt to your hero.",
+      "flavor": "The Curse is that you have to listen to \"MMMBop\" on repeat.",
+      "artist": "Craig Mullins",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "howToGet": "Unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ad339d5fcf5dc259a17c074f7bdd8c23e0822f08377a07a67ebc12e213a6bfa.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOE_010",
+      "dbfId": 2882,
+      "name": "Pit Snake",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Poisonous</b>",
+      "flavor": "It could be worse.  It could be a Snake Pit.",
+      "artist": "Bernie Kang",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Rogue",
+      "howToGet": "Unlocked in The Ruined City, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in The Ruined City, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd3205689622ae5e3910c38f45bf17c8a4b47dcccc876c3c3329b0cf76427a18.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_115",
+      "dbfId": 13335,
+      "name": "Raven Idol",
+      "cardSet": "The League of Explorers",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Choose One -</b>\n<b>Discover</b> a minion; or <b>Discover</b> a spell.",
+      "flavor": "Was petrified when it found out it didn't make the cut for Azerothian Idol.",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Druid",
+      "howToGet": "Unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9309926b6bcceb906bd10926874c198defb87928fd19e321bca106e4e5bee06.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_116",
+      "dbfId": 13334,
+      "name": "Reliquary Seeker",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> If you have 6 other minions, gain +4/+4.",
+      "flavor": "The Reliquary considers itself the equal of the League of Explorers.  The League of Explorers doesn't.",
+      "artist": "Wayne Reynolds",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "howToGet": "Unlocked in Uldaman, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in Uldaman, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f33c847cc541d2f03022e8870eb3c9c5fed0f1278703b5d18e69e346f977a580.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_027",
+      "dbfId": 2899,
+      "name": "Sacred Trial",
+      "cardSet": "The League of Explorers",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Secret:</b> After your opponent has at least 3 minions and plays another, destroy it.",
+      "flavor": "You have chosen poorly.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "howToGet": "Unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81f020ba97aea10f082a35564b6563b22d18e897196352938b27f1da2a31a08f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_076",
+      "dbfId": 2948,
+      "name": "Sir Finley Mrrgglton",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "<b><b>Battlecry:</b> Discover</b> a new basic Hero Power.",
+      "flavor": "In addition to fluent Common, he also speaks fourteen dialects of 'mrgl'.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Ruined City, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in The Ruined City, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/857d54ccd2c0cb722470d59ff0a0030e0db3f773fa760a648b835b24d43c7500.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_018",
+      "dbfId": 2890,
+      "name": "Tunnel Trogg",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "Whenever you <b>Overload</b>, gain +1 Attack per locked Mana Crystal.",
+      "flavor": "Sure, they're ugly, but they live in tunnels.  You try your beauty routine without natural light.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "howToGet": "Unlocked in Uldaman, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in Uldaman, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1387e5ec262155d7e1f303ac5efa93d0a69e4a9a1c3143e3795ae8df1890c6a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_007",
+      "dbfId": 2879,
+      "name": "Curse of Rafaam",
+      "cardSet": "The League of Explorers",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Give your opponent a 'Cursed!' card.\nWhile they hold it, they take 2 damage on their turn.",
+      "flavor": "This is what happens when Rafaam stubs his toe unexpectedly.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "howToGet": "Unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa5d04d9994cbe258492002977cdb4ecf92fa282538f10197e0bc58bf0c6a4fc.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOE_023",
+      "dbfId": 2895,
+      "name": "Dark Peddler",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry: Discover</b> a\n1-Cost card.",
+      "flavor": "I'm offering you a bargain here!  This amazing vacuum cleaner for your soul!",
+      "artist": "George Davis",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Warlock",
+      "howToGet": "Unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a494f43a917d22e5913c35b02b47ef04c6a667da6155c83eefa60abd41633b50.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_021",
+      "dbfId": 2893,
+      "name": "Dart Trap",
+      "cardSet": "The League of Explorers",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Secret:</b> After an opposing Hero Power is used, deal $5 damage to a random enemy.",
+      "flavor": "Five years of tap-dancing lessons are FINALLY going to pay off!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "howToGet": "Unlocked in The Ruined City, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in The Ruined City, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/872a1d9fb0223c16394faa2b07f99f27b4fa0c0256cc761c2b40aca38bd2588c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_105",
+      "dbfId": 3001,
+      "name": "Explorer's Hat",
+      "cardSet": "The League of Explorers",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Give a minion +1/+1 and \"<b>Deathrattle:</b> Add an Explorer's Hat to your hand.\"",
+      "flavor": "Harrison Jones was disappointed that he didn't get to be part of the League of Explorers, but his hat did.",
+      "artist": "Joe Wilson",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "howToGet": "Unlocked by starting the League of Explorers adventure.",
+      "howToGetGold": "Can be crafted after starting the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/499691bf3da57c084afeb163bd707587ad2f8ad68a48dac73ce1fb3b960c975a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_046",
+      "dbfId": 2918,
+      "name": "Huge Toad",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Deal 1 damage to a random enemy.",
+      "flavor": "Deals damage when he croaks.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Ruined City, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in The Ruined City, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca5bcbceb8c33b3e60144fbeb78194c1c705dacfbc0d028025594d197ce9e74e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_029",
+      "dbfId": 2901,
+      "name": "Jeweled Scarab",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry: Discover</b> a\n3-Cost card.",
+      "flavor": "It's amazing what you can do with super glue!",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52132ce55fe119e8df1da2b709fa6950e84e0457b4911208dc13d302d1c41405.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_006",
+      "dbfId": 2878,
+      "name": "Museum Curator",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry: Discover</b> a <b>Deathrattle</b> card.",
+      "flavor": "He is forever cursing the kids who climb on the rails and the evil archeologists who animate the exhibits.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "playerClass": "Priest",
+      "howToGet": "Unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66d66cf5f29092c31deb4d43efafc604267c5b14715f274ba0df1ff188a433b1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_077",
+      "dbfId": 2949,
+      "name": "Brann Bronzebeard",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "Your <b>Battlecries</b> trigger twice.",
+      "flavor": "Contains 75% more fiber than his brother Magni!",
+      "artist": "Sam Nielson",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in Uldaman, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in Uldaman, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/401fa6ee00340517e1873c8904836893d2134a42c2650f5639e8b4d00ec0b096.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69678bdfbf46d02126a48b646e671e5808d19182962c53a0a28b3a1d2a5e1e05.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_020",
+      "dbfId": 2892,
+      "name": "Desert Camel",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Put a 1-Cost minion from each deck into the battlefield.",
+      "flavor": "Dang.  This card is sweet.  Almost as sweet as Dessert Camel.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "howToGet": "Unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3211a04bf9b8fd6279c63cf2ae5dcf4bc65535b4494486eb7c32c7d4d8f67fe0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_022",
+      "dbfId": 2894,
+      "name": "Fierce Monkey",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Taunt</b>",
+      "flavor": "Fierce monkey.  That funky monkey.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Warrior",
+      "howToGet": "Unlocked in Uldaman, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in Uldaman, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efcc12c9c450f525461ee6c5943d2d55fc8b295d07d748cb78e7058e2465429f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_002",
+      "dbfId": 2874,
+      "name": "Forgotten Torch",
+      "cardSet": "The League of Explorers",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Deal $3 damage. Shuffle a 'Roaring Torch' into your deck that deals 6 damage.",
+      "flavor": "Why does a forgotten torch turn into a roaring torch with no provocation?  It's one of life's many mysteries.",
+      "artist": "Richard Wright",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "howToGet": "Unlocked by starting the League of Explorers adventure.",
+      "howToGetGold": "Can be crafted after starting the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73dff6ca6099eb6b19baf8c89a314eb4766aad2e2f1b96cf21d49c06d8536d72.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOE_039",
+      "dbfId": 2911,
+      "name": "Gorillabot A-3",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you control another Mech, <b>Discover</b> a Mech.",
+      "flavor": "A-1 and A-2 went nuts, when they should have gone bolts.",
+      "artist": "Skan Srisuwan",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Ruined City, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in The Ruined City, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f52e3660b6ce43caff6ab71f54d65f78e99b0a7de0d36376bb482999b9d04b1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_050",
+      "dbfId": 2922,
+      "name": "Mounted Raptor",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Summon a random 1-Cost minion.",
+      "flavor": "Clever girl!",
+      "artist": "Ben Zhang",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "howToGet": "Unlocked in Uldaman, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in Uldaman, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cf4994f193037494ff10dda056400970a8d0894b7f839e4a0dc1d31693cf641.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_019",
+      "dbfId": 2891,
+      "name": "Unearthed Raptor",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Choose a friendly minion. Gain a copy of its_<b>Deathrattle</b>.",
+      "flavor": "Still hunting for the ones who earthed him.",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Rogue",
+      "howToGet": "Unlocked in Uldaman, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in Uldaman, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4ef6460f4b3e9b8f8118a64406d8e07280601fac38671831903d95c949ef796.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_110",
+      "dbfId": 9081,
+      "name": "Ancient Shade",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 7,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Shuffle an 'Ancient Curse' into your deck that deals 7 damage to you when drawn.",
+      "flavor": "Warning: Do not expose to direct sunlight.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f67ac3f5d4bb305a4e71fda1d8ad0f55884582037d4d9a85008fa9b521126c0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_119",
+      "dbfId": 36111,
+      "name": "Animated Armor",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "Your hero can only take 1 damage at a time.",
+      "flavor": "Try putting it on.  Wait, let me get my camera.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Mage",
+      "howToGet": "Unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/233544f1eb3c540c762301638175acd1ace5dc21d53f45d758c2f1e53c0af77b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOE_107",
+      "dbfId": 9107,
+      "name": "Eerie Statue",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 7,
+      "health": 7,
+      "text": "Can\u2019t attack unless it\u2019s the only minion on the battlefield.",
+      "flavor": "Don't blink!  Don't turn your back, don't look away, and DON'T BLINK.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c61f147ad7b0cb3e41d6e329bcd5abe52b765bfa9b0c4bfae371811951c4d301.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOE_079",
+      "dbfId": 2951,
+      "name": "Elise Starseeker",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Shuffle the 'Map to the Golden Monkey'   into your deck.",
+      "flavor": "A large part of her job entails not mixing up the Map to the Golden Monkey with the Map to Monkey Island.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8efb568e60c28a36519a22e6eb31b03281e5ef5d957994dc487c67e8fef84977.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_051",
+      "dbfId": 2923,
+      "name": "Jungle Moonkin",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "Both players have\n<b>Spell Damage +2</b>.",
+      "flavor": "The REAL angry chicken!",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Druid",
+      "howToGet": "Unlocked in The Ruined City, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in The Ruined City, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0b95c62ef037ceb76650c5193dba3a90ab9bc9994989340c18e29266fe1314b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_017",
+      "dbfId": 2889,
+      "name": "Keeper of Uldaman",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Set a minion's Attack and Health to 3.",
+      "flavor": "U da man!  No, U da man!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "howToGet": "Unlocked in Uldaman, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in Uldaman, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/137cc3c13499d31f6770db37cc32bcd47076c8452ae52c4d4b0971e034bbe6a0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_016",
+      "dbfId": 2888,
+      "name": "Rumbling Elemental",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "After you play a <b>Battlecry</b> minion, deal 2 damage to a random enemy.",
+      "flavor": "He's a very hungry elemental.",
+      "artist": "Cole Eastburn",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "howToGet": "Unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9913a21177615e8a75136c5d8572b68015fd584fd4a265bcbd74d2ff0f07ea7c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_012",
+      "dbfId": 2884,
+      "name": "Tomb Pillager",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Add a Coin to your hand.",
+      "flavor": "After the guild broke up, he could no longer raid the tombs.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "howToGet": "Unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4e4b8d24dea91237bd588ded47ad2204b28281a32b4908060efc0b4b68deeec.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_047",
+      "dbfId": 2919,
+      "name": "Tomb Spider",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry: Discover</b> a Beast.",
+      "flavor": "Less serious than its cousin, the Grave Spider.",
+      "artist": "Turovec Konstantin",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in Uldaman, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in Uldaman, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c39c801569d4e77d04b63f991faf1e5a7f7f1d612aa1dc6438e3c268dfb12bfb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_061",
+      "dbfId": 2933,
+      "name": "Anubisath Sentinel",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Give a random friendly minion +3/+3.",
+      "flavor": "He's actually a 1/1 who picked up the hammer from the last guy.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e206f51c51a79789f05392fca9164ba782a05d0686d3afa8c8725b2b834f4486.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_053",
+      "dbfId": 2925,
+      "name": "Djinni of Zephyrs",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "After you cast a spell on another friendly minion, cast a copy of it on this one.",
+      "flavor": "If you want your wish granted, don't rub him the wrong way.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a65d3b1f54d3b39a6efc5339181d9f41d22b2cfe141e452e358169023561909.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOE_003",
+      "dbfId": 2875,
+      "name": "Ethereal Conjurer",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 6,
+      "health": 4,
+      "text": "<b>Battlecry: Discover</b> a spell.",
+      "flavor": "Despite the name, he's a solid conjurer.",
+      "artist": "Ben Zhang",
+      "collectible": true,
+      "playerClass": "Mage",
+      "howToGet": "Unlocked in Uldaman, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in Uldaman, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fcec277e786acea598e22f899d1a68a5be2b2bdaa93b8eee870d7f2161fb3c4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_111",
+      "dbfId": 2999,
+      "name": "Excavated Evil",
+      "cardSet": "The League of Explorers",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Deal $3 damage to all minions.\nShuffle this card into your opponent's deck.",
+      "flavor": "MOM! DAD! DON'T TOUCH IT! IT'S EVIL!!!!!!",
+      "artist": "Raymond Swanland",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "howToGet": "Unlocked in Uldaman, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in Uldaman, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3f8412509ea652379fdf87b5ac5a965d5b33ba4d545b0bdbe54787eded21a0e3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOE_086",
+      "dbfId": 2958,
+      "name": "Summoning Stone",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 0,
+      "health": 6,
+      "text": "Whenever you cast a spell, summon a random minion of the same Cost.",
+      "flavor": "Sometimes it feels like it's always the same slackers that are waiting for a summon.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c46e6baebabaeb8a96e3fbcd9e39efc7fb2f0679a72ea259ebe08b04d2edb89.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOE_104",
+      "dbfId": 3015,
+      "name": "Entomb",
+      "cardSet": "The League of Explorers",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 6,
+      "text": "Choose an enemy minion.\nShuffle it into your deck.",
+      "flavor": "It's perfectly safe as long as you remember to put in air holes.",
+      "artist": "Alex Konstad",
+      "collectible": true,
+      "playerClass": "Priest",
+      "howToGet": "Unlocked in The Ruined City, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in The Ruined City, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69db4231bf78c07b38406045175927b85ee2baf15801562b5100138e13473b46.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOE_011",
+      "dbfId": 2883,
+      "name": "Reno Jackson",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If your deck has no duplicates, fully heal your hero.",
+      "flavor": "Reno is a four-time winner of the 'Best Accessorized Explorer' award.",
+      "artist": "Tyson Murphy",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "howToGetDiamond": "Collect all 45 League of Explorers cards.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45a1ff9ca4aac90567672e972f5538a3f5619263405d007c1c353cfb21c49d6e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_089",
+      "dbfId": 2961,
+      "name": "Wobbling Runts",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Deathrattle:</b> Summon three 2/2 Runts.",
+      "flavor": "The fourth one fell off in a tragic accident.  They don't talk about it.",
+      "artist": "Sam Nielson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/788eab7a0a78414c7e48c5a72d6dcf315fcff9cac39b3f51b9ec879a32e24ee3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_113",
+      "dbfId": 3007,
+      "name": "Everyfin is Awesome",
+      "cardSet": "The League of Explorers",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 7,
+      "text": "Give your minions +2/+2.\nCosts (1) less for each Murloc you control.",
+      "flavor": "Everyfin is cool when you're part of a murloc team!",
+      "artist": "Andrius Matijoshius",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "howToGet": "Unlocked in The Ruined City, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in The Ruined City, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e93b505b774e4175fb875b75dea2ea03d97a21f09497279f022972c23e6de6ae.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOE_009",
+      "dbfId": 2881,
+      "name": "Obsidian Destroyer",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 7,
+      "health": 7,
+      "text": "At the end of your turn, summon a 1/1 Scarab with <b>Taunt</b>.",
+      "flavor": "No obsidian is safe around the Obsidian Destroyer!",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "howToGet": "Unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e4c855dabd41476276a1ec9b2e989d4021a9e4e40b702fb0db8978c61744da6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_073",
+      "dbfId": 2945,
+      "name": "Fossilized Devilsaur",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Battlecry:</b> If you control another Beast, gain <b>Taunt</b>.",
+      "flavor": "This was the only job he could get after the dinosaur theme park debacle.",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d09fa2fdced53092cdf6c473626c8a042cc8312cfe52b1787331076179e0b0c8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_038",
+      "dbfId": 2910,
+      "name": "Naga Sea Witch",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 5,
+      "health": 5,
+      "text": "Your cards cost (5).",
+      "flavor": "If she had studied harder, she would have been a C+ witch.",
+      "artist": "Ben Zhang",
+      "collectible": true,
+      "race": "Naga",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Ruined City, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in The Ruined City, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74b0c27359e9655641c12c1c0005f959945795f2e3ebcc310019fc692d588076.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_092",
+      "dbfId": 2964,
+      "name": "Arch-Thief Rafaam",
+      "cardSet": "The League of Explorers",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 7,
+      "health": 8,
+      "text": "<b>Battlecry: Discover</b> a powerful Artifact.",
+      "flavor": "He's very good at retrieving artifacts.  From other people's museums.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in the Hall of Explorers, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fc113655b01c031949a3da9451ff5a99bc37e5ce3d80279c19bc2b750af3964.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOE_026",
+      "dbfId": 2898,
+      "name": "Anyfin Can Happen",
+      "cardSet": "The League of Explorers",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 10,
+      "text": "Summon 7 Murlocs that died this game.",
+      "flavor": "Theme song by Ellie Goldfin and Blagghghlrlrl Harris.",
+      "artist": "Ryan Metcalf",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "howToGet": "Unlocked in The Ruined City, in the League of Explorers adventure.",
+      "howToGetGold": "Crafting unlocked in The Ruined City, in the League of Explorers adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b09c4eb7547f9f660e94b4b5d9d214662e32a203f5d0507f7a968702b8c76964.png",
+      "locale": "enUS"
+    }
+  ]
+}

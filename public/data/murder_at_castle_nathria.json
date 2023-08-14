@@ -1,0 +1,3860 @@
+{
+  "Murder at Castle Nathria": [
+    {
+      "cardId": "REV_507",
+      "dbfId": 78117,
+      "name": "Dispose of Evidence",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 0,
+      "text": "Give your hero +3 Attack this turn. Choose a card in your hand to shuffle into your deck.",
+      "flavor": "Just because you did it doesn't mean you have to be guilty.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7909497c5c2d8e606179be709738da85bb908a9d0780b8a8739470c9e5da422e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_356",
+      "dbfId": 78273,
+      "name": "Batty Guest",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Summon a 2/1 Bat.",
+      "flavor": "His favorite food is chocolate cereal.",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7dd18bbe8ad70324c15dd2677a2220e47736a0094423d5d2878dea4ebd02b5ac.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_027",
+      "dbfId": 79770,
+      "name": "Call to the Stand",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Your opponent summons a random minion from their hand.",
+      "flavor": "Don't worry, there is a chair for you to sit in. It's very misleading.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f1fb71944a40ef488b8325556e22486a0da5201182625ade95650f3d22b5e97.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_920",
+      "dbfId": 76975,
+      "name": "Convincing Disguise",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "[x]Transform a friendly minion\ninto one that costs (2) more.\n<b>Infuse (@):</b> Transform all\nfriendly minions instead.",
+      "flavor": "Okay gang, let's see who's really under the mask\u2026 *gasp* Old Man Bru'kan!?",
+      "artist": "Caroline Gariba",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd0875ff3552466f8342a9c70ee69f5b3eb0b583a4d20de5cd136cd5d558a093.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_938",
+      "dbfId": 77556,
+      "name": "Door of Shadows",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Draw a spell. <b>Infuse (@):</b> Add a temporary copy of it to your hand.",
+      "flavor": "Upon arrival, please ring the doorbell of shadows, and wipe your shoes on the doormat of shadows before entering.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad465fc859232192fab739ed23711d23737ac00ebedba9fa09c1a9fd00aa0630.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_338",
+      "dbfId": 78373,
+      "name": "Dredger Staff",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Give minions \nin your hand +1 Health.",
+      "flavor": "The dredger staff held the dredger knife and said, \"Dredger bow before the Sire!\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/119cc8a827d3bbd374659c32fbc1f0cd8ded9b8de6cbbad7b797a317d2d58f3e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_242",
+      "dbfId": 77057,
+      "name": "Flustered Librarian",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "Has +1 Attack for each\nImp you control.",
+      "flavor": "A fairly sIMPle card.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab4a834e94e03797450f77e4c8a0732e8cc794036848e3dbec970186c0e74920.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_923",
+      "dbfId": 76981,
+      "name": "Muck Pools",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Location",
+      "rarity": "Rare",
+      "cost": 1,
+      "health": 3,
+      "text": "Transform a friendly minion into one that costs (1) more.",
+      "flavor": "Making a dredger is easier than you'd think. You don't need to worry about mucking it up!",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18399514b9256b007d279a8c0d2558dfd24a5b3c7bd0252e92171ff453d7a8f6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_313",
+      "dbfId": 77654,
+      "name": "Planted Evidence",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Discover</b> a spell. It costs (2) less this turn.",
+      "flavor": "So you're telling me this wasn't Natural Causes?",
+      "artist": "Ramzy Kamen",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2bf81502a74c24411f3a1910f203fc85a9b92863b12d6b4a256db26343f8838.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_842",
+      "dbfId": 79741,
+      "name": "Promotion",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "[x]Give a Silver Hand\nRecruit +3/+3\nand <b>Taunt</b>.",
+      "flavor": "And with the new title of 'Golden Hand Recruit', you also get a pay raise!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/741a1d2ed4107ea15a9ac0f75d4a5e996d79d25b7f02cbcc199bc0d188361f7c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_834",
+      "dbfId": 78469,
+      "name": "Relic of Extinction",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Deal $@ damage to a random enemy minion, twice. Improve your future Relics.",
+      "flavor": "Faster than an asteroid, and just as effective.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e64346ecaa9bbde4d7f17c26e57fb59e725124458338774a1ea1f3c24f3554e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_990",
+      "dbfId": 82313,
+      "name": "Sanguine Depths ",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Location",
+      "rarity": "Rare",
+      "cost": 1,
+      "health": 3,
+      "text": "[x]Deal 1 damage to a \nminion and give it \n+2 Attack.",
+      "flavor": "There may not be any skeletons in the closets at Castle Nathria, but there sure are souls in the basement.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b1a7bec8c8eb12383128bfbce531e1b1b84a3b93caa2ebe9f4eb563c2ef4ff3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_952",
+      "dbfId": 78143,
+      "name": "Sinful Sous Chef",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Add 2\nSilver Hand Recruits\nto your hand.",
+      "flavor": "If this dinner party goes well, she thinks she has a good shot at being on Fel's Kitchen.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e79650be1198144f390288961a4f4f0bcab821eb22071b755d0d2e176e470f67.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_839",
+      "dbfId": 78532,
+      "name": "Sinstone Totem",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 0,
+      "health": 3,
+      "text": "At the end of your turn, gain +1 Health.",
+      "flavor": "This one's heavier than the wooden totems. Mostly from the weight of your sins.",
+      "artist": "Ramzy Kamen",
+      "collectible": true,
+      "race": "Totem",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f650d4ac1d117abec6da5aaff75c6b78daa2d1f5f9f7eb4945af264be011448b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_000",
+      "dbfId": 75866,
+      "name": "Suspicious Alchemist",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> a\nspell. If your opponent\nguesses your choice,\nthey get a copy.",
+      "flavor": "Side effects may include feeling totally fine! Don't even worry about it.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/beb6855c1350c6e95c8cfd679708b5e8d3ca251e52e06dca1151ebd0364bef57.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_002",
+      "dbfId": 75922,
+      "name": "Suspicious Usher",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Legendary</b> minion. If your\nopponent guesses your\n__choice, they get a copy.",
+      "flavor": "\"Oh please, let me take your jacket, luggage, and absurdly large shoulder pads.\"",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/120fe8ff337a1d79eef9c262fc609dae293afd485006afbf93f428f48238d218.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_249",
+      "dbfId": 77305,
+      "name": "The Light! It Burns!",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "[x]Deal damage to a minion\n equal to its Attack.",
+      "flavor": "Wait, if you're over there, then who's messing with the lights?!",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/558ecfd85011cb8598b87bd86e5fa2a3791d094141affb0af426478142ebdbc9.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "MAW_023",
+      "dbfId": 79745,
+      "name": "Theft Accusation",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "[x]Choose a minion.\nDestroy it after you play\na card copied from\nthe opponent.",
+      "flavor": "Honey, where are my paaaaaaants?",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2838eec5a2503d2c8d7fde7599a50c5e8bd6b008b0aaa159b9ba767cd97dc64.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "MAW_003",
+      "dbfId": 79542,
+      "name": "Totemic Evidence",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Choose a basic Totem and summon it.\n<b>Infuse (@ Totems):</b>\nSummon all 4 instead.",
+      "flavor": "Every totem is evidence of a tree's murder.",
+      "artist": "Sergey Tsvelykh",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/578031cf1b27581513e34bba7d5fc041586ab95bbae47c76bb7feb9afba2d772.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_332",
+      "dbfId": 78142,
+      "name": "Anima Extractor",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "[x]Whenever a friendly\nminion takes damage,\ngive a random minion in\nyour hand +1/+1.",
+      "flavor": "After we are done you're welcome to help yourself to cookies and apple juice. Thank you for your donation!",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcee66010b0b50981ef360b5b8cee1215a3ade864b1b019c14c57694a6431eaa.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_841",
+      "dbfId": 79486,
+      "name": "Anonymous Informant",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> The next <b>Secret</b> you play costs (0).",
+      "flavor": "It turns out she wasn't so great at keeping secrets after all.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/441fdcee3976a9e3ac9813abd16b97d412d3ad7caeae3a1d75defc9408fd9baa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_001",
+      "dbfId": 79538,
+      "name": "Arson Accusation",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Choose a minion. Destroy it after your hero takes damage.",
+      "flavor": "We didn't start the fire!",
+      "artist": "Juan Calle",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49c54150dbb4bcde92059ee7c39ef3a1676b7101c90f14523a99fadbbc29cf2b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "MAW_025",
+      "dbfId": 79757,
+      "name": "Attorney-at-Maw",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Choose One -</b> <b>Silence</b>\na minion; or Give a minion <b>Immune</b> this turn.",
+      "flavor": "When the going gets tough, you don't want a criminal lawyer... you want a <i>criminal</i> lawyer...",
+      "artist": "Alex Stone",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59c9b224b392080f33011c36b504efc9787b1a72246523b2b2dd57d0c8e42883.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_511",
+      "dbfId": 78150,
+      "name": "Bibliomite",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 5,
+      "health": 4,
+      "text": "[x]<b>Battlecry</b>: Choose a card\n in your hand to shuffle\n into your deck.",
+      "flavor": "He did NOT want to cast a spell.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d86f0cf17928e6cf641db6bd5e7a8d383f2f034ae10a3571cd7fa6af51bfac9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_917",
+      "dbfId": 76970,
+      "name": "Carving Chisel",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "durability": 3,
+      "text": "After your hero attacks, summon a random basic Totem.",
+      "flavor": "Look at your stone. Visualize the totem within. Then gently...",
+      "artist": "Sergey Tsvelykh",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbb5e940ba31b77bbcb286690c96999b0d41dfcb6e9e972fd40fbbb97c8dc937.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_362",
+      "dbfId": 78418,
+      "name": "Castle Kennels",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Location",
+      "rarity": "Rare",
+      "cost": 2,
+      "health": 3,
+      "text": "[x]Give a friendly minion \n+2 Attack. If it's a \nBeast, give it <b>Rush</b>.",
+      "flavor": "Play dead! Oh\u2026",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a7883e91f4ebe8fd522f6d30f55bd6b93a3e4c741eb3006ea338ee4c657bd2a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_017",
+      "dbfId": 79602,
+      "name": "Class Action Lawyer",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If your deck\nhas no Neutral cards, set\n_a minion's stats to 1/1.",
+      "flavor": "\"Have you or a loved one ever been injured in a Consecration?\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab71b0fced220b84797db48b7a0d72b148721cec0ed9ea9e0b5b01ae7cdf7699.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_931",
+      "dbfId": 77296,
+      "name": "Conqueror's Banner",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Reveal a card from each player's deck, three times. Draw any of yours that cost more.",
+      "flavor": "Olgra, I love your new tapestry! Where did you get it?",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0082b6514888abe4d8798a3d88b9099c4ce4ad1744b57972252a3dbcb6b85b9c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_930",
+      "dbfId": 77244,
+      "name": "Crazed Wretch",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "Has +2 Attack and <b>Charge</b> while damaged.",
+      "flavor": "Enrage is all the rage.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91c4c3c42ece7d483b3134a166f435c5de7c12eee89f643fe698ae7f2e5202a5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_016",
+      "dbfId": 79581,
+      "name": "Crooked Cook",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "[x]At the end of your turn, \nif you dealt 3 or more \ndamage to the enemy \nhero, draw a card.  ",
+      "flavor": "There are many things not called poison which can kill a man. But in this case, it is poison.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47d247697b71cfdf08472e973031bfc0fecdf277f046f228b9aea15c1cad33f5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "MAW_024",
+      "dbfId": 79748,
+      "name": "Dew Process",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]For the rest of the game,\nplayers draw an extra card\nat the start of their turn.",
+      "flavor": "All part of dewing your dew diligence.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38fc9c00a69ae8670c573ea8d52a81ad7f6c3b784656cbb29e250b5277a30971.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_825",
+      "dbfId": 77148,
+      "name": "Double Cross",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Secret:</b> When your opponent spends all their Mana, draw two cards.",
+      "flavor": "Valeera revealed herself to be a double agent. At which point Maiev felt comfortable revealing that she also was a double agent. And then Scabbs announced to everybody that - get this - he was a double agent.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a72f22440e5ca4815f3d7a824bf358cdb14912aa51cdf41d6a77a10e6a71dd1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_350",
+      "dbfId": 78264,
+      "name": "Frenzied Fangs",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Summon two 2/1 Bats.\n<b>Infuse (@):</b> Give them +1/+2.",
+      "flavor": "That's one stylish bat.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04bdfd400b32716338c30fead63ca281a34643f4a08e854b4f2087cdf17041d3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_601",
+      "dbfId": 84354,
+      "name": "Frozen Touch",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $3 damage.\n<b>Infuse (@):</b> Add a Frozen Touch to your hand.",
+      "flavor": "Is this what Bob was talking about when he said he served a drink to a Death Knight once?",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a5b4e10810ac5f0fa4e779763b81b10c17abc6671be7323c58aec02b671f593.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_983",
+      "dbfId": 82316,
+      "name": "Great Hall",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Location",
+      "rarity": "Rare",
+      "cost": 2,
+      "health": 3,
+      "text": "Set a minion's Attack and Health to 3.",
+      "flavor": "It's fabulous! It's grand! It's, well it's really very nice.",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f101a7f80171cb37af6aae0faa8d718162e8fec1df3cfc75807f354ab2692b2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "MAW_000",
+      "dbfId": 79537,
+      "name": "Imp-oster",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Choose a friendly Imp. Transform into a copy of it.",
+      "flavor": "There is an imposter among us.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7492353050151d0f0e2b6f15f1dd739b20ed5b07864de03141efaceee502a44d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_245",
+      "dbfId": 77055,
+      "name": "Impending Catastrophe",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Draw a card. Repeat for each Imp you control.",
+      "flavor": "The imps end you, and the cats... well, they astrophe.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a6913f5b0a0e907611ce9b6bd2478bee99af5ca51ac04dde0a4744b3f1b15b4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_828",
+      "dbfId": 77151,
+      "name": "Kidnap",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "<b>Secret:</b> After your opponent plays a minion, stuff it in a 0/4 Sack.",
+      "flavor": "Check your coat, but don't check the coat closet.",
+      "artist": "Alex Stone",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd15d34f071776a59a0ea340d83483829c60839ae7663cda18d04f8f898d5830.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_308",
+      "dbfId": 77491,
+      "name": "Maze Guide",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry</b>: Summon a random 2-Cost minion.",
+      "flavor": "\"And if you look to your left, you'll see an even larger statue of Sire Denathrius!\"",
+      "artist": "Ishmael Hoover",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Need a Map?\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9112ffaf42bbab994ffe09757b1e0ba4b0398bc1720d3d6d8456b5391f4d09e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_010",
+      "dbfId": 79555,
+      "name": "Motion Denied",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "[x]<b>Secret:</b> After your\nopponent plays three cards\nin a turn, deal $6 damage\nto the enemy hero.",
+      "flavor": "DO NOT PASS GO. DO NOT COLLECT 200 GOLD.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/499f622917a6c2c8fd3a150f44a3f980de926ee94b25675c82eeca827be02276.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_019",
+      "dbfId": 79608,
+      "name": "Murder Accusation",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Choose a minion. Destroy it after another enemy minion dies.",
+      "flavor": "Quote From Man Murdered: \"What are you gonna do, murder me?\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fccfa7e5a65f9a2299f683e030aa29b4e342627812a108f3dcae47fef3662351.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_246",
+      "dbfId": 77298,
+      "name": "Mysterious Visitor",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Reduce the Cost of cards copied from your opponent by (2).",
+      "flavor": "Dave, we can tell this letter is fake - it's in your handwriting. And take off that stupid hood, you're embarrassing us.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12d1108bf1f8236e77a6e7b86f5d4e860987cd81bb418fb8c7b800694fc33331.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_307",
+      "dbfId": 77490,
+      "name": "Natural Causes",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $2 damage. Summon a 2/2 Treant.",
+      "flavor": "What if the suspect was framed? What if the murder weapon was... a plant?",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2baf515a5314dfaab3df3b78d8eb5fbc88427082b9e8f024b34fff801a601ab.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "MAW_016",
+      "dbfId": 78144,
+      "name": "Order in the Court",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Reorder your deck from\nhighest Cost to lowest\nCost. Draw a card.",
+      "flavor": "\"I have nothing BUT contempt for this court!\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa973d2044681f38e66da8b0f4724ff12976620d6a8acca08c03323fc26c4b73.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "MAW_018",
+      "dbfId": 79607,
+      "name": "Perjury",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "[x]<b>Secret:</b> When your\nturn starts, <b>Discover</b>\nand cast a <b>Secret</b> from\nanother class.",
+      "flavor": "By Liar be Perjured!",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1dcde437635dedad5bbf22540eb12060107d68c9dec87338cdbde3a4a47c311.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_956",
+      "dbfId": 78153,
+      "name": "Priest of the Deceased",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Taunt</b>\n<b>Infuse (@):</b> Gain +2/+2.",
+      "flavor": "\"Funnel cakes? I haven't had those in years\u2026\"",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aab8e2fe9b4a0468bee6bef7d51f4bfd0992b9f1e9095a9d3d8abe2ebe0f2c28.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_942",
+      "dbfId": 77615,
+      "name": "Relic Vault",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Location",
+      "rarity": "Rare",
+      "cost": 2,
+      "health": 2,
+      "text": "The next Relic you play this turn casts twice.",
+      "flavor": "Holds Sire Denathrius' most prized possession - his teddy bear, Jeremy Bearimy.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9866e9b01c50beb8df6193ae8f3a77bffd30fea59725421eb1b55ce706c1fd87.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_337",
+      "dbfId": 78262,
+      "name": "Riot!",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "[x]Your minions can't be \nreduced below 1 Health \nthis turn. They each attack \na random enemy minion.",
+      "flavor": "No, Blizzard!",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20d9c851be767bf3db335269ff4d53ab16defab7421eb39c7aa94364cd14a7e2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_351",
+      "dbfId": 78267,
+      "name": "Roosting Gargoyle",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give a friendly Beast +2 Attack. ",
+      "flavor": "Jalape\u00f1as!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae7171d376378985881115297252646ca96458d9aef864b4895b4baabcff80a6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_939",
+      "dbfId": 77557,
+      "name": "Serrated Bone Spike",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Deal $3 damage to a \nminion. If it dies, your \nnext card this turn \ncosts (2) less.",
+      "flavor": "Draka, in an attempt to help, threw them a bone. ",
+      "artist": "Alex Stone",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/347ca860198f22477659fb5c1227742632245b6c7d1f3e2d0f1711aeaeacf565.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_506",
+      "dbfId": 78111,
+      "name": "Sinful Brand",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "[x]Brand an enemy minion.\nWhenever it takes\ndamage, deal 1 damage\nto the enemy hero.",
+      "flavor": "My brand!",
+      "artist": "Juan Calle",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/653dea8f22427dd1699dec92fee6ae6e44883f5f0bbc27aab52305624971d353.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_945",
+      "dbfId": 77714,
+      "name": "Sketchy Stranger",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a <b>Secret</b> from another class.",
+      "flavor": "More of a 'Painted Stranger' if you ask me.",
+      "artist": "Angelina Chernyak",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a99b9229f28fd5b4f4f309deb0b8f92713480f738d5c2bd2855f14121d5e352.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_504",
+      "dbfId": 77642,
+      "name": "Solid Alibi",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Until your next turn, your hero can only take 1 damage at a time.",
+      "flavor": "That pillow knows too much\u2026",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d71fe687592c3285e5e8bd56ba5e4c821a3ae74696cc64a926c978033617ca6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_360",
+      "dbfId": 78412,
+      "name": "Spirit Poacher",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Summon a random <b>Dormant</b> Wildseed.",
+      "flavor": "Always poach from your local spirit shelter.",
+      "artist": "Angelina Chernyak",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a39bb3a516741d84257f9d380039e1d5bdd133cca59668fea920a1254f6b041.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_827",
+      "dbfId": 77150,
+      "name": "Sticky Situation",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Secret:</b> After your opponent casts a spell, summon a 3/4 Spider with <b>Stealth</b>.",
+      "flavor": "\"Now this is what I'd call...\" \"...just shut up.\"",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b22756a1653cfa5765fe0edf3f0766d5b245347e28e528954fd2a6d33c48e329.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_371",
+      "dbfId": 79147,
+      "name": "Vile Library",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Location",
+      "rarity": "Rare",
+      "cost": 2,
+      "health": 2,
+      "text": "Give a friendly minion +1/+1 for each Imp you control.",
+      "flavor": "What type of vial library has 0 vials in it!?",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ad5f9897d1311451d3c46021fa3f75d59de726f7c9abffba2ff542fcb94df68.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_845",
+      "dbfId": 84169,
+      "name": "Volatile Skeleton",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Deal 2 damage to a random enemy.",
+      "flavor": "These ice sculpures look so realistic!",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30d8236604214275b11e9528ade3c0241460606a828bc8c271da591ffcfe1ee5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_031",
+      "dbfId": 79778,
+      "name": "Afterlife Attendant",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "Your <b>Infuse</b> cards also <b>Infuse</b> while in your deck. ",
+      "flavor": "AH! Wrist cramp!",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c3b9f16f4dd9346ca6744bcca8d0910dc6065a36e64ebf32e557dd19213bb4c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_960",
+      "dbfId": 78375,
+      "name": "Ashen Elemental",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Whenever your\nopponent draws a card next\nturn, they take 2 damage.",
+      "flavor": "\"The castle was nice but the fireplaces were too small - 2/5 stars\"",
+      "artist": "Ian Ameling",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97e3af5f231cf7b83e159f065fb9ac8eb8cfc22c282672fd898d83edd4b10b3a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_290",
+      "dbfId": 82310,
+      "name": "Cathedral of Atonement ",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Location",
+      "rarity": "Rare",
+      "cost": 3,
+      "health": 3,
+      "text": "Give a minion +2/+1 and draw a card.",
+      "flavor": "You'll actually find more than one tonement here.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6efe1ce2d12919e70a0391ed4bd2796938175dcc3f3c40e995ce80e917835c0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "MAW_021",
+      "dbfId": 79739,
+      "name": "Clear Conscience",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "[x]Give a friendly minion\n+2/+3 and \"Only you can\ntarget this with spells\nand Hero Powers.\"",
+      "flavor": "Do you swear to give the buff, the whole buff, and nothing but the buff, so help you Kyrestia?",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48f844e79c3d240c8b99132c75eec4ee404b92778892dc5315ca35da9dd566b8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_916",
+      "dbfId": 76968,
+      "name": "Creepy Painting",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 0,
+      "health": 6,
+      "text": "After another minion dies, become a copy of it.",
+      "flavor": "I do not like this painting, Harth. Its smug aura mocks me.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d144c58e78f089f5f735b377675cad95b14745d2e11144924bbcf06b595caa2c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_020",
+      "dbfId": 79992,
+      "name": "Dinner Performer",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Summon a\nrandom minion from\nyour deck that you\ncan afford to play.",
+      "flavor": "BANG!",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f49aabc3369f035de89d40dde7631723c9b8db75d2a75dce89ee0f23571d3510.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_378",
+      "dbfId": 79784,
+      "name": "Forensic Duster",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Your \nopponent's minions \ncost (1) more next turn.",
+      "flavor": "He had plenty of experience with dusting things from his time as a butler, so when a murder was committed he saw a real job opportunity! ",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85b746b503e45ca3aee26332cca684664508dcac495025f9ce2e2a4dae52de0d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_005",
+      "dbfId": 77033,
+      "name": "Framester",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Shuffle 3 'Framed'\ncards into the opponent's\ndeck. When drawn, they\n<b>Overload</b> for (2).",
+      "flavor": "\"Who put these beans in my pocket?!\" -Man With Beans in Pocket",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd4ba999d81b6585c97d6310f4f9ba78c09501550d058906ad36a31f34f88377.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_959",
+      "dbfId": 78275,
+      "name": "Ghastly Gravedigger",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If you control a\n<b>Secret</b>, choose a card in\nyour opponent's hand to\n_shuffle into their deck.",
+      "flavor": "Some people take their secrets to the grave.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcb85bead83584249cc213e1c202042a7b2ef4d4d9a10c0e063bb74451a021a2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_002",
+      "dbfId": 79540,
+      "name": "Habeas Corpses",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "<b>Discover</b> a friendly minion to resurrect and give it <b>Rush</b>.\nIt dies at the end of turn.",
+      "flavor": "Whoops, typo! ",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed1cdd599f0ab19d9c09d908200927e4f319f93fe6cd8a51de047acd2f15ac8b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_333",
+      "dbfId": 78202,
+      "name": "Hedge Maze",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Location",
+      "rarity": "Rare",
+      "cost": 3,
+      "health": 2,
+      "text": "Trigger a friendly minion's <b>Deathrattle</b>.",
+      "flavor": "If you keep seeing a statue of the Sire, you\u2019re not going in circles. There\u2019s just so many of them.",
+      "artist": "Michaela Nienaber",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2bed0967b4d1bd340a296e6b5ee3eb3b1c83d32aeca99b8fda0ee9bddc2ffd47.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_253",
+      "dbfId": 77368,
+      "name": "Identity Theft",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "<b>Discover</b> a copy of a card from your opponent's hand and deck.",
+      "flavor": "Identity theft is not a joke, Jim!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25f1bfab5dcc3648de15b9e962c92c6fd73057e3ae14ba7604852573941fda01.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_933",
+      "dbfId": 77311,
+      "name": "Imbued Axe",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "durability": 3,
+      "text": "[x]After your hero attacks,\ngive your damaged minions\n+1/+2. <b>Infuse (@):</b>\n+2/+2 instead.",
+      "flavor": "Technically it's a Yet-to-be-Imbued Axe.",
+      "artist": "Tanamaes Leejierasaes",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c7963e5130b1bca7499d320b1f60c87ffd57ec35351a23404dc131b5ec30da6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_026",
+      "dbfId": 77488,
+      "name": "Incarceration",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]Choose a minion.\nIt goes <b>Dormant</b>\nfor 3 turns.",
+      "flavor": "To Blizzard jail with you!",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21320fb299ffe8ebbaac91e13120607c9dd739e1706d5de780e5d7c24fbba285.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_377",
+      "dbfId": 79535,
+      "name": "Invitation Courier",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "After a card is added to your hand from another class, copy it.",
+      "flavor": "Sending mail via steward is soooo old school.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad8f20d3cb8cdb5217d1b1ee4c937f7894394aea4b6befd4a906661918f37dbf.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "MAW_015",
+      "dbfId": 78145,
+      "name": "Jury Duty",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "[x]Summon two\nSilver Hand Recruits.\nGive your Silver Hand\nRecruits +1/+1.",
+      "flavor": "The most criminal thing about paladins is that they actually <i>like</i> jury duty.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6f7a2cfad10dd042d9e444b3f69dd6b6bda61c2d655afbf2dc970e10f13fca0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_509",
+      "dbfId": 78123,
+      "name": "Magnifying Glaive",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "durability": 2,
+      "text": "[x]After your hero attacks,\ndraw until you have\n3 cards.",
+      "flavor": "Vengeance!_______________________________________________________________________________________________",
+      "artist": "Chris Hayes",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a05ffcaabe62431e2d758dc089187609edd1f75d72d647bc55b489df8a7695f6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_947",
+      "dbfId": 78080,
+      "name": "Muckborn Servant",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> <b>Discover</b> a Paladin card.",
+      "flavor": "Party guests never tip as well as the patrons in Bob's tavern.  ",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c99b5e5223db006d24cf62115583dad6edbc54a0ff72b905541d21278c54c936.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_022",
+      "dbfId": 79935,
+      "name": "Murloc Holmes",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Solve 3 Clues \nabout your opponent's cards \nto get copies of them.",
+      "flavor": "When you have eliminated the imfroggable, whatever remains, however uncroakable, must be the truth. ",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "howToGetDiamond": "Earnable after purchasing the <i>Murder at Castle Nathria</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/160a0e394557791c241438f16452a689d7642182b1bed9e6c43f31e56289171e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_602",
+      "dbfId": 84356,
+      "name": "Nightcloak Sanctum",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Location",
+      "rarity": "Rare",
+      "cost": 3,
+      "health": 2,
+      "text": "<b>Freeze</b> a minion. Summon a 2/2 Volatile Skeleton.",
+      "flavor": "For VIPs only. (Very Infused Person)",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/369cd06c368771f9ad86b6c7c5917501331f15cbfd359d5d93d26bdc567ac6f8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_006",
+      "dbfId": 79548,
+      "name": "Objection!",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "<b>Secret:</b> When your opponent plays a\n_minion, <b>Counter</b> it.",
+      "flavor": "\"Sire, this is a Sindy's.\"",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8efff5ded2b8f76e742342acd8fa0d25676ea4db026d40fca3ec7aa36bd179cf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_935",
+      "dbfId": 77366,
+      "name": "Party Favor Totem",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 0,
+      "health": 3,
+      "text": "[x]At the end of your turn, \nsummon a random basic \nTotem. <b>Infuse (@):</b> \nSummon two instead.",
+      "flavor": "It's the gift (totem) that keeps on giving (totems)!",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Totem",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30d0860b1b80492adc273cbc0a6412db9b2f125e34339baa25997622c83d31ca.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_250",
+      "dbfId": 77306,
+      "name": "Pelagos",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 1,
+      "health": 6,
+      "text": "[x]After you cast a spell \non a friendly minion, set \nits Attack and Health to \nthe higher of the two.",
+      "flavor": "He's a great judge of character.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9541f6a986ab4eea4526bfa35aa0be70e5d3240c38770a9997b9db4f637fca5d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_336",
+      "dbfId": 78261,
+      "name": "Plot of Sin",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]Summon two 2/2 \nTreants. <b>Infuse (@):</b> Two \n5/5 Ancients instead.",
+      "flavor": "It's a great plot, but it's riddled with holes.",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca205dee3294722c5e7f67fa8c794b51574f4e1e70940bd5a6497f1ef68bccde.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_924",
+      "dbfId": 76982,
+      "name": "Primordial Wave",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "[x]Transform enemy minions \ninto ones that cost (1) less \nand friendly minions into \nones that cost (1) more.",
+      "flavor": "A primordial hello to you too!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/135a0011bf4a3e444b60f196cdc5a9891ed9b3e551e7527796252bca53d3829e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_018",
+      "dbfId": 79767,
+      "name": "Prince Renathal",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]Your deck size is 40.\nYour starting Health is 35.",
+      "flavor": "A lot of kids go through a rebellious phase, but Prince Renathal's was a bit extreme.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Earnable after opening a <i>Murder at Castle Nathria</i> card pack.",
+      "howToGetGold": "Earnable after purchasing the <i>Murder at Castle Nathria</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4649fbdcba8900192e8aa46a0d3a3800f7b7ea946a3cb125ce0c92c45ce9db86.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_943",
+      "dbfId": 77616,
+      "name": "Relic of Phantasms",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Summon two @/@\nSpirits. Improve your future Relics.",
+      "flavor": "Xy'mox chuckled. \"You mean the Chaos Emerald?\"",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd140667786c4a622db1c07eae0989e70f06bcc6e3c4a661b5b6fcf1d6f15662.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_948",
+      "dbfId": 78081,
+      "name": "Service Bell",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "<b>Discover</b> a Class card from your deck and draw all copies of it.",
+      "flavor": "The bell tolls for us! Waiter, we need more water!",
+      "artist": "Vika Yarova",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10101950d161f7dc9273aa0322b9e53362337617281b3b6446eb9a20017d4fd7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_374",
+      "dbfId": 79142,
+      "name": "Shadowborn",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Reduce the Cost of the highest Cost Shadow spell in your hand by (3).",
+      "flavor": "You merely adopted the shadows; I was born in them!",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67ba889d500dcf01ffecdc59d651f0aa3533629e1ef4a76785fe3c2ece120f4a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_750",
+      "dbfId": 82369,
+      "name": "Sinstone Graveyard ",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Location",
+      "rarity": "Rare",
+      "cost": 3,
+      "health": 2,
+      "text": "[x]Summon a @/@ Ghost.\n<i>(Has +1/+1 for each other\ncard you played this turn!)</i>",
+      "flavor": "A graveyard in the realm of the dead; a bit redundant, don't you think?",
+      "artist": "Chris Hayes",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f63edb9b84cd718eea9e4532a6895fc52c85e71e76e200d0c19d1f9bc612f6b8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_364",
+      "dbfId": 78420,
+      "name": "Stag Charge",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Deal $3 damage. Summon a random <b>Dormant</b> Wildseed.",
+      "flavor": "Stag! You\u2019re it!",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59b39efd2cdaa13288255cdd8e507a95f84e4551f2b76515a0a72fab6015f6e8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_955",
+      "dbfId": 78146,
+      "name": "Stewart the Steward",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Deathrattle:</b> Give the next\nSilver Hand Recruit you\nsummon +3/+3 and\nthis <b>Deathrattle</b>.",
+      "flavor": "How many bites does it take to get the center of an hors d'oeuvre?",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f5a801aa178143fb7a6ef099dc6386cab73696d33254039a6ada8f32e81497f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_239",
+      "dbfId": 76922,
+      "name": "Suffocating Shadows",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]When you play or \ndiscard this, destroy a \nrandom enemy minion.",
+      "flavor": "\"Reading is good for you,\" they said.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecf336f0cc012ea923a374c2fc4c3d4f9e0bb08f0dead037b864a73ed5336714.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "InvisibleDeathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_006",
+      "dbfId": 75910,
+      "name": "Suspicious Pirate",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a weapon. If your opponent guesses your choice, they get a copy.",
+      "flavor": "EVERY party should be a costume party.",
+      "artist": "Caroline Gariba",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af47a050f60e12cc52076850d9d1f2b271b813be73703c7adaea41109e9b1550.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_011",
+      "dbfId": 78405,
+      "name": "The Harvester of Envy",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "After you play a card copied from the opponent, steal the original.",
+      "flavor": "\"Ah, permission shmermission! You can borrow anything you want, anytime, as long as if you give it back before it's missed. Everyone knows that! Right?\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72399ff89d064eab7150b11fa4d6d898ace46a8995a8b7bad5363771e3f7dbc7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "MAW_032",
+      "dbfId": 79779,
+      "name": "Tight-Lipped Witness",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Secrets</b> can't be revealed.",
+      "flavor": "People keep asking for her award-winning vegetarian chili recipe, but she just can't spill the beans.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc4c686beab666af5b9ab4ea2f1ab3ef910a4f86e2cb0275410dd0d6d5d00ba2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_240",
+      "dbfId": 76921,
+      "name": "Tome Tampering",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "[x]Shuffle 1-Cost \ncopies of cards in your \nhand into your deck, \nthen discard your hand.",
+      "flavor": "An overdue book calls for a do-over.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e16ba433550bef9506b1e6260492abd31e7cfc00e43893060a1f95e22eebd861.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_516",
+      "dbfId": 78508,
+      "name": "Vengeful Visage",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "[x]<b>Secret:</b> After an enemy\nminion attacks your hero,\nsummon a copy of it to\nattack the enemy hero.",
+      "flavor": "The mirror shows us nothing less than the deepest, darkest desire of our hearts: to go face.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c3cc2513a7e761428c52f3cbd540b9082f6a81ca789054b7dad1162f060d6cf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_029",
+      "dbfId": 79772,
+      "name": "Weapons Expert",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If you have a weapon equipped, give it +1/+1. Otherwise, draw a weapon.",
+      "flavor": "\"Yes, Your Honor, this appears to be some sort of blade.\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6c0049f1597e4a0ef566ffe42e524d426c89e8efd8a958c0cf2b13e978641b2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_361",
+      "dbfId": 78416,
+      "name": "Wild Spirits",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "[x]Summon two different \n<b>Dormant</b> Wildseeds. \nMake your Wildseeds \nawaken 1 turn sooner.",
+      "flavor": "Wait, this card just released! It should be Standard Spirits!",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5914f98a00df0fee09ed675e94db8ae7662aec2136b8caaa8f7346767d0f123.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_925",
+      "dbfId": 76985,
+      "name": "Baroness Vashj",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]If this would transform\ninto a minion, summon\nthat minion instead.",
+      "flavor": "Vashj was supposed to make an appearance in \"The Sunken City,\" but after a freak accident in \"Ashes of Outland,\" she ended up here.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "race": "Naga",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/718c5a5b0572a0378fd6382aebb743504ec07973a1caf396c5f466d0dfb364f0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_958",
+      "dbfId": 78156,
+      "name": "Buffet Biggun",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Summon two Silver \nHand Recruits. <b>Infuse (@):</b> \nGive them +2 Attack \nand <b>Divine Shield</b>.",
+      "flavor": "\"Look, I just want to know what kind of monster put raisins in this.\"",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b54242bc2b84dc689d04a4bdaed76f6b64e27686af414d9ca7083f89044afac.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_334",
+      "dbfId": 78222,
+      "name": "Burden of Pride",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "[x]Summon three 1/3\nJailers with <b>Taunt</b>. If you\nhave 20 or less Health,\ngive them +1/+1.",
+      "flavor": "A group of burdens is called a pride.",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/641e8251f8512b32561e87c5097e0df4852febab0af027611896f974458d9c3e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_513",
+      "dbfId": 78371,
+      "name": "Chatty Bartender",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]At the end of your turn,\nif you control a <b>Secret</b>,\ndeal 2 damage to\nall enemies.",
+      "flavor": "\"So a Venthyr, an Old God, and a Tauren walk into a bar\u2026\"",
+      "artist": "Vika Yarova",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e56590b986379222b5f183566a428d5f0b519b42d37acfd3626e81c4fa2c4bc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_505",
+      "dbfId": 77659,
+      "name": "Cold Case",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Summon two 2/2 Volatile Skeletons. Gain 4 Armor.",
+      "flavor": "And that's why you keep your skeletons in your closet instead of your freezer.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/becd1f1d08986a1f7a4e03c4e4554e6ee8beb188be61a759f84b1412de38a9d2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_936",
+      "dbfId": 77428,
+      "name": "Crud Caretaker",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry</b>: Summon a 3/5 Elemental with <b>Taunt</b>.",
+      "flavor": "All it takes is a little love and a LOT of junk!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41032556d37117495b9e84bd0013ebd9db4b72cff25fa138b3145b746c7be33f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_023",
+      "dbfId": 79990,
+      "name": "Demolition Renovator",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Tradeable</b>\n<b>Battlecry:</b> Destroy \nan enemy location.",
+      "flavor": "\"Look, the Sire said he wanted something more open concept...\"",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Location, Location, Location!\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9bf2df7d4744aa9be47e583ac4496a22aaa91da88511802da4ef8a8f46481ce2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Tradeable"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_901",
+      "dbfId": 75876,
+      "name": "Dispossessed Soul",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If you control a location, <b>Discover</b> a copy of a card in your deck.",
+      "flavor": "I'm afraid it came as a great shock to her when she died.",
+      "artist": "Angelica Alieva",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Gone but Not Forgotten\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df84787c3eb40b2ce830d7e515292caf9e8faa72ce68c7ff871af382bdda9165.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_829",
+      "dbfId": 77152,
+      "name": "Halkias",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "[x]<b>Stealth</b>. <b>Deathrattle:</b> Store\nHalkias's soul inside of a\nfriendly <b>Secret</b>. It resummons\nHalkias when triggered.",
+      "flavor": "Everybody tough until the sinstones start walking. ",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fdaabb9aa87b0a4f1a1418258300606114748c85323bd2498de66f3d12ce4cb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_022",
+      "dbfId": 79742,
+      "name": "Incriminating Psychic",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Taunt</b>\n <b>Deathrattle:</b> Copy a\n random card from your opponent's hand.",
+      "flavor": "Good news: He knows Kazakus's secret identity! Bad news: Now he's here.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67d8db8560b81866e03df26a7e091c6078cb9a1724aecabafedb8346cc530b59.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_510",
+      "dbfId": 78125,
+      "name": "Kryxis the Voracious",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 7,
+      "health": 7,
+      "text": "[x]<b>Battlecry</b>: Discard\nyour hand. <b>Deathrattle:</b>\nDraw 3 cards.",
+      "flavor": "Tried intermittent fasting. It didn't stick.",
+      "artist": "Juan Calle",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03528d25deeef3eacd846ec256d9903fce5fdc7e73b671ed42b217b7f5300a22.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_013",
+      "dbfId": 79596,
+      "name": "Life Sentence",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Remove a minion\nfrom the game.",
+      "flavor": "Also sentenced to laugh and love.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1ab54bbc8ae245acf3584e07b4b28c9936e1f069aba174dc982038d4485de49.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_244",
+      "dbfId": 77056,
+      "name": "Mischievous Imp",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Summon a copy of this. <b>Infuse (@):</b> Summon two copies instead.",
+      "flavor": "Why is it when something happens, it is always you three?",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5940f00e2673f2d8544aeb27542c445eeb8cf9e219481b4c528f342543c4ace1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_957",
+      "dbfId": 78155,
+      "name": "Murlocula",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Lifesteal</b>\n<b>Infuse (@):</b> This costs (0).",
+      "flavor": "The best part of Murlocula is when he said \"IT'S MRRGLIN' TIME\" and totally mrrgled those guys.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Murloc",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Seven Deadly Sins\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d00792891af8e3ac1c76987bbe5e7a9d79bee78070d21f6ea355811e108226ec.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_515",
+      "dbfId": 78397,
+      "name": "Orion, Mansion Manager",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "After a friendly <b>Secret</b> is revealed, cast a different Mage <b>Secret</b> and gain +2/+2.",
+      "flavor": "The secrets of the universe are vast... and will be revealed sometime later this game.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72a3d3f6ee80f8e538d2ba719f23303093aeae7b066e162671d8b3164055e00d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_247",
+      "dbfId": 77299,
+      "name": "Partner in Crime",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Summon a \ncopy of this minion at \nthe end of your turn.",
+      "flavor": "\"You know what we need? Some rope.\" \"That's stupid. Name one thing you'd need a rope for.\" ",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a826568ede8c53a4e495e379291da86206960bd13dd0304e433d83a47b25a7fc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_826",
+      "dbfId": 77149,
+      "name": "Private Eye",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Cast a <b>Secret</b>\nfrom your deck.\n_<b>Combo:</b> Cast 2 instead.",
+      "flavor": "Eye see what you did there.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c38f0640649d5b665401c59a8c81f62c8050021c0af5030eba2966bb6a5e895.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_014",
+      "dbfId": 79598,
+      "name": "Prosecutor Mel'tranix",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Your opponent\ncan only play their left- \nand right-most cards on \ntheir next turn.",
+      "flavor": "\"Your Honor. The Defense isn't a clown, he's the whole circus.\"",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "elite": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f26afacbd6e479d54d90aba852d71a5d8804ae044373b966496fad45a8cead4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_900",
+      "dbfId": 75868,
+      "name": "Scuttlebutt Ghoul",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> If you control\na <b>Secret</b>, summon a\ncopy of this.",
+      "flavor": "No 'if's, 'and's, or 'scuttlebutt's'!",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/636439fe71d591ad92614fc049cc50d1befee088847ff5f88246a0e8eb5ec336.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_008",
+      "dbfId": 79549,
+      "name": "Sightless Magistrate",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Both players draw\nuntil they have 5 cards.  ",
+      "flavor": "Does \"Justice is Blind\" still apply with Spectral Sight?",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96706b32e465725e853b740eb5c44638d1f032e68d7e46e3905c48c0f586a49d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_352",
+      "dbfId": 78268,
+      "name": "Stonebound Gargon",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]<b>Rush</b>\n<b>Infuse (@):</b> Also damages\nthe minions next to\n__whomever this attacks.",
+      "flavor": "Really good at \"stay.\"",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da660ce72bc620a6e7fc4a7933febe202fb46a4d33497f655418bae6721ac16f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_921",
+      "dbfId": 76977,
+      "name": "The Stonewright",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> For the rest of the game, your Totems have +2 Attack.",
+      "flavor": "She wrights stone better than she reads it.",
+      "artist": "Sergey Tsvelykh",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24de3cb0aec2d51b9ab51f38951632ad814e11ae024ec0d958bbc23c5e53859b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_318",
+      "dbfId": 77761,
+      "name": "Widowbloom Seedsman",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Draw a Nature\nspell. Gain an empty\nMana Crystal.",
+      "flavor": "Sometimes a blue thumb is better than a green one.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/420f18977c7ec01b04d9899bf29818566e4edef739d725b89d9862a54ccf95bf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_012",
+      "dbfId": 79593,
+      "name": "All Fel Breaks Loose",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "[x]Summon a friendly Demon\nthat died this game.\n<b>Infuse (@ Demons):</b>\nSummon three instead.",
+      "flavor": "Maybe we should have made the bars closer together\u2026 ",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c7fc02848cd3727066169b0efd7cfa83e858d3ed67d88f7ea8cb369b6e44531.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_363",
+      "dbfId": 78419,
+      "name": "Ara'lon",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Summon one of each <b>Dormant</b> Wildseed.",
+      "flavor": "If I had a nickel for every time a Hunter Legendary minion in Castle Nathria summoned three different companions, I'd have two nickels - which isn't a lot, but it's weird that it happened twice.",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b11f0d3e8e08eb92f8f4066c9850fdb717e462cd1fb4de642aa58488baaabd84.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_248",
+      "dbfId": 77300,
+      "name": "Boon of the Ascended",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Give a minion +2 Health. Summon a Kyrian with its stats and <b>Taunt</b>.",
+      "flavor": "Ascension is not some external power granted to you, it is the power you find within yourself.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81b993a2df04c4c1cd56e188893c9bd9e9b6262b673af416bb45e118c1b97dea.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_252",
+      "dbfId": 77370,
+      "name": "Clean the Scene",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Destroy all minions with 3 or less Attack. <b>Infuse (@):</b> 6 or less.",
+      "flavor": "Not even the holy Light can get anima out of white silk.",
+      "artist": "Daniil Kudriavtsev",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0761406cf0d50f3d444decfa548f2a26543fb364f63d00a5907c26091e44a805.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_961",
+      "dbfId": 78393,
+      "name": "Elitist Snob",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> For each Paladin\ncard in your hand, randomly \ngain <b>Divine Shield</b>, <b>Lifesteal</b>, \n<b>Rush</b>, or <b>Taunt</b>.",
+      "flavor": "\"I heard the Sire invited a Murloc! How dreadful!\"",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/896970cd739091990fbd01a08a3ae3da313962908a74a5a47a407305672cb71e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_019",
+      "dbfId": 79932,
+      "name": "Famished Fool",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Draw a card.\n<b>Infuse (@):</b> Draw 3 instead.",
+      "flavor": "He's not hungry for food, he's starving for attention!",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Stop! Infuse Time!\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/707e90fa5149c15af254eb7c0bf6140b012d0de2cd39c5a2f8df81b673668873.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_373",
+      "dbfId": 79111,
+      "name": "Lady Darkvein",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Summon two\n2/1 Shades. Each gains\na <b>Deathrattle</b> to cast your \nlast Shadow spell.",
+      "flavor": "You're so vein. I bet you think this flavor text is about you.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ba7b2410f4af82173c44a7f326f4648614700a7c1d9dcec09cd61115dd84da1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_028",
+      "dbfId": 79771,
+      "name": "Mawsworn Bailiff",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b><b>Taunt</b>.</b> <b>Battlecry:</b> If you have 4 or more Armor, gain +4/+4.",
+      "flavor": "Bailiff, bring in the dancing lobsters!",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83b56779ec735374926c2a192e1bea9663dfe39fed1507ca1b596c1d1404f618.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_837",
+      "dbfId": 78133,
+      "name": "Muck Plumber",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "ALL minions cost (2) more.",
+      "flavor": "If you drink muck, you go to the Maw before you die. ",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3f19ad868110de3dabd06f91c43fffa0f965cb030fe3806b8d7cba0c535cc0a9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_940",
+      "dbfId": 77558,
+      "name": "Necrolord Draka",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Equip a @/3 Dagger. \n<i>(+1 Attack for each other \ncard you played this turn!)</i>",
+      "flavor": "We originally planned on giving Rogue a Legendary minion called \"The Moon\", but SOMEONE jumped in the frame.",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4edbe3e5d23d7b1eabba10ba1177949b63a5efb96e305b88f9b3b10e12ed372.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_009",
+      "dbfId": 79552,
+      "name": "Shadehound",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 6,
+      "health": 5,
+      "text": "[x]Whenever this attacks, give\nyour other Beasts +2/+2.\n<b>Infuse (@ Beasts):</b>\nGain <b>Rush</b>.",
+      "flavor": "This Shadehound wasn't just a good boy. He was the best.",
+      "artist": "Patrick Bjorkstrom",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5526d6860babfbbc1cef6697a3d091649ea03df964ca4adf8c6e3874b1970733.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_372",
+      "dbfId": 79108,
+      "name": "Shadow Waltz",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "Summon a 3/5 Shadow with <b>Taunt</b>. If a minion died this turn, summon another.",
+      "flavor": "They're dancing to one of Rin's demonic symphonies. Her music might not be famous now, but just you wait!",
+      "artist": "Dave Greco",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2345056d86bbb8cbd944a6bde140d7ebfe4b73b41b98eb419a94068476ea482.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_251",
+      "dbfId": 77308,
+      "name": "Sinrunner",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 6,
+      "health": 5,
+      "text": "<b>Deathrattle:</b> Destroy a random enemy minion.",
+      "flavor": "Blanchy was said to be an affectionate and well-behaved horse in life. How she ended up in Revendreth? We're too afraid to ask.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "race": "Beast",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4c8b65d4c3d959c3460cce95e8a3e4137a6177e5625140b8b18f70c1305553b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_004",
+      "dbfId": 79546,
+      "name": "Soul Seeker",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Swap this with a random minion from your opponent's deck.",
+      "flavor": "The Soul Seeker's job is to look for a snitch.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e82d91fc8bf39d049886b4cbbc7f67b583f6d233a7a354361e15e82fd51a79c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_946",
+      "dbfId": 78079,
+      "name": "Steamcleaner",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Destroy ALL cards in both players' decks that didn't start there.",
+      "flavor": "Business is slow since the anima shortage began. Things just don't get stained like they used to!",
+      "artist": "Daniil Kudriavtsev",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>Murder at Castle Nathria</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cfec5bd5476d7bcd29bcddc5de60d51ca7f89ebc6e7799faca992dfa97e62541.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_013",
+      "dbfId": 79559,
+      "name": "Stoneborn Accuser",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Infuse (@):</b> Gain\n\"<b>Battlecry:</b> Deal 5\ndamage.\"",
+      "flavor": "\"I SAW THEM VENT, I SWEAR!\"",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab4336005bf70971423c76cc9520e23f211bbf168e907361c6e738161b44eb13.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_012",
+      "dbfId": 79557,
+      "name": "Bog Beast",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]<b><b>Taunt</b></b> \n<b>Deathrattle:</b> Summon a 2/4 \nMuckmare with <b>Taunt</b>.",
+      "flavor": "I'm sure at least one of those bones is from an actual beast.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68b6024d09105b90a3b56c2b5377c608a199d5df8bb2562a18ceb2d6145af0db.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_101",
+      "dbfId": 84351,
+      "name": "Contract Conjurer",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "Costs (3) less for each <b>Secret</b> you control. ",
+      "flavor": "This document looks illegally binding.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/789404bcde940de39a912b125ccc7bccc858a489fc51945049a710efe8caad34.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_310",
+      "dbfId": 77525,
+      "name": "Death Blossom Whomper",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 6,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Draw a <b>Deathrattle</b> minion and gain its <b>Deathrattle.</b>",
+      "flavor": "We call her Audrey II. She was named after her mother. ",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0a9fcc781517a8325e75c3bee4b6ee0d7a5e6f80d038116f84bb84eed313d8e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_840",
+      "dbfId": 79482,
+      "name": "Deathborne",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Deal $2 damage to all minions. Summon a 2/2 Volatile Skeleton \nfor each killed.",
+      "flavor": "Kel'Thuzad thinks adding a silent 'e' at the end of words makes them sound cooler.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d01a9e26db6cbf5992e0dfdc33a81fb9ca4203215e09f8e2243dc596ac7235de.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_934",
+      "dbfId": 77313,
+      "name": "Decimator Olgra",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 7,
+      "text": "[x]<b>Battlecry:</b> Gain +1/+1\nfor each damaged minion,\n_then attack all enemies.",
+      "flavor": "FOUND HER!",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "howToGetDiamond": "Obtained by owning 25 <i>Murder at Castle Nathria</i> Legendary cards.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb13d45e863b9329340a6856d849976d6d39badd56877d14cb33a67c56ffc2eb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_011",
+      "dbfId": 79556,
+      "name": "Defense Attorney Nathanos",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> a friendly\n<b>Deathrattle</b> minion that died\nthis game. Trigger and gain\nits <b>Deathrattle</b>.",
+      "flavor": "\"Your Honor, my client was simply trying a new tree trimming technique!\" ",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aed1250abf73a865db19e21da7362686167470be5abde1785f6d4af52d36eadd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_835",
+      "dbfId": 78363,
+      "name": "Imp King Rafaam",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Resurrect\nfour friendly Imps.\n<b>Infuse (@):</b> Give your\nImps +2/+2.",
+      "flavor": "Not even death can stop Rafaam from pursuing a life of crime.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81f5a296eeb783733123dbc5f38471f20a8e34a09923eb9fc411c12f10cd4f7c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_015",
+      "dbfId": 79563,
+      "name": "Masked Reveler",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Rush</b>\n<b>Deathrattle:</b> Summon\na 2/2 copy of another\nminion in your deck.",
+      "flavor": "\"It's party time! P-A-R-T-Why? Because I gotta!\"",
+      "artist": "Angelina Chernyak",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a9b9f16c253cb764e33929968ff16c60453bb506e074e8a7aaa867511e7c9f4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_508",
+      "dbfId": 78122,
+      "name": "Relic of Dimensions",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "[x]Draw two cards \nand reduce their Cost \nby (@). Improve your \nfuture Relics.",
+      "flavor": "A glaive is a glaive, but a mystery box could be anything! It could even be a glaive!",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0aa90f16262dba07e6591c8e3053a60f75004942cfcf1f7eae261d071f4e0778.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "MAW_033",
+      "dbfId": 79780,
+      "name": "Sylvanas, the Accused",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Destroy\nan enemy minion.\n<b>Infuse (@):</b> Take control\nof it instead.",
+      "flavor": "Turns into 'Sylvanas, the Infused'.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3db92ace9b966c403ebd48b1742845150ff16470b7fdbb964c3f70a230e8f47b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_238",
+      "dbfId": 76984,
+      "name": "Theotar, the Mad Duke",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a\ncard in each player's hand and swap them.",
+      "flavor": "\"I'm afraid you've gone mad! You're entirely bonkers. But I'll tell you a secret. All the best souls are.\"",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29d489b377773587211c94fefde27014ce300ab6c026c24aa2b20490b51e4d98.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_950",
+      "dbfId": 78085,
+      "name": "Divine Toll",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 7,
+      "text": "[x]Shoot 5 rays at random\nminions. They give friendly\nminions +2/+2, and deal $2\ndamage to enemy minions.",
+      "flavor": "Never send to know for whom the bell tolls.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d349c42744b730bbe4000ee3ac2e0501faaf6b3d8273014bbeee9e4a8021f56.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_353",
+      "dbfId": 78270,
+      "name": "Huntsman Altimor",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Summon a\nGargon Companion.\n<b>Infuse ({0}):</b> Summon another.\n_<b>Infuse ({1}):</b> And another!",
+      "flavor": "He loves all his Gargons equally. (Hecutis is his favorite and it's not close.)",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64807c3b92d3dee00bd7a3cd78f8bf362a27842fffd9f1120fcf81af43707b9e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_014",
+      "dbfId": 79562,
+      "name": "Red Herring",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 3,
+      "health": 12,
+      "text": "[x]<b>Taunt</b>\nYour non-Red Herring\nminions have <b>Stealth</b>.",
+      "flavor": "He's got gill-ty written all over him!",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8830bd7626a6d4d51664ff0cf8e7ddddc984f526867238a4967d09815fe29485.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_316",
+      "dbfId": 77704,
+      "name": "Remornia, Living Blade",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 10,
+      "text": "<b>Rush</b>\nAfter this attacks, equip it.",
+      "flavor": "Was it the lead pipe... the candlestick... or the unhinged, sentient, bloodthirsty sword?",
+      "artist": "Daniil Kudriavtsev",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef78d5125b8f19e1f25fab4b8a27171770cb863220f33cb7cfd95d693ae790e0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_020",
+      "dbfId": 79612,
+      "name": "Scribbling Stenographer",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Rush</b>. Costs (1) less for each card you've played this turn.",
+      "flavor": "A truly staggering 180 scribbles per minute!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f020593ca98ad13c243dd76c110f972097b795a14ee110142562281cfca101d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_843",
+      "dbfId": 79928,
+      "name": "Sinfueled Golem",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Infuse (@):</b> Gain stats equal to the Attack of the minions that <b>Infused</b> this.",
+      "flavor": "That poor golem is going to be stuck as a guard forever. He can never get a head!",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04930dd37af202322adabb9ed1309592ddd8ddada8bbb3b84c9666a37ba24111.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_951",
+      "dbfId": 78086,
+      "name": "The Countess",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 7,
+      "health": 7,
+      "text": "[x]<b>Battlecry:</b> If your deck \nhas no Neutral cards, add \n3 <b>Legendary </b>Invitations \nto your hand.",
+      "flavor": "3 Legendary Invitations, AH AH AH!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4693a8a317c650d1dd434a2569938145e36d65717132364b7f422a47dffa7542.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_314",
+      "dbfId": 77679,
+      "name": "Topior the Shrubbagazzor",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> For the rest of\nthe game, after you cast a\nNature spell, summon a\n3/3 Whelp with <b>Rush</b>.",
+      "flavor": "They got a dragon that burns 1000 gallons of anima a week. ",
+      "artist": "Kleston Marques",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7ca341c84dae17b4e91d76f0fc253f57ec8ce9a203c4597f100270bac941f24.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_937",
+      "dbfId": 77482,
+      "name": "Artificer Xy'mox",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> and \ncast a Relic. <b>Infuse (@):</b> \nCast all three instead.",
+      "flavor": "\"The anticipation to use this relic is killing me! Though, it will more likely kill you.\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad5cecb1a2e2e581debe97e629cb416351eaf4d9306d8d7bf5df5798d92ef413.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Infuse"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_369",
+      "dbfId": 84345,
+      "name": "Collateral Damage",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 8,
+      "text": "[x]Deal $6 damage to three \nrandom enemy minions. \nExcess damage hits \nthe enemy hero.",
+      "flavor": "1 + 2 + 2 + 1",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28f1745e6b2b706461c2a3dd5c6f9eaa41e25ce5cb72c5ddbf80ca31941d0e41.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_517",
+      "dbfId": 79531,
+      "name": "Criminal Lineup",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 8,
+      "text": "[x]Choose a friendly minion.\nSummon 3 copies of it.\n<b>Overload:</b> (2)",
+      "flavor": "Number 1, could you please sing the opening to \"I Want It That Way\"?",
+      "artist": "Sergey Tsvelykh",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b67a3a8e29fc1e0e22d4831fbb95f8c9af7c0cd41d36ee8974cecaabb3749299.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_021",
+      "dbfId": 79934,
+      "name": "Kael'thas Sinstrider",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 4,
+      "health": 7,
+      "text": "Every third minion you play each turn costs (0).",
+      "flavor": "You heard about Kael'thas? That's messed up, right?",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8962ad16201b8f46ea45861da25c3477c8012331b5c5c06d944f7bac0b23ae59.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_514",
+      "dbfId": 78394,
+      "name": "Kel'Thuzad, the Inevitable",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 6,
+      "health": 8,
+      "text": "[x]<b>Battlecry:</b> Resurrect your \nVolatile Skeletons. Any that \ncan't fit on the battlefield \ninstantly explode! @<i>(@)</i>",
+      "flavor": "Looks like Kel'Thuzad is borrowing some of Mr. Bigglesworth's nine lives.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ab02f5e99a00e174670d3adbbdb4275a0614ee57e719d834b86e92bc3cbaf5d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_311",
+      "dbfId": 77562,
+      "name": "Nightshade Bud",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 8,
+      "text": "<b>Choose One - </b><b>Discover</b> a minion from your deck to summon;\nor a spell to cast.",
+      "flavor": "It actually thrives in partial sunlight. ",
+      "artist": "Michaela Nienaber",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11a92ea7509fcb511f3f54bb13c6d5039492c741d38c1b2c919b298c2442f559.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_370",
+      "dbfId": 78547,
+      "name": "Party Crasher",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 7,
+      "health": 9,
+      "text": "[x]<b>Battlecry:</b> Choose an\nenemy minion. Throw a\nrandom minion from\nyour hand at it.",
+      "flavor": "\"Do you ever wonder why you don't get invited anywhere?\" \"\u2026 no, not really.\"",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/847e898088e74dc0dc319d52ea6e4d7e0fecc739690b6c14d9dbde27effedeeb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_319",
+      "dbfId": 78383,
+      "name": "Sesselie of the Fae Court",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle</b>: Draw a minion.\nReduce its Cost by (8).",
+      "flavor": "They claim they're from the Fae Court, but that might be a Fae Kout. ",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b9344665f7894694f06f9c4c48848f3a694d62666c38b63efd51a9c32993c18.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_030",
+      "dbfId": 79774,
+      "name": "Torghast Custodian",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 6,
+      "health": 10,
+      "text": "[x]<b>Battlecry:</b> For each\nenemy minion, randomly\ngain <b>Rush</b>, <b>Divine Shield</b>,\nor <b>Windfury</b>.",
+      "flavor": "Why is it a common? Well we couldn't make it a LEGendary minion!",
+      "artist": "Sergey Tsvelykh",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e572e7c5e21652ea719c29f25712d4704becced72fcf4ff05d7fc8d60d158644.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_017",
+      "dbfId": 79584,
+      "name": "Insatiable Devourer",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 9,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Devour an enemy \nminion and gain its stats. \n_<b>Infuse (@):</b> And its neighbors. ",
+      "flavor": "You're not you when you're anima-starved.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable after purchasing the <i>Murder at Castle Nathria</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e283583f2d976cbd29b306d470e191d6e24d1a40dd48d8327f40380f5d2ffa3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Infuse"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_365",
+      "dbfId": 78509,
+      "name": "Convoke the Spirits",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 10,
+      "text": "[x]Cast 8 random\nDruid spells <i>(targets\nchosen randomly)</i>.",
+      "flavor": "The spirits prefer to convoke when there's some hot gossip to discuss.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2008a724c02113dfdcc4783ebb8b6c51476b4648bd53dd624db4dfad13812bd3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_838",
+      "dbfId": 78525,
+      "name": "Gigantotem",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 10,
+      "attack": 8,
+      "health": 8,
+      "text": "Costs (1) less for each Totem you've summoned this game.",
+      "flavor": "Totem Golem's uncle, gone too soon.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Totem",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fca38ff3b945fad3aa484b1bb3d0fc67a6ccfd0d2effc65b3e1eb4ff0a5970aa.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "REV_906",
+      "dbfId": 75881,
+      "name": "Sire Denathrius",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 10,
+      "health": 10,
+      "text": "<b><b>Lifesteal</b>.</b> <b>Battlecry:</b> Deal 5 damage amongst enemies. <b>Endlessly Infuse (@):</b> Deal 1 more.",
+      "flavor": "History has a way of altering villains so that we can no longer see ourselves in them. Unfortunately for the Venthyr, they all look like Sire Denathrius.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Earnable after opening a <i>Murder at Castle Nathria</i> card pack.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/880a5f56ff932e8bde52950296ce85782637b1071004771e9b89e379f23030fb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Infuse"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "REV_375",
+      "dbfId": 79532,
+      "name": "Stoneborn General",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 10,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Rush</b> \n__<b>Deathrattle:</b> Summon an \n___8/8 Gravewing with <b>Rush</b>._",
+      "flavor": "Leads with an iron fist and a stony demeanor.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Stone Legion, Assemble!\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea640602c5133813a6533d6150427d78ff8c040b7b7ebcee17dcabc1d8cbdc95.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "MAW_034",
+      "dbfId": 79782,
+      "name": "The Jailer",
+      "cardSet": "Murder at Castle Nathria",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 10,
+      "health": 10,
+      "text": "<b>Battlecry:</b> Destroy your  deck. For the rest of the game, your minions are <b>Immune</b>.",
+      "flavor": "At one point, The Jailer served as Arbiter over the souls of the Shadowlands. He was the epitome of an unbiased, righteous judge of character. WAS.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5873ffdcf397e2e8624d862cd2133c8c240c90e6f962ce8a24200aec9755ad0f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    }
+  ]
+}

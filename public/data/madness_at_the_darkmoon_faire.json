@@ -1,0 +1,4001 @@
+{
+  "Madness At The Darkmoon Faire": [
+    {
+      "cardId": "YOP_032",
+      "dbfId": 61970,
+      "name": "Armor Vendor",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give 4 Armor to_each hero.",
+      "flavor": "\"You look like the kind of person that would buy three sets of armor. One to wear, a spare, and a spare for the spare.\"",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/152a76d518ef2cbfebd25c640bd80f36e61fc8522c6145e032a1508429d4a355.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_221",
+      "dbfId": 61127,
+      "name": "Felscream Blast",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Lifesteal</b>. Deal $1 damage to a minion and its neighbors.",
+      "flavor": "All the souls start running when they see the felscream truck. ",
+      "artist": "K. Lashley & K. Turovec",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4634baf2d3c266396dbee5ded8f727b395f973221c05346347973233227329b0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_020",
+      "dbfId": 61958,
+      "name": "Glacier Racer",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Spellburst</b>: Deal 3 damage to all <b>Frozen</b> enemies.",
+      "flavor": "It\u2019s just not the same without a super suit.",
+      "artist": "Agatha Zhou",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9da74f782d03f2d019fcc38650e4ca26ec5d9d0bbf598bf9ae30947748c40197.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_024",
+      "dbfId": 61962,
+      "name": "Guidance",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Look at two spells. Add one to your hand or <b>Overload:</b> (1) to get both.",
+      "flavor": "Plainsrunning will result in disqualification.",
+      "artist": "Ware Lee",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Druid/Shaman",
+      "classes": [
+        "Druid",
+        "Shaman"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0a6172d08cfc2382f882adb3dd17ff41e32d72dc238cd4fc05d31c1bb525ce4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_001",
+      "dbfId": 61939,
+      "name": "Illidari Studies",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Discover</b> an <b>Outcast</b> card. Your next one costs (1) less.",
+      "flavor": "\"Don't read texts and drive.\"",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d81b4276bdaa2baace22ab104a2351618bc6d2c8a8a781fc95532336c00d678.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_122",
+      "dbfId": 61682,
+      "name": "Mystery Winner",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a <b>Secret.</b>",
+      "flavor": "Yeah, but the mystery prize could be anything! Even a boat!",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a2246fe72e35f1bccaf0a7a14ce3b1fa1111e490c4488a597cec9c341540a48.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_236",
+      "dbfId": 61187,
+      "name": "Oh My Yogg!",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "[x]<b>Secret:</b> When your\nopponent casts a spell,\nthey instead cast a random\none of the same Cost.",
+      "flavor": "Many wonders lie within, but they are not mere toys when your mind is their plaything.",
+      "artist": "Wayne Wu",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/717917751e6847ebce7296247492e97b3ff7f87052cfc07adb9538e5b232a0b6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_519",
+      "dbfId": 61171,
+      "name": "Prize Plunderer",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "[x]<b>Combo:</b> Deal 1 damage to\na minion for each other card\nyou've played this turn.",
+      "flavor": "But he'll never be able to plunder the prize of a happy childhood.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/915114954d527a74f0afe1752ccc32610a520c7a303b26b9123da5b3273c6ce8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_029",
+      "dbfId": 61967,
+      "name": "Resizing Pouch",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "[x]<b>Discover</b> a card with Cost\nequal to your remaining\nMana Crystals.",
+      "flavor": "Just don't put a Resizing Pouch inside the Resizing Pouch.",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Hunter/Druid",
+      "classes": [
+        "Druid",
+        "Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/787467aac18e0da2deb7da0f7c8fce12999d3dc6126a7af760513c5477c464ef.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_700",
+      "dbfId": 61222,
+      "name": "Revolve",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Transform all minions into random ones with the same Cost.",
+      "flavor": "\"Please don't ride the carousel for thirty minutes after eating. After the carousel eats, I mean.\"",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dee78597a0fbb19ed9a224b6139bb8ffe4944ae67f42d17ef7444f81d84752f3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_125",
+      "dbfId": 62049,
+      "name": "Safety Inspector",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Shuffle the\n_lowest-Cost card from\n your hand into your\n deck. Draw a card.",
+      "flavor": "\"All right, you're good. No sign of safety anywhere.\"",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01d46a2b29b34694ed53cb48c441092144c2016c8ae464ffcf1f0a91ce12b574.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_013",
+      "dbfId": 61951,
+      "name": "Spiked Wheel",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 1,
+      "durability": 2,
+      "text": "Has +3 Attack while your hero has Armor.",
+      "flavor": "Great for driving, terrible for steering.",
+      "artist": "Gabe Gonzalez",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06ac2c8781c7e16d8b6cd0bb49b2864b153c6394ba26c9ead4adb2ad9f6efa36.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_526",
+      "dbfId": 61249,
+      "name": "Stage Dive",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Draw a <b>Rush</b> minion. <b>Corrupt:</b> Give it +2/+1.",
+      "flavor": "The most metal trust fall.",
+      "artist": "J. Cheung & K. Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c63bad16edaf5e333067ba8b3eb8245322cb5cf90571172ecdf96e2d8380d985.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_225",
+      "dbfId": 61131,
+      "name": "Throw Glaive",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Deal $2 damage to a minion. If it dies, add a_temporary copy of this to your hand.",
+      "flavor": "\"No, no, I said SHOW me the glaive!\"",
+      "artist": "Matt O'Connor",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8b19570bb85405801c3b2fabd9cf20ae8012ad9c2b389c2b8d22378da0e0e53.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_119",
+      "dbfId": 61648,
+      "name": "Wicked Whispers",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Discard your lowest Cost card. Give your minions +1/+1.",
+      "flavor": "When the Old Ones whisper, others will scream.",
+      "artist": "E. Li & K. Turovec",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/899ea2816d7cfe05670aad23a468a4f8caa55179dda0a78f0d0baa16f2648356.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "YOP_027",
+      "dbfId": 61965,
+      "name": "Bola Shot",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $1 damage to a minion and $2 damage to its neighbors.",
+      "flavor": "On second thought, bolas aren't very good against flying worms.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b64272d521488c5e0794df697345281a7fe0dca2d55f44e01aff5df2c2adb8b8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_523",
+      "dbfId": 61242,
+      "name": "Bumper Car",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Rush</b>\n<b>Deathrattle:</b> Add two 1/1 Riders with <b>Rush</b> to_your hand.",
+      "flavor": "Subject: Re: Unsafe Rides?\n\n\nbump",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5358d44c0474bdcbbad0852689dba8ff516b1755a207f20bc1ae0262e9c53e84.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_704",
+      "dbfId": 61226,
+      "name": "Cagematch Custodian",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Draw a weapon.",
+      "flavor": "Cleans up after a dust up.",
+      "artist": "Tang Ruiqian",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f2414b2b16e60e86fcf55af20956100134695300f025ab341f5fbfa63dacbc1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_100",
+      "dbfId": 61176,
+      "name": "Confection Cyclone",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Add two 1/2 Sugar Elementals to your_hand.",
+      "flavor": "\"Oh, I thought it was a desert elemental?\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2c91a0f124dafa0edffb25e5ce0e1b6e9e025ad12742178b628a9b49c2136b2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_019",
+      "dbfId": 61957,
+      "name": "Conjure Mana Biscuit",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Add a Biscuit to your hand that refreshes 2 Mana Crystals.",
+      "flavor": "So THIS is why she was AFK.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/522c5a90d24901148f32673e67bf34fc1879ae03929c94b56bc1751f3984665b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_189",
+      "dbfId": 61297,
+      "name": "Costumed Entertainer",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Give a random\nminion in your hand +2/+2.",
+      "flavor": "Just remember not to talk. It breaks character.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/694204868b2cdcd2d978451bfbe94764b3c914fabd79256267ab0e1a0b5b38e2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_031",
+      "dbfId": 61969,
+      "name": "Crabrider",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "<b><b>Rush</b>\nWindfury</b>",
+      "flavor": "\"Now I'm falling asleep and she's calling a crab\u2026\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14343576e29f832e1f052f10b53da5d32e1ff9ea60f7e5f86b232ba0be1d8ddd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_083",
+      "dbfId": 61679,
+      "name": "Dancing Cobra",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 5,
+      "text": "<b>Corrupt:</b> Gain <b>Poisonous</b>.",
+      "flavor": "Snakes are just tentacles with fangs.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca71ae29689886f3f01a9b3e04cd378a0e07e1b11d17bdae9de1fa7fff04d6c1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_706",
+      "dbfId": 61228,
+      "name": "Deathmatch Pavilion",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Summon a 3/2 Duelist.\nIf your hero attacked this turn, summon another.",
+      "flavor": "Worth it for the stuffed toy at the end.",
+      "artist": "J. Cheung & A. Bozonnet",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e81f30fa3c8f03c21db5109cb6184138efc1f392bb0475075d62f29912a800a0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_108",
+      "dbfId": 61587,
+      "name": "Deck of Lunacy",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 2,
+      "text": "Transform spells in your deck into ones that cost (3) more. <i>(They keep their original Cost.)</i>",
+      "flavor": "Voted \"Most Lunacy\" in Madness Monthly magazine.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fac693adc28981bf3ac6fcbfcccc521853cd86b7c5af4ddfd885958dc86ed3e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_090",
+      "dbfId": 61846,
+      "name": "Don't Feed the Animals",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Give all Beasts in your hand +1/+1.\n<b>Corrupt:</b> Give them +2/+2 instead.",
+      "flavor": "They're still cleaning up the mess from the last time someone fed the basilisk a deep fried candybar.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6df87250e8fad898c6179b794fb694839fbff5054a1772d85fdb615cf6c60f60.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_529",
+      "dbfId": 61262,
+      "name": "E.T.C., God of Metal",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "After a friendly <b>Rush</b> minion attacks, deal 2 damage to the enemy hero.",
+      "flavor": "There are Old Gods and then there are Rock Gods.",
+      "artist": "L. Lullabi & A. Zemskov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00c1ca5ddba791c7fa4b3c7b9e9db6dcb8eed12ba90e185010177b53fabe7ae0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_030",
+      "dbfId": 61968,
+      "name": "Felfire Deadeye",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "Your Hero Power costs (1) less.",
+      "flavor": "She only shoots people who pet her cat without asking first.",
+      "artist": "Angelica Alieva",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Demon Hunter/Hunter",
+      "classes": [
+        "Hunter",
+        "Demon Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/002d45a3e4303c0ca82637f3e5b73de2fa4a3a9e4a289c55eb32b5cfdeafa282.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_511",
+      "dbfId": 61151,
+      "name": "Foxy Fraud",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Your next\n<b>Combo</b> card this turn costs_(2) less.",
+      "flavor": "His other street con involves a druid. He can't pull it off without a plant.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70098e4a5a7b7f5187938022562f2a90ae79f1fe167f191f4cdd298a01ab5ede.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_102",
+      "dbfId": 61178,
+      "name": "Game Master",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "The first <b>Secret</b> you play each turn costs (1).",
+      "flavor": "\"You hear the mrgrgls of angry murlocs approaching. Roll initiative!\"",
+      "artist": "J. Cheung & A. Bozonnet",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55d4187bafb158a5304578fb499e24db8039b460c2261e0f0dfde6d61592b281.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_075",
+      "dbfId": 61649,
+      "name": "Guess the Weight",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Draw a card. Guess if your next card costs more or less to draw it.",
+      "flavor": "\"And then at the last second, I'll shapeshift into cat form!\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a235eac763045f229ab0027158dd7fde991ca7edbd4b64a8ae5ab168d56c4017.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_124",
+      "dbfId": 61685,
+      "name": "Horrendous Growth",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Corrupt:</b> Gain +1/+1. Can be <b>Corrupted</b> endlessly.",
+      "flavor": "Stop picking at it! You\u2019re only making it worse.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ceee6f9768c5125fc88be60c1f27787953149939e373587de69ca2c62fb8b7d4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_021",
+      "dbfId": 61959,
+      "name": "Imprisoned Phoenix",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Dormant</b> for 2 turns.\n<b>Spell Damage +2</b>",
+      "flavor": "It's actually pretty easy to escape chains when you can burst into flames.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Elemental",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Neutral",
+      "multiClassGroup": "Shaman/Mage",
+      "classes": [
+        "Mage",
+        "Shaman"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b1f74a431b1ffc7ff53aa44ecfe520c306cc36e33e9777a19268a76acc2e570.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        },
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_054",
+      "dbfId": 61435,
+      "name": "Insight",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Draw a minion. <b>Corrupt:</b> Reduce its Cost by (2).",
+      "flavor": "Shouldn't the eyes be facing backwards for insight?",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46ce5e5d9353f292e1e4f38ac47567ccf03742891afdb23cceeab180412610e0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_023",
+      "dbfId": 61961,
+      "name": "Landslide",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Deal $1 damage to\nall enemy minions.\nIf you're <b>Overloaded</b>,\ndeal $1 damage again.",
+      "flavor": "\"And they win it by a landslide! Wait, where did all the other racers go?\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eeedaa08e7b59f0285118d127a0d4302a7ce9b33dbd17bd08dcda4cafc9719d3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_057",
+      "dbfId": 61449,
+      "name": "Lunar Eclipse",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $3 damage to a minion. Your next spell this turn costs (2) less.",
+      "flavor": "When the Azeroth is between the Sun and the Moon.",
+      "artist": "Jun Yan",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afd7a55fd2687146736d89a2068ab82d6f33794b46ec83ca067810d39d80d970.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_114",
+      "dbfId": 61206,
+      "name": "Midway Maniac",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 5,
+      "text": "<b>Taunt</b>",
+      "flavor": "Faire owners hate him! Learn his secrets with one simple spell!",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad777be22dfa08c1a4af0156e68aff285c0c2be1df0c7b172d7c9bdbdbdd7f5c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_522",
+      "dbfId": 61238,
+      "name": "Minefield",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $5 damage randomly split among all minions.",
+      "flavor": "Dodge bombs like you're playing Tonksweeper!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/543fd753ba140823ba5ea6ff7b4798052935825d11893fb6746576df1e6bb333.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_015",
+      "dbfId": 61953,
+      "name": "Nitroboost Poison",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Give a minion +2 Attack.\n<b>Corrupt:</b> And your weapon.",
+      "flavor": "Pouring iced milk into your vehicle's fuel tank does NOT provide a Nitro boost, but it does go great with your victory cookies.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Rogue/Warrior",
+      "classes": [
+        "Rogue",
+        "Warrior"
+      ],
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff116ca182dba9abd549842479096d860bd50f65af541d4109f21c104c2612cc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_123",
+      "dbfId": 61683,
+      "name": "Open the Cages",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "[x]<b>Secret:</b> When your\nturn starts, if you control\ntwo minions, summon an\nAnimal Companion.",
+      "flavor": "\"Coming out of my cage, and I'm dead by turn nine...\"",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba7a462216c8de8ffa2d31ac842f8b799a1771a7c36c511935e98e6eee49a43d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_520",
+      "dbfId": 61235,
+      "name": "Parade Leader",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "After you summon a <b>Rush</b> minion, give it +2 Attack.",
+      "flavor": "He's always going to reign on his parade.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be3a2beb4a6c90e2c6b2859a61d271ce3db3e1b713e78586de9dafbaf445e2c3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_067",
+      "dbfId": 61622,
+      "name": "Prize Vendor",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Each player draws a card.",
+      "flavor": "He's just making sure they're real. Authentic tickets taste like strawberry.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c344a3a0e72a14bd0685c10f4e373e9b7da9c7f16854e46c63279b1f4c8d23ec.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_222",
+      "dbfId": 61128,
+      "name": "Redeemed Pariah",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "After you play an <b>Outcast</b> card, gain +1/+1.",
+      "flavor": "\"Look at this stick. Look at it!\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6da6a4d83658e86bf0b1470783ac919b80dde7696953cee6e3e88169c43e1bb9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_194",
+      "dbfId": 61305,
+      "name": "Redscale Dragontamer",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Draw a Dragon.",
+      "flavor": "Sir Finley made this look a lot easier three expansions ago...",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4e86c8d3dea710b5dbc8cf74a3c88492142b5d75770d744bd46a0b6f461b0b6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_524",
+      "dbfId": 61246,
+      "name": "Ringmaster's Baton",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 1,
+      "durability": 3,
+      "text": "After your hero attacks, give a Mech, Dragon, and Pirate in your hand +1/+1.",
+      "flavor": "A mech, a dragon, and a pirate walk into an Old God's gaping maw. The mech was too crunchy, the dragon was too hot, but the pirate was just right.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8288b76129207f9961a6981c78820eaf85bc0dee11ba6b7cf87dde1aa28ccc38.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_044",
+      "dbfId": 60916,
+      "name": "Rock Rager",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 5,
+      "health": 1,
+      "text": "<b>Taunt</b>",
+      "flavor": "Still doesn't understand why he can't beat Paper Rager.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c91342e38c332898a5ee8c8e6af0fd1cc2a67fb5e4de654f4c459dcd5368418a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_513",
+      "dbfId": 61156,
+      "name": "Shadow Clone",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Secret:</b> After a minion attacks your hero, summon a copy of it with_<b>Stealth</b>.",
+      "flavor": "\"You thought you were attacking face, but it was me! You!\"",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32bb8dbc04976975a08f3fc32208ea04692e69c46b79ab34d89b54a2b0d4ee37.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_017",
+      "dbfId": 61955,
+      "name": "Shenanigans",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Secret:</b> When your opponent draws their second card in a turn, transform it into a Banana.",
+      "flavor": "It's not personal, it's just monkey business.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4595060a9799b4d3ed29332201ad577f74b52039a822b47044af084bc58434e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_191",
+      "dbfId": 61299,
+      "name": "Showstopper",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> <b>Silence</b> all_minions.",
+      "flavor": "This act is killing it!",
+      "artist": "Ian Ameling",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34d9e3b5f25521c2c27a9cd8461459cb8ae36ffaaaecf6c1bcb3f4445a44c053.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_195",
+      "dbfId": 61306,
+      "name": "Snack Run",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Discover</b> a spell. Restore Health to your hero equal to its Cost.",
+      "flavor": "\"I'll have two monster churros, a combo box of Yogg-Saron, and one of those turkey legs that ate the Silver Hand Recruit.\" ",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d1cfcdb1d70d794c21abfa61bbb01f4d79f6bd8f2d2e60e81be2d67034249a1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_058",
+      "dbfId": 61450,
+      "name": "Solar Eclipse",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "The next spell you cast this turn casts twice.",
+      "flavor": "When the Moon is between the Sun and the Azeroth.",
+      "artist": "Jun Yan",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce53f60846ac7c5f852e9c84e9d1a645cc649c352f07d47f14092c387c02ce49.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_531",
+      "dbfId": 61426,
+      "name": "Stage Hand",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Give a random\nminion in your hand +1/+1.",
+      "flavor": "Holds everything himself because people wouldn't stop touching the prop table.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/833f1ecd18785fc5cf075a177349f919e5411577a90affea551003ceb8d6372a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_517",
+      "dbfId": 61168,
+      "name": "Sweet Tooth",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Corrupt:</b> Gain +2 Attack and <b>Stealth</b>.",
+      "flavor": "He's been eyeballing that ice cream cone all day!",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd65666195b2e49d3fa5bbd93e4cea2ad1f9a27f68451e1e5402ac55a5bf4556.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_515",
+      "dbfId": 61159,
+      "name": "Swindle",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Draw a spell.\n<b>Combo:</b> And a minion.",
+      "flavor": "You know, it's probably just cheaper to find a place that sells the plushie\u2026",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b8105bdad64ee8fdba3b511598e953fb124c3d0979facfb4dfd18597df042ae.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_071",
+      "dbfId": 61635,
+      "name": "Tenwu of the Red Smoke",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Return a friendly minion to your hand. It costs (1) this turn.",
+      "flavor": "Red, the color of subtlety.",
+      "artist": "Juyoung Oh",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ec769c49a36402b9229d9e31eef25afa1eca490e2ed1ae9bc4fc5e90670aa1a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_091",
+      "dbfId": 61898,
+      "name": "Wriggling Horror",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Give adjacent minions +1/+1.",
+      "flavor": "Created to scare. Born to wriggle.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08ba2c01e6f561c2cd6e4371aae377cb3073d3636c13f6ea523b81ba4c0defc7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_249",
+      "dbfId": 61273,
+      "name": "Acrobatics",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Draw 2 cards. If you play both this turn, draw 2 more.",
+      "flavor": "He soars through the air with the greatest of fleas.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80c95f2a729f70c2706a86fe1ccdc0f830eb86aab7d76798f0a6b14b8ab963fd.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "YOP_033",
+      "dbfId": 61971,
+      "name": "Backfire",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Draw 3 cards. Deal $3 damage to your hero.",
+      "flavor": "\"That's the last time I let an imp spit gasoline into my car.\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b93ca01d4e4982f4a9abcbd3a605feddab3ff3ed6e44f9054a55c42107144687.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_065",
+      "dbfId": 61616,
+      "name": "Banana Vendor",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Add 2 Bananas to each player's hand.",
+      "flavor": "There's always money in the banana stand.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cef295d004ed696f5ada3704f16a7720500f3f525ce8500ae6d2e37f034d16c0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_237",
+      "dbfId": 61188,
+      "name": "Carnival Barker",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "Whenever you summon a 1-Health minion, give it +1/+2.",
+      "flavor": "The barking initially confused faire-goers, so he switched to words.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25affd1913ee85a768de2134c77aa2997e8b0c5653d03776e407c80e29f93d7e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_073",
+      "dbfId": 61639,
+      "name": "Darkmoon Dirigible",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Divine Shield</b>\n<b>Corrupt:</b> Gain <b>Rush</b>.",
+      "flavor": "\"It's dirigible? I don\u2019t even know what diriging is!\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b9075e925fcb852db93199e7ea8adb9852f7c7556ab618675c1fb0f1c306263.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_082",
+      "dbfId": 61677,
+      "name": "Darkmoon Statue",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 0,
+      "health": 5,
+      "text": "Your other minions have +1 Attack. <b>Corrupt:</b> This gains +4 Attack.",
+      "flavor": "As far as workplace injuries go, Silas is protected by his statue of limitations.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0ee95857ad71882fe01a0f0cd2780019477c23278dccb130cf279f41a5b9677.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_244",
+      "dbfId": 61218,
+      "name": "Day at the Faire",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Summon 3 Silver\nHand Recruits.\n<b>Corrupt:</b> Summon 5.",
+      "flavor": "Karl knew he would someday regret that turkey leg.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65dc2c377d547208f90bf6bfc70c28aaa5f7e668f08b2e9d4b4f601d03924375.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_012",
+      "dbfId": 61950,
+      "name": "Deathwarden",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Deathrattles</b> can't trigger.",
+      "flavor": "Ride or die takes on a new meaning.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0328a18731fec82fa54dd3d3bfdd8d2aa0500f75797bbb20ff6de7e8f83e8759.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_227",
+      "dbfId": 61133,
+      "name": "Dreadlord's Bite",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "durability": 2,
+      "text": "[x]<b>Outcast:</b> Deal 1 damage\nto all enemies.",
+      "flavor": "When it gets too dull, it's more of a nibble.",
+      "artist": "Brandon Blackwell",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff4bc6e8c25dc9b82e4861a828506954c637a8bda6b00998e582bbc7dcb20248.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_025",
+      "dbfId": 61963,
+      "name": "Dreaming Drake",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Taunt</b>\n<b>Corrupt:</b> Gain +2/+2.",
+      "flavor": "Some dragons dream of conquering Azeroth, some just dream of being 5/6s.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a91b94e1f082433aa5886bd134a19a438ddf67a031b96cc7474645d59b6ba638.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_061",
+      "dbfId": 61462,
+      "name": "Faire Arborist",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Choose One - </b>Draw a card;\nor Summon a 2/2 Treant.\n<b>Corrupt:</b> Do both.",
+      "flavor": "The bad apple never falls far from the treant.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2316bd54230a7860d62226855534e8704e0aa6497bdb16d3e2cb971a1cacef74.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_184",
+      "dbfId": 61268,
+      "name": "Fairground Fool",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Taunt</b>\n<b>Corrupt:</b> Gain +4 Health.",
+      "flavor": "\"What did Illidan say when his rocketeer broke down on the Darkmoon racetrack? YOU ARE NOT REPAIRED!\"",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1618d11f9e456baea6695b24385ae5ec7ff893113ba3dd24a47ffb742b93713.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_530",
+      "dbfId": 61263,
+      "name": "Feat of Strength",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Give a random <b>Taunt</b> minion in your hand +5/+5.",
+      "flavor": "Generally happens right after the airing of grievances.",
+      "artist": "K. Lashley & K. Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e37abae4f8b4ee3eb91b977fe71398a72f9f5418bd2e477755dbf480569b3868.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_248",
+      "dbfId": 61271,
+      "name": "Felsteel Executioner",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Corrupt:</b> Become a weapon.",
+      "flavor": "\"My mom said I could be anything I want.\"",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89d3ca71b677fefa53330d0182e349a5db2eaae53a5c07a7575a694a3d90d7b7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_113",
+      "dbfId": 61205,
+      "name": "Free Admission",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Draw 2 minions. If they're both Demons, reduce their Costs by (2).",
+      "flavor": "\"Quick, get in before someone sees you, or worse, someone sees me.\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/958b42e55ba47021f0944db85d553d715f7a28cf7f33734165db1f164c59c16b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_709",
+      "dbfId": 61663,
+      "name": "Grand Totem Eys'or",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 0,
+      "health": 4,
+      "text": "At the end of your turn,\ngive +1/+1 to all other Totems in your hand, deck and battlefield.",
+      "flavor": "Some say it can see straight into the soul of any who dare to read its flavor text...",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "elite": true,
+      "race": "Totem",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a3484642e8bb7d3cdf3ee2f8132f48def04e8173f3f27c90462efa55b9c427d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_062",
+      "dbfId": 61580,
+      "name": "Gyreworm",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If you played an Elemental last turn, deal 3_damage.",
+      "flavor": "This game of ring toss just got really intense.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf93a429bb915621ba76c0edf7d0f81370684d4dbd548a736bd5d6247da188e8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_010",
+      "dbfId": 61948,
+      "name": "Imprisoned Celestial",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Dormant</b> for 2 turns.\n<b>Spellburst</b>: Give your minions\n<b>Divine Shield</b>.",
+      "flavor": "\"Look at your deck, now back to me, now back at your deck, now back to me. Who am I? None of your\u2014I'm on a horse.\"",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89f708034e863fa46763e930fabf75c3611789e9542b705a322c0259a383ee4f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        },
+        {
+          "name": "Dormant"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_079",
+      "dbfId": 61672,
+      "name": "Inconspicuous Rider",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Cast a <b>Secret</b> from your deck.",
+      "flavor": "Improvise, adapt, overcome.",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea293001084dc0fb2555cc0dd03c32704106826f86b874ada00a1152e296935b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_247",
+      "dbfId": 61269,
+      "name": "Insatiable Felhound",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Taunt</b>\n <b>Corrupt:</b> Gain +1/+1 and_<b>Lifesteal</b>.",
+      "flavor": "Back-to-back winner of the annual hot dog eating contest... and the judge-eating contest.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1b754ba49dd610d8da7e785b06bb6112eefdd2f56c8e2ad155e4b6b66841718.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_014",
+      "dbfId": 61952,
+      "name": "Ironclad",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If your hero has Armor, gain +2/+2.",
+      "flavor": "With one inch of clearance, Ironclad proved ineffective against speedbumps.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79743acaa2a4b7cb36e35ef7218eb2b456ca57520c31da2fef12be864551bdb7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_081",
+      "dbfId": 61676,
+      "name": "K'thir Ritualist",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Add a random\n4-Cost minion to your\nopponent's hand.",
+      "flavor": "Something evil this way comes\u2026 and it's bringing friends over!",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/169df1afb3c0959e6f566de5cb84af12234c482137e13c2fe4f3a45059c35e3f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_733",
+      "dbfId": 61605,
+      "name": "Kiri, Chosen of Elune",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Add a Solar Eclipse and Lunar Eclipse to your hand.",
+      "flavor": "Now, when the Sun is between the Moon and the Azeroth... that's when you've got a problem.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a23a6368a577b482cd7612cc4b1e05defb46d847a7b854d0b181a447cbd613f0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_217",
+      "dbfId": 61123,
+      "name": "Line Hopper",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "Your <b>Outcast</b> cards cost (1)_less.",
+      "flavor": "There are two things Demon Hunters know: hopping, and cutting.",
+      "artist": "K. Lashley & K. Turovec",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9519ac7965f9ec437a2a543d97e25a5a5e62b64853c2ae4523ec1a6ce41041b1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_003",
+      "dbfId": 61941,
+      "name": "Luckysoul Hoarder",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Shuffle 2 Soul\nFragments into your deck.\n<b>Corrupt:</b> Draw a card.",
+      "flavor": "Always brings his own reusable shopping bag, satchel, barrel, trunk, tray, and fluffy pillow.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Warlock/Demon Hunter",
+      "classes": [
+        "Warlock",
+        "Demon Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a76f56738bf9ac38635849c2caa6cd958fe547cd75254a391b4afd0e2f38b97.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_707",
+      "dbfId": 61229,
+      "name": "Magicfin",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "After a friendly Murloc dies, add a random <b>Legendary</b> minion to your hand.",
+      "flavor": "The best part is when he pulls Deathwing out of a top hat!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a321aee0294b2b4203908567212e17ed712c8c28b999af982b819de9c3e6f5a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_111",
+      "dbfId": 61203,
+      "name": "Man'ari Mosher",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give a friendly Demon +3 Attack and <b>Lifesteal</b> this turn. ",
+      "flavor": "\"E.T.C. is sooo mainstream. Have you heard of Blight Boar?\"",
+      "artist": "L. Lullabi & A. Bozonnet",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5876b330e091180ea73bbb59f7d7cd342b15d9a7a7d455af0437af932926267a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_730",
+      "dbfId": 61602,
+      "name": "Moontouched Amulet",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Give your hero +4 Attack this turn. <b>Corrupt:</b> And gain 6 Armor.",
+      "flavor": "The Suntouched Amulet melted.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0268d83ffe0e77fc59ce56959b75f3b7f64f202ad872d20cdb302f22e050dc7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_120",
+      "dbfId": 61642,
+      "name": "Nazmani Bloodweaver",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "[x]After you cast a spell,\nreduce the Cost of a random\ncard in your hand by (1).",
+      "flavor": "Her first stage name, Ketchupweaver, failed to excite the audience.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/594e784f644798db22df11baa8b97f308f0d1823bcae8bb7157189107668ea87.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_187",
+      "dbfId": 61282,
+      "name": "Palm Reading",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "<b>Discover</b> a spell. Reduce the Cost of spells in your hand by (1).",
+      "flavor": "Actual palms not required.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e5e379e49de409b5a109c927b2375a4412c050058d633f7a5518d4a9a394f35.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_086",
+      "dbfId": 61700,
+      "name": "Petting Zoo",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Summon a 3/3 Strider. Repeat for each <b>Secret</b> you control.",
+      "flavor": "Welcome to the petting zoo. DO NOT TOUCH THE ANIMALS.",
+      "artist": "E. Li & A. Zemskov",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f59e5b42a6471191b24b918614d3a88b4d1cc12ff42ee9febfd407c1a7ba71cc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_703",
+      "dbfId": 61225,
+      "name": "Pit Master",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Summon a 3/2_Duelist.\n<b>Corrupt:</b> Summon two.",
+      "flavor": "If you win your duel, he'll throw in some of his famous Pit Master barbecue.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f82309ab409cbe27c35d50d81517c6efcbb3a40d33abae592181870d6d8fa0e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_219",
+      "dbfId": 61125,
+      "name": "Relentless Pursuit",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Give your hero +4 Attack and <b>Immune</b> this turn.",
+      "flavor": "If you steal a Demon Hunter's corn dog, you'll get what's coming.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88284fba8f4ef6c30b72c3095838402a68cba641e7d909dded24bb2f568aa664.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_115",
+      "dbfId": 61207,
+      "name": "Revenant Rascal",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Destroy a Mana Crystal for each player.",
+      "flavor": "Turns out his face really did get stuck that way.",
+      "artist": "Cheng Hao",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df5be5b6f9bf5bb0dd99a25fbb13416125bd4900d71a440155ca591947ab3c93.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_107",
+      "dbfId": 61585,
+      "name": "Rigged Faire Game",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "<b>Secret:</b> If you didn't take any damage during your opponent's turn, draw 3 cards.",
+      "flavor": "What's faire is fair.",
+      "artist": "J. Cheung & K. Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/622fb9ee2b1e4ba95e60b9e811c4846895b3010588eeb8857fd3bee65aa676cd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_028",
+      "dbfId": 61966,
+      "name": "Saddlemaster",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "After you play a Beast, add_a random Beast to_your hand.",
+      "flavor": "Seat covers. Check.\nRacing stripes. Check.\nCupholder. Check.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c2cd10a8233d221e1fe335bead4f5f5b75965a8d55c1e2017e9c114ddff83ec.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "YOP_016",
+      "dbfId": 61954,
+      "name": "Sparkjoy Cheat",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you're holding a <b>Secret</b>, cast it and draw a card.",
+      "flavor": "\"These do NOT spark joy!\"",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e545def932bc51acb7065e824091aeab4ba17db1ba0088ffa0112abbcd3ef537.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_229",
+      "dbfId": 61135,
+      "name": "Stiltstepper",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 4,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> Draw a card. If you\nplay it this turn, give your\nhero +4 Attack this turn.",
+      "flavor": "Circus school was tough, sometimes you had to step on people to make it to the top.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2a5b6e295afb7e51867d9a03f8739971565a0880a749bbb9946a76d09f1d08e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_702",
+      "dbfId": 61224,
+      "name": "Stormstrike",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Deal $3 damage to a minion. Give your hero +3 Attack this turn.",
+      "flavor": "When your phone is at 5%.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03f07896e5f0638f6ba72fb1951204eadee97f14a10394368ad0cf479ca9cc35.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_514",
+      "dbfId": 61157,
+      "name": "Ticket Master",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]<b>Deathrattle:</b> Shuffle 3\nTickets into your deck.\nWhen drawn, summon\na 3/3 Plush Bear.",
+      "flavor": "You can exchange one ticket for a bear or save up thousands for a tacky light-up paperweight!",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd5aea3e37c084e04f39f715532602933c8173213ec675c74a7153d1b37a1fc4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_705",
+      "dbfId": 61227,
+      "name": "Whack-A-Gnoll Hammer",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "durability": 2,
+      "text": "After your hero attacks, give a random friendly minion +1/+1.",
+      "flavor": "Hogger's most hated attraction.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ab696ae13fac3053840723ba146e37952cc2ff8b3d2de33971e6a7f220ef9c9.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_186",
+      "dbfId": 61283,
+      "name": "Auspicious Spirits",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Summon a random\n4-Cost minion.\n<b>Corrupt:</b> Summon a\n7-Cost minion instead.",
+      "flavor": "\"I'm not AWE-spicious, but I am a little spicious.\"",
+      "artist": "Forrest Imel",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7eb5b84584645f1dc958ee96c6607359408df5aaaafa48bb473079ad48115c8d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_235",
+      "dbfId": 61186,
+      "name": "Balloon Merchant",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Give your Silver Hand Recruits +1 Attack and <b>Divine Shield</b>.",
+      "flavor": "It's a shiny yellow balloon! But it can be popped with a single point of damage.",
+      "artist": "Forrest Imel",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2aa8eed6a31c15ce49dc2c5a193b54a9c4f4a5106d748ba22de0d8888f0a6159.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_005",
+      "dbfId": 61943,
+      "name": "Barricade",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Summon a 2/4 Guard with <b>Taunt</b>. If it's_your only minion, summon another.",
+      "flavor": "The Alliance and Horde join forces to enforce the fire safety capacity.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Warrior/Paladin",
+      "classes": [
+        "Paladin",
+        "Warrior"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/558272539e6eb1070f18c5c928436502ae9141b2ca4202fdc06f2ce142ac448e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_117",
+      "dbfId": 61254,
+      "name": "Cascading Disaster",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "[x]Destroy a random enemy\nminion. <b>Corrupt:</b> Destroy 2.\n<b>Corrupt Again:</b> Destroy 3.",
+      "flavor": "Please keep all hands, arms, feet and legs inside the ride until the monster comes to a complete stop.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae0586d679e62b385bb0d6a38bf5355e39f85a879e15878f2c08a4a8bd0e0ff2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_532",
+      "dbfId": 61428,
+      "name": "Circus Amalgam",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Taunt</b>\n<i>This has all minion types.</i>",
+      "flavor": "Who needs a petting zoo when you have all the creatures right here?!",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "All",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/203d55710a28d6ba22547c5aedc96ac3a95ed2647569ac74bb9d06f8307a4b57.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_174",
+      "dbfId": 60979,
+      "name": "Circus Medic",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Restore #4 Health. <b>Corrupt:</b> Deal 4 damage instead.",
+      "flavor": "Just be careful not to mix this with any creepy eyeballs, tentacles, or dark whispers, and you'll be fine in the morning.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/773683c0b8fc6a9d6d457fa23652435bc104fb5d973e34ebc095ff03211c4e44.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_512",
+      "dbfId": 61154,
+      "name": "Cloak of Shadows",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "Give your hero <b>Stealth</b> until your next turn.",
+      "flavor": "Only worthy emperors can see the cloak.",
+      "artist": "Cheng Hao",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8ac39b23239b6aabe66657a5e1f0241a1b6e1c1d69fe1bf7b98c7b27069851c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_701",
+      "dbfId": 61223,
+      "name": "Dunk Tank",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Deal $4 damage.\n<b>Corrupt:</b> Then deal $2 damage to all enemy minions.",
+      "flavor": "\"When I said bring a tank to the dungeon, this is not what I had in mind!\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5684cc314d4c78d0889fc5432b9739029adff2d640c256c8330ead32dff538e9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_190",
+      "dbfId": 61298,
+      "name": "Fantastic Firebird",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Windfury</b>",
+      "flavor": "The original flaming chicken.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Elemental",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fed7cbf9165e16c5845876f50c4871550117e436c0fc031a637197dae8493289.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_002",
+      "dbfId": 61940,
+      "name": "Felsaber",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 6,
+      "text": "Can only attack if your hero attacked this turn.",
+      "flavor": "Some drivers rev their engines. This one growls all on its own.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/711272a85a658e7654c60bb097f7e4a3cc88fa3dcd9d281194f003024854fc7b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_110",
+      "dbfId": 61202,
+      "name": "Fire Breather",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Deal 2 damage to all minions except Demons.",
+      "flavor": "\"Phew! That skull has been stuck between my teeth for hours!\"",
+      "artist": "J. Cheung & K. Turovec",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ec1001bc54b93cc88d5ae2c18f4cbc65c66ea9bf61db1ab3e142a600acaeba0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_006",
+      "dbfId": 61944,
+      "name": "Hysteria",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "[x]Choose an enemy minion.\nIt attacks random\nminions until it dies.",
+      "flavor": "\"My mount and I share a special connection. Just not a good one.\"",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Warlock/Priest",
+      "classes": [
+        "Priest",
+        "Warlock"
+      ],
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04ad307d578d42b87990a1f0ea390631b76a0a486c92256850ce1883bae9fe8d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_230",
+      "dbfId": 61136,
+      "name": "Il'gynoth",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "[x]<b>Lifesteal</b>\nYour <b>Lifesteal</b> damages\nthe enemy hero instead\nof healing you.",
+      "flavor": "Well, that just sounds like damage with extra steps.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85c98d91e6848fd7c36267be2a99257be27ecc85bd1a8f8b8727457d8160e8f3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_066",
+      "dbfId": 61620,
+      "name": "Knife Vendor",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Deal 4 damage to each hero.",
+      "flavor": "\"They're perfectly safe! These gloves totally aren't hiding any bandages.\"",
+      "artist": "Angelica Alieva",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab3d1274b4cc1d509f27acc36ebf7c94213cb55156b715114552201d78716987.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_008",
+      "dbfId": 61946,
+      "name": "Lightsteed",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "Your healing effects also give affected minions\n+2_Health.",
+      "flavor": "All the steed, half the calories.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "race": "Elemental",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de643465b4fec8c1a0a933a05d9fe65233a78b9babfcc03be4e3ea4425483fe3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_106",
+      "dbfId": 61584,
+      "name": "Occult Conjurer",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you control a <b>Secret</b>, summon a copy of_this.",
+      "flavor": "Like mirror image, but more secretive and angsty.",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/160bde873ccbac2d81d8259c49f4191cd136d6013441fcfbaa3bf6e58e6b381d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_009",
+      "dbfId": 61947,
+      "name": "Rally!",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Resurrect a friendly\n1-Cost, 2-Cost, and\n3-Cost minion.",
+      "flavor": "One for the squire, two for the gnome, three for the glory, and GO, GO, GO!",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Paladin/Priest",
+      "classes": [
+        "Paladin",
+        "Priest"
+      ],
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48c3b63dc8abe85399f21de57b67c505538a36bff6b241a813da8ea617f2563a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_223",
+      "dbfId": 61129,
+      "name": "Renowned Performer",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Rush</b>\n<b>Deathrattle:</b> Summon two\n__1/1 Assistants with <b>Taunt</b>.__",
+      "flavor": "Cutting the assistant in half is the easy part.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4caf1742d2f00ed53616ec9f97493d576deb5bfde073ebdedcb001caa71ddd4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_105",
+      "dbfId": 61291,
+      "name": "Ring Toss",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "<b>Discover</b> a <b>Secret</b> and cast it. <b>Corrupt:</b> <b>Discover</b> 2 instead.",
+      "flavor": "If you liked it, then you shoulda put a ring on it!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/515c4ac0209a1a3282109db5ae1a5f6bf8e62e31e08ca3ccb2aaf5ee64d0bbcc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_088",
+      "dbfId": 61839,
+      "name": "Rinling's Rifle",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 2,
+      "durability": 2,
+      "text": "After your hero attacks, <b>Discover</b> a <b>Secret</b> and cast it.",
+      "flavor": "This rifle needs a muzzle for its muzzle.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97740a7b729178fff795dfef5fd193828dfe8236511644357f5d4cf02b73932b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_521",
+      "dbfId": 61237,
+      "name": "Sword Eater",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Equip a 3/2_Sword.",
+      "flavor": "How tough is he? He eats swords for breakfast! Without any milk.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1fce4a9d4f4acaa9b446e71f0a2a83d3ff7e588f6fd4ad1c2bd02cbdbf128ce1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_116",
+      "dbfId": 61208,
+      "name": "The Nameless One",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Choose a minion. Become a 4/4 copy of it, then <b>Silence</b> it.",
+      "flavor": "Used to be called \"             , the Nameless,\" but everyone got confused.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1aa2feca5fd6ae9c4f460ce4d7a44f0787daad6fbeb61ee7d7696c50e17835ef.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_026",
+      "dbfId": 61964,
+      "name": "Arbor Up",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Summon two 2/2 Treants. Give your minions +2/+1.",
+      "flavor": "If you can\u2019t outrun a tree, you really shouldn\u2019t be here anyway.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de9c92d3221ec4ae728cd2659c00828d5bd3948395832d74c5c577264facc0e5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_064",
+      "dbfId": 61581,
+      "name": "Carousel Gryphon",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Divine Shield</b>\n<b>Corrupt:</b> Gain +3/+3 and_<b>Taunt</b>.",
+      "flavor": "\"When does this bird land in Stormwind? I've been flying for hours!\"",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/490db20524e2cf1ecbfe5f32eb0b8957c358fa979254290159ffd32cf02111be.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_007",
+      "dbfId": 61945,
+      "name": "Dark Inquisitor Xanesh",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Reduce the\nCost of all <b>Corrupt</b> and\n<b>Corrupted</b> cards in your\nhand and deck by (2).",
+      "flavor": "Fear is the mind-killer, and also the name of my wurm.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccb1d9ef97402bfb6633e19a23db81a0ba4e21b5ea8094364d60b19c2f527ef6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_534",
+      "dbfId": 61885,
+      "name": "Deck of Chaos",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 5,
+      "text": "Swap the Cost and Attack of all minions in_your deck. ",
+      "flavor": "Yeah, it's chaos, but it's organized chaos.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/352b4b3a97be959814233083aa1f264547769aa8921c4846b61144184a7dabbf.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_202",
+      "dbfId": 60892,
+      "name": "Derailed Coaster",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Summon a 1/1 Rider with <b>Rush</b> for each minion in your hand.",
+      "flavor": "So long as it doesn\u2019t kill you, it's considered part of the ride \"experience.\"",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f233c889cf373a209affd76764baf06721b324b02fab9e127083db29a525b6a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_004",
+      "dbfId": 61942,
+      "name": "Envoy Rustwix",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "text": "[x]<b>Deathrattle:</b> Shuffle 3\nrandom Prime <b>Legendary</b>\nminions into your deck.",
+      "flavor": "\"Time to roll. Rusted Legion, ho!\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddca0b649585fcb5696b695ae8017420c23f50a86e70a9b64a5a61cd45e32c8c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_101",
+      "dbfId": 61177,
+      "name": "Firework Elemental",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Deal 3 damage\nto a minion. <b>Corrupt:</b>\nDeal 12 instead.",
+      "flavor": "The brightest spark can still go dark.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/911d80b0491aaae5604b9ea2475827db132b23a2e220e3c42c1e4a8a6f297c66.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_080",
+      "dbfId": 61674,
+      "name": "Fleethoof Pearltusk",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Rush</b>\n<b>Corrupt:</b> Gain +4/+4.",
+      "flavor": "Guest interactions may vary over the duration of the visit.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b160f9893f2da158322e7f6ea5371c9020afbe3855af5c675ae23c39c7a6364.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_121",
+      "dbfId": 61643,
+      "name": "Fortune Teller",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Gain +1/+1 for\neach spell in your hand.",
+      "flavor": "\"I see a giant piano in your future.\"",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35c3770bf765951f0e70e6624d0eda8c6540fdbb9b76cfc52b74ca5796ecc88d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_734",
+      "dbfId": 61606,
+      "name": "Greybough",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Give a random\nfriendly minion \"<b>Deathrattle:</b>\nSummon Greybough.\"",
+      "flavor": "The best time to plant a tree was 20 years ago. The next best time is when you lose a minion.",
+      "artist": "Steven Prescott",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd6ed6d649cb1ea5702114a2154729e55542c954045d05edec09e88226937437.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_708",
+      "dbfId": 61230,
+      "name": "Inara Stormcrash",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "On your turn, your hero has +2 Attack and <b>Windfury</b>.",
+      "flavor": "A fan favorite, Inara is always met with thunderous applause.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a466fe52fdd621c2df890819084e86e0823219cb9ba90a453c7d74653887c88.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_018",
+      "dbfId": 61956,
+      "name": "Keywarden Ivory",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> a\nDual Class spell from\nany class. <b><b>Spellburst</b>:</b>\nGet another copy.",
+      "flavor": "She learned exactly one thing from her old man: copying.",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Mage/Rogue",
+      "classes": [
+        "Mage",
+        "Rogue"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ac8fa6e622b09c22ed7d7a6edae2ad6e2a1ad19c5b1b6c2ce94cd64b8b45db7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Spellburst"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_240",
+      "dbfId": 61191,
+      "name": "Lothraxion the Redeemed",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> For the rest of the\ngame, after you summon\na Silver Hand Recruit,\ngive it <b>Divine Shield</b>.",
+      "flavor": "So infused with the Light, he has to wear double sleep masks at night.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Demon",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6aaee9aa59d29bc4825101a32850205892de305a549082c26bc7851b3517cfd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_518",
+      "dbfId": 61169,
+      "name": "Malevolent Strike",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "[x]Destroy a minion.\n Costs (1) less for each\n_ card in your deck that\n_ didn't start there.",
+      "flavor": "\"I don't know how those got in there, but I'm blaming you two.\"",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd173b1c38a2cc349b90ebc2cea4cb026a8e79f863b9a0c3e1d0bfea4e53e28a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "YOP_022",
+      "dbfId": 61960,
+      "name": "Mistrunner",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give a friendly minion +3/+3.\n<b>Overload:</b> (1)",
+      "flavor": "\"Get IT off me!!!\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42dd491746db8d65aa3432cc14e07ddabfba9b279cedc16b56050fb66e7a39c9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_035",
+      "dbfId": 61973,
+      "name": "Moonfang",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 6,
+      "health": 3,
+      "text": "Can only take 1 damage at_a time.",
+      "flavor": "Moonforehead just didn't have the same ring to it.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73aa3f4c2fb3eb8b750608e77d11d39c41cd6708c5d8e63da4b4d638db473d58.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_068",
+      "dbfId": 61625,
+      "name": "Optimistic Ogre",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 6,
+      "health": 7,
+      "text": "50% chance to attack the correct enemy.",
+      "flavor": "\"What if this goes wrong?\" \"But what if this goes right?\"",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aea7d1a9354e97a5a469e42e86ee0882a79754711cc42f041133a4d3e975995d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_525",
+      "dbfId": 61248,
+      "name": "Ringmaster Whatley",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Draw a Mech, Dragon, and Pirate.",
+      "flavor": "His main qualification is that he'll work with anyone. Or anything.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82d885fb431c30eeb222e6519d74228481e8e536a51ec978b57537de213fa39a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_528",
+      "dbfId": 61252,
+      "name": "Tent Trasher",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b><b>Rush</b>.</b> Costs (1) less for each friendly minion with a unique minion type.",
+      "flavor": "\"I consider it redecorating.\"",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/345da37859de0ac68062fecfb074f1a29c323ce066dd290fc2b75977f789a27b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_087",
+      "dbfId": 61702,
+      "name": "Trampling Rhino",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Rush</b>. After this attacks\nand kills a minion, excess damage hits the enemy hero.",
+      "flavor": "\"Whew. I thought you said 'Trampoline Rhino.' Now that would have been scary.\"",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f18e179685042e38310f20603d839933524c817fa225f384433115f772cdf2af.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_231",
+      "dbfId": 61137,
+      "name": "Zai, the Incredible",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Copy the left- and right-most cards in your hand.",
+      "flavor": "Following this act will be her younger brother, Frank the Mediocre.",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77227b948fe956849cb6a12c2151221a60345b6f5d7229df2669833d9d72dd2f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_226",
+      "dbfId": 61132,
+      "name": "Bladed Lady",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Rush</b>\nCosts (1) if your hero has\n6 or more Attack.",
+      "flavor": "While you were busy learning magic, she studied the blade.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f8b9f13fdf899df0d4610384c3be9462e169d68de73aaaa7b09d85fa6516cb4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_069",
+      "dbfId": 61626,
+      "name": "Claw Machine",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 6,
+      "health": 3,
+      "text": "<b>Rush</b>. <b>Deathrattle:</b> Draw a minion and give it +3/+3.",
+      "flavor": "\"I have been mrglrlglr\u2026 chosen!\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a304f933ed673d25e5dc78893d66b0a3ec6443ab6d8007e0efc04bfe4fecad9c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_516",
+      "dbfId": 61162,
+      "name": "Grand Empress Shek'zara",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 7,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a card in your deck and draw all copies of it.",
+      "flavor": "So is a Grand Empress an empress that's grand or an empress's empress?",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12fd4a47bc4ccacd4b052af1ef3e24538a18d041a95f2629545f2a592951c231.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_238",
+      "dbfId": 61189,
+      "name": "Hammer of the Naaru",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 3,
+      "durability": 3,
+      "text": "<b>Battlecry:</b> Summon a 6/6 Holy Elemental with <b>Taunt</b>.",
+      "flavor": "The naaru wasn't using it. It doesn't have arms.",
+      "artist": "SARIYA",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95e3a7eebd09aa83a5aea8220c4f29f82dea5402dfb0e6677f898ccee65d3bf0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_089",
+      "dbfId": 61842,
+      "name": "Maxima Blastenheimer",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Summon a minion\nfrom your deck. It attacks the\nenemy hero, then dies.",
+      "flavor": "Believe it or not, this is only the faire's fourth most dangerous game.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac9fa56c0b66859b5f9d117e934b468311d8a4a475c515a6373ba0cb7da80fea.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_533",
+      "dbfId": 61884,
+      "name": "Ring Matron",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 6,
+      "health": 4,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Summon\ntwo 3/2 Imps.",
+      "flavor": "But where does she keep them?",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/289dc8890494496fcd48678c4af238b59ede911e32feeed0f998fac4d717a0a4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_109",
+      "dbfId": 61589,
+      "name": "Sayge, Seer of Darkmoon",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Draw @ |4(card, cards).\n<i>(Upgraded for each\nfriendly <b>Secret</b> that has\ntriggered this game!)</i>",
+      "flavor": "There are no secrets between us... or refunds.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4945fa3efb02e0aaa728d806ee59e239ee427a79d4053cdfc6f09f4b6026f557.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_118",
+      "dbfId": 61646,
+      "name": "Tickatus",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Battlecry:</b> Remove the\ntop 5 cards from your deck.\n<b>Corrupt:</b> Your opponent's\ndeck instead.",
+      "flavor": "\"These are all.... EXPIRED!\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b433ec300ebc4c412be86ab193d4edc1169d89fea7ecf963c399f42859e019e1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Corrupt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_085",
+      "dbfId": 61699,
+      "name": "Darkmoon Tonk",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 8,
+      "health": 5,
+      "text": "<b>Deathrattle:</b> Fire four  missiles at random enemies that deal 2 damage each.",
+      "flavor": "\"Ready to roll out!\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1dbb4ece3b5f39f2f526c9f928f0b9feb38057947a0202975ddd3653d3d4c2f1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_224",
+      "dbfId": 61130,
+      "name": "Expendable Performers",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 7,
+      "text": "Summon seven 1/1 Illidari with <b>Rush</b>. If_they all die this turn, summon seven more.",
+      "flavor": "When someone gets injured, it's considered performance art.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c733156d74488e3b8e1e1e4a4fc12e40300eb96a59d5de02519d368190f53d76.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_011",
+      "dbfId": 61949,
+      "name": "Libram of Judgment",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 5,
+      "durability": 3,
+      "text": "<b>Corrupt:</b> Gain <b>Lifesteal</b>.",
+      "flavor": "You really can't judge a book by its cover. ",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/121a4652c08a000500a2bce5779b460abf06490bfdfd799b7448d505197748d6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_103",
+      "dbfId": 61179,
+      "name": "Mask of C'Thun",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 7,
+      "text": "Deal $10 damage randomly split among all enemies.",
+      "flavor": "Hide in the mask, but it will wear you. Through its gleaming eye, you shall see true.",
+      "artist": "Ware Lee",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2743a5e5c8fd6314e50c15c6d366f0fbe03dbfc5ebba499f3d6ac1591e2fea1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_074",
+      "dbfId": 61640,
+      "name": "Silas Darkmoon",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Choose a direction to rotate all minions. ",
+      "flavor": "\"You might remember me from such attractions as 'Being Shot out of a Cannon' or 'That Carousel Ate My Friend.'\"",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1224f78a6346b81d1b35246e0ebc69955ad5f6d2104f69390d3b14ae67f5db62.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_078",
+      "dbfId": 61670,
+      "name": "Strongman",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Taunt</b>\n<b>Corrupt:</b> This costs (0).",
+      "flavor": "Sure, it looks impressive until you realize it's a barrel of helium.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/395226b90e1cdaad0447de560c8785dcef0048fbdbd9e669c64b8449dca820a8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_060",
+      "dbfId": 61461,
+      "name": "Umbral Owl",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Rush</b>\nCosts (1) less for each spell\nyou've cast this game.",
+      "flavor": "It sleeps with one eye open.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87bd44b6c247a93a8190f1d7777c60252057c413d6f83a82ab0d4a3c39c548bb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_732",
+      "dbfId": 61604,
+      "name": "Cenarion Ward",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 8,
+      "text": "Gain 8 Armor.\nSummon a random\n8-Cost minion.",
+      "flavor": "Don't ask about his right hand. He's still growing into it.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/025bf193c37f6f683dd9e6a04ba736838ab0959c3607257a202898904299d6cd.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_056",
+      "dbfId": 61437,
+      "name": "G'huun the Blood God",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Battlecry:</b> Draw 2 cards. They cost Health instead of Mana.",
+      "flavor": "All of the other Old Gods used to laugh and call him names. They never let poor G'huun join in any Old God games.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb5f258d5357485333ca4133105b7873f38144296a7e67733e9b78b33713832c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_104",
+      "dbfId": 61180,
+      "name": "Grand Finale",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 8,
+      "text": "Summon an 8/8 Elemental. Repeat for each Elemental you played last turn.",
+      "flavor": "Considering all the other hazards at Darkmoon, overindulgent pyrotechnics seem downright pedestrian.",
+      "artist": "E. Li & K. Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d7020da369b82d1794d6f984cbb8558da6e8e8e39605bcfa5c126c1068dd4d6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_241",
+      "dbfId": 61192,
+      "name": "High Exarch Yrel",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 7,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> If your deck has\nno Neutral cards, gain\n<b>Rush</b>, <b>Lifesteal</b>, <b>Taunt</b>,\nand <b>Divine Shield</b>.",
+      "flavor": "There can be no neutrality in the fight against darkness.",
+      "artist": "Phroilan Gardner",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76a62c94e279ba2aa83f47c9709ba92ce0d812f9ed06e068056d7c0113da44c5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_055",
+      "dbfId": 61436,
+      "name": "Idol of Y'Shaarj",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 8,
+      "text": "Summon a 10/10 copy_of a minion in your deck.",
+      "flavor": "Without a tongue, it speaks in seven. Without a voice, its echo lingers forever.",
+      "artist": "Agatha Zhou",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ebcad78389c5b75033d56dd095268a14f0415f50fb2e11e635d43ae56bbf0029.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_084",
+      "dbfId": 61690,
+      "name": "Jewel of N'Zoth",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 8,
+      "text": "Summon three friendly <b>Deathrattle</b> minions that died this game.",
+      "flavor": "This coveted gem calls for you to free it\u2026 and unleash an inescapable prison.",
+      "artist": "Ware Lee",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b232918d03c7510f9b55be18edc20fe05e5f6d2f4f4eba2f15cdfffc384c3870.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_053",
+      "dbfId": 61434,
+      "name": "Blood of G'huun",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "faction": "Horde",
+      "rarity": "Epic",
+      "cost": 9,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Taunt</b>\nAt the end of your turn,\nsummon a 5/5 copy of a\nminion in your deck.",
+      "flavor": "An attempted cure becomes disease, blooming and thriving as rot and decay.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cea57a790a9dc28d3d3abd04ae07766815b9717300a349e9f86685684ede84d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_163",
+      "dbfId": 60926,
+      "name": "Carnival Clown",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 9,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Summon 2 copies\nof this. <b>Corrupt:</b> Fill your\nboard with copies.",
+      "flavor": "Send in the clowns!",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b90587e4ae032cd5b31c91d1627a023e3a895c5390eb7f6b3ea8774cf70c884f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Corrupt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_059",
+      "dbfId": 61460,
+      "name": "Fizzy Elemental",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 9,
+      "attack": 10,
+      "health": 10,
+      "text": "<b>Rush</b>\n<b>Taunt</b>",
+      "flavor": "Loved. Hated. Carbonated.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61e15090a3df8b345acbc00cc74b4984c1736d50d6f2e59349fdca88f5a1ba60.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_002",
+      "dbfId": 60443,
+      "name": "N'Zoth, God of the Deep",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 5,
+      "health": 7,
+      "text": "<b>Battlecry:</b> Resurrect a friendly minion of each minion type.",
+      "flavor": "It really just wants to cuddle all the creatures of Azeroth.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/feca2fb5bdc733e6c3dbb811941eea044cadf41f7478cc461069beb5a1dd8d14.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "YOP_034",
+      "dbfId": 61972,
+      "name": "Runaway Blackwing ",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 9,
+      "attack": 9,
+      "health": 9,
+      "text": "[x]At the end of your turn,\ndeal 9 damage to a\nrandom enemy minion.",
+      "flavor": "It has been 5 minutes since our last Azeroth Racing League violation.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1aeaab9c74bd6af7ade229e3a2edfdbe38b9649127d1a972104bd48dfa58b85.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DMF_254",
+      "dbfId": 61503,
+      "name": "C'Thun, the Shattered",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Start of Game:</b> Break into\npieces. <b>Battlecry:</b> Deal 30\ndamage randomly split\namong all enemies.",
+      "flavor": "My grandfather's deck has no useless cards! ",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d17f59324984f8f19d03940d48788aa26805dc10f2c8263bf471e1159438b7c4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_070",
+      "dbfId": 61629,
+      "name": "Darkmoon Rabbit",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 10,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Rush</b>, <b>Poisonous</b>\nAlso damages the minions next to whomever this attacks.",
+      "flavor": "That's no ordinary rabbit! That's the most foul, cruel, and bad-tempered rodent you ever set eyes on!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0144ad9de7e07d3b65b51cc31c2ba2b1db906edeb78ac3c37526c69bc0bfadd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_188",
+      "dbfId": 61308,
+      "name": "Y'Shaarj, the Defiler",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 10,
+      "health": 10,
+      "text": "[x]<b>Battlecry:</b> Add a copy of each\n<b>Corrupted</b> card you've played\nthis game to your hand.\nThey cost (0) this turn.",
+      "flavor": "Y'Shaarj made an excellent office intern, doing the copying AND defiling.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73a94f35ea63dd9d828f06a3fc589c57279666470d2de179561780bf6d6d9cfe.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DMF_004",
+      "dbfId": 60445,
+      "name": "Yogg-Saron, Master of Fate",
+      "cardSet": "Madness At The Darkmoon Faire",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 7,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> If you've cast\n10 spells this game, spin\nthe Wheel of Yogg-Saron.@\n<i>({0} left!)</i>@\n<i>(Ready!)</i>",
+      "flavor": "Yogg take the wheel!",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5fcf1a85394ed89dc92ee3894164e89a7fe803c667539bc64d5d4914c31f341.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    }
+  ]
+}

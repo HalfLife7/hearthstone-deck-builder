@@ -1,0 +1,3407 @@
+{
+  "TITANS": [
+    {
+      "cardId": "TTN_710",
+      "dbfId": 97570,
+      "name": "Ancient Totem",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 0,
+      "attack": 0,
+      "health": 3,
+      "flavor": "This is SO much cuter than Tinyfin.",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "race": "Totem",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4a8747a5ef6964a12e47978f53bb1abc212c774b8e397bd8386e54d22e9d32e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_079",
+      "dbfId": 97049,
+      "name": "Always a Bigger Jormungar",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Give a minion +2_Attack and \"Excess damage dealt by attacks hits the enemy hero.\"",
+      "flavor": "I saw it! It's big, scary, and blue!",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09fd76caa4e48048b432ea35ce79dd315575c87449c389f3509e01052e73cdc0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_401",
+      "dbfId": 96422,
+      "name": "Astral Automaton",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "[x]Has +1/+1 for each other\nAstral Automaton you've\nsummoned this game.",
+      "flavor": "You'll want to summon an automaTON of these.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/277fdb52166124ee3adf40250830ed8e4bc43c3ffaa328493cde2efdab4e0d71.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_081",
+      "dbfId": 97096,
+      "name": "Awakening Tremors",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Get three 4/1 Worms. They cost (1).",
+      "flavor": "A rude followup to the Sleepy Tremors.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c34527a361826fbf955a34e41d7a05cc12e833dd807e7ab39d03491c09df252f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_932",
+      "dbfId": 98030,
+      "name": "Chaotic Consumption",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "Destroy a friendly minion to destroy an enemy minion.",
+      "flavor": "You're not you when you're hungry.",
+      "artist": "Alex Stone",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ea06253c6cbbc57832f8eb289613a4afb781425b5852be79b2f3f41668263dd.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_476",
+      "dbfId": 98111,
+      "name": "Discovery of Magic",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "<b>Discover</b> a spell from a spell school you haven't cast this game <i>(from any class)</i>.",
+      "flavor": "It's in a book, just take a look!",
+      "artist": "Gabriel Lopes",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0491e2c3a240d2ab2acc9eceaaa3a8e27f686f62c5869df8ca6fa24b53010d8c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_860",
+      "dbfId": 98105,
+      "name": "Drone Deconstructor",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Get a 1/1\n<b>Magnetic</b> Sparkbot with a\nrandom bonus effect.",
+      "flavor": "You have to deconstruct to reconstruct.",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b9fd986bb447f7ac0e804379659539398a4a9dbb9e3adad41ef2afb20ea97c8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Magnetic"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_951",
+      "dbfId": 97649,
+      "name": "Embrace of Nature",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Draw a <b>Choose_One</b>\ncard. <b>Forge:</b> It has both effects combined.",
+      "flavor": "BY OUR POWERS COMBINED\u2026",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b8c94ee3f4c10a514e34593cf851867054cf3943d6511a04f0e85abced90369.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_950",
+      "dbfId": 97584,
+      "name": "Forest Seedlings",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Summon two\n1/1 Saplings.\n<i>(Blossoms in @ |4(turn, turns).)</i>",
+      "flavor": "You win some, you blossom.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b97768b3c04f84f9d7c32f68242fda275609484343b64d66f4503784e5ab22ee.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_922",
+      "dbfId": 97215,
+      "name": "Gear Shift",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Shuffle the two left-most\ncards in your hand into\nyour deck. Draw 3 cards.",
+      "flavor": "You mean the PRNDL?",
+      "artist": "Chris Hayes",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9211b4ced1bac398de2956e320ec609d51b813c28f1dcd9117d2208e0c23f9f7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_317",
+      "dbfId": 96077,
+      "name": "Lightning Reflexes",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "[x]<b>Discover</b> a Nature spell.\nIf you play it this turn,\n<b>Discover</b> another.",
+      "flavor": "If you can dodge a lightning bolt, you can dodge a ball.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc1c73e72c2f2dee2bd49c514e1f4fafd07cd6f82c967169cb2a6126eca6dd90.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_486",
+      "dbfId": 98278,
+      "name": "Monstrous Form",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Give a friendly\nminion +3/+3 until your next turn.",
+      "flavor": "Then, it lives. Horribly.",
+      "artist": "Grafit ",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0aee78bc568a110a22f2d9e6801c72daead263cb08f26c904df2c3e528ac1684.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_736",
+      "dbfId": 98283,
+      "name": "Staff of the Primus",
+      "cardSet": "TITANS",
+      "type": "Weapon",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "durability": 3,
+      "text": "After your hero attacks, shuffle a random\nPlague into your opponent's deck.",
+      "flavor": "THE PRIMUS, RULER OF MALDRAXXUS, MASTER STRATEGIST, AND wielder of toothpicks!",
+      "artist": "Tanamaes Leejierasaes",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 2
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/947eb15da57f1a144180ae6046617f5f0dc2f2a63ae08226ff051bee41c3ec77.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_726",
+      "dbfId": 97736,
+      "name": "Tar Slick",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "Minions take double damage this turn.\nDeal $1 damage.",
+      "flavor": "Has +2 Attack on its opponent's turn.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/254473624fc4e3142b7d871006cd24673cb76e75ebfe116173b51606be3eb981.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_812",
+      "dbfId": 97053,
+      "name": "Victorious Vrykul",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "After this attacks, get a 2/3 Val'kyr that costs (1).",
+      "flavor": "Get three of these and you have a Trikul.",
+      "artist": "Valeria Styajkina",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa7e3c46f5cf0d7dcdb62b0242a8dd71e168dd79787ccd45cc937736cd148671.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_906",
+      "dbfId": 96910,
+      "name": "X-21 Repairbot",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Return any Mechs <b>Magnetized</b> to this to your hand.",
+      "flavor": "The circle bolt goes in the square hole.",
+      "artist": "Daniil Kudriavtsev",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9210be1305ad9635b3e3d38944bc6076607dc18b74c44261f8ffd470bbc017c6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Magnetic"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_087",
+      "dbfId": 97380,
+      "name": "Absorbent Parasite",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 3,
+      "health": 1,
+      "text": "<b>Magnetic</b>, <b>Rush</b>\nCan <b>Magnetize</b> to\nMechs and Beasts.",
+      "flavor": "Your beasts' iron levels are high, what have you been feeding them?",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7c40583495861d768c6e70dcaf151c9486c469b8a33fee5642721e0f2f22e60.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Magnetic"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_095",
+      "dbfId": 102040,
+      "name": "Aqua Archivist",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> The next\n Elemental you play\ncosts (2) less.",
+      "flavor": "Do not summon! I JUST had to put all my scrolls in rice.",
+      "artist": "Ivo Campelo da Silva",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec89c95d6487253f7d83711df217bfc8bf7fcbb2d74633bbe5f8432b06912c24.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_504",
+      "dbfId": 101869,
+      "name": "Bait and Switch",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Secret:</b> When a friendly minion is attacked, give it +3/+3.",
+      "flavor": "Oh my god, the bait and switch works every time!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a67114b2a9901f43fd84ba58594fb56608e7c85986839061788dc1567d07c0eb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_742",
+      "dbfId": 98403,
+      "name": "Celestial Projectionist",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Choose a\nfriendly minion. Add a temporary copy of it to your hand.",
+      "flavor": "What if we're not really here, y'know? What if we're all just, like, projections in the mind of some cosmic entity? How would we know?",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>TITANS</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/440c97e4841b57ff70c5f972d525f8773abc8656a18b994dd3dc48b44b867265.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_077",
+      "dbfId": 97005,
+      "name": "Chill-o-matic",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Magnetic</b>\n<b>Freeze</b> any character damaged by this minion.",
+      "flavor": "After a number of island vacations, he thought the Storm Peaks would be a nice change of pace.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8f25efaeb35f8758a8bbe59f6e4736420128b2782a1d6bd269b6fcbaeae304f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Magnetic"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_430",
+      "dbfId": 97261,
+      "name": "Creation Protocol",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Discover</b> a copy of a minion in your deck. <b>Forge:</b> Get another copy.",
+      "flavor": "If you want the destruction protocol, just go in reverse.",
+      "artist": "Daniil Kudriavtsev",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa1bdb448d607c2a950ea122028b151c5a96623db32ebc9bb54a7f317957f7ce.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_840",
+      "dbfId": 97475,
+      "name": "Crystalline Statue",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Rush</b>. Starts <b>Dormant</b>.\nAfter you draw 4 cards,\nthis awakens.",
+      "flavor": "Hey! Who <b>Greened</b> my statue?!",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b498f22b718d017a2b9ab7fe319b6ce744b59bcd62fcd297e2be9b0ccc688be.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_833",
+      "dbfId": 97473,
+      "name": "Disciple of Golganneth",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]At the end of your turn,\nreduce the Cost of a\nrandom <b>Overload</b> card\nin your hand by (1).",
+      "flavor": "Warning: If you are not made of rocks, do not stand in lightning water.",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0849bb563fb8b94a1efaf88147bc8884ce6bcd4f6ad234fcc49df65832db88f2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_450",
+      "dbfId": 97269,
+      "name": "Distressed Kvaldir",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Shuffle two random Plagues into your opponent's deck.",
+      "flavor": "Oh look at that, I have been impaled.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 2
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56b7f602db866025a36feb549c09fd96733e59461b5c33e0a0c077a64ac57669.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_454",
+      "dbfId": 97282,
+      "name": "Down with the Ship",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Deal $3 damage to a minion. If it dies, shuffle two random Plagues into your opponent's deck.",
+      "flavor": "It has been a privilege playing with you tonight.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Shadow",
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 1
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8b99899c344be2cb782acdd3282e4df997c201c3b86b6da2de41c4ddc6d25b8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_484",
+      "dbfId": 98252,
+      "name": "False Disciple",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a <b>Legendary</b> Priest minion from the past.",
+      "flavor": "\"...and they were roommates...\"\n\"oh my god\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82c75c5e618a69f4d3dffbdedb1b961b9fc90774c4679f02db2b5f056602cf13.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_479",
+      "dbfId": 98143,
+      "name": "Flame Revenant",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]After you summon an\n Elemental, give it +1/+1.",
+      "flavor": "4x weak to water.",
+      "artist": "Ivo Campelo da Silva",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea0cb26802c0a6ae3c46617aabd9779d9a120091f58b313a07ac018d2fbc0201.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_830",
+      "dbfId": 97354,
+      "name": "Flash of Lightning",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Draw a card.\nNext turn, your Nature spells cost (1) less.",
+      "flavor": "FLASH! AAAAAAAAA",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ebd96b1cb4e7bff3be116fd80fc8639ea96690e647868d41d452b4618321e55.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_719",
+      "dbfId": 97638,
+      "name": "From the Scrapheap",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Get three 1/1 <b>Magnetic</b> Sparkbots with random bonus effects.",
+      "flavor": "Well that's a load of scrap.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4b0c1ec15ddcb49dcfc8de91f670b89c4dbe1e22fd1fc58c851a8f798e6eefb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Magnetic"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_744",
+      "dbfId": 98427,
+      "name": "Frozen Over",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Both players draw 2\ncards. Your opponent can\nnot play them next turn.",
+      "flavor": "We will find out who wins when we return in the spring.",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Frost",
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b99c19598e202d3ef7250824eb6c00b037beb534ba6c683d23356fafedd4013.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_471",
+      "dbfId": 97739,
+      "name": "Furious Furnace",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]<b>Magnetic</b>\nAlso damages minions next\nto whomever this attacks.",
+      "flavor": "He is absolutely fuming.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba6a94b1a71d38f16f1ef8e8984738b61d9bded006b8aa4a8d3c011ccbeac1da.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Magnetic"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_732",
+      "dbfId": 98023,
+      "name": "Invent-o-matic",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "Whenever you <b>Magnetize</b>\na minion, give it +1/+1.",
+      "flavor": "The inventor was really proud, until they realized inventing something that invents things makes for poor job security.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>TITANS</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c940909c8ca0609c4dbb98ded73ad1035fd23e3532322aee732f6064dfbad72.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Magnetic"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_854",
+      "dbfId": 98056,
+      "name": "Inventor's Aura",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Your Mechs cost (1) less. Lasts 2 turns.",
+      "flavor": "Ok, fine, I'll read the manual\u2026",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f782cb94c7e967d2cd24c264da1c0478b423b1e9bdf5462bda5b09e50ab75d32.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_925",
+      "dbfId": 97640,
+      "name": "Kaja'mite Creation",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a spell from another class that costs (3) or less.",
+      "flavor": "You made this? I made this.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36641bad9fb7c4277e441d7140f6010c3905b08b0df20d207bdd28b38a5a6272.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_955",
+      "dbfId": 100093,
+      "name": "Lifebinder's Gift",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Choose One -</b> Get 2 random Nature spells; or Reduce the Cost of spells in your hand by (1).",
+      "flavor": "Everyone's investing in Nature spells these days, but that bubble is about to burst.",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff42869e54de7e3252e0f57d94216beacb5df88fc679c378b528136d302ca17b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_852",
+      "dbfId": 98054,
+      "name": "Noble Minibot",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Magnetic</b>\nAfter this attacks,\ngive a random minion in your hand +1/+1.",
+      "flavor": "I always get the minibot with the wobbly wheel.",
+      "artist": "Daniil Kudriavtsev",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e74f73ad72830ee570852552797403414ab7351fbb6b9b213da17e73ee563acd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Magnetic"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_735",
+      "dbfId": 98282,
+      "name": "Northern Navigation",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Discover</b> a spell from your deck. If it's\na Frost spell, <b>Freeze</b> a random enemy minion. ",
+      "flavor": "Leads directly to Greatfather Winter's workshop.",
+      "artist": "Studio Hive ",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Frost",
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/facef3f444a3d88365012a2ed60b83d6059453b06be4156c52dda3356441d189.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_078",
+      "dbfId": 97047,
+      "name": "Observer of Myths",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "[x]After you summon a\nminion with more Attack\nthan this, give all friendly\nminions +1 Attack.",
+      "flavor": "\"Oh hey, look! A myth!\"",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3e4ed5a679819a267426afa0421e5d2ca8360c66a17cc96f3915b14f6f8191e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_728",
+      "dbfId": 97825,
+      "name": "Pit Stop",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Discover</b> a Mech\nfrom your deck.\nGive it +2/+1.",
+      "flavor": "\"Guido! It's time.\"",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/001a42d79276035e7319a4b5d5466b5a1e8fc8f6766cf3b76a8aa0e188513075.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_845",
+      "dbfId": 97527,
+      "name": "Runic Adornment",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "<b>Discover</b> a spell that costs (3) or less. Shuffle 2 copies into your deck that <b>Cast When Drawn</b>.",
+      "flavor": "Rune, rune on the wall, who's the greenest of them all?",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f764ceff33ba4d6a55fe157bc28848969d76c3d148f42dc6a9e27bb102de8f0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Casts When Drawn"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_803",
+      "dbfId": 97052,
+      "name": "Smelt",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Give a random minion in\nyour hand +3/+3. Lose\n3 Armor to do it again.",
+      "flavor": "Due to his heightened olfactory system, Kha'zgoroth is cursed with always being the one that dealt it.",
+      "artist": "Grafit ",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35cdd9e252a2ddccf8f585b302fb92ec9ceab04fb8f0c450ce0dc1c2c8e578a9.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_456",
+      "dbfId": 97397,
+      "name": "Thornveil Tentacle",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Lifesteal</b>\n<b>Battlecry:</b> Deal 2 damage to\na random enemy minion.",
+      "flavor": "Jennifer dumped me.",
+      "artist": "Todd Harris",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86a097635d4f77f84fb8dc5cf4b15eac4a88ad37ea27804de026df215a219f9f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_302",
+      "dbfId": 95967,
+      "name": "Titanforged Traps",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Discover</b> and\ncast a <b>Secret</b>.\n<b>Forge:</b> Do it twice.",
+      "flavor": "Always place it underneath their health pack.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac5883480acff3aeb67480870c8d094a703e2dc6ae85d2f23e0f066f879f590a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        },
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_039",
+      "dbfId": 95917,
+      "name": "Watcher of the Sun",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Get a\nrandom Holy spell.\n<b>Forge:</b> Also restore 6\nHealth to your hero.",
+      "flavor": "\"I've got my eye on y-AAA I'M BLIND!\"",
+      "artist": "Caroline Gariba",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef9fab71de9c138c631c61a3f7b172e0b626dc7f2e0375bfa28fd5478dbc1210.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_844",
+      "dbfId": 97526,
+      "name": "Argunite Golem",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "text": "[x]Has +1 Attack for each card\nyou've drawn this turn.",
+      "flavor": "Golem Bling never really caught on - the fad crumbled after the Cataclysm.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07c953ecfd6e1e267787c18526392a3cc5f23c4a3400cb1963301c386bc69a72.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_753",
+      "dbfId": 98565,
+      "name": "Bellowing Flames",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Deal $5 damage to a minion. <b>Forge:</b> Then deal $5 damage split among all enemy minions.",
+      "flavor": "Too much bellowing. Not enough flames.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd1fe36ce13985371b9778c00ded7e7810f4be73554158b61bff89bd53b78cbf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_731",
+      "dbfId": 98019,
+      "name": "Careless Mechanist",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 5,
+      "text": "After you draw your second card in a turn, destroy this.",
+      "flavor": "Fly lower, you fools!",
+      "artist": "Ramzy Kamen",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b9c83b0fbb513ac94ba46f7322888bdb4518123a6f8e5d1d213716bd4e05a25.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_927",
+      "dbfId": 98087,
+      "name": "Conservator Nymph",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Transform a friendly Treant into a 5/5 Ancient with <b>Taunt</b>.",
+      "flavor": "Whatever you do, don't water your Treants after midnight!",
+      "artist": "Angelica Alieva",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76cd40442cee8172819f8145f836d818da7133aff689e5bf84608c82d8b0f19f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_921",
+      "dbfId": 97109,
+      "name": "Coppertail Snoop",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]<b>Magnetic</b>\nWhenever this attacks,\nget a Coin.",
+      "flavor": "Scavenges both nuts and bolts for the winter.",
+      "artist": "Kleston Marques",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/614368f35b8e3f9dce46b74d86204db6a81733be1da6e0f1543bdbf17be55174.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Magnetic"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_042",
+      "dbfId": 95935,
+      "name": "Cyclopian Crusher",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Rush</b>\n<b>Forge:</b> Gain +3/+2.",
+      "flavor": "Really puts the rusher in crusher. Uses its one eye to C.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/491ef053ba6bb442ce6a41d1f8bb25aa1a5414ce7aa4c701784503900e0fc161.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Forge"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_861",
+      "dbfId": 98330,
+      "name": "Disciple of Argus",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Deathrattle:</b> Summon two\n2/2 Elementals with <b>Taunt</b>.",
+      "flavor": "\"Aw nuts, I put both ends in the pencil sharpener.\"",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5874bc80e253ddf9d214e3d63221ecd19ff609c2d695ddce817082eed4a20822.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_457",
+      "dbfId": 97455,
+      "name": "Eulogizer",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Spend 3 <b>Corpses</b>\nto deal 3 damage.\n<b>Forge:</b> Gain them instead.",
+      "flavor": "\"Sorry for your Ranked mode loss.\"",
+      "artist": "Kevin Sidharta",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b910b4684767306aef402b5255200f72cc27dd68a222fbbb5564a7c07e60ec06.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Forge"
+        },
+        {
+          "name": "Corpse"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_080",
+      "dbfId": 97051,
+      "name": "Fable Stablehand",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Rush</b>\n<b>Battlecry:</b> If you control\na minion with 4 or more\nAttack, gain +2/+2.",
+      "flavor": "She took over the job when Feeble Steeblehand left.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ff19debb2de83cc904cbf4cef48ae0347ec26e9e1baeb333c75d6aa17fa59b9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_859",
+      "dbfId": 98104,
+      "name": "Fate Splitter",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Get a copy of the card that killed this.",
+      "flavor": "\"What's the matter with these scissors!? The thread won't cut!!\"",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d090d8bf63e77907fac3ec7f52e6b2726809f7c827b395789e517e01e9f38d0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_465",
+      "dbfId": 97623,
+      "name": "Forge of Wills",
+      "cardSet": "TITANS",
+      "type": "Location",
+      "rarity": "Rare",
+      "cost": 3,
+      "health": 2,
+      "text": "Choose a friendly minion. Summon a Giant with its stats and <b>Rush</b>.",
+      "flavor": "Standing in the Forge of Wills fills you with a sense of DETERMINATION.",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbb4151332141ecc29e00983beab59ccf2bf1f6472359259907f837b758c9fe0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_930",
+      "dbfId": 97627,
+      "name": "Frost Lotus Seedling",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Draw 1 card.\nGain 4 Armor.\n<i>(Blossoms in @ |4(turn, turns).)</i>",
+      "flavor": "Really bad flavor text. <i>(Blossoms in 3 expansions.)</i>",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2032b15ef02e100a6bf80e117048f59d9cd9aeee468c4c6a38e46c5f4f7023f8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_745",
+      "dbfId": 98434,
+      "name": "Grace of the Highfather",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Restore 8 Health.\n<b>Discover</b> a card that costs the amount <b>Overhealed</b>.",
+      "flavor": "The fish was thiiiiis big, can you believe it?",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79eb470d774a70ceaa0e1c1b44657de11bb98d5340d2d083f4beeffa3cc174ab.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Overheal"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_734",
+      "dbfId": 98182,
+      "name": "Mecha-Leaper",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Magnetic</b>\n<b>Deathrattle:</b> Give a\nfriendly Mech +2/+2\nand this <b>Deathrattle</b>.",
+      "flavor": "Now to find my Mecha-Macaw and my Mecha-Titus and we'll be Mecha-Set.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable after purchasing the <i>TITANS</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37b79a7f9006382549d33df4bd7a15aafafcc2272d37b08c59d340319b54fc05.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Magnetic"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_729",
+      "dbfId": 97853,
+      "name": "Melted Maker",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "After you <b>Forge</b> a card,\nget a copy of it.",
+      "flavor": "Melts what he makes (cheese) and makes a mean melt (grilled cheese).",
+      "artist": "Guillaume Beauch\u00eane",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/089b74d5b0e4f5a07b188ecb9a7ea66657db76aa4736ca43a9f84fa0ad3373e9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_920",
+      "dbfId": 97078,
+      "name": "Mimiron, the Mastermind",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "[x]After you play a Mech,\nget a random one of\nMimiron's Gadgets.",
+      "flavor": "1N1T14T1NG F74V0R T3XT S3QU3NC3.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Rogue",
+      "howToGetSignature": "Obtainable in <i>TITANS</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f6b81d2966b38797cda8c1a8832079ea2a8f5457737a18bd280c2a0647bf142.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_477",
+      "dbfId": 98123,
+      "name": "Molten Rune",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Deal $3 damage.\nGet a random spell.\n<b>Forge:</b> This casts twice.",
+      "flavor": "It's post-ancient modern realist neoclassical impressionist art. No idea what it means though.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19b64c6aab590328dd6371424611a5325e7ee4511d6ce5f649ed6059b7ac2791.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_460",
+      "dbfId": 97530,
+      "name": "Mortal Eradication",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]Deal $5 damage randomly\nsplit among all enemy\nminions. Restore 2 Health\nto your hero for each killed.",
+      "flavor": "Clearly anything with 6 or more health is immortal. Such as Street Trickster. We are nerfing Street Trickster for lore accuracy.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0be99c6320f5dc99f9c53c4c4fc0454b9adb2f598b58bf90ce96f0d46858ae01.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_754",
+      "dbfId": 98680,
+      "name": "Ravenous Kraken",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Destroy\na friendly minion. <b>Deathrattle:</b> Summon a copy of it.",
+      "flavor": "He's witewally hitting the squiddy wight now.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "howToGetSignature": "Obtainable by participating in a special event.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70506940b347f3e8e29299a887f8614fd99e9ddd2652be6068034566abc349a2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_924",
+      "dbfId": 97352,
+      "name": "Razorscale",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "Cards can't cost\nless than (2).",
+      "flavor": "A razorscale, razormane, and razorclaw walk into the tavern. ",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1fd05edbeb578474b6e88475b54287a75f708be0b00d57570d101f070d5c5ef.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_733",
+      "dbfId": 98051,
+      "name": "Relentless Worg",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Rush</b>\nAfter this attacks and\nkills a minion, restore this to full Health.",
+      "flavor": "It's the Year of the Worg! Wait - what do you mean 'wolf'?",
+      "artist": "Todd Harris",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33259f4f8b5dd2e2f20e6d5ffcf1c0d1956278cb363f535ab3b2af7b7906faa2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_712",
+      "dbfId": 97572,
+      "name": "Sharp-Eyed Seeker",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If there is a card in your deck that didn't start there, draw it.",
+      "flavor": "If you give it treats, it will give you shiny objects!",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>TITANS</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd4a408c460f78d4e4a661cd60ad49e69fe23173aa15bd57f8e447fcd3e99879.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_923",
+      "dbfId": 97318,
+      "name": "SP-3Y3-D3R",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Magnetic</b>\n<b>Stealth</b> for 1 turn.",
+      "flavor": "The itsy bitsy spider magnetized onto the water spout.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7bc7ca2dbbaaa5858ccaea0ce1307a234c1242fbd99f7612c37301aa4e8ad63.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        },
+        {
+          "name": "Magnetic"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_718",
+      "dbfId": 97626,
+      "name": "Starlight Whelp",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Get a\nrandom card from your starting hand.",
+      "flavor": "Starlight, star bright, first whelp I see tonight.",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>TITANS</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f9950d3e9bb3da68af5d423fa109c9044aad2fe0a0f958fc562d83420eb4ad8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_468",
+      "dbfId": 97687,
+      "name": "Steam Guardian",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Draw a spell.\nReduce the Cost of a Fire\nspell in your hand by (1).",
+      "flavor": "Its boiling steam and erupting magma serve as a pretty good form of 2-Factor Authentication.",
+      "artist": "Todd Harris",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/875efacd87c42a4c0b597581d6bbcb94738b27b19163f8d4c45dbdcd965201ce.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_469",
+      "dbfId": 97697,
+      "name": "Stoneskin Armorer",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If your Armor changed this turn,\ndraw 2 cards.",
+      "flavor": "Pretty sensitive for someone made of thick skin.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f3feddd4f2c3baecd9de1114ca15f5af03de86d5be3eb29f20469adc55f8246.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_482",
+      "dbfId": 98224,
+      "name": "Student of the Stars",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Shuffle a copy of this into your deck with permanent +3/+3.",
+      "flavor": "She is getting her major in Ursa.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3520bfd5f615c4e815c9f1766668206938349a3e06568fe9dfaa76d3d32ab44b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_485",
+      "dbfId": 98253,
+      "name": "The Stars Align",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Transform minions in your hand into ones that cost (3) more. <i>(They keep their original Cost.)</i>",
+      "flavor": "Sweet, three Desert Obelisks!",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f0b6f6d82655ac558d6453174745db7e09d1a50c8cc4efda793d6191cd4d996.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_835",
+      "dbfId": 97474,
+      "name": "Thorim, Stormlord",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Unlock your\n<b>Overloaded</b> Mana Crystals.\nDraw that many cards.",
+      "flavor": "In the mountains.",
+      "artist": "Grafit ",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "howToGetSignature": "Obtainable in <i>TITANS</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6cc82ba6309b28cb50831935b05a6c53ee45c69b703eeec41d70dd90e768436.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_832",
+      "dbfId": 97358,
+      "name": "Trogg Exile",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Rush</b>\n<b>Battlecry:</b> Deal 4 damage to your hero.",
+      "flavor": "Trogg used to rule\u2026",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb239fbedf3ba8a6301194d4b8f88e73819f3c3825dd78fec24c6298d7b9f0da.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_722",
+      "dbfId": 97671,
+      "name": "Turn the Tides",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "[x]Give your hero +3 Attack\nthis turn. Summon a 3/3\nElemental with <b>Rush</b>.\n<b>Overload:</b> (1)",
+      "flavor": "T\nI\nD\nE\nS",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d7de8102b0ac72d69267a82ca4ade445aee18246e5609c29d2089794f933c54.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_865",
+      "dbfId": 98468,
+      "name": "Weight of the World",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Draw 2 cards. <b>Forge:</b> Draw cards until you have as many in hand as your opponent first.",
+      "flavor": "Unluckily for him, Azeroth has a tendency to get bigger every 2 years or so.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc5f7b5471b987fae7ce442fca2d2d567ccec9242590f3f0489a9d22879ed1ed.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_717",
+      "dbfId": 97617,
+      "name": "Algalon the Observer",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Replace\nyour Hero Power with\nAlgalon's Vision.",
+      "flavor": "That's so Algalon, it\u2019s the future he can see.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Earnable after purchasing the <i>TITANS</i> Tavern Pass.",
+      "howToGetDiamond": "Earnable after purchasing the <i>TITANS</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53a943d2f079e3436f29ad6006a99967815d7743e3a43ba745c69202b957f6ee.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_713",
+      "dbfId": 97573,
+      "name": "Angry Helhound",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Rush</b>\nHas +4 Attack on your turn.",
+      "flavor": "When you wake up on the all 3 wrong sides of the bed.",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "howToGetSignature": "Obtainable by participating in a special event.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9903c508de88d6c80914f9e696c60462ad6a1f48dc201d56e3a29d08a5e647f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_907",
+      "dbfId": 100984,
+      "name": "Astral Serpent",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "At the end of your turn,\nif this didn't Attack,\ndraw 2 cards.",
+      "flavor": "Call it lazy all you want, but it does have two more cards than you.",
+      "artist": "Tanamaes Leejierasaes",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Paladin",
+      "howToGetSignature": "Earnable after purchasing the <i>TITANS</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b570ff2b7b71cb7a4252a153f9e38ef19d8f8389889fc4dd0c9ca4658baae11.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_801",
+      "dbfId": 96933,
+      "name": "Champion of Storms",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "After you cast a Nature spell, summon a\n4/2 Elemental.\n<b>Forge:</b> With <b>Rush</b>.",
+      "flavor": "Has some grievances it just can't wait to air out.",
+      "artist": "A. Zemskov & T. Shevtsov",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3b86ef1c960b9f00542b75b7ba1a9700df0572f40daf053c7eb1f87d230b049.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_467",
+      "dbfId": 97680,
+      "name": "Craftsman's Hammer",
+      "cardSet": "TITANS",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "durability": 3,
+      "text": "After your hero attacks\nand kills a minion,\ngain 4 Armor.",
+      "flavor": "Also gives your hero <b>Craftsmanship +1</b>.",
+      "artist": "Grafit ",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c3b21a79556cbb88e90b28d8e88be8f01ae97ec5de8bc7629c527b85e7ea09b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_503",
+      "dbfId": 98328,
+      "name": "Disciple of Eonar",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Your next\n <b>Choose One</b> card has\nboth effects combined.",
+      "flavor": "If you do not receive his rose, you will have to pack your bags and leave Ulduar immediately.",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/beff90eff8dcc62e72e3fa0b588b9f7b490cc85c0df9eac44ae849705c660fe5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_490",
+      "dbfId": 98394,
+      "name": "Disciple of Sargeras",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Discard a spell\nto summon two 3/2 Imps. <b>Forge:</b> Give them\n+2 Health and <b>Taunt</b>.",
+      "flavor": "An IMP-ortant card to Forge.",
+      "artist": "Angelica Alieva",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afec54827936048e5fdfa3ad4c725da203c11025f2005c2aac9786a1d105fc42.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_843",
+      "dbfId": 97479,
+      "name": "Eredar Deceptor",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "Whenever you draw a card, summon a 1/1 Demon with <b>Rush</b>.",
+      "flavor": "But they were all of them deceived, for another Eredar was made.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61c9708753eab65aa934c94b6ff0f2f5bae77633d0f844b9c8afba358c36d16d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_850",
+      "dbfId": 97683,
+      "name": "Helya",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Shuffle all three\nPlagues into your opponent's\ndeck. Plagues they draw this\ngame are unending.",
+      "flavor": "Named after the first thing Odyn said after landing a sick kickflip.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Shadow",
+      "howToGetDiamond": "Obtained by purchasing the Diamond Helya card.",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 1
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a68e50d2cec32e93ebd0dbdf12381035935c19290ae73ea590168b3e2401e8f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_751",
+      "dbfId": 98520,
+      "name": "Ignis, the Eternal Flame",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you've <b>Forged</b> a card this game, craft a custom weapon.",
+      "flavor": "ETERNAL flame? He has 4 health?!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Earnable on the <i>TITANS</i> Reward Track.",
+      "howToGetGold": "Earnable after purchasing the <i>TITANS</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66a910252d50019ad5e68d4091f0833fc911feff1f909c6c4a9f6af6c6f47caa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Forge"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_931",
+      "dbfId": 98029,
+      "name": "Imposing Anubisath",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Taunt</b>\nCan't attack.",
+      "flavor": "He's just standing there... menacingly!",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47dfb34e2b90cc5b2d852ad6bbb1632c4f2cb6619da9763e3fe1fa11f05f5bd4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_478",
+      "dbfId": 98136,
+      "name": "Inquisitive Creation",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Deal @ damage\nto all enemy minions.\n<i>(Improved by each spell school\nyou've cast this game!)</i>",
+      "flavor": "This mech eats books for breakfast.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1672fabf5d811166c64cab86e3734e9f8a76ece1ca824214175e1e1c78d96238.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_853",
+      "dbfId": 98055,
+      "name": "Judge Unworthy",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "Set an enemy minion's Health to 1, then deal $1 damage to all enemies.",
+      "flavor": "VEGETABLE JUSTICE!",
+      "artist": "Juan Calle",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a876b8aec92f45ddc4178a6b070f36345366d27bb3b48947ac91a510d88867ec.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_730",
+      "dbfId": 97915,
+      "name": "Lab Constructor",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]At the end of your turn,\nsummon a copy of this.\n<b>Forge:</b> Gain <b>Magnetic</b>.",
+      "flavor": "As Mimiron foretold: \"Twinsies!\"",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d85cc10dcf52fcdd3a60db83d0e4416399ee172dc6c3794947fed00b1731002e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        },
+        {
+          "name": "Magnetic"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_076",
+      "dbfId": 96941,
+      "name": "Mechagnome Guide",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a spell.\n<b>Forge:</b> It costs (3) less.",
+      "flavor": "Theme park? Tropical island? Fiery pit of despair? We've got something for everyone.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a53d25e37b8bf9d1ae5619e41bbc7d7e11d22e0550e09c45e3f5045741d4e0ef.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Forge"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_714",
+      "dbfId": 97574,
+      "name": "Runefueled Golem",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a weapon from any class.",
+      "flavor": "Hmm, glyph gauge is running low. Better fill up at the next town.",
+      "artist": "Alex Stone",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>TITANS</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a5f0c17330a4893a8601e500f09c19697d580505ea6a54010d358a1f0a8e069.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_711",
+      "dbfId": 97571,
+      "name": "Saronite Tol'vir",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\nWhenever this is attacked,\ndraw a card.",
+      "flavor": "Talk to the hand.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cecca3110243ffc9924d29cb902b58faecd6add3dfb55902ec8922026fa1ef5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_483",
+      "dbfId": 98248,
+      "name": "Serenity",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Give all enemy minions -2 Attack. Destroy any with 0 Attack.",
+      "flavor": "Ra-den loves teaching yoga on his off-hours.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b68931b8c0877ccd7eaca1ec32515ebb6055286c97e63466bc4e07611de1933b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_900",
+      "dbfId": 95470,
+      "name": "Stoneheart King",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Deathrattle:</b> Summon a 2/2\nEarthen that gains +2/+2 for\neach other Earthen you've\nsummoned this game.",
+      "flavor": "I, too, am a king at playing Heart Stone.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/378180652aaaaf2d523cc26eb40d78710045fc3dfb360eb5b340f4d04f473c1f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_725",
+      "dbfId": 97729,
+      "name": "Tempest Hammer",
+      "cardSet": "TITANS",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 1,
+      "durability": 3,
+      "text": "After your hero attacks, deal 3 damage to the lowest Health enemy.",
+      "flavor": "LIKE SWATTING PESTS!",
+      "artist": "Studio Hive ",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf73f96160b8d62624435ab473a6a8d9d802919519190201f0b2e62ed0b7b4f4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_715",
+      "dbfId": 97575,
+      "name": "Time-Lost Protodrake",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\nWhen you draw this,\nadd a random Dragon\nto your hand.",
+      "flavor": "Weird way to say \"late\" but ok.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>TITANS</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8176257c8e6c66551a92b192e2e17047301601183ff88eef75aa8de47d2038f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_455",
+      "dbfId": 97394,
+      "name": "Tomb Traitor",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Destroy a Plague in your opponent's deck to deal 3 damage to all enemy minions.",
+      "flavor": "You enjoy raiding, I enjoying traitoring. We are not the same.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 1
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6abb00dff261a570ceecc64b5b0f8c82ba59228989e192dd44efdb347b8ff27.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_475",
+      "dbfId": 98097,
+      "name": "Unchained Gladiator",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Draw a card.\nRepeat for each Elemental\nyou played last turn.@ <i>(@)</i>",
+      "flavor": "We can't possibly buff this card any more, just look at him!",
+      "artist": "Daniil Kudriavtsev",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ce56d729846a03a34dcbc14a2af775d8e6cfd14745560d62990d1c2d4aa44a3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_463",
+      "dbfId": 97619,
+      "name": "Wing Welding",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "[x]Discard your highest Cost\ncard. Deal damage equal\nto its Cost to all minions.",
+      "flavor": "This is not how you train your dragon.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3e7ea41601217b1998124eac305c042bc5fceda9a01aff5714b9776bd63d5a1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "AffectedBySpellPower"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_831",
+      "dbfId": 97355,
+      "name": "Crash of Thunder",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "Deal $3 damage to all enemies. Costs (1) less for each Nature spell you've cast this turn.",
+      "flavor": "ERROR: Lightning.exe has stopped working.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/210aa5d92d96f4443916a997362eaca906cdbac59991196f9c39c2b4043348c1.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_741",
+      "dbfId": 98389,
+      "name": "Disguised K'thir",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "Each turn this is in your hand, transform into a random card in your opponent's deck.",
+      "flavor": "That is not a very good disguise, dude.",
+      "artist": "Peter Dora",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d4ec7ae11830152ec76425a3a65393bdfed42295d919181edb106c3220c9c2a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_842",
+      "dbfId": 97478,
+      "name": "Jotun, the Eternal",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> For the rest of\nthe game, cast a copy of\nthe first spell you draw\neach turn at enemies.",
+      "flavor": "He doesn't look like a turtle?",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "howToGetSignature": "Obtainable in <i>TITANS</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae85e503d28fdb9e5895463faf8b00d52f08e3ed03c2f87b80acc9d8079155eb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_841",
+      "dbfId": 97477,
+      "name": "Momentum",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Give your hero +4 Attack this turn. Costs (1) less for each card you've drawn this turn.",
+      "flavor": "\"Mass Times Velocity\" wasn't as catchy.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91aa875aad2bcf996d9b3f7ee2a08fbab53d3abc3b992f4805fbd40c40be542e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_723",
+      "dbfId": 97682,
+      "name": "Tram Operator",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Draw a Mech. The next Mech you play costs (2) less.",
+      "flavor": "The guy in the back is screaming\u2026  because the train ride is so fun!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c78be9536e2dddc0fd77e4febe0cd3915a993f0c95be95f8d8127179ebed063.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_855t",
+      "dbfId": 98626,
+      "name": "Tyr's Tears",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "[x]Resurrect 3 different\nPaladin minions.\nSet their stats to 2/2.\n<b>Forge:</b> Resurrect another.",
+      "flavor": "Liek this if u cri evertim",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/daa25e10455503c5ab89b069067c14610357f8ad273db97227b3383d7dd0911d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_085",
+      "dbfId": 97132,
+      "name": "Wisdom of Norgannon",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Draw 2 cards. Costs (1) less for each different spell school you've cast this game.",
+      "flavor": "Now all we need is the power and courage of Norgannon.",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2046403c86f18897ce3f9a2091f270b7b11306645eac5db068e497719159da50.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_458",
+      "dbfId": 97462,
+      "name": "XB-488 Disposalbot",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Deal 5 damage randomly split among all enemy minions.\n<b>Forge:</b> Gain <b>Lifesteal</b>.",
+      "flavor": "You'll be so surprised when you figure out what XB stands for.",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9e8fbf5a7f6c273feed93dae5ee67ab7591f6dcf98dc094bea1ccd221c6256c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_092",
+      "dbfId": 97495,
+      "name": "Aggramar, the Avenger",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 7,
+      "text": "<b>Titan</b>\n<b>Battlecry:</b> Equip a\n3/3 Taeshalach.",
+      "flavor": "Formerly a trusted lieutenant of Sargeras, Aggramar helped him fight the demonic legions across many worlds before he was corrupted.",
+      "artist": "Kevin Sidharta",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "howToGetDiamond": "Obtained by purchasing the Diamond Aggramar, the Avenger card.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbb473129738f759ee4a7a147e55e7b3f9a4266cec83702daaeb95663d569746.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Titan"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_856",
+      "dbfId": 98058,
+      "name": "Disciple of Amitus",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "text": "[x]At the end of your turn, summon\na 2/2 Earthen that gains +2/+2\nfor each other Earthen you've\nsummoned this game.",
+      "flavor": "\"Oh great Amitus, I took your style advice on the poncho, but pray tell - one or two golden gloves?\"",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a67c4120a226af8f6562d613919bceaa6fc10afa2494662cf927236f35b5ed4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_716",
+      "dbfId": 97593,
+      "name": "Flame Behemoth",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Get two\nrandom <b>Magnetic</b> Mechs. They cost (2) less.",
+      "flavor": "Always look both ways before crossing the Formation Grounds.",
+      "artist": "Kevin Sidharta",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59d3e5777698ec3bd09fa542c70135ef9f878e6ad9d3cf1e4df64d9758564c5e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Magnetic"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_800",
+      "dbfId": 96909,
+      "name": "Golganneth, the Thunderer",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 7,
+      "text": "<b>Titan</b>\nYour first spell each turn costs (3) less.",
+      "flavor": "With dominion over the seas and skies, Golganneth fearlessly wields the power of nature to serve the Pantheon.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d5e384cb2127a5c08725be31696f51495ed969eccfd4c12d5656a7b132967e4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Titan"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_415",
+      "dbfId": 96710,
+      "name": "Khaz'goroth",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Titan</b>\nAfter this uses an ability, gain\n<b>Immune</b> this turn and attack a\nrandom enemy minion.",
+      "flavor": "Creator of the titan-forged races, Khaz'goroth intended them to safeguard the world of Azeroth from corruption and discord.",
+      "artist": "Grafit ",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a416cca49c39f6e50aa1b6ac02cc6971a0c08bed91a38b4563a157e15590899b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Titan"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_487",
+      "dbfId": 98280,
+      "name": "Loken, Jailer of Yogg-Saron",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> a\nminion from your deck.\nSummon a Tentacle with\nits stats and <b>Taunt</b>.",
+      "flavor": "Really great at his job! - Yogg-Saron",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "howToGetSignature": "Obtainable in <i>TITANS</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/696b32bd896a15a578f3274ef3d3f607716314ab7bc267cfeeb54d41849545a1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_466",
+      "dbfId": 97678,
+      "name": "Minotauren",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Rush</b>\nWhenever this minion\ndeals damage, gain\nthat much Armor.",
+      "flavor": "\"Why's he so mad?\"\n\"He's been stuck on one of Hearthstone's hidden maze puzzles for YEARS.\"",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "howToGetSignature": "Earnable after purchasing the <i>TITANS</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42c126c77ad6c83538b5cc4da21a22cab4f90cb91222b7950bd7676e199d6b08.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_075",
+      "dbfId": 96903,
+      "name": "Norgannon",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 8,
+      "text": "<b>Titan</b>\nAfter this uses an ability, double the power of the other abilities.",
+      "flavor": "His tremendous arcane magic was strong enough to save all of the spirits of the titans after Sargeras destroyed their physical forms.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c61aa6734fb7110c974be14dea99683146ca34c21f0439d36436b7e6f4df19e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Titan"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_481",
+      "dbfId": 98223,
+      "name": "Ra-den",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Deathrattle:</b> Summon each other minion you've played this game that didn't start in your deck.",
+      "flavor": "Regularly participates in Immortal Combat.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "howToGetSignature": "Obtainable in <i>TITANS</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e009e10a4d9c34472c21973d6fbc10fd0281bdae4ddd94d9a09fa68a1a5ef4d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_071",
+      "dbfId": 96875,
+      "name": "Sif",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Spell Damage +@</b>\n<i>(Improved by each\nspell school you've cast this game!)</i>",
+      "flavor": "She is Sif. He is Malygos. They are not the same person. They may have similar spell damage, they may have similar colors but they are different nonetheless.",
+      "artist": "Dave Greco",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "howToGetSignature": "Obtainable in <i>TITANS</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00d23590808b755f935f571c8a3627bb356ed6930a034df2619486bede7ec5d2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_088",
+      "dbfId": 97404,
+      "name": "Starstrung Bow",
+      "cardSet": "TITANS",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 6,
+      "durability": 2,
+      "text": "[x]Costs (1) less for each\n_friendly <b>Secret</b> that has_\n_triggered this game.",
+      "flavor": "Shoot for the stars, but if you miss, aim for the enemy hero.",
+      "artist": "Cynthia  Garcia",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e2acdd1f6e2ca7e2516cc61d0ac34bcaa54db184383b997e51d1c706365fcd2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_721",
+      "dbfId": 97642,
+      "name": "V-07-TR-0N Prime",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]<b>T1T4N</b>\nThis minion's abilities\nrepeat on another random\nfriendly minion.",
+      "flavor": "Long after the titans' departure, Mimiron dreamed of creating something with an approximation of their power. He may have actually succeeded!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03417fc6bab9cfaf8b0e8eec6276a0e8be2bfebe29ba857f8b7c31544afbaf7e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Titan"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_429",
+      "dbfId": 97103,
+      "name": "Aman'Thul",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 10,
+      "text": "<b>Titan</b>\nAfter this uses an\nability, <b>Discover</b> any <b>Legendary</b> minion.",
+      "flavor": "The leader of the titans was the first to awaken. In his loneliness, he sought out other titans across many different worlds, and together, they formed the Pantheon.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73cb40062c0c6a634e4aec18b57283ca1f9a7102bebb04094e535a565e61832b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Titan"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_858",
+      "dbfId": 98061,
+      "name": "Amitus, the Peacekeeper",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 1,
+      "health": 8,
+      "text": "<b>Titan</b>\n<b>Taunt</b>. Your minions\ncan't take more than 2_damage at a time.",
+      "flavor": "As a champion of harmony, Amitus abstained from the Pantheon's many conflicts until one day, shortly after the corruption of Sargeras, she vanished altogether.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8a111849a64cd60db960553bb8414e56618793783d47d7d0599170ace314497.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Titan"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_926",
+      "dbfId": 98017,
+      "name": "Ancient of Growth",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Choose One -</b> Summon\nthree 2/2 Treants; or\n__Transform your Treants into__\n_5/5 Ancients with <b>Taunt</b>.",
+      "flavor": "Who passed greenhouse gas?",
+      "artist": "Edgar Hidalgo",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e8b2f6c9bfb80daabddcf764a1c7b88a3222c55a9d642203845f4c3163ce7be.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_862",
+      "dbfId": 98344,
+      "name": "Argus, the Emerald Star",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 9,
+      "text": "[x]<b>Titan</b>\nMinions to the left of this\nhave <b>Rush</b>, and ones to the\nright have <b>Lifesteal</b>.",
+      "flavor": "Once a proud titan, Argus was fated to meet a darker end. Sargeras and his demons would later corrupt and shatter Argus to use his power for themselves.",
+      "artist": "Juan Calle",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4d0225a6bf4792d2379325488fdeb32ae83b5dd883533940f02c828a72e0e33.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Titan"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_700",
+      "dbfId": 97569,
+      "name": "Containment Unit",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Magnetic</b>\n<b>Deathrattle:</b> Summon a\nrandom 8-Cost minion.",
+      "flavor": "Surprisingly ticklish.",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a750bf87e86ab5c0de1da9de7bd1df5176930a13a5e8c50e40f944193562d3a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Magnetic"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_480",
+      "dbfId": 98212,
+      "name": "Elemental Inspiration",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 7,
+      "text": "[x]Summon a 4/5 Vortex\nwith a random bonus effect\nfor each spell school you\nhave cast this game.@ <i>(@)</i>",
+      "flavor": "No Hero Power required.",
+      "artist": "Edgar Hidalgo",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ebbf258e9ed0dfb5902f109676e5499ff252e7c7762c4f410febba4d78b158d6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_866",
+      "dbfId": 98469,
+      "name": "Mythical Terror",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 3,
+      "health": 10,
+      "text": "[x]<b>Lifesteal</b>\nAt the end of your turn,\nforce all enemy minions\nto attack this.",
+      "flavor": "You cannot pet the Terror in Hearthstone.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Demon",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d579e4f04598101adbd37e4662aeeaa0e1ad850dc9318c704be5e308e0b7d27c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_090",
+      "dbfId": 97406,
+      "name": "Prison of Yogg-Saron",
+      "cardSet": "TITANS",
+      "type": "Location",
+      "rarity": "Legendary",
+      "cost": 7,
+      "health": 3,
+      "text": "[x]Choose a character.\nCast 4 random spells\n<i>(targeting it if possible)</i>.",
+      "flavor": "\"We've finally captured Yogg-Saron! How should we keep him contained?\"\n\"How about... an open pit... right below us... with four loose chains?\"\n\"PERFECT!\"",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked after completing the starter quests.",
+      "howToGetGold": "Earnable after purchasing the <i>TITANS</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a973bdebb8869397f44e99dd7d45da1ad35a2f81453a8ed4dd79fcb16d529a49.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_727",
+      "dbfId": 97738,
+      "name": "Thorignir Drake",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Rush</b>\nWhenever this attacks,\nsummon two 3/1 Whelps to\nattack the target first.",
+      "flavor": "Throwing your children at enemies qualifies you for Worst Mother of the Year.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87ca012f60946171c47641e71a38d0befba44cc11363a6116155128cb721e591.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_470",
+      "dbfId": 97700,
+      "name": "Trial by Fire",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 7,
+      "text": "[x]Summon five 1/1\nVal'kyr with <b>Rush</b>.\nWhen one dies, give\nthe others +1/+1.",
+      "flavor": "Well, in ya go.",
+      "artist": "Grafit ",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7b9d64e56463f9401b36b548e67328b71313d5e067e0acd423591babf13175b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_857",
+      "dbfId": 98059,
+      "name": "Tyr",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Resurrect\na 2, 3, and 4-Attack\nPaladin minion.",
+      "flavor": "Brought me back to life, S Tyr card.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "howToGetSignature": "Obtainable in <i>TITANS</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12d66b38744b0aac0a79ba18d83a10408aaf81249888b65a250d75e723403f3f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_954",
+      "dbfId": 98265,
+      "name": "Cultivation",
+      "cardSet": "TITANS",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 8,
+      "text": "Give your minions +2/+2. Costs (1) less\nfor each Treant you've summoned this game.",
+      "flavor": "Calling this an 8 mana card is missing the forest for the trees.",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3455b025c193d5335f9994c19fc9d812f05e4b8662ded536f9e67d1384968745.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_940",
+      "dbfId": 97629,
+      "name": "Freya, Keeper of Nature",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 4,
+      "health": 6,
+      "text": "[x]<b>Choose One -</b> Duplicate your\nhand; or Summon copies of\nall other friendly minions.",
+      "flavor": "Good things come in pairs.\nGood things come in pairs.",
+      "artist": "Tanamaes Leejierasaes",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "howToGetSignature": "Obtainable in <i>TITANS</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51e85c899fae0500f9a4b484a14c0917a26ae431bb24488ccdc9829f4dbdeb50.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_752",
+      "dbfId": 98560,
+      "name": "Hodir, Father of Giants",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Battlecry:</b> Set the stats\nof the next three minions you play to 8/8.",
+      "flavor": "Giant ladies, this one's a Keeper.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "howToGetSignature": "Obtainable in <i>TITANS</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5550076d182515deac8b2e326a18f1853c9cf969d682f48d1cb67f9767e9d23.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_330",
+      "dbfId": 100929,
+      "name": "Kologarn",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 6,
+      "health": 10,
+      "text": "[x]<b>Rush</b>. Whenever this attacks\na minion, put it in your hand.\n<b>Deathrattle:</b> Move any in your\n__hand to your opponent's.",
+      "flavor": "\"So am I just supposed to stand here forever, or...?\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3918055092a4d87aab388717fb5cca7d6d50930de2eb6f5a88cdaa58704c2a8f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_811",
+      "dbfId": 97061,
+      "name": "Odyn, Prime Designate",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Battlecry:</b> For the rest of the\ngame, after your hero gains\nArmor, they gain that much\nAttack for that turn.",
+      "flavor": "The best offense is a good defense. 30 defense to be exact.",
+      "artist": "Alex Stone",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "howToGetSignature": "Obtainable in <i>TITANS</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac2d9724084eada6df27de7c6241539058a602ab3da82f9d4e41dd207311352b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_441",
+      "dbfId": 97207,
+      "name": "Shapeless Constellation",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Battlecry:</b> Transform into\nan 8/8 copy of a random\nminion in your hand.",
+      "flavor": "Galaxy Brain.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63f114b1de9908dd1612560c76db097107811a4025c87b82e9e27c30d09d890f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_083",
+      "dbfId": 97099,
+      "name": "Son of Hodir",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Battlecry:</b> Shuffle four\n8/8 Giants into your deck that are summoned when drawn.",
+      "flavor": "You look dehydrated, drink some water! Come on, chug! Chug! Chug! Chug!",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf0bef9978b1f2f260038fc168369f5a946b13c2506a4c492c65386ba3e37bf4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_724",
+      "dbfId": 97726,
+      "name": "Storm Giant",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Taunt</b>\n<b>Forge:</b> Costs (2) less. Can be <b>Forged</b> endlessly.",
+      "flavor": "Storm Giant, Frost Giant, Molten Giant... I want Fair-weather and Sunshine Giant!",
+      "artist": "Forrest Imel",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>TITANS</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0eb4421d3687e6be2a5b0cdf0034cad74afb193280916f8b465724b5aad3efc1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Forge"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_737",
+      "dbfId": 98285,
+      "name": "The Primus",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 7,
+      "health": 9,
+      "text": "<b>Titan</b>\nAfter this uses an ability, <b>Discover</b> a card with that Rune.",
+      "flavor": "As there is a Pantheon of titans, so is there also a Pantheon of Death, comprised of powerful rulers in the Shadowlands.",
+      "artist": "A. Zemskov & T. Shevtsov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Death Knight",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66abc27c46152ec7f19c099811a3aa59459e1c158b03cf02b8c504e55ab73631.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Titan"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_462",
+      "dbfId": 97614,
+      "name": "Imprisoned Horror",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 9,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]Costs (1) less for each\ndamage you've taken on\nyour turns this game.",
+      "flavor": "Prison changed Jeff.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "howToGetSignature": "Earnable after purchasing the <i>TITANS</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20c64e4118a5fb2b190dd1bc4dc7eba825a423c4ac6a98c6341aad94895f82f7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TTN_960",
+      "dbfId": 97702,
+      "name": "Sargeras, the Destroyer",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 6,
+      "health": 12,
+      "text": "[x]<b>Titan</b>\n<b>Battlecry:</b> Open a portal\nthat summons two 3/2\nImps each turn.",
+      "flavor": "Formerly the Defender of the Pantheon, he became disillusioned by his mission and formed the Burning Legion to destroy all life within the universe.",
+      "artist": "Juan Calle",
+      "collectible": true,
+      "elite": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00122172e549773faa56877ef02f842bde5532b57e95a469fe34bd177b844357.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Titan"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_903",
+      "dbfId": 96671,
+      "name": "Eonar, the Life-Binder",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 5,
+      "health": 7,
+      "text": "[x]<b>Titan</b>\nAfter this uses an ability,\nsummon a 5/5 Ancient\nwith <b>Taunt</b>.",
+      "flavor": "Protector of all living things, she once saved the nascent world-soul of Azeroth from annihilation. It seems mercy was her greatest wisdom.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "howToGetDiamond": "Obtained by owning 27 <i>TITANS</i> Legendary cards.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7397fe720f85eeb850bcb8629d08c4c303d2e5163c8d2fe75883d07b9a315434.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Titan"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TTN_459",
+      "dbfId": 97467,
+      "name": "Chained Guardian",
+      "cardSet": "TITANS",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 11,
+      "attack": 8,
+      "health": 5,
+      "text": "[x]<b><b>Rush</b>, Reborn</b>\nCosts (1) less for each\nPlague shuffled into the\n_enemy deck this game.",
+      "flavor": "Eternally jealous of the Unchained Gladiator.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 1
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db65ebedd916c6940709349918d2a82695a15b66b6beb4318a6ea2e4c4083762.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Reborn"
+        }
+      ]
+    }
+  ]
+}

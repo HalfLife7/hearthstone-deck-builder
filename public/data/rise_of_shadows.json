@@ -1,0 +1,3199 @@
+{
+  "Rise of Shadows": [
+    {
+      "cardId": "DAL_723",
+      "dbfId": 52632,
+      "name": "Forbidden Words",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 0,
+      "text": "[x]Spend all your Mana.\nDestroy a minion with that\nmuch Attack or less.",
+      "flavor": "Please confirm your age before reading this flavor text.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc7f5a8ff9ff1cd35807f3205f5e992a4d2d591aca626946aa904211d81e09c3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8852826dcfca3c0f579ee059340415beaecfe3cff1cdc059622b7380807196cb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_011",
+      "dbfId": 51376,
+      "name": "Lazul's Scheme",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 0,
+      "text": "Reduce the Attack of an enemy minion by\n@ until your next turn. <i>(Upgrades each turn!)</i>",
+      "flavor": "\"What's that you're dreaming?\nYou're weak and you're screaming!\nIt must be my scheming...\"",
+      "artist": "J. Axer",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31e645c76b69e470d17a13b3f7a917053c6f396b7659933174c0a041f33382d4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad4c5e0ae079c48b1c45f7d53953d0bb2e1bfa6f96468b2f030cd0c8dabeae04.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_071",
+      "dbfId": 52148,
+      "name": "Mutate",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Transform a friendly minion into a random one that costs (1) more.",
+      "flavor": "You'll get the transformation you want when murlocs fly.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a7d74b417f68489a3946aaa8ebdb47b964b647c27429154f85fec0225225472.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e73b232d37f941659d9c414a22c906ef5f5b56bc979e1dad691c46652ad6570.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_354",
+      "dbfId": 51790,
+      "name": "Acornbearer",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Add two 1/1 Squirrels to your hand.",
+      "flavor": "You\u2019d be nuts to mess with the squirrel squad.",
+      "artist": "Steven Prescott",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dc6b8e72f790912123ae5133d3a17bbfaf9f1c17b8655718cc4d0a5053116fb.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3548d9c55fc3edb6a5f37e2ed0565172786e2731b8594e9273c6b8158905eb0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_350",
+      "dbfId": 51769,
+      "name": "Crystal Power",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Choose One -</b> Deal $2 damage to a minion; or_Restore #5 Health.",
+      "flavor": "Often used as healing crystals, but also good for throwing at people.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf05cbc9fc1f4fb09164913fb00911749f5e25c2d05aaad396ce3fb718329674.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bbc2d292e0a6e6225ff3d32feaad4dad052d81b26de3c546098b63c21762009.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_728",
+      "dbfId": 52679,
+      "name": "Daring Escape",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Return all friendly minions to your hand.",
+      "flavor": "Impossible to cast without cackling evilly.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee53f3fc7f2c583ee5767bf7d955e04ff6e3ea6033726ce8c68056b0a3c261b9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8623156125772cdcdde31ff314952b9e69f687be1cacc4a362a19d1e6f9af606.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_141",
+      "dbfId": 51705,
+      "name": "Desperate Measures",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "<b>Twinspell</b>\nCast a random Paladin <b>Secret</b>. ",
+      "flavor": "Desperate times call for disparate secrets.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dbbff2e24bdbe541ab37e1d9df97798e47ed002a0675470eef2455b957ad4b1a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8052f3346631d067a3f0af87c0f5bdf9c60fd4a368a3439afe265eae4821015e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Twinspell"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_769",
+      "dbfId": 53124,
+      "name": "Improve Morale",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "[x]Deal $1 damage\nto a minion.\nIf it survives, add a\n<b>Lackey</b> to your hand.",
+      "flavor": "\"The beatings will continue until MY morale improves.\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c106cfc2d76887e8702651f7b9db572725a83f6ffebaecb1bbfedace8dc6b2b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e60e3f21e24838a9718ce5d6b16ef3fcd12bbd0b3580a26a0cd9df183f07bce1.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_608",
+      "dbfId": 52991,
+      "name": "Magic Trick",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "<b>Discover</b> a spell that costs (3) or less.",
+      "flavor": "The world is not ready for an illusion of this depth and intricacy!",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/952a01e61709cd82973debb2aa68779cdf29419163a8d4bf8f05fc06dd93a2b3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a5cc8641057cf4b9bea528d917f32eaee544353a55425737b7de2c158718842.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_570",
+      "dbfId": 52494,
+      "name": "Never Surrender!",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Secret:</b> When your opponent casts a spell, give your minions +2_Health.",
+      "flavor": "But sometimes concede.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1906d7002109ce62eec3160a42823386817c452393a78c39705750f8de0d6b03.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98790fffa73541fc86e7cfea2ec863056b6d6a7802d51816eb9c3ab3c3993d43.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_544",
+      "dbfId": 52312,
+      "name": "Potion Vendor",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Restore #2 Health to all friendly characters.",
+      "flavor": "Everyone gets two because that\u2019s all she can hold.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/678c31ee063528ba470f2484e168e1fc5c9cc6995c17844c17b0d189cf0e8230.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1383947c772aeac82557fb5ba3bd8f9914c03ba1413587f4cb1748e05be0265d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_577",
+      "dbfId": 52639,
+      "name": "Ray of Frost",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Twinspell</b>\n<b>Freeze</b> a minion.\nIf it's already <b>Frozen</b>,\ndeal $2 damage to it.",
+      "flavor": "If you have zero chill, this can help.",
+      "artist": "Alex Garner",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d61bdefd19291a1089cd37479e8f2fa79df79ab53124b614fed0bd37639b1b3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/014ecce470ccfdd8deabef51cf5d6a3efac2420dec8590bd9ec6e73f73feb0e6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Twinspell"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_587",
+      "dbfId": 52894,
+      "name": "Shimmerfly",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Add a random Hunter spell to your hand.",
+      "flavor": "Plenty of buzz around this card.",
+      "artist": "Cecile He",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b8b078e194272d435028f2f6a97a769134f8cd7171af253e18172d2e21c4051.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb4c09b8961fb76708fd02e24ef63c4138956b9260d5c40c18e8eaad251f315f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_433",
+      "dbfId": 52422,
+      "name": "Sludge Slurper",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Add a <b>Lackey</b> to your hand. <b>Overload:</b> (1)",
+      "flavor": "You can't stop slurping this delicious sludge!",
+      "artist": "Rudy Siswanto",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74a53e5c77e88f3ed9bba43c0460302998b1cf761e1845f92f185017ffebdbc3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4c3647124e32ccff2039ab43d70d23d750a57ff76a72812b8a6cdf33192fafe.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_010",
+      "dbfId": 51375,
+      "name": "Togwaggle's Scheme",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Choose a minion. Shuffle @ |4(copy, copies) of it into your deck.\n<i>(Upgrades each turn!)</i>",
+      "flavor": "\"Many minions equals many treasures for king. Kobold arithmetic!\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dfcbb6005d531279b5b38eb8561f84344a7ac0560808db5eba8eb9cf44c11155.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e94dc420b8e2b8607f92d3555a0473f945e5e01cb0ad4d9600f8d9a4993a1445.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_077",
+      "dbfId": 52277,
+      "name": "Toxfin",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give a friendly Murloc <b>Poisonous</b>.",
+      "flavor": "I'm addicted to him, but I know that he's Toxfin.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d7a099c7d5b861d56223884049498793aa61cd9562d5651b7c129941d500c2c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b2cb7bb07f87408a3d535c483d334188ea93865f4f20e780e147ec4c049249b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_092",
+      "dbfId": 52292,
+      "name": "Arcane Servant",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "flavor": "\"Would sir like me to punch something?\"",
+      "artist": "Wayne Wu",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c7993cfe164745eccda7fcbd4284039f2797d9eb44bdc46450dd80130aede1e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_352",
+      "dbfId": 51781,
+      "name": "Crystalsong Portal",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "<b>Discover</b> a Druid minion. If your hand has no minions, keep all 3.",
+      "flavor": "Experience the draw of the wild!",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fbce6d654786c0b13aad943014d1385b4a827925e50ae8856232df700cae4a4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9564bdec4d11898324b7068fa5fc95ee540a3d37d7ec8e2945dcce31b22e7287.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_735",
+      "dbfId": 52866,
+      "name": "Dalaran Librarian",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> <b>Silence</b>\nadjacent minions.",
+      "flavor": "Don't make her raise her \"shush\"!",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c6b69e41e9650a29e6be1705cc340cfb06ee5ba45580a3300aa14462f778039.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Silence"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_733",
+      "dbfId": 52810,
+      "name": "Dreamway Guardians",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Summon two 1/2 Dryads with <b>Lifesteal</b>.",
+      "flavor": "They're a nightmare to deal with.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f66ef20575a3ca2347d8d819469cb938a8f77df3f35a3b67b2c10a0922c60f0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8a044359484b42aa0ed26cdee2bb1669481fb70a7e6bfd3192422151c8acece.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_400",
+      "dbfId": 51380,
+      "name": "EVIL Cable Rat",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Add a <b>Lackey</b> to_your hand.",
+      "flavor": "Gradually driven to darkness by the promise of unobtainable cheese.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d9bdeebc371d86d48b38cfc16591c969727608dea32e5f2d8b39b61643c5630.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b65cfeac2285883c350837b6d5bccbaaa4ed8dfad764cc129beaf80f673a3d15.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_413",
+      "dbfId": 52109,
+      "name": "EVIL Conscripter",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Add a <b>Lackey</b> to your hand.",
+      "flavor": "Kobold! There\u2019s a place you can handle\nI said kobold! When you\u2019re short in the candle\nCast a spell with the E! V! I! L!  ",
+      "artist": "Tooth",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/532984af4bbdb6af2d84393b781a9e9f01b0656706c548dc18b558890915680e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7a6910f4d059b0003d0539557bb993e6676215074d8a9fb4638c2635d0f4315.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_606",
+      "dbfId": 52872,
+      "name": "EVIL Genius",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Destroy a friendly minion to add 2 random <b>Lackeys</b>_to_your_hand.",
+      "flavor": "You do not want to be on the business end of this intellect!",
+      "artist": "Rudy Siswanto",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b7bd63aba0751b6d0c7187822ec03eeacf496d8899adf04c84cb682ee56ca8b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a1d0d97908807a78a75bcc1b8dcd9af98634acf0a72902933f3368bfbcfd419.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_743",
+      "dbfId": 52935,
+      "name": "Hench-Clan Hogsteed",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Rush</b>\n<b>Deathrattle:</b> Summon a 1/1 Murloc.",
+      "flavor": "This is CLEARLY their first rodeo.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/928caa2e61802536ac484bb14a4f78229f166c1d0cc301871ffeeca35fe3fc83.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/055cf52257d4bd2dd66f03b10811578f6d53770b607b89865cd9a9edf6ed8a9b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_732",
+      "dbfId": 52809,
+      "name": "Keeper Stalladris",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "After you cast a <b>Choose One</b> spell, add copies of both choices_to_your_hand.",
+      "flavor": "Keeps your choices handy.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e41d561a1ab1921adc9f217e97ad39feefe6cb3e3681c21a922b4857b753092c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6c846a2da5b0364ab2c5d8c288fc3e9ad5d9b8ae01013244406bc599b8d4ed2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_575",
+      "dbfId": 52502,
+      "name": "Khadgar",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "Your cards that summon minions summon twice_as_many.",
+      "flavor": "\"What do you call two minions summoned at once? Twinions, haha! Wait... where are you going?\"",
+      "artist": "Evgeniy Zagumennyy",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df65385b5105a522d705e787d2c10f9585c8c10b7eec0e0a760392ab67afb8e9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97aebe47992d8c3c6a3a0b6619468f1da7f4514d0137938f03b45d36069187f2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_568",
+      "dbfId": 52490,
+      "name": "Lightforged Blessing",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 0,
+      "health": 0,
+      "durability": 0,
+      "text": "<b>Twinspell</b>\nGive a friendly minion <b>Lifesteal</b>.",
+      "flavor": "Some might call this a lightforgery.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/818dae21a364596e4ceaa1ea8a35554ed7efc3cd80c322dda0fac6a12afb7ac3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05962ddd3adb24843e361bc278f72eb39d2fa5339f698a85ed496190bfe882d0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Twinspell"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_182",
+      "dbfId": 51977,
+      "name": "Magic Dart Frog",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "After you cast a spell, deal 1 damage to a random enemy minion.",
+      "flavor": "There's a powerful throat in this frog.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ad00a3145a71352b88bc78bd55f7fa4cc8602e9666d119cc4d12251c3392263.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eed97a7ed28c1e5e8d61d68ec4b1c099cad9bf903367d3ac7549e2d437b18416.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_603",
+      "dbfId": 52706,
+      "name": "Mana Cyclone",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> For each spell\nyou've cast this turn, add\na random Mage spell\nto your hand.",
+      "flavor": "It'll put a good spin on your spells.",
+      "artist": "Ware Li",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7abb40eb382b2373e97e4f53dbf5fbe33a2cc9152a7e741d3ed637a524d968dc.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f92ecc718f861355ff46a9bbda6278329eacb2b80327f3360e5b9c04d6d1667.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_748",
+      "dbfId": 52942,
+      "name": "Mana Reservoir",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 0,
+      "health": 6,
+      "text": "<b>Spell Damage +1</b>",
+      "flavor": "If it soaks too long, it becomes a reservoir hog.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d27701b6517af2dad6461f8990161c687797409c324e69e8a0ef670f6d93cedd.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee6ec58546fd87774c2bc5828bd0902a3f846977dcabb6462eacc57949340a2a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_571",
+      "dbfId": 52496,
+      "name": "Mysterious Blade",
+      "cardSet": "Rise of Shadows",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> If you control a\n<b>Secret</b>, gain +1 Attack.",
+      "flavor": "It knows every secret you have left.",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb2517bffdc8ece2c28bc69b4ef6ec25c827163f8af17d98cde3bb8153254b97.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc81882211754df82773da92a3d8eb4ac6613862f9126e338af7165d40b56ec2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_602",
+      "dbfId": 52698,
+      "name": "Plot Twist",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Shuffle your hand\ninto your deck.\nDraw that many cards.",
+      "flavor": "It\u2019s coming from inside the deck!",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96106d840e086cb8d026e20abbf92ab800932ac27b1de1df5aaf00a627081301.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba474b28b2c8eee19f9681630e6f22f84539882ee239473c1d081d346971f11e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_373",
+      "dbfId": 52076,
+      "name": "Rapid Fire",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Twinspell</b>\nDeal $2 damage.",
+      "flavor": "Pew! Pew!",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9c9422c57ee88fad1a5bca6963567b9428cfb119e64f57b2a72f881f2e8436c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b57ea38f37ce87787be05a2a01ad195a498293008cd1a1c44fbaaf3244216cad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Twinspell"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_030",
+      "dbfId": 51567,
+      "name": "Shadowy Figure",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Transform into a_2/2 copy of a friendly <b>Deathrattle</b> minion.",
+      "flavor": "Terrible at shadow puppets: \u201cThis is\u2026 a tentacle! And this is\u2026 two tentacles!\u201d",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f439b09f615eb274f00a4f1b0d3df61f3be6c0b5d96b1637ca2ed78676f2a916.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8555581564b8f8a3842c622f6046237bcab0c8f243e852f19d4235a82955b9d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_710",
+      "dbfId": 52468,
+      "name": "Soul of the Murloc",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Give your minions \"<b>Deathrattle:</b> Summon a 1/1 Murloc.\"",
+      "flavor": "Previously thought nonexistent.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0d2e92dd685cc5013747f83661a0957151bb562496a3a23a884f61bc3da3330.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0994e97c443db2217e1d7f99e20817255e3c45f59a52b20717dd897e9f309ce6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_089",
+      "dbfId": 52289,
+      "name": "Spellbook Binder",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If you have <b>Spell Damage</b>, draw a card.",
+      "flavor": "You're bound to love his work!",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f77ad5998e0478e6c284753d6e5aa00217cbdfc9eb1ca33fd29c4ebc7f9ab5b0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf1fa0d5b5e0c315c85bd200998f013df927c27f28064792f64277d7c222242f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_086",
+      "dbfId": 52286,
+      "name": "Sunreaver Spy",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you control a <b>Secret</b>, gain +1/+1.",
+      "flavor": "She's watching. Always watching.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd66e270a2c0517535543addec534ee4328d80fae07a8ac3676e9aec8a35aa6e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9505cb51785926c1e2cd750b9e212da75b72b433426d0ce53252cb50df6ad0b9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_062",
+      "dbfId": 51737,
+      "name": "Sweeping Strikes",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Give a minion \"Also damages minions next to whomever this attacks.\"",
+      "flavor": "Infinitely preferable to mopping strikes.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77ff4052ab03d8e21655f555839f4eebb6e250c8b93755d5472b6b3d5ca2244f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d7b3a67ec66415badf2f753c3edd3ad2a13191a5aa213b3c1595dcf83331472.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_049",
+      "dbfId": 51724,
+      "name": "Underbelly Angler",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "After you play a Murloc, add a random Murloc to your hand.",
+      "flavor": "Attracts murlocs\u2026 and moths.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8245d159432fc3ca7be43828a284c2f5be6bc8a66442759bd6ecf0f3a24e1d3b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c1e9e159e01382319feb446db1b23a6ca79929a43f04ccb83d38dcab8fa6772.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_714",
+      "dbfId": 52603,
+      "name": "Underbelly Fence",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If you're holding\na card from another class,\n_gain +1/+1 and <b><b>Rush</b>.</b>",
+      "flavor": "She\u2019ll take anything you have\u2014except scruples and a good work ethic.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1c08fc1c4cac1f88bedf7818b3a0706b7da45a1a979f3a5fd93cf1ff0afc20d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e921d584fcd8b8f77aa3927242a285c962078f24ba7cba6a2dc3f7d661d264de.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_759",
+      "dbfId": 53104,
+      "name": "Vicious Scraphound",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "Whenever this minion\ndeals damage, gain that much Armor.",
+      "flavor": "It begs for scraps.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/099d1c20d7007015501bd0de3fdca3356421e475398c984c378e19c02d24501c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/598d54e38f73ed94721e3a308e5cfa1f4e730fbab0c59a591062df527e72de3a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_432",
+      "dbfId": 52421,
+      "name": "Witch's Brew",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Restore #4 Health. Repeatable this turn.",
+      "flavor": "The swill has eyes!",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92377326a5cb4959f69586181ccf337e796180983a4c3796c9cb8ffd21dbec0e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd22019bcb15165c715be13b91e408fcfaafade1f4c3a39bc2f5f088151f2472.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_800",
+      "dbfId": 56047,
+      "name": "Zayle, Shadow Cloak",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "You start the game with one of Zayle's EVIL Decks!",
+      "flavor": "E.V.I.L. is the new black.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked by owning all The Dalaran Heist chapters.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52f58921ee1cd58ca884611c90b3ae137ae833bf1a38de3fa6d4563d8f95656d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82b2b6d36399ab620a5bc47212f6ea302ea4f3d5b6e80c4da2b2bc2894a22252.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_434",
+      "dbfId": 52654,
+      "name": "Arcane Watcher",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 5,
+      "health": 6,
+      "text": "Can't attack unless you have <b>Spell Damage</b>.",
+      "flavor": "Now his watch has ended\u2026 until you have Spell Damage.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba1603bd05df6d9600d47c41cd6b822a0a568490c784cf0981b1290efa6b2dd4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77d75ac844860fb697c2007416375b14df462f553110221379fc0ae629db2458.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_351",
+      "dbfId": 51779,
+      "name": "Blessing of the Ancients",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "<b>Twinspell</b>\nGive your minions +1/+1.",
+      "flavor": "Arguably the cutest blessing.",
+      "artist": "Steven Prescott",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/127c42e5d29e6d5eaba8b0d239df16442ed27e9648fd1735648d901de07e58ac.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf911c227d25530aa284e3cb3e5dbeb5d123487aecd5dd2270a429e49750d9a4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Twinspell"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_146",
+      "dbfId": 51757,
+      "name": "Bronze Herald",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Add two 4/4 Dragons to your hand.",
+      "flavor": "This is why you shouldn\u2019t shoot the messenger.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e56a7fcdf6338e0f52a22ad8cf9e25b08f0d2e19e8c476d8cf5b69335cee2b8f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a382910269ec67f2ac5e9ef7a0a26b2e006b1dab000d7c1ccaf1c711ad8fca3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_727",
+      "dbfId": 52660,
+      "name": "Call to Adventure",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Draw the lowest Cost minion from your deck. Give it +2/+2.",
+      "flavor": "Even the smallest minion can change the outcome of the game.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e9b920c8be03ccd9e42439f395b5f5fb691ad3a502af525b715e02e693d19a2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15f59a9d55fd394a2cecc6178e850f408f3818ce390b078ab6ce28f2331989e5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_060",
+      "dbfId": 51735,
+      "name": "Clockwork Goblin",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Shuffle a Bomb\ninto your opponent's deck.\nWhen drawn, it explodes\nfor 5 damage.",
+      "flavor": "They always wind up bombing.",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f4bedea3c7154c46a920f6f87b007aaac0a6b25adce4c7b8bd1019d7746d13d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cfc064581972c66d7a64c6bb6cdd77b5893b20fb81de04b2f5b82119ced9aa00.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_573",
+      "dbfId": 52500,
+      "name": "Commander Rhyssa",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "Your <b>Secrets</b> trigger twice.",
+      "flavor": "Two people can keep a secret as long as neither of them are Commander Rhyssa.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15e9ba7211af368d8a134d10b504f79e499a0b546b0c64e044e0d4ed1cf8421d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_177",
+      "dbfId": 51971,
+      "name": "Conjurer's Calling",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "<b>Twinspell</b>\nDestroy a minion. Summon 2 minions of the same Cost to replace it.",
+      "flavor": "If only you\u2019d let it go to voicemail\u2026",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f183c5d2983ecc571132525d19b95d334ad888b722d1b8538db431be644fe083.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3844ffb73241fe6998158751cfce79cd4f3b0c96c075410defdba6d092c46ba.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Twinspell"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_415",
+      "dbfId": 52111,
+      "name": "EVIL Miscreant",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "text": "<b>Combo:</b> Add two random <b>Lackeys</b> to your hand.",
+      "flavor": "Because there are no G.O.O.D. Miscreants.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9961dc8b268cc4619dbd0ef7d0e7f4735f6db684d6bc0e2a398e09ea9e6979d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e2cec8afd20ec13f2d8c6f52394549fbee9de3e30c03b9ff17c36f3522a01bc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_744",
+      "dbfId": 52936,
+      "name": "Faceless Rager",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 5,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Copy a friendly minion's Health.",
+      "flavor": "When you need to rage anonymously.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8c3c069bff34ebb476cf9ed4002845de5e674abe2e1ee63e5e9b26bae587b6c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5770408a0547656393ec885128c1a9d4b6ce7acbbd0cc967777b8f784b5c715c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_747",
+      "dbfId": 52940,
+      "name": "Flight Master",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "faction": "Alliance",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Summon a 2/2 Gryphon for each player.",
+      "flavor": "Your gryphon will be summoned following a brief safety demonstration.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/febf14472cbf37f9bae8952b2fc0df08972c10dd57c4dfb4712b1987bd1d894c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/658d49df6e20703257cbc68accfc2c0dd71b1c6fafc6350352651154db31e438.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_090",
+      "dbfId": 52290,
+      "name": "Hench-Clan Sneak",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Stealth</b>",
+      "flavor": "He\u2019d be a lot sneakier if he wasn\u2019t trailing 300 yards of power cable\u2026",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2e961cdcfac7d0ea1db891ab2b0adb72867fc9ff36a5a0e084b9782ef96f5d9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_605",
+      "dbfId": 52871,
+      "name": "Impferno",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Give your Demons +1 Attack. Deal $1 damage to all enemy minions.",
+      "flavor": "Imps don't get mad when you set them on fire. They think it's cozy.",
+      "artist": "Chris Hayes",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8adefb44774d5256f102dc8d7d65ce407dcd9ed4eee1df1e36606119a7547c91.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5c8d1f4552c53bb8984d36e70766dbeeecc71065c240b28b136372d40fabcd9.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_355",
+      "dbfId": 51791,
+      "name": "Lifeweaver",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "Whenever you restore Health, add a random Druid spell to your hand.",
+      "flavor": "Lifeweaving is all well and good until it's time to cut the thread.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74cdf69889c7355fcc58f3a1c2df6ac3b3dadab5ac483b195e2f535a24c7a53c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55678a22abb26b92103886fcb07d35b9d742a71754043a3424169ac45425c706.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_729",
+      "dbfId": 52715,
+      "name": "Madame Lazul",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> a\ncopy of a card in your\nopponent's hand.",
+      "flavor": "Of course she knows the future, she\u2019s been looking at your cards the WHOLE TIME!",
+      "artist": "J. Axer",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a8ea445d9df0d284eafb376bf5af0d8f491f85711a513183e70745573e5da19.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/651018a9220e46891f4e08422d0c3314fbd26becca8bae3a55c19837dc22c7d9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_773",
+      "dbfId": 53173,
+      "name": "Magic Carpet",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 1,
+      "health": 6,
+      "text": "After you play a 1-Cost minion, give it +1 Attack and <b>Rush</b>.",
+      "flavor": "Its small yet fierce riders are affectionately known as rug rats.",
+      "artist": "Tod Harris",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fb665f419625ec3b1891fc814af0a61be053895a4905edbd9a7502aa1da3da7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9efcbb47312df966c87cdbeb934c8d9d2b7593555c9d148575885676f9067c6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_163",
+      "dbfId": 51943,
+      "name": "Messenger Raven",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a\nMage minion.",
+      "flavor": "You can make a collect CAW!",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7244d4df74836639c9d278d1e0eeff11ffa3a4d5fe55e7244b1fb90b623f6e62.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_377",
+      "dbfId": 52082,
+      "name": "Nine Lives",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "<b>Discover</b> a friendly <b>Deathrattle</b> minion that died this game. Also trigger its <b>Deathrattle</b>.",
+      "flavor": "Beware the night of the living pets!",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed6e6f6ebc75f900c1dadc1fc408376a58d137955d431ec50cfdba60aaed19c8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1e124f678b12c0e38acbfdc254153d27ff3159d78d334469974f3d75582963b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_007",
+      "dbfId": 51371,
+      "name": "Rafaam's Scheme",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Summon @ 1/1 |4(Imp, Imps). <i>(Upgrades each turn!)</i>",
+      "flavor": "\"When your first plan fails... imp-rovise.\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0478f3f1dabfd627039cbbf35e5d5c05f64e322f0c0b9564b51afbc1fe6685f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ee530ad4d8219b54402f4a9093ab14abcdcc95203afdd438db017fbf5684e26.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_081",
+      "dbfId": 52281,
+      "name": "Spellward Jeweler",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Your hero can't\nbe targeted by spells or\nHero Powers until your\nnext turn.",
+      "flavor": "The fanciest possible way of distracting enemies with shiny things.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/306f7e68066b39329bdc8eded4984310c3a71fd2b82afa30af43bca466a4b4a5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b56c846d833ba401effe92529ee966bdaf4bfcfbe0b40184de7409882370eab9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_604",
+      "dbfId": 52790,
+      "name": "Ursatron",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Draw a Mech from your deck.",
+      "flavor": "It's been programmed to include all the bear necessities.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8938dcaf0dfbe12699870f48ac037991e21f73b4da837bf9af8ebf8fb91136e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10ebf8c9abc4bb555082f7795f0f270917203152a3410d9913eb97283738b230.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_372",
+      "dbfId": 52072,
+      "name": "Arcane Fletcher",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]Whenever you play a\n1-Cost minion, draw a\nspell from your deck.",
+      "flavor": "Stop trying to make fletch happen. It's not going to happen.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4dd854f2c9b7d6f670d318b8f13ca6f956176185cfdcf579a9b8b6e4d68e89b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a968a8e8e2f4c9c0bd1a859a9bdea38d8255919be6e8330749ed9fd80f8b2a06.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_558",
+      "dbfId": 52438,
+      "name": "Archmage Vargoth",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "[x]At the end of your turn, cast\na spell you've cast this turn\n<i>(targets are random)</i>.",
+      "flavor": "He's an archmage, but he might want to brush up on the basics... like aiming.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1dce4a2fa7682f2008a094053e3bf98cfc5d2c98294ccfb4f547d320be6975f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b63148c95b9e471e63f2bc821371dc04818cf9c8bbc36ce232507ff8f7676f5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_008",
+      "dbfId": 51372,
+      "name": "Dr. Boom's Scheme",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Gain @ Armor.\n<i>(Upgrades each turn!)</i>",
+      "flavor": "\u201cWe did it! We blew up the vault!\u201d\n\u201cYou mean the vault door?\u201d\n\u201cOh. The doooor\u2026\u201d",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b97e55c5e8fe5f0eaf15af32d2e4269cff37797ed9eaa73bcec439545063cb7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4935c11c2517e089b885d99922ad72afea42349f175bbad2ef135246fc7e7dc9.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_563",
+      "dbfId": 52482,
+      "name": "Eager Underling",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 2,
+      "durability": 0,
+      "text": "<b>Deathrattle:</b> Give two random friendly minions +2/+2.",
+      "flavor": "Eager to please, even if it kills him.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46903833ef921ef4039df5c2264d2519344ac851d1540d40209c58961986b408.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/211165a21066709300ffd51c5fdaba86fc5f799121b7052c5aeb4ebf4a345878.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_058",
+      "dbfId": 51733,
+      "name": "Hecklebot",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 8,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Your opponent summons a minion from their deck.",
+      "flavor": "Built by goblins, designed by a troll.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05d1a7eb5773a0b711a46e19252c4a3ba5deeb24863a641326bfb515f755e7ec.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_416",
+      "dbfId": 52112,
+      "name": "Hench-Clan Burglar",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a spell from another class.",
+      "flavor": "She\u2019s more of a rat burglar.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4769b238de7c084b8194d53f443de18bd18e3499d4f3f310d7e42a55ca135c3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5da58dcbdec8382d74d7f68948b957ab9a4a0240d9515e3926dfcb7478e095d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_087",
+      "dbfId": 52287,
+      "name": "Hench-Clan Hag",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Summon two 1/1 Amalgams with all minion types.",
+      "flavor": "The Hench Clan is an equal opportunity employer, no matter which parts of you came from where.",
+      "artist": "Christopher Hayes",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc718f4145afbde7556693339b2c802d7c7fb31a30781451186ca87db77d6ba4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/685feb8a128bba4112752ceb127ecae37aa1a40d8af6e4c4b0d4563079b14a26.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_040",
+      "dbfId": 51715,
+      "name": "Hench-Clan Shadequill",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 7,
+      "text": "<b>Deathrattle:</b> Restore 5 Health to the enemy hero.",
+      "flavor": "The Hench-Clan has a point.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1eb5611380b276512b3a56accb3d64187d2699bd5f9df9d1500e14a771f18c5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15821da6c4b795c2e55bbe2c74f75939975c6fe6b71fb659694d863860b3dda0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_576",
+      "dbfId": 52638,
+      "name": "Kirin Tor Tricaster",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Spell Damage +3</b>\nYour spells cost (1) more.",
+      "flavor": "The math checks out!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8bf8409a3333bc86b47890bf198a02bbf72e1c890f0d881ab4f409b601d8527.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c47ad7eb6a67e9b1d07820403337837451d9a5410badf5c6196a49d2d5de105.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_371",
+      "dbfId": 52070,
+      "name": "Marked Shot",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Deal $4 damage to_a_minion. <b>Discover</b>_a_spell.",
+      "flavor": "Obviously it's marked for greatness.",
+      "artist": "Alex Garner",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d359d055c5780fdeb8660205b50039e9a181f943d0cfbbf0b14e29e7e49863ff.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e72550b07e7cca08f8b85d19c2c30180973ea42f370437fb14f62c8ae32a55b6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_770",
+      "dbfId": 53138,
+      "name": "Omega Devastator",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> If you have 10\nMana Crystals, deal 10\ndamage to a minion.",
+      "flavor": "The Alpha Devastator didn\u2019t devastate enough. The Beta Devastator devastated too much. But the Omega was just right!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9d6bb9f7db7cde9cfe1b35d10505556a2ac329a7bb6e5276c39d7f6fd53e183.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ed4b76439ed0b559e18b23ba9caf7f9745e671eeca3041b624f7d2c00edaa10.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_582",
+      "dbfId": 52707,
+      "name": "Portal Keeper",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Shuffle 3 Portals\ninto your deck. When drawn,\nsummon a 2/2 Demon\nwith <b>Rush</b>.",
+      "flavor": "No longer allowed to be \u201cit\u201d when playing demon tag.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e60299ffc7e64180ddff10968d0d2e6f5af14f657a7d76c1aa03996a4b8e9e2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7addda7345b3a7d9f81947c5fe7d94bad17315726d9528c724bf7350b0328620.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_551",
+      "dbfId": 52418,
+      "name": "Proud Defender",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Taunt</b>\nHas +2 Attack while you [x]have no other minions.",
+      "flavor": "It'll take a humble offender to defeat him.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf94df0dc143421a3942fa6e5c8be92292afa2899a3ce7a21fb7b6be2c1d3759.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8c1641302c137d4fc346e8493d0de11f275e6ee7e8f9fda029c0e6c4185de9d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_726",
+      "dbfId": 52636,
+      "name": "Scargil",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "Your Murlocs cost (1).",
+      "flavor": "Wanna know how he got those scars? So does he.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "race": "Murloc",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9527affda938e9c5b8d26e8d411b584fc3ccd2f99e0c603b91c748fc32b3b8b0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23030609eced44807d6a7f0f0ac1145113a85609d357f2c0ed0c6f1a7a24a244.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_771",
+      "dbfId": 53171,
+      "name": "Soldier of Fortune",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 6,
+      "text": "Whenever this minion attacks, give your opponent a Coin.",
+      "flavor": "His allies call him invaluable.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84c43eeaf84ca7e09900dfbc32e6eef78cbd7c91d2af5444b26aedaa03dbece8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad9a84c978949d993cc9dfe0b5f514024f93230de5fafbd11d5d3cba63cefc1e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_078",
+      "dbfId": 52278,
+      "name": "Traveling Healer",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Divine Shield</b>\n<b>Battlecry:</b> Restore #3 Health.",
+      "flavor": "Some heroes have soft hearts and hard shells.",
+      "artist": "Tod Harris",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/814bb68e024cba1b6b4b1ab9c4567fbe17921eb6f3eb115a2034e133aca68bc4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f03720ef0563bdcd6cacc333f5a8f10b9347b010fd34f8776f25aa520743115.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_065",
+      "dbfId": 51847,
+      "name": "Unsleeping Soul",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "<b>Silence</b> a friendly minion, then summon a copy of it.",
+      "flavor": "It's 3 am. Do you know where your soul is?",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da26aae208116925ad2836230dc76ce2aed32daa5222a8eb50b62e72c06b16ff.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_716",
+      "dbfId": 52606,
+      "name": "Vendetta",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Deal $4 damage to a minion. Costs (0) if you're holding a card from another class.",
+      "flavor": "A vengeful and vicarious vanguard against violent villains or vexed victims.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/352413c0c888a209f81ba23e30eb595fdee1878d71922bce125588fd052d99d0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/076d6638e9142d73c793e6368948a549e071f3ed3c3a4b9dc3e87b459e4ec49a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_095",
+      "dbfId": 52295,
+      "name": "Violet Spellsword",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 1,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Gain +1 Attack\nfor each spell in your hand.",
+      "flavor": "If you have to wield a spell and a sword, then neither is performing to expectation.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be4880f325eca0bd4fa957ea489812fa3f9b305260efcb9af8e388f8bb1e745e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8290822b5cb7dea31e5d683a2c70fc8557c4e78573cfe36fa41d43f3fcd2b57.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_720",
+      "dbfId": 52617,
+      "name": "Waggle Pick",
+      "cardSet": "Rise of Shadows",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "durability": 2,
+      "text": "[x]<b>Deathrattle:</b> Return\na random friendly\nminion to your hand.\nIt costs (2) less.",
+      "flavor": "Kobolds informally refer to its effect as a deathwaggle.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a715676d5f1a931c76b8c1d6220579177c66a6002eca06fa4c8b64d5c8ef26ac.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b6b9fbf40b0d280832cab4f7cc269f900c42b72a2ebfee68669f9c6595a078b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_063",
+      "dbfId": 51738,
+      "name": "Wrenchcalibur",
+      "cardSet": "Rise of Shadows",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "durability": 2,
+      "text": "After your hero attacks, shuffle a Bomb into your [x]opponent's deck.",
+      "flavor": "Whoso pulleth out this wrench from the toolbox is rightwise king of the lab.",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc96c310eac859f0a3a49884f30ece633fe1f3a54bc7602b0984a3775ff37e45.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d5fb755b81b90bc185ad24c0b6a4d15ede37fdf2d3738079cba76ac0246a5f4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_548",
+      "dbfId": 52415,
+      "name": "Azerite Elemental",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 2,
+      "health": 7,
+      "text": "At the start of your turn, gain <b>Spell Damage +2</b>.",
+      "flavor": "This is some bad blood.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f90664e5f1e0ee3255b0afbe933d56f58e230a6c021725842d4f0e6aff584f01.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16cb102e8056a55c1d41f37ee014b92202e9ffd0b472e392fdce056672074307.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_546",
+      "dbfId": 52413,
+      "name": "Barista Lynchen",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Add a copy of each of your other <b>Battlecry</b> minions_to_your_hand.",
+      "flavor": "\"Thanks a latte!\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc4cad9e2a3fb35341e916199c26e8f6d5b7f72d371bd90035d48dff25018b57.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbbe0db14798cb785e99f32523b75fa25fab4de13726cb2fd610cbae9816d4c4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_039",
+      "dbfId": 51714,
+      "name": "Convincing Infiltrator",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 6,
+      "text": "[x]<b><b>Taunt</b></b>\n<b>Deathrattle:</b> Destroy a\n random enemy minion.",
+      "flavor": "It\u2019s always nice to steal a familiar face.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e89699c7b19de5d03a84819fd688d96d209964e4933671c785b1abce87a2efe5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8dbd370cda4d24089a568eeed33b841e70b1ee0c8116c9a252bdb002fde44b7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_799",
+      "dbfId": 53179,
+      "name": "Crystal Stag",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Rush</b>. <b>Battlecry:</b> If you've restored 5 Health this game, summon a copy of this.@ <i>({0} left!)</i>@ <i>(Ready!)</i>",
+      "flavor": "Arrives alone, but usually leaves with a friend just like him.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0869682e87dcb19b9616986468853a7c6c1e2f4477aaff88e620ab1cfcdf4158.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72148b30c7e638e93d5cc85e28dd34621e697f539d5e092f162a85da6a6ec692.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_085",
+      "dbfId": 52285,
+      "name": "Dalaran Crusader",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Divine Shield</b>",
+      "flavor": "Stops for nothing\u2014except donuts.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/712542b27792dca095f51a740c18814b269b8c008daa6c6923168cdb8ee2df35.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_147",
+      "dbfId": 51761,
+      "name": "Dragon Speaker",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Give all Dragons in your hand +3/+3.",
+      "flavor": "All of his speeches really drag on.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d995470fbfbe55136d5380d9975d3aa236ab864671b1a4ca6a7869089c5fd59f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06fac7666ec30578e0c11fcce75aa2bd6a79e6f73506a91278f846d7fe60c861.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_731",
+      "dbfId": 52742,
+      "name": "Duel!",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Summon a minion from each player's deck.\nThey fight!",
+      "flavor": "If you don\u2019t fight to the death, it\u2019s Duel Yielding.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d5d6a936c310d6da50f6aee79509603f99992252df4d20075c4dcb0a45c5ece.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_009",
+      "dbfId": 51373,
+      "name": "Hagatha's Scheme",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Deal $@ damage\nto all minions.\n<i>(Upgrades each turn!)</i>",
+      "flavor": "\"All shall suffer!\"\n\"But Hagatha, those are your minions...\"\n\"I said ALL!!!\"",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b9924be4568192907744dea887e227fc46890b92bc502fb61b2f0e380532e19.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcdeba286b840934b3435b33f109d9a28da6e7f3cd868d96f1ef17faf765c497.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_589",
+      "dbfId": 53099,
+      "name": "Hunting Party",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Copy all Beasts in your_hand.",
+      "flavor": "Not sure I\u2019d call it a good party if everyone ends up beside themselves.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97997d7d0a0f319b36e331670b5442d9a059a4d333ebcb5f4c7842c7c97a17da.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b41712b5615d6202aab9c88bbc64c13d638c936c46db1d0d5decd1cb91340f10.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_052",
+      "dbfId": 51727,
+      "name": "Muckmorpher",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Transform into\na 4/4 copy of a different\nminion in your deck.",
+      "flavor": "Fan favorite in the muck morphin' sewer strangers.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bdc7797427e5f6b1265a296b9772050002d75ca540b6d72d7cf48664349d055d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a84e841daff237112868f3a5dc6add585bbd840f89ca36b86ab85dede70c222.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_749",
+      "dbfId": 52943,
+      "name": "Recurring Villain",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "text": "<b>Deathrattle:</b> If this minion has 4 or more Attack, resummon it.",
+      "flavor": "Mwahahaha! You'll never catch him this time!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bde6de938fb91f3f0cb9c5bb4be6a50eb9fadc2fd9c61583be77cacea787e9dd.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4461695d4446a249a38c1da84de4c708a1563b7e1d2a857a7c779e4f18891992.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_539",
+      "dbfId": 52307,
+      "name": "Sunreaver Warmage",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you're holding a spell that costs (5) or more, deal 4 damage.",
+      "flavor": "What, did you expect the Sunreavers to be coldages?",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b241862d0759bcc2c4e19694b2e99c8d931f8fe76b440f762f2773eec2f0107.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db9d903746092adedbc38a6db00d1155cccb047a6e055a6bd355b3c64f5f2718.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_185",
+      "dbfId": 52058,
+      "name": "Aranasi Broodmother",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\nWhen you draw this, restore\n#4 Health to your hero.",
+      "flavor": "She's got a big brood and a big mood.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e2e07f314f668c562eb704dc09bdb0bac5559da0d52144fd30c2a097af22832.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a9bf1291f89a7ccd1c6e71940a573d48245b3f98ee0487b628c29d940438415.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_173",
+      "dbfId": 51966,
+      "name": "Darkest Hour",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "Destroy all friendly minions. For each one, summon a random minion from your deck.",
+      "flavor": "It's always darkest just before you find the light switch.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1be239fb46e499df7cf0ea802e65616ee77c5271948522c409f69a5926ae16ae.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5e3449492b4c3dbd67a33d53bdbc470cfac3e4099844f9c8db6f11bd2c931ae.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_566",
+      "dbfId": 52487,
+      "name": "Eccentric Scribe",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 6,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Summon\nfour 1/1 Vengeful Scrolls.",
+      "flavor": "Them\u2019s fightin\u2019 words!",
+      "artist": "Charlene LeScanff",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c7aa45097e97874c602f9d54f4a0da077d4f1afc081fd8dd889cab631e2a8ae.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7070ef653cd587aedae8e7175e73b79dd5ffbeb95820e18b41dedd02dee592db.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_417",
+      "dbfId": 52114,
+      "name": "Heistbaron Togwaggle",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If you control a_<b>Lackey</b>, choose a fantastic treasure.",
+      "flavor": "A staunch ally of Rafaam, at least while the shinies keep flowing.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c14a65f50b29242b1be41d901e8f7bbd212e918f9c812d646c46283cb6a71747.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ea201a3498c2ae44882557568c75dcaa4aa3b27a1a8f3bb3e6357d12d26fb1a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_751",
+      "dbfId": 52950,
+      "name": "Mad Summoner",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "faction": "Alliance",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Fill each player's\nboard with 1/1 Imps.",
+      "flavor": "Does he summon because of his madness, or is he mad from all the summoning?",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fde13b5441006e6bd54ef248743f03d4a76543c6cfe2824d6e7264055afc960.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f517974ee4a74c67cb7cfd3e7e1206bf87c7618c987991a897a2ea1915953636.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_376",
+      "dbfId": 52081,
+      "name": "Oblivitron",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Deathrattle:</b> Summon a\nMech from your hand and\ntrigger its <b>Deathrattle</b>.",
+      "flavor": "Reduce, reuse, re-rattle!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1670a741df606a29368c287d2ad0c9949c8134ca04521ac152a8bccd5c70333e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb6420f41bc428ea9627ca007faeaf452183b573e4c6d1584b99171875a5e5f0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_565",
+      "dbfId": 52486,
+      "name": "Portal Overfiend",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Shuffle 3 Portals\ninto your deck. When drawn,\nsummon a 2/2 Demon\nwith <b>Rush</b>.",
+      "flavor": "It\u2019s like an interdimensional game of demon tag.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06470eb98c120d50e853b5381d04a062b6d46dcaf2f858f8cf1d73c3e687e28e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ac0a07180b1c1b977e45ab60d273c862c3e1d4768ae44d4571b53cb4d1a3c70.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_088",
+      "dbfId": 52288,
+      "name": "Safeguard",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Summon a 0/5\nVault Safe with <b>Taunt</b>.",
+      "flavor": "Keep it secret. Keep it safeguarded!",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73be67157dd75c2928d86e1a8a5f6373f4c2a4208589912320c9994a20a4aab4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93d8deecbd05fd994ead5b0185115d202d2843957175fec1b083deedeb8ad627.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_366",
+      "dbfId": 51827,
+      "name": "Unidentified Contract",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "Destroy a minion. Gains a bonus effect in_your hand.",
+      "flavor": "The terms of service are constantly changing.",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7fa15175b3bcb1a98b85ba2f13ece1a1fdc31af2286e55f035ef5c5278f9a91.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed3eb9322dafee5ef9d97ec956766ff0d7a3c1b681b1c4c5cb59ab4895d33a32.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_378",
+      "dbfId": 52089,
+      "name": "Unleash the Beast",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "<b>Twinspell</b>\nSummon a 5/5 Wyvern with <b>Rush</b>.",
+      "flavor": "The Kirin Tor have always been lax in enforcing leash laws.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15371905e614d11d22c678f188d930f5183c6af5df9f0449a1772266bcfa443a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e965596d7012240b51846ad3d5ffbaef52cc32bf09e5652c65627b4fdad2fad6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Twinspell"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_538",
+      "dbfId": 52306,
+      "name": "Unseen Saboteur",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Your opponent casts a random spell from their hand <i>(targets chosen randomly)</i>.",
+      "flavor": "Far more effective than the flamboyant saboteur.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe9cdcca77da6bec9f1815d4097b32cab132ec4ee35cb4a77910d84e810d19d0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5c577afb278b7d692c8d9a5039e0facb5a6204157c95db45c9f914a03db4d31.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_096",
+      "dbfId": 52296,
+      "name": "Violet Warden",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "text": "<b>Taunt</b>\n<b>Spell Damage +1</b>",
+      "flavor": "He's got magic, a shield, and an unwavering obsession with the color purple.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d5675365942d9ae3cc4752db48660fe1c0e93869c8d408f256c38d7b92b69d5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15d073e15f3f2a1a30a05c1cb9116a9ec348ec16ac535ef670f54ef3c7710af9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_422",
+      "dbfId": 52119,
+      "name": "Arch-Villain Rafaam",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 7,
+      "health": 8,
+      "text": "<b><b>Taunt</b>\nBattlecry:</b> Replace your hand and deck with <b>Legendary</b> minions.",
+      "flavor": "Minions must wash hands before being LIQUIDATED AND REPLACED BY SOMEONE BETTER.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d36d48478cd253ada632922cc29cd6fece44dd5df5554837eeed2bc978f526d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/400209c21f0d45a20ce67f3c95664fbd736c826fcb339895cb9215d94b714d2c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_064",
+      "dbfId": 51739,
+      "name": "Blastmaster Boom",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 7,
+      "health": 7,
+      "text": "[x]<b>Battlecry:</b> Summon two 1/1\nBoom Bots for each Bomb\nin your opponent's deck.",
+      "flavor": "He's gonna fly through the air with the greatest of grease.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c386dd0767aea5b5a1ce18b9b44775ed13f8af46953138954206ab17fdb8a3f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c4e28b9659e33c8a7d982b46d16b91c7aa0baa6382cf61743ffe21ff844f0fc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_721",
+      "dbfId": 52627,
+      "name": "Catrina Muerte",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 8,
+      "text": "At the end of your turn, resurrect another friendly Undead minion.",
+      "flavor": "She always manages to lift your spirits.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52a31de64b92fcffaa48603169864a528e75c06987e041391a916ec18b26e862.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03fc4892ddc2d3b968164afa510e19844a1dbdcc2847925ebc3278be6d9bc564.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_554",
+      "dbfId": 52434,
+      "name": "Chef Nomi",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If your deck is empty, summon six 6/6 Greasefire_Elementals.",
+      "flavor": "His cooking is always very well done.",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a8ecc369682759768128d6577c9d77eb6476d85f11f88a6bbee30afe7351a2f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb4cf566a1f7bf1790d25f7b8a3c078290cae342236e9d5739b9b059cee8e024.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_774",
+      "dbfId": 53218,
+      "name": "Exotic Mountseller",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 5,
+      "health": 8,
+      "text": "Whenever you cast a spell, summon a random\n3-Cost Beast.",
+      "flavor": "*Taps roof of mammoth* \u201cYou can fit so many squirrels in this thing!\u201d",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f9c38d98aeff490001434baf94268471cf2783a6e39dcb15f21300d40858cde.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca22350e20d613dcc93e35b8f5d2f38a50ccc1ae8ac0b9b7311757e7694d2f7f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_431",
+      "dbfId": 52409,
+      "name": "Swampqueen Hagatha",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Add a 5/5\nHorror to your hand. Teach\nit two Shaman spells.",
+      "flavor": "Rafaam mainly enjoys working with Hagatha because she never laughs at Dr. Boom's jokes.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/368203656a5b20382ed62a559f1cb264112af442449a20a236ae77bd5fe26a7c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a00a1579c2a442f6e8ba91ecb33222829ff2a5bb24e17f677c7762936587ecd2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_719",
+      "dbfId": 52616,
+      "name": "Tak Nozwhisker",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]Whenever you shuffle a\ncard into your deck, add\na copy to your hand.",
+      "flavor": "\"One for me and one for future me!\"",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e76aac3022167da4f64943dd3c8c165806cac7861dae93156fb76e0a6cca1e9d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae4b8df3a67f5a6920e5b5bd96af5d65f58739fc997db3a06f02984527730074.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_775",
+      "dbfId": 53249,
+      "name": "Tunnel Blaster",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 3,
+      "health": 7,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Deal 3 damage\nto all minions.",
+      "flavor": "And you always thought they wore the candles just for fun.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5a570e825990d31c95f1f3fca44f6ceb58ff4696121e76b15d77dc6239cd77a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fab79f558aa643731757bb07a6027fe85f861f22eef176a396c31cd89b05e70e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_550",
+      "dbfId": 52417,
+      "name": "Underbelly Ooze",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 3,
+      "health": 5,
+      "text": "After this minion survives damage, summon a copy_of it.",
+      "flavor": "It's always accepting of the less successful adventurers.",
+      "artist": "Danny Dai",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d5e5fa78f7bcba6a9b267d3f44a10bd4f651ad27318f83c0bacc2325b1deeee.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0725e6a76c4293fb8a10135910107f94f27516862e1c4e83c3806adfff4a8fc.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_379",
+      "dbfId": 52091,
+      "name": "Vereesa Windrunner",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Equip Thori'dal, the Stars' Fury.",
+      "flavor": "Good things come in threes: Windrunner sisters and arrows of Thori'dal.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0924ceebc5ce9b89e9297c5143198517eb4f54fd2ccb30cd94b7d25cced5356.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8573bc69e71016aa71c28ada3c9fb2eb361bf1fd21455a9495db2734f10a3554.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_736",
+      "dbfId": 52870,
+      "name": "Archivist Elysiana",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Battlecry:</b> <b>Discover</b> 5 cards. Replace your deck with 2_copies of each.",
+      "flavor": "Your deck is just another organizational challenge to her.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f724f852b57a8a13055e135ea87e10135214f3a97eb4f604d6d7212912c4db60.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc72c581e83b79673b468e964c2ef24f54b05595668abede3bbb6b4fa9e95549.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_592",
+      "dbfId": 53251,
+      "name": "Batterhead",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 3,
+      "health": 12,
+      "text": "<b>Rush</b>. After this attacks and kills a minion, it may_attack again.",
+      "flavor": "When it comes to problem-solving, he always uses his head.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f326297d8583298f92ebc9962284bfad66abff396d72519a503e50571b23a1d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fe455ee394bcd516b3f940185f14741a0ed5cfede5508c3136e6b4a3fbf5451.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_607",
+      "dbfId": 52873,
+      "name": "Fel Lord Betrug",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 5,
+      "health": 7,
+      "text": "[x]Whenever you draw a\nminion, summon a copy\n with <b>Rush</b> that dies at\nend of turn.",
+      "flavor": "Nobody else likes rush hour.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "elite": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/becb861f04ab5940e548b191c15bafef6ad4f774154b13e4f6c3a3ec0e725458.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34e659d7d30441e32816447b2f26b248c5702c49821999e72d0d838f03bcca7b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_560",
+      "dbfId": 52479,
+      "name": "Heroic Innkeeper",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Taunt.</b> <b>Battlecry:</b> Gain +2/+2 for each other friendly minion.",
+      "flavor": "We reserve the right to refuse service to any 1/1.",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87c66b512fa7499d791263c5bb5b7996612cfd6a39ba903f35544c5306cc3f1c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a3b6a2769291334d69704c23a0184a2424228359afcddee922bcd6f20b60be0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_752",
+      "dbfId": 52954,
+      "name": "Jepetto Joybuzz",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Draw 2 minions from your deck. Set their Attack, Health, and Cost to 1.",
+      "flavor": "\u201cI\u2019m a real toy now!\u201d",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c94ff30f29319206c7eba493a9b7cbc097a0e937221ac1a8282e9f33654a5c41.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/508074454750744310ea241fda11fa99f460316ab9a466678cf3438902110845.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_357",
+      "dbfId": 51795,
+      "name": "Lucentbark",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 4,
+      "health": 8,
+      "text": "<b>Taunt</b>\n<b>Deathrattle:</b> Go <b>Dormant</b>. Restore 5 Health to awaken this minion.",
+      "flavor": "Always feels refreshed after a little dirt nap.",
+      "artist": "Steven Prescott",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a25b20e22361858a6386d812381c21034a297afbb97fcf2f8feabbd032fa7fab.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e56ca0d338e3f3af2e805d6e07e5ceedc6031f6f6b987fe550b05dc13dc197a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_578",
+      "dbfId": 52640,
+      "name": "Power of Creation",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 8,
+      "text": "<b>Discover</b> a 6-Cost minion. Summon two copies of it.",
+      "flavor": "Mostly used for party tricks, to be honest.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14b0e7b6b166095b2d991615a860d003d735d88d94f4e77b680ad296a965f4ae.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbb002a96f635485273fd525fb5afe0b671bd3944f07ce356cfbe31974ba3db4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_256",
+      "dbfId": 52819,
+      "name": "The Forest's Aid",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 8,
+      "text": "<b>Twinspell</b>\nSummon five 2/2 Treants.",
+      "flavor": "Delicious Forest\u2019s Aid! Made from real forests.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a669670a85123e45811bac7b32db044ff28bfbe58fa956984bf516d1acc181c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a81f4c7f83c555fe42488abeb76b7209a323663f8aa04b62cf8ba45011939cee.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Twinspell"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_047",
+      "dbfId": 51722,
+      "name": "Walking Fountain",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 4,
+      "health": 8,
+      "text": "<b>Lifesteal</b>, <b>Rush</b>, <b>Windfury</b>",
+      "flavor": "The weirdest part is that it doesn't have legs.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca5569794dc20117a5f5809927b5a22b707b8f326078aeec5d1dee5766c5c6d0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_742",
+      "dbfId": 52902,
+      "name": "Whirlwind Tempest",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 6,
+      "health": 6,
+      "text": "Your minions with <b>Windfury</b> have <b>Mega-Windfury</b>.",
+      "flavor": "And your minions with mega-windfury get... dizzy.",
+      "artist": "Wayne Wu",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4b783df7965f2b9047a981a17c41e2e661872426202d39d868fcbbf4ef92983.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c23556996c042a7248559180ef89a57f2b7e2b479e910455a4e78444f65beef7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_760",
+      "dbfId": 53024,
+      "name": "Burly Shovelfist",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 9,
+      "attack": 9,
+      "health": 9,
+      "text": "<b>Rush</b>",
+      "flavor": "Shovel beats paper and rock!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e61a8a77884bb5879bcef8496762dd0d6108400d73ba773ecf87ca9ee002a68b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_609",
+      "dbfId": 53002,
+      "name": "Kalecgos",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 4,
+      "health": 12,
+      "text": "Your first spell each\nturn costs (0).\n<b>Battlecry:</b> <b>Discover</b>\na spell.",
+      "flavor": "He was once the Aspect of Magic but gave it up to focus on cheap tricks.",
+      "artist": "Chris Rahn",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d19de36d329d7abf8c348df1d2eb36852bf66d1837baa598d33a9d4dd676e7a2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4f3ddd2a52f6cf8e49bf6c9682f4ad73a436fe8f1dff4a8dd59bc03c35a53bf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_724",
+      "dbfId": 52633,
+      "name": "Mass Resurrection",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 9,
+      "text": "Summon 3 friendly minions that died\nthis game.",
+      "flavor": "One's company, two's a crowd, and three's a \u201cmass\u201d resurrection, apparently.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d658ce48bc331aab785ed6f5a6e8c849bd45d8c5bca885b4d42fc7755b44a3ea.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64bd00c597f640f7e48084cf5e20c27d4b381e06efe1c82a6ec160d7e9e8f618.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_553",
+      "dbfId": 52420,
+      "name": "Big Bad Archmage",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 10,
+      "attack": 6,
+      "health": 6,
+      "text": "At the end of your turn, summon a random\n6-Cost minion.",
+      "flavor": "\"My, my, what big minions I have!\"",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/584d7f31b8a18eb40a20df8f534c6df3c67d715732738a2c0541ad96b25599b2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d39b54d890600742afadc860ac115afff3228e316dcb7ec45eb333dd26c6cc0a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_059",
+      "dbfId": 51734,
+      "name": "Dimensional Ripper",
+      "cardSet": "Rise of Shadows",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 10,
+      "text": "Summon 2 copies of a minion in your deck.",
+      "flavor": "The first dimensional ripper had a point.\nThe second fell flat.\nThe THIRD one really started to take shape!",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cee7f0cb91b71803e74706f6af55d5d4df4bb13cc4791c46d17b1f8f9d555317.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec72230dcde9bd207d5531a44b3ff6f9fb516319992c12dac47d297a6b5e3d46.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_561",
+      "dbfId": 52480,
+      "name": "Jumbo Imp",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 10,
+      "attack": 8,
+      "health": 8,
+      "text": "Costs (1) less whenever a friendly Demon dies while this is in your hand.",
+      "flavor": "Jumbo in size! Huge in E.V.I.L.!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8ee550f9735b7ae70646de541a79d0cd955f6ac4e9362cadf6f5bf1a74a9ea9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d6eb7da843bc16d201ad680b95b15b9a935054609addde595b7600acb59fa7b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DAL_581",
+      "dbfId": 52685,
+      "name": "Nozari",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 4,
+      "health": 12,
+      "text": "<b>Battlecry:</b> Restore both heroes to full Health.",
+      "flavor": "In another timeline, she was called Yeszari.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25f0b00038b319479379214db1cbc45a02434a348d0037a537187b50cea117ce.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b12f452b2ee06a77e9ce7f7db35c4d2adfd13b7aa1a636dc31a9c28e284d9f9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DAL_070",
+      "dbfId": 52086,
+      "name": "The Boom Reaver",
+      "cardSet": "Rise of Shadows",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 7,
+      "health": 9,
+      "text": "<b>Battlecry:</b> Summon a copy of a minion in your deck. Give it <b>Rush</b>.",
+      "flavor": "\u201cWhat\u2019s better than reaving? BOOM reaving!\u201d",
+      "artist": "Jerry Mascho",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d5d60c5aef595c3804c4b3f593ad4bb4c177d4c1c7534b95492f094bd2a209e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc3c4ba1ee53edfb8e93ca2d1499dd5e466d230b4a0d6f549a5f0da90ca2b06d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    }
+  ]
+}

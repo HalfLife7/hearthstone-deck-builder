@@ -1,0 +1,3157 @@
+{
+  "Knights of the Frozen Throne": [
+    {
+      "cardId": "ICC_023",
+      "dbfId": 42338,
+      "name": "Snowflipper Penguin",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 0,
+      "attack": 1,
+      "health": 1,
+      "flavor": "On land, a group of penguins is called a \"waddle.\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68eb46a4229081e3b69020184c6015643bb6db048a711667685f106d05f34605.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_092",
+      "dbfId": 42773,
+      "name": "Acherus Veteran",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Give a friendly minion +1 Attack.",
+      "flavor": "This is my Runeblade. There are many like it but this one is mine.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/536aeebededdb79e678b07377417dcdb4c7cddc8132004f0ee4cc91649aa6b0f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_238",
+      "dbfId": 42810,
+      "name": "Animated Berserker",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "After you play a minion, deal 1 damage to it.",
+      "flavor": "He'd be a lot easier to animate if he would just stand still.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c44212fb548cdd3eb452954bde93600692e865533ec0b0f85193e21c586da9e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_836",
+      "dbfId": 43502,
+      "name": "Breath of Sindragosa",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Deal $2 damage to a random enemy minion and <b>Freeze</b> it.",
+      "flavor": "Is it cold in here or is it just Sindragosa?",
+      "artist": "Eric Braddock",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/438c010dab1cf5016cab5df72ede2bf13eac0f3b0851b651aade7a9f7256816b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_220",
+      "dbfId": 42663,
+      "name": "Deadscale Knight",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Lifesteal</b>",
+      "flavor": "His favorite spell is Chum Explosion.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "race": "Murloc",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8ae8c7f847d2a9a9eab94d93365fafc74e94d472113675b4a2b681add816ff1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_233",
+      "dbfId": 42801,
+      "name": "Doomerang",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "Throw your weapon at a minion. It deals its damage, then returns to_your hand.",
+      "flavor": "Guaranteed to return your weapon directly to your hand! (Wear gloves. Thick ones.)",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cfb5bf648eda27057629850d32564b2ba687363207677f67fc1ca5f056e05acc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_221",
+      "dbfId": 42665,
+      "name": "Leeching Poison",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Give your weapon <b>Lifesteal</b> this turn.",
+      "flavor": "No actual leeches were harmed in the creation of this card.",
+      "artist": "Ben Thompson",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b43e38641f347b842203b3770377c70418b941394a55d85067598ba781a0a68.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_052",
+      "dbfId": 42652,
+      "name": "Play Dead",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Trigger a friendly minion's <b>Deathrattle</b>.",
+      "flavor": "He's a very literal dog.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5aea702777a3d35761253fe6ebdc28d50375c1afa6b75b96b9403640577f6d46.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_038",
+      "dbfId": 42467,
+      "name": "Righteous Protector",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Taunt</b>\n<b>Divine Shield</b>",
+      "flavor": "Original name was Tubular Protector, but this seems more bodacious.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb57ee07fea2bf8ff847738f493dbae1fc593e7d8491ce81c484a9c6e4c70039.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6cf10a01eb7b33462fb511d6f6835198b50b262bcb27bcc6baa3f639f3b48dbb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_903",
+      "dbfId": 45321,
+      "name": "Sanguine Reveler",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Destroy a friendly minion and gain_+2/+2.",
+      "flavor": "Have some! This drink is to die for!",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c337f3cc580901474fad6b9502f19acb6efe2635ad6f7e29e9cbf3321cd22a8e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_468",
+      "dbfId": 42398,
+      "name": "Wretched Tiller",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "Whenever this minion attacks, deal 2 damage to_the enemy hero.",
+      "flavor": "If you ever tried to plow permafrost, you\u2019d be wretched, too.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/300f054520b3b2e8d254fc04bf525ea6819297a929e3f5d8430c435240f0e164.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_837",
+      "dbfId": 43505,
+      "name": "Bring It On!",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Gain 10 Armor. Reduce the Cost of minions in your opponent's hand by (2).",
+      "flavor": "Brrr, it's cold in here. Let's hope she doesn't have an Auctioneer!",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7367e959d419a13dec3248017b7309fe81cb50b868024f4ae874abf577b616e0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_058",
+      "dbfId": 42678,
+      "name": "Brrrloc",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> <b>Freeze</b> an_enemy.",
+      "flavor": "He may be frozen fish, but he fights fresh!",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "race": "Murloc",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/064a61936222efe1185e3200de36df9d0a15b6d5354c8fed73003b8b09cc712b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_056",
+      "dbfId": 42676,
+      "name": "Cryostasis",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Give a minion +3/+3 and <b>Freeze</b> it.",
+      "flavor": "We'll thaw you out when we find a cure!",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1af2424defeff3c830b0d8958f7d49f1f52ae0c498f57d148565b5bc0134929f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_039",
+      "dbfId": 42469,
+      "name": "Dark Conviction",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Set a minion's Attack and Health to 3.",
+      "flavor": "In his court, Uther is judge, jury, AND executioner\u2026",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99d2589f6c0e0581dfe517ff8f746b550a3398340dc5d8967e67b6411a1125d4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_091",
+      "dbfId": 42766,
+      "name": "Dead Man's Hand",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Shuffle a copy of your hand into your deck.",
+      "flavor": "I got two pair, Rags and Armorsmiths. What you got?",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26490b1a4f688ca90c55f9287b76f69e5304af852c45129a4c48a3bd95006288.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_041",
+      "dbfId": 42471,
+      "name": "Defile",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Deal $1 damage to all minions. If any die, cast this again.",
+      "flavor": "This spell was originally designed to help warlocks clean up their hard drives.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40a78ef0a6051b600e4f7a8513f4f5a60f5d081dd2c702e9a992f742ebada238.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_244",
+      "dbfId": 42824,
+      "name": "Desperate Stand",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Give a minion \"<b>Deathrattle:</b> Return this to life with 1 Health.\"",
+      "flavor": "They're grateful for the help, but most minions would prefer not dying in the first place.",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a924309a527890268534d1ef246f5ca4db13d85276b09a8c75ac8530a57764f4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_055",
+      "dbfId": 42658,
+      "name": "Drain Soul",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Lifesteal</b>\nDeal $3 damage\nto a minion.",
+      "flavor": "Cleans even the toughest clogs with just a flick of the wrist!",
+      "artist": "Kerem Beyit",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3b1f2e838c3ee000afbc5060886147730f3fd08f1d5c47c714ae3a0ead5b7f3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_051",
+      "dbfId": 42651,
+      "name": "Druid of the Swarm",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Choose One -</b> Transform into a 1/2 with <b>Poisonous</b>; or a 1/5 with <b>Taunt</b>.",
+      "flavor": "The druid awoke from troubling dreams to find herself transformed into a giant spider.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fcd28bbba8a046b4c03cd314ead824d7aecc7dcae1e5b3f594c9c9cc0d623c3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_094",
+      "dbfId": 42777,
+      "name": "Fallen Sun Cleric",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Give a friendly minion +1/+1.",
+      "flavor": "It's hard to keep a Shattered Sun Cleric down.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2bbf96e5cdd17ee06f3f19e444ef2e4f10d0bfe99c2b4088dc8f0fc3adeb7eb7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_281",
+      "dbfId": 42998,
+      "name": "Forge of Souls",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Draw 2 weapons from your deck.",
+      "flavor": "Powerful weaponry forged by Bronjahm, the Godfather of Souls.",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d4a12f260d0ebce3fbe99c0def3fa2d2443e6f79e62ec22087e55d789250e50.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_407",
+      "dbfId": 42670,
+      "name": "Gnomeferatu",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Remove\nthe top card of your opponent's deck.",
+      "flavor": "She prefers the term \"Glampire.\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3de38d5a821e9b69cd287a5b1a5f7a999ba6a6767bd448d20fb8a04430a82436.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_089",
+      "dbfId": 42763,
+      "name": "Ice Fishing",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Draw 2 Murlocs from your deck.",
+      "flavor": "Glow fish, war fish... blow fish, more fish...",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a47cb2b0e40e2f156c0ffa13a543647403df9375a90b7935a1795740930df15.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_068",
+      "dbfId": 42716,
+      "name": "Ice Walker",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "Your Hero Power also <b><b>Freeze</b>s</b> the target.",
+      "flavor": "Ice <i>Walker</i> you say? He doesn't have feet!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9986b0aeb15d295637affacd10637c93ad02e4c752639e080c441e83124f7c0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_851",
+      "dbfId": 45340,
+      "name": "Prince Keleseth",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If your deck has_no 2-Cost cards, give_all minions in your deck +1/+1.",
+      "flavor": "Three Princes stand before you. This one wants to buff his brothers.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71070138d5f3acaab36e2490a1afcff02fb498e39c4fb2619a5fd2ed8f3d8263.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_201",
+      "dbfId": 42560,
+      "name": "Roll the Bones",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Draw a card.\nIf it has <b>Deathrattle</b>, cast this again.",
+      "flavor": "Call it: Heads or Tailbone\u2026",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c0bee9b4ade1995f7934d84fbc70b9fa34e0e0389d1ad4f619996752bc35d1a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_210",
+      "dbfId": 42574,
+      "name": "Shadow Ascendant",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]At the end of your turn,\ngive another random\nfriendly minion +1/+1.",
+      "flavor": "When you're at the bottom, there's nowhere to ascend, but up.",
+      "artist": "Paul Kwon",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc30dd863305cb399850e7c0a84f9f82b76a8caa4cba6195ea08370b83c68bda.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_802",
+      "dbfId": 42992,
+      "name": "Spirit Lash",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Lifesteal</b>\nDeal $1 damage to_all_minions.",
+      "flavor": "We've got spirit, yes we do! We've got spirit, stolen from you!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ee1084bc374b3e9c14b7fdb7e489994ee6d7d5ad2d8bd9c9bfbab53f02a3a53.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_913",
+      "dbfId": 46103,
+      "name": "Tainted Zealot",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Divine Shield</b>\n<b>Spell Damage +1</b>",
+      "flavor": "The love she shares seems to go nowhere. Now she's lost her Light, tosses and turns, she can't sleep at night...",
+      "artist": "Jesper Ejsing",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c89b44c571a78f1a0bf37ec56aa2563af2ef38df689e7f9fa72d50a56b5f2b07.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_049",
+      "dbfId": 42648,
+      "name": "Toxic Arrow",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Deal $2 damage to a minion. If it survives, give it <b>Poisonous</b>.",
+      "flavor": "What doesn't kill you makes you toxic.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c40de85c261ef33abcff06fc23ed0cab923e5b7d99b157e71dc6f868a555df43.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_093",
+      "dbfId": 42775,
+      "name": "Tuskarr Fisherman",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give a friendly minion <b>Spell Damage +1</b>.",
+      "flavor": "If you bring him 500 fish, he'll give you this sweet Kalu'ak Fishing Pole.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8cc122eb2a92e077ef263b61213c0db01b8c7324f3a8aa684d999d7500bf87d1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_200",
+      "dbfId": 42525,
+      "name": "Venomstrike Trap",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Secret:</b> When one of your minions is attacked, summon a 2/3_<b>Poisonous</b> Cobra.",
+      "flavor": "Snakes on a frozen plain.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89124b1245d68c716eae757f28f3aa998a27d6ca8e3342fda074829f836407e2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_212",
+      "dbfId": 42596,
+      "name": "Acolyte of Agony",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Lifesteal</b>",
+      "flavor": "It takes many years of practiced study in order to fully master agony. ",
+      "artist": "Brom",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2822a591f2f028a4b25df40ee598c0e04126dc245e3076f67b0088ddac81f6fa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_419",
+      "dbfId": 42711,
+      "name": "Bearshark",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "Can't be targeted by spells or Hero Powers.",
+      "flavor": "\"Candygram.\"",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "race": "Beast",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86a52f8fd999a9223c5b57d9ca0350ae9f349b4e1fd6e49e9bf6f10dccc96dce.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_252",
+      "dbfId": 42836,
+      "name": "Coldwraith",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If an enemy is <b>Frozen</b>, draw a card.",
+      "flavor": "He's freezing his bones off!",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d86c9cfdcbaa6b1e005fd88291fca94485fca11ff0efdbd87171b711ce98d11.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_808",
+      "dbfId": 43025,
+      "name": "Crypt Lord",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\nAfter you summon a minion,\n gain +1 Health.",
+      "flavor": "The original fifth beetle!",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13c946ecc02a3472fec2e01614ac99e82f22f98052b0dcfc44d5de90f97091bf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_467",
+      "dbfId": 42394,
+      "name": "Deathspeaker",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give a friendly minion <b>Immune</b> this turn.",
+      "flavor": "It helps to speak really, really loud.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fa6d13c7bfa730749582e33b3334dfe106090fed436158abfa304d48bcd5d8c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_083",
+      "dbfId": 42756,
+      "name": "Doomed Apprentice",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "Your opponent's spells cost (1) more.",
+      "flavor": "Jaina was never good at keeping up apprentices.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c292204d086682ff251468e7301247aad1689520d4f50b6625ee9124ce49fe83.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_081",
+      "dbfId": 42750,
+      "name": "Drakkari Defender",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 8,
+      "text": "<b>Taunt</b>\n<b>Overload:</b> (3)",
+      "flavor": "Sometimes, the best defense is an offensive troll.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4be97f1d49b06838fbc178bc31017fda9515da1e19f6d7674fc9c4a2d1b2737f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_901",
+      "dbfId": 45309,
+      "name": "Drakkari Enchanter",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "text": "Your end of turn effects trigger twice.",
+      "flavor": "Drakkari sorceresses have the irritating habit of repeating themselves at the end of every sentence. Every sentence.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd2b3a131af42d952f56611573ae768f2ffe8cd989cfc46f6a5de251d4ab5242.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_082",
+      "dbfId": 42754,
+      "name": "Frozen Clone",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "<b>Secret:</b> After your opponent plays a minion, add two copies of it to_your hand.",
+      "flavor": "It's like d\u00e9j\u00e0 vu, times two.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5da53218e1fa5807db28d476c82a79acb48ae8240bc968f3503d032683dc7c20.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_079",
+      "dbfId": 42748,
+      "name": "Gnash",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Give your hero +3_Attack this turn. Gain 3 Armor.",
+      "flavor": "It's rude to gnash with your mouth open.",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bdcf93b2ac5368c68e83dfeaccc122b4306aa21639fba506eae54345e3959e67.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_700",
+      "dbfId": 42783,
+      "name": "Happy Ghoul",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "Costs (0) if your hero was healed this turn.",
+      "flavor": "When life gives you snow\u2026",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba0349628771c9ccf78273eec9a41eda81c802f9aed72ce14cbaf4de163e3a03.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_218",
+      "dbfId": 42642,
+      "name": "Howlfiend",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 6,
+      "text": "Whenever this minion takes damage, discard a_random card.",
+      "flavor": "The problem is that he carries those cards in his mouth.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f81b4f470f514ad4aa9352dfb7dc91d801f7c601faae1b9eb86d00ded374c12.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_801",
+      "dbfId": 42948,
+      "name": "Howling Commander",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Draw a <b>Divine_Shield</b> minion from your deck.",
+      "flavor": "Enlistment in her battalion comes with several pairs of earplugs.",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/163b2d0c25bb3651f3ceb5201792b33c8224001e565d6fdde286e04e82e7010a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_855",
+      "dbfId": 45377,
+      "name": "Hyldnir Frostrider",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Freeze</b> your other minions.",
+      "flavor": "Don't be fooled, that polar bear's the one in charge.",
+      "artist": "Marcelo Vignali",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44be7dbd2d66b771f4034624100e09bf40e005efafa6b87b7c0752ac288c8c45.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_236",
+      "dbfId": 42808,
+      "name": "Ice Breaker",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 1,
+      "durability": 3,
+      "text": "Destroy any <b>Frozen</b> minion damaged by_this.",
+      "flavor": "A great way to end a conversation.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4de4ee881e146bf062ec7a578755e2b2ea990bd775b5e2119c648c0a211b85de.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_902",
+      "dbfId": 45314,
+      "name": "Mindbreaker",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "Hero Powers are disabled.",
+      "flavor": "He's a mind breaker, dream taker, ghoul trainer, don't you mess around with him.",
+      "artist": "Chris Rahn",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43ab6a335c3a3a955f48c03ed4afc4e8171700947e274387e5e2f571868c6668.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_062",
+      "dbfId": 42698,
+      "name": "Mountainfire Armor",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> If it's your opponent's turn,\ngain 6 Armor.",
+      "flavor": "Excuse me. Your mountain is on fire.",
+      "artist": "Ian Ameling",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/030fdd415579d429e9277a28cbb36203ae4e6f8258adb88d7e03bea904776ba1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_809",
+      "dbfId": 43028,
+      "name": "Plague Scientist",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Combo:</b> Give a friendly minion <b>Poisonous</b>.",
+      "flavor": "The excruciating pain means it's working!",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2d098a2295cc65e36ec88b486985d036f70163b4a93efcd08a3efa2d54882ad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        },
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_852",
+      "dbfId": 45341,
+      "name": "Prince Taldaram",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If your deck has_no 3-Cost cards, transform into a 3/3 copy of a minion.",
+      "flavor": "Three Princes stand before you. This one wants to copy others. ",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b0f427f136f1ee1da97429bdff768483159c40c3b7627eed83678712a095b0b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_850",
+      "dbfId": 45338,
+      "name": "Shadowblade",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> Your hero is <b>Immune</b> this turn.",
+      "flavor": "It's tacky to call it \"Shadeblade.\"",
+      "artist": "Matthew O'Connor",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ef42f824948081543feeda2da11574d9474d9d5edb3248e249174e330115493.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_702",
+      "dbfId": 42785,
+      "name": "Shallow Gravedigger",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Add a random <b>Deathrattle</b> minion to your_hand.",
+      "flavor": "It's hard to put them six feet under when you're three feet tall.",
+      "artist": "Izzy Hoover",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ee3dd1109dd855adef2257f09c2f4157488275406de83d8cf2bc0b507740689.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_823",
+      "dbfId": 43193,
+      "name": "Simulacrum",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Copy the lowest Cost minion in your hand.",
+      "flavor": "It's like d\u00e9j\u00e0 vu, times two.",
+      "artist": "Raymond Swanland",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fe9c1e06ce829878cd876669de4ab1609e27ba3cb5a0f368ac4f5c8235fcfb8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_415",
+      "dbfId": 42707,
+      "name": "Stitched Tracker",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a copy of a minion in your deck. ",
+      "flavor": "He's just exercising his right to bear arms.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b11ff8811f8e046371c9d3b82020a8fe85b36473f7b1ecf3e9b91a83eaeeb964.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_206",
+      "dbfId": 42565,
+      "name": "Treachery",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Choose a friendly minion and give it to_your opponent.",
+      "flavor": "Never look a gift minion in the mouth.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cc118872221a21d2802cda964dc89047262d6f764a22acbfc9a84b5a84b0235.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_469",
+      "dbfId": 42391,
+      "name": "Unwilling Sacrifice",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Choose a friendly minion. Destroy it and a random enemy minion.",
+      "flavor": "Stand right... there. Perfect, perfect! Now don't move.",
+      "artist": "Tyler Walpole",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4b8ad4a417300cd4941f68bac64001b70af1e9661cc37ce1f1fad26eea53eac.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_408",
+      "dbfId": 42671,
+      "name": "Val'kyr Soulclaimer",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 1,
+      "health": 4,
+      "text": "[x]After this minion\nsurvives damage,\nsummon a 2/2 Ghoul.",
+      "flavor": "My Ghoul friend is back and you're gonna be in trouble.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/896a231e2ee26884ab3b536d1666ecaeed9504deadf5d96380e5834a551fb246.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_067",
+      "dbfId": 42714,
+      "name": "Vryghoul",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "text": "[x]<b>Deathrattle:</b> If it's your\nopponent's turn,\nsummon a 2/2 Ghoul.",
+      "flavor": "It's pronounced VERY GHOUL. Don't let anyone tell you different.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42e8320bef57d2a53623f48645b57cdcdfff6c964942bc8bbb5ad7805e44386e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_854",
+      "dbfId": 45366,
+      "name": "Arfus",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Deathrattle:</b> Add a random\n<b>Lich King</b> card to your_hand.",
+      "flavor": "There must always be a Lick King.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69d6996102f07db88574a9055306724395a348e621e097a3d78e5ffa61e6c4a9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_034",
+      "dbfId": 42462,
+      "name": "Arrogant Crusader",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> If it's your opponent's turn, summon a 2/2 Ghoul.",
+      "flavor": "To be honest, he was kind of a jerk even BEFORE he was bitten by that ghoul.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07a1789592cea7ef8739f8bbb54486bcfe5231a7038a626e64596cc50742db9b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_078",
+      "dbfId": 42747,
+      "name": "Avalanche",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "<b>Freeze</b> a minion and deal $3 damage to adjacent ones.",
+      "flavor": "One of our more snowbally cards.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78a3bd4d1c005f15462bc87d38e1a3d61bb32f63bd44ea65a35692a1cc8409be.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_064",
+      "dbfId": 42700,
+      "name": "Blood Razor",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "durability": 2,
+      "text": "<b>Battlecry and Deathrattle:</b>\nDeal 1 damage to all_minions.",
+      "flavor": "For the close shave that you've always wanted. Caution: Very sharp.",
+      "artist": "Joe Wilson",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0911835f34dada1d0808567e4beb521cdc8e2bf3ee969fca09e7e018184a54ea.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_820",
+      "dbfId": 43127,
+      "name": "Chillblade Champion",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Charge</b>\n<b>Lifesteal</b>",
+      "flavor": "It slices, it dices, it vaporizes! The Chillblade will make a Champion out of even the lowliest gnome.",
+      "artist": "Kevin Chen",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c9f76bc98f09324db148cd81032449aae3f7efff15c450ec920402ed193e6fc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_912",
+      "dbfId": 46102,
+      "name": "Corpsetaker",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Gain <b>Taunt</b> if your\ndeck has a <b>Taunt</b> minion.\nRepeat for <b>Divine Shield</b>,\n<b>Lifesteal</b>, <b>Windfury</b>.",
+      "flavor": "Her extensive collection of corpses includes one of nearly every type.  She'd love for you to join it.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d9ec3a32e33882fbd9a99c8ccf8add484145a2be978ab665a5943dccfa862a3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_810",
+      "dbfId": 43029,
+      "name": "Deathaxe Punisher",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give a random <b>Lifesteal</b> minion in your hand +2/+2.",
+      "flavor": "Don't fear the Arcanite Reaper.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5521374062b6b452542d946f340fd800113d82c25a77d11f450ea4fe0446dc3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_213",
+      "dbfId": 42597,
+      "name": "Eternal Servitude",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "<b>Discover</b> a friendly minion that died this game. Summon it.",
+      "flavor": "What do you mean I don't get overtime pay for this?!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6eddbe5f86685e54bd5ebaecf919027e44583dd4053a7555c4aadfbddfd5e48b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_021",
+      "dbfId": 42320,
+      "name": "Exploding Bloatbat",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Deathrattle:</b>\nDeal 2 damage to all enemy minions.",
+      "flavor": "We've all been there after a night of one-too-many funnel cakes.",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6da76d6527a0f3ac0763cac6cd6c79c148b1f1f2592bf73d6d0e2bcc4d4cae5e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_069",
+      "dbfId": 42718,
+      "name": "Ghastly Conjurer",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Add a 'Mirror Image' spell to your hand.",
+      "flavor": "Wearing purple after the holidays? GHASTLY!",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/734ff7f234175b6f436d40dbd812b2c0a92da278cea3db136aacb5d886d293fb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_097",
+      "dbfId": 42780,
+      "name": "Grave Shambler",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "Whenever your weapon is destroyed, gain +1/+1.",
+      "flavor": "I think one of the necromancers got a little carried away.",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "race": "Elemental",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd8879b14f8a0c167442090318190906d557ba3f14b45bc2e5f3a6b8448acf05.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_026",
+      "dbfId": 42438,
+      "name": "Grim Necromancer",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Summon two 1/1 Skeletons.",
+      "flavor": "WARNING: Skeletons will NOT explode.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d122c65184a248baf828f8ab4379b8d14da325a2d9b142d2b7cb33a99799bd5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_911",
+      "dbfId": 46101,
+      "name": "Keening Banshee",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 5,
+      "text": "Whenever you play a card, remove the top 3 cards of_your deck.",
+      "flavor": "\"What are your strengths?\" the interviewer asked. \"Well,\" she replied, \"I'm really good at keening.\"",
+      "artist": "Jesper Ejsing",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/edadaf5a44e6aff243632e7bac96ac0d25113bd16a5627489a77806274442da6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_071",
+      "dbfId": 42735,
+      "name": "Light's Sorrow",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 1,
+      "durability": 4,
+      "text": "After a friendly minion loses <b>Divine Shield</b>, gain +1 Attack.",
+      "flavor": "These sorrows cut deep.",
+      "artist": "Ben Thompson",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6cef7f588e3340da0420058f5a61a161f0b68fa1cad7f1c57ba9c4d5227d820b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_811",
+      "dbfId": 43031,
+      "name": "Lilian Voss",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Replace spells in your hand with random spells <i>(from your opponent's class).</i>",
+      "flavor": "She doesn't feel pity, or remorse, or fear. And she absolutely will not stop... ever, until all necromancers are dead.",
+      "artist": "Gonzalo Ordonez",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ba774b1617cad66664146bdc4ac921085bb05c817360edac69a077c0cb20c53.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_812",
+      "dbfId": 43051,
+      "name": "Meat Wagon",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 1,
+      "health": 4,
+      "text": "[x]<b>Deathrattle:</b> Summon a\nminion from your deck\nwith less Attack than\nthis minion.",
+      "flavor": "Necromancers call it \"Meals on Wheels.\"",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1445f683448ab57444f68413b2609e0803a6061de906c920b91ec9a2732a5c46.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_031",
+      "dbfId": 42445,
+      "name": "Night Howler",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "Whenever this minion takes\ndamage, gain +2 Attack.",
+      "flavor": "Honestly, he howls during the day, too.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84f717c703e12c1b0c3f993cde5beda7be189a165b547b611b54b40634f8fc25.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_018",
+      "dbfId": 42327,
+      "name": "Phantom Freebooter",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Gain stats equal to your weapon's.",
+      "flavor": "There's no such thing as a free boot.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Pirate",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d756d8e5514c8ce70d202561edb4b7d6ed4fc3564243daaecc46ea8e672ff505.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_853",
+      "dbfId": 45342,
+      "name": "Prince Valanar",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If your deck has no 4-Cost cards, gain <b>Lifesteal</b> and <b>Taunt</b>.",
+      "flavor": "Three Princes stand before you. This one devours one after another.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8321732005fc4d1be19ea4cdce181d9fd8e189e1c1a377ae343343ed347f6289.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_204",
+      "dbfId": 42563,
+      "name": "Professor Putricide",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "After you play a <b>Secret</b>,\nput a random Hunter <b>Secret</b> into the battlefield.",
+      "flavor": "Among his more notable inventions: A tentacle-groomer, a plague that would wipe out all life on Azeroth, and a fidget spinner.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aaa1476c53cb79b1b57f53f3a3f3c85e25903c91288c4e8f1461c58724959545.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_025",
+      "dbfId": 42422,
+      "name": "Rattling Rascal",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Summon a\n5/5 Skeleton.\n<b>Deathrattle:</b> Summon one\nfor your opponent.",
+      "flavor": "Don't give up, skeleton!",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a83705a8dd791f8935d9ab1a8fb539f677efb57fc4170fe4e3bf71a07b335e93.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_240",
+      "dbfId": 42819,
+      "name": "Runeforge Haunter",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "text": "During your turn, your weapon doesn't lose Durability.",
+      "flavor": "Don't worry, he'll keep an eye on that for you.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f63041b22795bdd648f92d1f0607829d65bbc31e56b6868a404d669a96009d80.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_466",
+      "dbfId": 42395,
+      "name": "Saronite Chain Gang",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Summon a\ncopy of this minion.",
+      "flavor": "Desperately needs some alone time.",
+      "artist": "Daren Bader",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4c8685d2487c9853cfdbe2057ff2a249869ca1389315f670110cec2a7c45888.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_807",
+      "dbfId": 43022,
+      "name": "Strongshell Scavenger",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give your <b>Taunt</b> minions +2/+2.",
+      "flavor": "It isn't \"grave robbing\" when there's no grave. It's just scavenging\u2026",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c4f862c6f487551c11f5886905478ce8ec8042c854e5918da2ca5134a22ade3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f1f5986a9b96669c1e47517d72621364692c8f3ea74c167d0ef50d7a5ffb046.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_099",
+      "dbfId": 42782,
+      "name": "Ticking Abomination",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 6,
+      "text": "<b>Deathrattle:</b> Deal 5 damage to your minions.",
+      "flavor": "Abomination. Emphasis on the second syllable.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db7f6fee418341606c381ea8ed3f4e187e31962402ce7e50dc2df391131ac5a0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_904",
+      "dbfId": 45328,
+      "name": "Wicked Skeleton",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Gain +1/+1 for_each minion that died_this turn.",
+      "flavor": "It's minions like these that give normal, law-abiding skeletons a bad rap.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0cf3b2c51c96ad04d282fc2cb1a4f3495183cb36d14677665f734f40e0511c8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_841",
+      "dbfId": 43064,
+      "name": "Blood-Queen Lana'thel",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 1,
+      "health": 6,
+      "text": "[x]<b>Lifesteal</b>\nHas +1 Attack for each\ncard you've discarded\nthis game.",
+      "flavor": "As a young blood-princess she learned the proper way for a lady to curtsy, how to address fellow members of royalty, and how to bite them.",
+      "artist": "Greg Staples",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1a85549f4e0490eb890bdafb952e3f0f333dd5aaad509e56e873c92e65ed364.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_905",
+      "dbfId": 45329,
+      "name": "Bloodworm",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Lifesteal</b>",
+      "flavor": "Queen Lana'thel insists on one of these, fried, every morning for breakfast.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81527e5f0011b91743abea20076932025b25c793cc631f50356aeae3d0b845d0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_858",
+      "dbfId": 45392,
+      "name": "Bolvar, Fireblood",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 1,
+      "health": 7,
+      "text": "<b>Divine Shield</b>\nAfter a friendly minion loses_<b>Divine Shield</b>, gain +2 Attack.",
+      "flavor": "He's so hot right now.",
+      "artist": "Tooth",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e52084292db3cfa853b6b0f939f4f7819c3f74c874e4da23a0e485a59268622e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31d7308c141f6ee11327be5fc9d1443400e9b335b747b665d93066b1eccdbf93.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_065",
+      "dbfId": 42712,
+      "name": "Bone Baron",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Deathrattle:</b> Add two 1/1 Skeletons to your hand.",
+      "flavor": "\"Oil,\" \"Rail,\" and \"Blubber\" were already taken.",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecd7483326883c73cdca0af371cdcfb05c03ef599929c7e0d4383bad540b1970.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_029",
+      "dbfId": 42442,
+      "name": "Cobalt Scalebane",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "At the end of your turn, give another random friendly minion +3 Attack.",
+      "flavor": "You get a sword! And you get a sword! Everybody gets a sword!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eaa170af21e590b9bbe2217355791427624458148ee9482c1331d377bd154c47.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/947104e7aacf6c15304d0987d39b9269e282b70a126751d572fd27031d6f9d02.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_257",
+      "dbfId": 42909,
+      "name": "Corpse Raiser",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Give a friendly\nminion \"<b>Deathrattle:</b>\n  Resummon this minion.\"  ",
+      "flavor": "He was just minding his business, farming corpses, when you meddling adventurers came along.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2dd14910042f2e8fc6f06e3a2aa23ba4ed66db86921eecd69d6011d0029f113c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_243",
+      "dbfId": 42822,
+      "name": "Corpse Widow",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "Your <b>Deathrattle</b> cards cost_(2) less.",
+      "flavor": "Her marriage survived death, but it decayed pretty quickly after that.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Beast",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72c1ad9ae5444addb3283b7dabbac1731a88b224c523d1333bcbfa5957432b1a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_450",
+      "dbfId": 42392,
+      "name": "Death Revenant",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Gain +1/+1 for each damaged minion. ",
+      "flavor": "How's everyone doing? Hurt? Bleeding? Wounded? ... Excellent.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60eb8c63ba701e721159fab2991a0a331f0a4628af6e15df2d7ed112c1916cd8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_075",
+      "dbfId": 42743,
+      "name": "Despicable Dreadlord",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "At the end of your turn, deal 1 damage to all enemy minions.",
+      "flavor": "He's deathspicable.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10bfa339eb72ed7d6a961ce8c4d8a752c00f98c69f09cc2a0a15c1576926a5a8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_207",
+      "dbfId": 42566,
+      "name": "Devour Mind",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Copy 3 cards in your opponent's deck and add them to your hand.",
+      "flavor": "A mind is a terrible thing to waste. Seconds, anyone?",
+      "artist": "Paul Kwon",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de0864769b131f894f9d7b42c9017ad6db8b072aff846acb4377341fa14ccbe8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_047",
+      "dbfId": 42615,
+      "name": "Fatespinner",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 3,
+      "text": "<b>Choose a Deathrattle (Secretly) -</b> Deal 3 damage to all minions; or Give them +2/+2.",
+      "flavor": "Her clothing? Pure silk, of course.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09cd4841f01286f36b41f759ea6f97245f5806d50a7d364d6416ad9be1cb102c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_019",
+      "dbfId": 42328,
+      "name": "Skelemancer",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> If it's your opponent's turn, summon an 8/8 Skeleton.",
+      "flavor": "What do you mean there's no such thing as \"Skelemancy?\" But \"Dinomancy\" is ok?",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec7d006807baa12a0271e1b6216392f1e37f2027f746070741ddb5ba45079926.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_910",
+      "dbfId": 45975,
+      "name": "Spectral Pillager",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Combo:</b> Deal 2 damage to\na minion for each other card\nyou've played this turn.",
+      "flavor": "It turns out you CAN take it with you.",
+      "artist": "Sam Nielson",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2eb7ad6cea92b90e0dd6629792af602e2889ae61549b47131fed9a8800cf171.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_028",
+      "dbfId": 42440,
+      "name": "Sunborne Val'kyr",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give adjacent minions +2 Health.",
+      "flavor": "Bring valor to Odyn's halls, Champion!",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5cf218b583f785167155df5e3cfe2799d0eed668af035f4f6862d1bb55d38f3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_481",
+      "dbfId": 42987,
+      "name": "Thrall, Deathseer",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 5,
+      "health": 30,
+      "armor": "5",
+      "text": "<b>Battlecry:</b> Transform your minions into random ones that cost (2) more.",
+      "flavor": "\"Do not be afraid. Approach. The dead will sleep\u2026 for now.\"",
+      "artist": "Jerry Mascho",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/558cd75c87d48f6194b8e13cb2308b1e8d6efce695f2168a8095529bdbf0725b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_098",
+      "dbfId": 42781,
+      "name": "Tomb Lurker",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Add a random\n<b>Deathrattle</b> minion that died\nthis game to your hand.",
+      "flavor": "She hangs out in all the tombs, but she rarely posts.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c699776edf03f83cb1250bd405972c41f2202d1e8523d933717f990938f5036.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_032",
+      "dbfId": 42446,
+      "name": "Venomancer",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Poisonous</b>",
+      "flavor": "Eight times the death of regular-mancers.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af0cfd243f1392eeffead1cb3766a6f2ffbd851806fcd8fcdcb328cf30bac012.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_088",
+      "dbfId": 42762,
+      "name": "Voodoo Hexxer",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 7,
+      "text": "<b>Taunt</b>\n<b>Freeze</b> any character damaged by this minion.",
+      "flavor": "The Silver Hand recruits shuddered in terror when they saw the dreaded totem of the Hexxer: A tiny little snowman, impaled with pins.",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee6fea5ab94236e32af643fb5cf776f689363be53e16781f7472d90652953a27.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_050",
+      "dbfId": 42649,
+      "name": "Webweave",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "Summon two 1/2 <b>Poisonous</b> Spiders.",
+      "flavor": "O, what a tangled web we weave, hoping spiders dodge the cleave.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da3022ebedd70f4e3e6c6ec96977b687ef67ea792fa6e15b3ae23711b8fafde2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_245",
+      "dbfId": 42825,
+      "name": "Blackguard",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 9,
+      "text": "Whenever your hero is healed, deal that much damage to a random enemy minion.",
+      "flavor": "\"Did I ever tell you the story of when I single-handedly took down a 29/29 C'thun?\" - Reno Jackson",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a383c0eb41660883189b2c198125054fc7e8db4045a9bc7f497e80b85eba7b74.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_027",
+      "dbfId": 42439,
+      "name": "Bone Drake",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 6,
+      "health": 5,
+      "text": "<b>Deathrattle:</b> Add a random Dragon to your hand.",
+      "flavor": "The bone drake brings all the dragons to the yard. He would teach you, but you have no cards.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Dragon",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8e84c0481d6a37a51cbefa472171c5b507db6827059b8a7b6754b29d8dc8c47.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_828",
+      "dbfId": 43398,
+      "name": "Deathstalker Rexxar",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 6,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Deal 2 damage\nto all enemy minions.",
+      "flavor": "\"You were too slow, old friend. The hunt began long ago. And now... it will never end.\"",
+      "artist": "Jomaro Kindred",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b39eac6d293ebe96177683be0fdfe01f7f2813963ee6b3330996ef3d1dcd3dca.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_849",
+      "dbfId": 45308,
+      "name": "Embrace Darkness",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "[x]Choose an enemy minion.\nAt the start of your turn,\ngain control of it.",
+      "flavor": "Once you both get comfortable, darkness is actually pretty snuggly.",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4de56b9a55a1de76ae9d92e8d8f6af6ed516e2622f6c5c75d7bd3232d22b9cea.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_096",
+      "dbfId": 42779,
+      "name": "Furnacefire Colossus",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Discard all weapons from your hand and gain their stats.",
+      "flavor": "Smelts in his mouth, not in your hand.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0ce45c48838e90dc776c67c4f80f288321a8937d5f6a976ca5d225121de9e75.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_289",
+      "dbfId": 43072,
+      "name": "Moorabi",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "Whenever another minion is <b>Frozen</b>, add a copy of it to your hand.",
+      "flavor": "Most disturbing is how Moorabi covers all those frozen minions with flavored syrup.",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d27673828931ba55608ba02437a742d8ac76c86b133147c6bb6de0dabc47f505.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_900",
+      "dbfId": 45307,
+      "name": "Necrotic Geist",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 5,
+      "health": 3,
+      "text": "Whenever one of your other minions dies, summon a 2/2 Ghoul.",
+      "flavor": "An eye for an eye, and a ghoul for a ghoul.",
+      "artist": "Ian Ameling",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e57334d876e8cfb4237003ce98914dd30fbe7854023625361d390af9d0858a08.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_706",
+      "dbfId": 42791,
+      "name": "Nerubian Unraveler",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "Spells cost (2) more.",
+      "flavor": "He loves a good yarn.",
+      "artist": "Lars Grant-West",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50db7a2f2a831a41522c47bc2eaef064a3a2a0c7cb32a23c7142dd90458fcb4e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_235",
+      "dbfId": 42804,
+      "name": "Shadow Essence",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Summon a 5/5 copy of_a random minion in_your deck.",
+      "flavor": "Difficult to bottle up and sell. But it packs a punch.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfec8ca9df8ccd48d76a2ccbcd38d47079f47d5faeb508cf443fe536b6408c4c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_701",
+      "dbfId": 42784,
+      "name": "Skulking Geist",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Destroy all\n1-Cost spells in both hands and decks.",
+      "flavor": "It's as though a million Jade Idols cried out, and were suddenly silenced.",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91fd2e39c4b3b50717c3f89ec1d63cab56e935f34fb0554ab9de8affbca5b9fb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_856",
+      "dbfId": 45378,
+      "name": "Spellweaver",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Spell Damage +2</b>",
+      "flavor": "Spells offer twice the moisture wicking of cotton.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c68bde7c1f66a31a63b4f906c6dca260d3aa4be626d7a3762b251955fde972bb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_054",
+      "dbfId": 42656,
+      "name": "Spreading Plague",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Summon a 1/5 Scarab with <b>Taunt</b>. If your_opponent has more minions, cast this again.",
+      "flavor": "In the past, plagues were spread by mice or fleas. These days they're spread by elves.",
+      "artist": "Alex Alexandrov",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be323c3c23d8ffca0dd0914c298fbd8868358e59b7bd293f431f6f5454444e09.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_825",
+      "dbfId": 43245,
+      "name": "Abominable Bowman",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 6,
+      "health": 7,
+      "text": "[x]<b>Deathrattle:</b> Summon\na random friendly Beast\nthat died this game.",
+      "flavor": "Frosty the Bowman... was an angry hateful soul... with a fresh hewn bow and a missing nose...",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46265c7c276e02c3f9fbab57522e95a4d49ebf0b06d98fa3d95233cd24d7dc3b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_215",
+      "dbfId": 42633,
+      "name": "Archbishop Benedictus",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Shuffle a copy of_your opponent's deck into your deck.",
+      "flavor": "Nobody expects the Archbishop's Benediction!",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a75fbc8dae9a3691357b419402257b27b3e0a5c371c73dd6fdbe1cc568c99b3c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_705",
+      "dbfId": 42790,
+      "name": "Bonemare",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Give a friendly minion +4/+4 and <b>Taunt</b>.",
+      "flavor": "Attacks her job with unbridled enthusiasm.",
+      "artist": "Ralph Horsley",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/337b68d07c2ae8543f53418b97d38100e6de6e0f4b5b5f019607d4e2b83ffa86.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_832",
+      "dbfId": 43417,
+      "name": "Malfurion the Pestilent",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 7,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Choose One -</b>\nSummon 2 <b>Poisonous</b>\nSpiders; or 2 Scarabs\nwith <b>Taunt</b>.",
+      "flavor": "\"Cenarius once taught me about the precarious balance between life and death. I have come to understand: there IS no balance. Death always wins.\"",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6bb02ca38d12ce362775da8c0a0a3289f0d6526ba8e68b74c489c0eb40ea47bf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_086",
+      "dbfId": 42760,
+      "name": "Glacial Mysteries",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 8,
+      "text": "Put one of each <b>Secret</b> from your deck into\nthe battlefield.",
+      "flavor": "The secret is in the frosting.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e85613a50bc869be386e128ab9480e2652c1f97d4e05c777f59551156aee11b1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_405",
+      "dbfId": 42630,
+      "name": "Rotface",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 4,
+      "health": 6,
+      "text": "[x]After this minion\nsurvives damage,\nsummon a random\n<b>Legendary</b> minion.",
+      "flavor": "Daddy! I think I made a Legendary!",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afa323fd5924433b48572b986bb5d484051009ddfd4fb7c3fdc73c9afa076000.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_834",
+      "dbfId": 43423,
+      "name": "Scourgelord Garrosh",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 8,
+      "health": 30,
+      "armor": "5",
+      "text": "<b>Battlecry</b>: Equip a 4/3_Shadowmourne that also damages adjacent minions.",
+      "flavor": "\"You dare to challenge me? Come! Draw your last breath - and then, you are mine.\"",
+      "artist": "Greg Staples",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d2398236410a73f1cde24b965014423b904ae6296b16eec71f8b8c58e90cb27.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_830",
+      "dbfId": 43408,
+      "name": "Shadowreaper Anduin",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 8,
+      "health": 30,
+      "armor": "5",
+      "text": "<b>Battlecry:</b> Destroy all minions with 5 or more_Attack.",
+      "flavor": "\"I will tell you what Velen never taught me. Whosoever stands before the Light\u2026 inevitably casts a shadow.\"",
+      "artist": "Wayne Reynolds",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07cb89599c98d5f125f2d3e380cfc81ea954bb90bbf6c1871a7b91ffa899e6b9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_838",
+      "dbfId": 43506,
+      "name": "Sindragosa",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Battlecry:</b> Summon two 0/1 Frozen Champions.",
+      "flavor": "\"I recognize your effort but I think your magic still has room for improvement.\" - Sindragosa after taking a class on giving constructive feedback.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6ec3b0bd2facb38eab882c25f8e58d65ddd0ea5681051db30519ae815497ac7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_314",
+      "dbfId": 42818,
+      "name": "The Lich King",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Taunt</b>\nAt the end of your turn,\nadd a random <b>Lich King</b>\ncard to your hand.",
+      "flavor": "\"All that I am: anger, cruelty, vengeance, 8 attack - I bestow upon you, my chosen knight.\"",
+      "artist": "Glenn Rane",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e87e4ec2692b5869c388600ad8c4ccbd0126aa2bea2d4888d516e99adc9a74cb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_833",
+      "dbfId": 43419,
+      "name": "Frost Lich Jaina",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 9,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Summon a\n3/6 Water Elemental.\nYour Elementals have\n<b>Lifesteal</b> this game.",
+      "flavor": "\"Arthas was a spoiled child, playing with toys he could neither control nor understand. Come into the cold. I will show you the true power of the Frozen Throne.\"",
+      "artist": "Glenn Rane",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4554cc05f034052fe4bdaa31f27ce927e1717222b492318f5c9f10a1b4f211bd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_835",
+      "dbfId": 43439,
+      "name": "Hadronox",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 3,
+      "health": 7,
+      "text": "<b>Deathrattle:</b> Summon your <b>Taunt</b> minions that\ndied this game.",
+      "flavor": "The viziers of Azjol-Nerub released Hadronox as a last-ditch effort to hold back the Lich King. They did so by VERY carefully scooping him up in a LARGE newspaper and releasing him.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be02aed0dee4d729bb4f44c0b7f505790acff74bb334f58254e6eea27b705121.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_214",
+      "dbfId": 42598,
+      "name": "Obsidian Statue",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 9,
+      "attack": 4,
+      "health": 8,
+      "text": "[x]<b>Taunt, Lifesteal</b>\n<b>Deathrattle:</b> Destroy a\n random enemy minion.",
+      "flavor": "The original artist spent many hours with a fine chisel perfecting the facial expression for maximum tauntiness.",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a58d84ca6a05e3c42c0fb182981cc8a917e7ce2109ed963662050d4da6a7a7d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_829",
+      "dbfId": 43406,
+      "name": "Uther of the Ebon Blade",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 9,
+      "health": 30,
+      "armor": "5",
+      "text": "<b>Battlecry:</b> Equip a 5/3 <b>Lifesteal</b> weapon.",
+      "flavor": "\"Step forward. Confess! Once I was a mere servant of the Light. Now I alone stand in judgement.\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b4952d5a06782ae625d5fe667b7cc75a697c9cfa773bd4463e1fff082a47b22.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_827",
+      "dbfId": 43392,
+      "name": "Valeera the Hollow",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 9,
+      "health": 30,
+      "armor": "5",
+      "text": "<b>Battlecry:</b> Gain <b>Stealth</b> until your next turn.",
+      "flavor": "\"Run away. Hide in your precious keeps, behind your walls and your bodyguards. Night always falls, and shadows will fill your hallowed halls. One day, one of those shadows will be me.\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff83de446b6c333ec7ce3baf1f1b83e7b7daa5b7cd33990e3510a536deca73d8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_831",
+      "dbfId": 43415,
+      "name": "Bloodreaver Gul'dan",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 10,
+      "health": 30,
+      "armor": "5",
+      "text": "<b>Battlecry:</b> Summon all friendly Demons that_died_this_game.",
+      "flavor": "\"Still you refuse to bend your knee? None can escape death, you old fool. And in death\u2026 all will serve me\u2026\"",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c289868f383fa736e7feb8c633d6ddba7ac8056d4f6fc8a28bc30a998962705.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ICC_085",
+      "dbfId": 42759,
+      "name": "Ultimate Infestation",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 10,
+      "text": "[x]Deal $5 damage. Draw\n5 cards. Gain 5 Armor.\nSummon a 5/5 Ghoul.",
+      "flavor": "Ghouls in the pipe, five by five.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ee8dce6f68f11a13bd39cc6f763435fa531d79b343dd4ff599f4cbaa3f8e812.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ICC_090",
+      "dbfId": 42765,
+      "name": "Snowfury Giant",
+      "cardSet": "Knights of the Frozen Throne",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 11,
+      "attack": 8,
+      "health": 8,
+      "text": "Costs (1) less for each Mana Crystal you've <b><b>Overload</b>ed</b> this game.",
+      "flavor": "This minion goes all the way to 11!",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93a97af73af565a7ddc4dd097bed28fe8b7f3af8b32e77efe928fc4c9c2c4c57.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    }
+  ]
+}

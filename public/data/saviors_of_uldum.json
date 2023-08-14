@@ -1,0 +1,3237 @@
+{
+  "Saviors of Uldum": [
+    {
+      "cardId": "ULD_171",
+      "dbfId": 53978,
+      "name": "Totemic Surge",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Give your Totems +2_Attack.",
+      "flavor": "It's not really advanced shamanic magic, you just draw nasty eyebrows on them.",
+      "artist": "Servando Lupini",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14129653a44fbc4262d86a8cd47751a42aacb045fd348a661c9b6cd5c4c29c9b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d95b6d49280d85089e5a9a3b69b78ab9bcef9e28aa14625414043c941e6d622d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_724",
+      "dbfId": 54749,
+      "name": "Activate the Obelisk",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "<b>Quest:</b> Restore 15_Health.\n<b>Reward:</b> Obelisk's Eye.",
+      "flavor": "A one-eyed, one stone, towering purple minion healer.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96aaea85abdef4ad5cf5fbe70289402d66f7f199969bdfa4839f6daa2ae4395e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e258ff7a3db24e5b01eaa2ee5b00cfaced448aafef2dc67753f424a832ae9bf5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_326",
+      "dbfId": 54311,
+      "name": "Bazaar Burglary",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "[x]<b>Quest:</b> Add 4 cards from\nother classes to your hand.\n<b>Reward: </b>Ancient Blades.",
+      "flavor": "Just when you set up your \"All-Natural Scented Candles\" at the farmer's market and then some STUPID KOBOLD COMES AND TAKES THEM ALL!",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76d211a01d1f57208731b857f46c9340f91ba808bfd5d8437c585b3537fb887d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15abfa44637e56d607759b68a560b16553fa786d2338d8f7b9a6e003701f86c6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_191",
+      "dbfId": 54269,
+      "name": "Beaming Sidekick",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give a friendly minion +2 Health.",
+      "flavor": "Sure, I'll carry the water! And the food! And the tents! And the cursed monkey paw!",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab519b9ac0c33e7993588bec50c6408160eadb1dbf359fda107386bb17c535a4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae9fa74383246342b925760e10b0b692863c0488c96e34031ebcf25ab65844fd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_145",
+      "dbfId": 53832,
+      "name": "Brazen Zealot",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "Whenever you summon a minion, gain +1 Attack.",
+      "flavor": "Some paladins really Light it up.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a174a5ca3142f314661704d4c9538ddb07d487d7b3a4c473ffc3db08646c4d1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a17861f670950a7e08031217ca38337c3d3e72f83986cbbb068a7dbda180e973.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_291",
+      "dbfId": 54369,
+      "name": "Corrupt the Waters",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "[x]<b>Quest:</b> Play 6 <b>Battlecry</b>\ncards.\n<b>Reward:</b> Heart of Vir'naal.",
+      "flavor": "This is why Hagatha is banned from public pools.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92995b689d752d22573a4974b1a1ac0b31b580dad4ed2d1790ab074bcb8fa441.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4a6b2e339b6910114e0c9b66f789993bce46c1af847d33c8a281b29f5fb8a24.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_265",
+      "dbfId": 53932,
+      "name": "Embalming Ritual",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 0,
+      "health": 0,
+      "text": "Give a minion <b>Reborn</b>.",
+      "flavor": "\"Guess what! We're getting a new cat.\"",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e3f318aefae35d58692cc1ca39d08e847a1eb2c883b078127c278ddda7b7224.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_711",
+      "dbfId": 54391,
+      "name": "Hack the System",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "[x]<b>Quest:</b> Attack 5 times\nwith your hero.\n<b>Reward:</b> Anraphet's Core.",
+      "flavor": "Anything can be hacked, if you're holding an axe.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f28cf4e862327137a1132495fe433dc6d1059a8da167698cd1aa7db594ff345.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87299dc6494251a7f896bf20e06ac213277b77bff262e217868fd394fce227d6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_256",
+      "dbfId": 53796,
+      "name": "Into the Fray",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Give all <b>Taunt</b> minions in your hand +2/+2.",
+      "flavor": "\"You are in my FRAY!\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9b8d532341050e4d86780d4bce85b21523acca8de9b30ea3a9a11c04ee7badf.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/194faaf08b5ed9c3dc7da6ce1c244532d075a1f8fc8ed8fde1188e2a7bfd5e01.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_282",
+      "dbfId": 54013,
+      "name": "Jar Dealer",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "[x]<b>Deathrattle:</b> Add a random\n1-Cost minion to your hand.",
+      "flavor": "What's in the jar? It could be anyone!",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea290d46fcbd99b4772994b5c54ccc3eb16fd10f9569b149135b122f1403e6d1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cfe5b4ed488f14007c6a4942e3a62255af2520f7259c61628e4884605f6986d2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_431",
+      "dbfId": 53907,
+      "name": "Making Mummies",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "[x]<b>Quest:</b> Play 5 <b>Reborn</b>\nminions.\n<b>Reward:</b> Emperor Wraps.",
+      "flavor": "\"I do say, this gives me the vapors every single time!\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ee62977154354bc248a31d95c7642c7053bf82ccaa68224d1ac432f40b4c66b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9282aca63796bf8f1c094f679dd845bada02b2a3ecfcee8bc31962df4e43db38.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        },
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_705",
+      "dbfId": 54291,
+      "name": "Mogu Cultist",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> If your board is full of Mogu Cultists, sacrifice them all and summon Highkeeper Ra.",
+      "flavor": "Mogu cultists have the worst team-building exercises.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f7c9e801beeb1d632c19d5274a8ebd2d46c28e556d1b0b867e13678e39ba5b0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50266a726e4ebeb9af504fec485e4a0028628eeac7fdfd7dc2de5acc035ee2ec.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_723",
+      "dbfId": 54730,
+      "name": "Murmy",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Reborn</b>",
+      "flavor": "Unlike other mummies, they rolled him up with rice, sliced cucumbers, and soy sauce on the side.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Murloc",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2a81702f17c63de3660656ab6a04490567f8fb62badb3ede640484411e7158e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_186",
+      "dbfId": 54261,
+      "name": "Pharaoh Cat",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Add a random <b>Reborn</b> minion to your_hand.",
+      "flavor": "Mightiest of mousers, enduring in kingship of the upper and lower cat tree, conqueror of the red dot, the all-wise Catshepsut.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "race": "Beast",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ce9c785cffb8b39514126d6aaf61209fa3b7a4103081b504b00a033de7b0cfe.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c71f7df1b0df6de275213fe4344ce5797586ea2f9e413b55c206b7270f9bd03.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_717",
+      "dbfId": 54429,
+      "name": "Plague of Flames",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "[x]Destroy all your minions.\nFor each one, destroy a\nrandom enemy minion.",
+      "flavor": "This is fine.",
+      "artist": "Armand Serrano",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d05279f07edaa626e3691411ce038c6004360f3d7e816483c912b593b6a34916.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_715",
+      "dbfId": 54426,
+      "name": "Plague of Madness",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Each player equips\na 2/2 Knife with <b>Poisonous</b>.",
+      "flavor": "Don't bring a candle to a knife fight.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4d4078343ecffcc8f365a57bc479a4c35ef91f1758741f7305a3519d84638c8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cef16ec6e5babfb6975dda901fcda3b55b8bb02e8a0c427493ee4b134619bf9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_433",
+      "dbfId": 53945,
+      "name": "Raid the Sky Temple",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "<b>Quest:</b> Cast 10 spells.\n<b>Reward: </b>Ascendant Scroll.",
+      "flavor": "\"Why can't I hold all these scrolls?\"",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a2783a0982d2879d780ac72280e23285e1337b90770281d223ae77c7ae0cf36.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e9ad591638f9d09342e1cb4de13078579822e8f3ac1b30255edde25dcb1ea6d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_160",
+      "dbfId": 53882,
+      "name": "Sinister Deal",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 0,
+      "health": 0,
+      "text": "<b>Discover</b> a <b>Lackey</b>.",
+      "flavor": "\"So, what's in the sack?\" \n\"Something... sinister.\" \n\"Okay, it's a deal.\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db71f46c2b18ace419f8317775df63346240b8287c8de1a87aff9e4c6dc18e04.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a0b78c768210df24c71402b184ce4bbb087692f36ca47bbbe6c64ab858b0762.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_140",
+      "dbfId": 53739,
+      "name": "Supreme Archaeology",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "<b>Quest:</b> Draw 20 cards.\n<b>Reward:</b> Tome of Origination.",
+      "flavor": "Archaeology is the discovery of rare and powerful artifacts. Supreme Archaeology is TAKING THEM!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad7087786a48e805bf683a46b19e235c1a62adad96cc68e62096b10a60ab4a5b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64debb3cc995cf7a9c6a5b8a07e7cbf80127a2567052eabdc5554d9506c7f6ca.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_155",
+      "dbfId": 53924,
+      "name": "Unseal the Vault",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "<b>Quest:</b> Summon 20_minions.\n<b>Reward:</b> Pharaoh's Warmask.",
+      "flavor": "\"Huh... That's a nice card back.\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02c07ce8db467b8df5bd945dfe18f4b444b99a1c01fdd38e81c50aabb6909c52.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdaa94616a9dbcd7c083d3b6195f28b4d90acfbfa9024255790122db205469dd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_131",
+      "dbfId": 53496,
+      "name": "Untapped Potential",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "[x]<b>Quest:</b> End 4 turns\nwith any unspent Mana.\n<b>Reward:</b> Ossirian Tear.",
+      "flavor": "The official term is \"strategic laziness.\"",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f6cdbb6c962d6ea864cf566b15b3e9b0872990c065676b4c0ec78f42d7bcde3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05dc807c94dabaa7680f1ab40b850b6797f204713d0dc293a5d3dc22541fe007.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_136",
+      "dbfId": 53596,
+      "name": "Worthy Expedition",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Discover</b> a <b>Choose One</b> card.",
+      "flavor": "This isn't where I parked my mount.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fbb6e10cc07dba2239f251a0998c67d8b198d6cda05c30c0105fd706328e0d8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3553421e0da0cf7de8c7258a2211810c03c3a4faf6fc532ec454d0273a949b5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_726",
+      "dbfId": 54772,
+      "name": "Ancient Mysteries",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Draw a <b>Secret</b> from your deck. It costs (0).",
+      "flavor": "I'm not saying it was aliens, but it was TOTALLY aliens!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5be9be1ff5a4dcab6a54829d1ed8f1858f8c33006f3721d38035810fed3f1839.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4d3a7fab8bc3293da858ee9273b30a6f1f8eec60d60afd2e70014969d6c8fa1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_240",
+      "dbfId": 53822,
+      "name": "Arcane Flakmage",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "After you play a <b>Secret</b>, deal 2 damage to all enemy minions.",
+      "flavor": "Ancient pandaren proverb: He who is without secrets lacks flak.",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc8c8d4403a997e225a8c308f99d63632dde1f80ab9cf5288fcb29c1d0af5ff2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc25f973e3bd17dcbe501bc26b3f99b10f742d5fcdc933a4ebd716e072d444fd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_712",
+      "dbfId": 54411,
+      "name": "Bug Collector",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Summon a 1/1 Locust with <b>Rush</b>.",
+      "flavor": "The only one who likes BEEEES!!!",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29b4192dd5d053b9b824e21b68451f39f4762526a75862a32b1e49e95d24f6d4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42fe69ff9f626fcafc1deae832be1765b7335847fccf687d99011882f3161df9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_328",
+      "dbfId": 54317,
+      "name": "Clever Disguise",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Add 2 random spells from another class to_your hand.",
+      "flavor": "\"It me! Togwaggle!\"",
+      "artist": "Ekaterina Shapovalova",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f374675489f876c7cced5b0c5cf0876569291fa5aeed944b4ef2d8be68ccb9c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8256d295da4d3733fbd47b0b01dd973a2f37ffc8f100bde6c9c14ec48ba55262.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_133",
+      "dbfId": 53545,
+      "name": "Crystal Merchant",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "If you have any unspent Mana at the end of your turn, draw a card.",
+      "flavor": "I won't ask about your mana curve if you don't ask where I got these.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6fd37529f9e00e20845ab46b81b0f34b4e1bb7b2461bc911896ee96b16667a8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7fb6002244c9150be989f36d5a8fca4a11c98736a803106201523081cf49751f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_309",
+      "dbfId": 53343,
+      "name": "Dwarven Archaeologist",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "After you <b>Discover</b> a card, reduce its Cost by (1).",
+      "flavor": "She's making great progress on paying off that advanced degree.",
+      "artist": "Danny Dai",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db6c0a39f602bb6410822d6c3317262bf0757df823af1ca9813762bf4d205c5f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b86889aa5cbea0a922cd17596fe4bd145160ae468479d3367ebbda42317b4bd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_276",
+      "dbfId": 54009,
+      "name": "EVIL Totem",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 0,
+      "health": 2,
+      "text": "At the end of your turn,\nadd a <b>Lackey</b> to your hand.",
+      "flavor": "A lot of people blame the parents when a totem goes bad.",
+      "artist": "Servando Lupini",
+      "collectible": true,
+      "race": "Totem",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/019d61cf57d27ce4117d6da35e2cb7c466ecb087d6fbaf83258df83c7135059c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2727ebdd2ffbaeba6fee1f0ddbe9f4c3bc20f90fdc3e6945069aa3ef762f7d67.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_163",
+      "dbfId": 53885,
+      "name": "Expired Merchant",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> Discard your\nhighest Cost card.\n<b>Deathrattle:</b> Add 2 copies\nof it to your hand.",
+      "flavor": "The \"best by\" date is more like a guideline.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c0bde57631a6d497891c37295c8aeac02411a53b81f4a87e2523c9c154f85e3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c868e269010f842ef2291bd672f06c72b05588fdb98ee62613cdd259bb0c54ae.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_289",
+      "dbfId": 54191,
+      "name": "Fishflinger",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Add a\nrandom Murloc to each player's_hand.",
+      "flavor": "The scent of fish lingers on the fishflinger's fish fingers.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/714cb3c847af275c66f8e102f59e2c5101784e2825da858fc649bc733ccf7b75.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5c4c744351d3a09e8909650e762c3064797dcd3e9e0f7fead4af74106d56800.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_195",
+      "dbfId": 54274,
+      "name": "Frightened Flunky",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> <b>Discover</b> a <b>Taunt</b>_minion.",
+      "flavor": "Some people just aren't cut out to be supervillain material.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06d984f4415dc41ae234502e9721a9622b2eda5a518014bc64f5a80b982b2f78.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74cd20fae535165c81634d7ef5b7e092f8f396ffe241b1ca8267bd07cbee7bbf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_266",
+      "dbfId": 53933,
+      "name": "Grandmummy",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "[x]<b>Reborn</b>\n <b>Deathrattle:</b> Give a random\nfriendly minion +1/+1.",
+      "flavor": "A grandmummy\u2019s love is eternal.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b05a5e29293625e3d868de8a2d58f47789036d6a556a8129d1af6cea42c9d51.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6992f9b6c02c56900845b6f5c466e63249b584fedc8dab99efbbc3955ca4e5cb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_272",
+      "dbfId": 53971,
+      "name": "Holy Ripple",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Deal $1 damage to all enemies. Restore #1_Health to all friendly characters.",
+      "flavor": "I still prefer the taste of banana fudge ripple.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e07acd7a562bd9f9696e1cd4066dcd04fe007654bca1eec408cbb07848c56162.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b1855d16c8d00b594d201e7f8dfada71714818e58fa00dd00c2a455b112fa12.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_271",
+      "dbfId": 53970,
+      "name": "Injured Tol'vir",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Deal 3 damage to this minion.",
+      "flavor": "Me-OW!",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0bb67ecd3f4c684f9f34f8b9650a5594d09327fef12ef03a5a054dec6f3235ce.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acd2577e77adc09db59806a39940def213d8f560edbd98bb4ec4c4132c98fe1b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_184",
+      "dbfId": 54259,
+      "name": "Kobold Sandtrooper",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "faction": "Alliance",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Deal 3 damage to the enemy_hero.",
+      "flavor": "Stay while, take candle.",
+      "artist": "Christopher Hayes",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/123f810f19139c8756c5152135e851ec4db5d476df15a507a3cc160a4e632716.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8919cb168b9d5dab6a0e63c09b65ea938829d2545de840ffa3fad7b758a7ae8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_217",
+      "dbfId": 53445,
+      "name": "Micro Mummy",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "[x]<b>Reborn</b>\nAt the end of your turn, give\nanother random friendly\nminion +1 Attack.",
+      "flavor": "The dramatically detailed terrifically trimmed replica of the real thing!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/431c3f54df588804a5831e337213f4346555e96f8e7115066c266e3111a42266.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b765392e38dcda29dd055a3af6885f7b6fc3e70997a58ecfa97ef32b7ec95478.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_196",
+      "dbfId": 54276,
+      "name": "Neferset Ritualist",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Restore adjacent minions to full_Health.",
+      "flavor": "The Neferset are great\u2014they'll always make sure their friends are feline fine.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9760f356c7ad515e7aa401bbc626e50705948a9e489e168fdcd262f201c7ce07.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49bf7517b78d4540af2e98c5dee157b869ce245836d1dd449172d83de05b8643.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_714",
+      "dbfId": 54425,
+      "name": "Penance",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Lifesteal</b>\nDeal $3 damage to a_minion.",
+      "flavor": "This is what happens when you don\u2019t give a sincere apology.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d23008f895a0ac5e4f705e8787a2938f041e0bfc624fa80fdbd1352fc8c4cfe0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2769bb7ac3aaace0dbd57bdd7a522235fc1c6fc43733dc37a1ba2bde19817db.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_152",
+      "dbfId": 53919,
+      "name": "Pressure Plate",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Secret:</b> After your opponent casts a spell, destroy a random enemy_minion.",
+      "flavor": "The appropriate dishware for stressful situations.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae4cf364c5b7f0733ade29d7846c2258a1925774b8ee40bad0bb31a4edec896a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8f875c57d570d9e281daa8dade5f3cdc98d75ae4562f212c23e3fd160891079.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_157",
+      "dbfId": 53947,
+      "name": "Questing Explorer",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you control a <b>Quest</b>, draw a card.",
+      "flavor": "Earned her merit badges the hard way\u2014twelve zhevra hooves at a time.",
+      "artist": "Maria Alexeevna Trepalina",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c872689d662f6d980fc6a47643e5e8a8fc1d90c9c684bd4ddbf7554add8f2474.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55fbda37417c110a0c54c293da1576c486ac8b3a6b63867084d0bc23cac6f75c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_197",
+      "dbfId": 54278,
+      "name": "Quicksand Elemental",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give all enemy minions -2 Attack this_turn.",
+      "flavor": "Use a light abrasive to buff blemishes away but use a heavy abrasive to debuff problems.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ac654c7654f94edb5930bcfdbc36c6e9d29487993fffa28c662d1c7a8b40810.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/428247e2920e496b05730108dfc88f52e3cff7a25e45bd02b072a99414281985.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_158",
+      "dbfId": 53967,
+      "name": "Sandstorm Elemental",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Deal 1 damage to all enemy minions. <b>Overload:</b> (1)",
+      "flavor": "Doot doot doot doot doot [Pause] Doot doot doot doot doot DEE doot doot doot doot doot!",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/545dc3f9c728dcf14f371fa2468075014cb206cc7ea3411a5dd3a91fa5de4a7f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52e9ecb40ad54d4e3ba0cd314b576047d0b6bd6cb5c81fedc8608b2aedead84c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_439",
+      "dbfId": 54038,
+      "name": "Sandwasp Queen",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Add two 2/1 Sandwasps to your hand.",
+      "flavor": "Oooh, see that wasp! \nWatch that sting! \nDig in the Sandwasp Queen!",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c17a9a5b3bc2899f1e7228855387c5dd24bf99db9625f164d15ff2054985cb99.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea324729b277e4fedd536ab27a811e3f9697e08235b40982cab976dccce6d542.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_174",
+      "dbfId": 54077,
+      "name": "Serpent Egg",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 0,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Summon a 3/4 Sea Serpent.",
+      "flavor": "These things go from \"adorable danger noodle!\" to \"MY FACE IS MELTING!\" all too quickly.",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f58b22a93a22d11ba65439648214fe62cef5b90b593e169b7c1b59702d3ba9cf.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e73d0e6f48b6d541dca7364f59ac9841bcae30be5036affa831094c47634a698.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_500",
+      "dbfId": 53379,
+      "name": "Sir Finley of the Sands",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If your deck has\nno duplicates, <b>Discover</b> an\nupgraded Hero Power.",
+      "flavor": "\"The sands shall be my sea! And this scarab shall be my, er, strange and wriggly boat!\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "race": "Murloc",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05ae9de4300b4f93802ed641bd9ee8044ed85d3a5afac79895779f9e57faacca.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e248323438107db1e0b7c830ad2c7e119353930772639bdeaf4e537ad9f7168.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_182",
+      "dbfId": 54256,
+      "name": "Spitting Camel",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]At the end of your turn,\n__deal 1 damage to another__\nrandom friendly minion.",
+      "flavor": "Were you expectorating another bad pun?",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5bbf901e644a4890d182502c2480758ca7bec78b74e4fdf9140b6577cb12eca0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14cf78d9dd1f7e6f22852b4d9f6b24712cc8e34eacc105ee5d39e3aee9dcb512.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_728",
+      "dbfId": 54806,
+      "name": "Subdue",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Set a minion's Attack and Health to 1.",
+      "flavor": "Like humility but more humiliating.",
+      "artist": "Steven Prescott",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b5035b652d0df960ed25cf49fa64db7498a449bf58577710b4a83155cee5b0a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de939bdb5354343427c2713577c18054ad7dba46b728658046f980179ae9003c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_185",
+      "dbfId": 54260,
+      "name": "Temple Berserker",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Reborn</b>\nHas +2 Attack while damaged.",
+      "flavor": "He's back. He's angry. And he's here to wrap things up.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1cd19fcc0eb77ec5b85cf8ac5d8178482936b6a234008deb158f7c15311c7df0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af797a0048b89abe2e21b205e25a3d384cc1e32a9780ce72a6efa50ae329a617.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_450",
+      "dbfId": 54433,
+      "name": "Vilefiend",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Lifesteal</b>",
+      "flavor": "Dreamed of becoming a Stylefiend, but fel was never in season.",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc8142d866908d426a5321aefaa5d657d32a35c54bb5b0363fbff17f8b529317.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_231",
+      "dbfId": 53627,
+      "name": "Whirlkick Master",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "Whenever you play a <b>Combo</b> card, add a random <b>Combo</b> card to your hand.",
+      "flavor": "C-c-combo!",
+      "artist": "J. Axer",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f183ab4f7408e3636cf4d1de7c84dd7d2a68a0bb429e5c99558dd508fac268a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/170a7b720ad0e0d92c71638665fac194730d86b0c78d1ea11677d040ac6aa568.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_003",
+      "dbfId": 53756,
+      "name": "Zephrys the Great",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If your deck has no duplicates, wish for the perfect card.",
+      "flavor": "\"Of course it's perfect, you're just not seeing how to use it.\"",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "howToGetDiamond": "Obtained by owning 23 Saviors of Uldum Legendary cards.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78ce1d8a2488c3496662ac132bd4cba7e1624708ff43e170e41e563fdcaa9a47.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_134",
+      "dbfId": 53551,
+      "name": "BEEEES!!!",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "[x]Choose a minion.\nSummon four 1/1 Bees\nthat attack it.",
+      "flavor": "Right before CEEEES!!!",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a873865fc3da8194ac9d131c51f8576bc03c28cdb788aede998d3bff70ec811a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6951e2c2154f155bcd09e7bbcd2a1c01e25a7cc9c51364c9f3328913202d4b79.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_720",
+      "dbfId": 54492,
+      "name": "Bloodsworn Mercenary",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry</b>: Choose a\ndamaged friendly minion.\nSummon a copy of it.",
+      "flavor": "You look really hurt. You could use a friend!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d65eb4006118db93a26c420122bb301e883dccaf4bb74f08c2670c711a38a2e4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6578817ea7fe31a9f40cb9d3d8ab240e8e3882e3a661e49d64a4782f3f609507.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_205",
+      "dbfId": 53402,
+      "name": "Candletaker",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Reborn</b>",
+      "flavor": "\"You no waaaake caaaandle!\"",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d722f4b8427700607ca56ee2885068e0d086cef4eae362ecd87a7e72a2790dd2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_719",
+      "dbfId": 54488,
+      "name": "Desert Hare",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Summon two 1/1 Desert Hares.",
+      "flavor": "After they're caught, they\u2019re dessert hares.",
+      "artist": "Ware Li",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e0275ff634a96f6c7b4049061b7c4261d6aaa1966e371661fc6e1f29ebc60db.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/631749055e111629c176ae84952db53b7d997f6a1b712c69f0f644fc2306930f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_430",
+      "dbfId": 53860,
+      "name": "Desert Spear",
+      "cardSet": "Saviors of Uldum",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "durability": 3,
+      "text": "After your hero attacks, summon a 1/1 Locust with <b>Rush</b>.",
+      "flavor": "Goes on the right, next to the desert spoon.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5be538eeafaec4e968fee31ca00e7df10c0c87ded89ef2e06964b734bd4acc8d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cdd8e0464f4f07a073aafd655755975cb0797137dfe271397fe1eade827517f8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_329",
+      "dbfId": 54408,
+      "name": "Dune Sculptor",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]After you cast a spell,\nadd a random Mage\nminion to your hand.",
+      "flavor": "Come for the magic show, stay for the sand castles.",
+      "artist": "Servando Lupini",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc4b45b4467d2c5c6e3a3f8c95a1fe680cad331c7496412c8dc1bd8f46afea12.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98436136f2e27d8028c0b35b47176b506343f4cdd774209c6a845b98fde16f39.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_162",
+      "dbfId": 53884,
+      "name": "EVIL Recruiter",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Destroy a friendly <b>Lackey</b> to summon a 5/5 Demon.",
+      "flavor": "I'm starting to think the lackeys aren't evil, just taken advantage of.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ddfa9fe1f1bfc416ebce877662a907c4e36bca13df58824ec42a5965b1faa89.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59c6c9415d0ce60fbcb17e6a587b55725d9ae214ecfbcc216793b11f428c150e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_239",
+      "dbfId": 53823,
+      "name": "Flame Ward",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "<b>Secret:</b> After a minion attacks your hero, deal $3 damage to all enemy minions.",
+      "flavor": "Not to be confused with the burn ward.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15ec5cc38aa2486cc83732604f8189311dc2c2cafbf584a858e1574a7e8ef7fa.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51de4c552544db05da1aed1c5ce55d227981144a82286b982ba2202a9cff2ef4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_214",
+      "dbfId": 53438,
+      "name": "Generous Mummy",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Reborn</b>\nYour opponent's cards cost (1) less.",
+      "flavor": "Yeah, she's mummified, but her money hasn\u2019t dried up!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77538479c3685ee2a8d376489a215072cb835896547d9ab965707bfe7c04e7c6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d944766ebbd5f45b9270f3fab4f83c57ce07b4fe31523875eb1d6ad88b3e60f5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_188",
+      "dbfId": 54264,
+      "name": "Golden Scarab",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b><b>Battlecry:</b> Discover</b> a\n4-Cost card.",
+      "flavor": "Who actually puts all the gold plating on these things, and why?",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c261e171e4531c7f32575d054f4f7208d8b3b3f06d26cf5c98646a2a7e87d619.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a21c88c5c9da4ff0e740e40445b7d8ff0fa2e60086766908ebfc420263737c8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_290",
+      "dbfId": 54204,
+      "name": "History Buff",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "Whenever you play a minion, give a random minion in your hand +1/+1.",
+      "flavor": "Actually... what happened was...",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3a88de26b33c514f93b9088c7f3cbe9244b413517f0fecdc7ba2a1134999ffc.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30049d24b25d67572c8bfa26953bdfc27806d00a46f57ee3e376e79d7e259a03.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_285",
+      "dbfId": 54015,
+      "name": "Hooked Scimitar",
+      "cardSet": "Saviors of Uldum",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "durability": 2,
+      "text": "[x]<b>Combo:</b> Gain +2 Attack.",
+      "flavor": "Oooooooooooow. I'm hooked on a scimitar!",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d1b512d78680b8e0df06910c956e42aa6b96ca922624edbd2b2d50fcf9d63f0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56324ddfa001e0e93749c00ff3763449699d77f3a0cbabf2cf5994c06f3bf414.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_429",
+      "dbfId": 53861,
+      "name": "Hunter's Pack",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Add a random Hunter Beast, <b>Secret</b>, and weapon to your_hand.",
+      "flavor": "Oh look! It's a trap!",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8408dca2ef1548a79e2ce61e4966db071b3b57f6bba51b257ecf3b75cbe7d031.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da00bed99947fbd35b4fd0cc6c9e933c8a29b4e60d12bd2f05e29d96f02785e5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_250",
+      "dbfId": 53788,
+      "name": "Infested Goblin",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Taunt</b>\n<b>Deathrattle:</b> Add two 1/1 Scarabs with <b>Taunt</b> to your hand.",
+      "flavor": "Trust us. DON'T go cheap on the scarab repellent.",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29f06176a801910fe99273ecc954cba7f8fffb3e4f0ebaa6e5ca3cd7537e9314.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab6e954bd44a8ee37175809a41950c9ed8ef1af4666fed6346daccb2a62f5c8e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_708",
+      "dbfId": 54389,
+      "name": "Livewire Lance",
+      "cardSet": "Saviors of Uldum",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "durability": 2,
+      "text": "After your Hero attacks, add a <b>Lackey</b> to your_hand.",
+      "flavor": "The lance is heavy but it\u2019s the battery pack that really does a number on the shoulders.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/064511b141c537a5b554ea04f6dcf74cc1dd08c9fa3ead4090841176c7f2e7a2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8774562cb4be0c37f6d10f0d61941f8049de12326d9721b81b3442c88ab5b4e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_229",
+      "dbfId": 53582,
+      "name": "Mischief Maker",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Swap the top card of your deck with your_opponent's.",
+      "flavor": "Fair trade is for noble-minded suckers with dignity and honor.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/545e05cdfda13f99759b169389db33fc2d6300caab219282f1963f4248e29f77.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a0793904c750b17543651d9c7e61297377d569ec367f874ae8a993628335b1c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_161",
+      "dbfId": 53883,
+      "name": "Neferset Thrasher",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 5,
+      "text": "Whenever this attacks, deal 3 damage to your_hero.",
+      "flavor": "Tough to do skateboard tricks with four legs.",
+      "artist": "Eric Braddock",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/844b25c799f4bcef9e6bba2350112c8ee2c6cce454fd03c3bbdbf5aa55424de3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccde4d5b20bb72e397d5d6aced57ca671369b45fec9b0661d4a513e4332d87a9.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_172",
+      "dbfId": 53985,
+      "name": "Plague of Murlocs",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Transform all minions into random Murlocs.",
+      "flavor": "This is horrible! And adorable!",
+      "artist": "J. Axer",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cdce1fbf0e33be877727056a8e0467ee3ed0228940a21be701671eacea4cddd.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_151",
+      "dbfId": 53917,
+      "name": "Ramkahen Wildtamer",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Copy a random Beast in your hand.",
+      "flavor": "She gets to decide what cards go to the Hall of Fame.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d56ab5184b6b93b7c23873b2fa32278be89f5267e61b37b9b1e03655019db0d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/956f244a4939c892c1aec825c85aa86186c1750889669717d563665f89b2e0b6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_438",
+      "dbfId": 54037,
+      "name": "Salhet's Pride",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Draw two\n1-Health minions from your_deck.",
+      "flavor": "Pride cometh before the maul.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a9b01642c1c06409a2ed350a31ec8958e6021f4fc6999355c2304d3e7c097c6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5147f8ef9836e5d1d41ea98077a2b00fc0633393a9343077275d1825e4f4afd0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_209",
+      "dbfId": 53413,
+      "name": "Vulpera Scoundrel",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry</b>: <b>Discover</b> a spell or pick a mystery choice.",
+      "flavor": "A spell is a spell, but the mystery choice could be anything! (It's also a spell.)",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d77e1ed8fa748a1b897bbb02b49840b3c5e0270b10d41a5170fc1d2fba203539.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09fcfaca3cbfe46b94d1a25352d8358accec842fca1ac4423b513334e4cc5284.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_170",
+      "dbfId": 53973,
+      "name": "Weaponized Wasp",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you control\na <b>Lackey</b>, deal 3_damage.",
+      "flavor": "Dr. Boom had one simple request: wasps with flippin' laser beams attached to their heads.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5046f8e28d118781082cb6f612a6e5a79ae3e8f7add626b32755a4e658d45d2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd3708f6daf5aa2cb1f438aa0f3ff9712e5ef94ef2908aab0278db0a7e5b6944.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_269",
+      "dbfId": 53942,
+      "name": "Wretched Reclaimer",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Destroy a friendly\nminion, then return it to life\nwith full Health.",
+      "flavor": "\"Ok, here's the plan. We kill you, then bring you back.\" \"Stronger?\" \"No, about the same.\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbcf6249f61dd59e9e3abf2272352300225fa540a44e5a77aa801278e0d761e7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f905aebfc2bbfd1cab18c15ef3d74fd8fee8a562a322c6e5a2268c1519c50ea2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_207",
+      "dbfId": 53408,
+      "name": "Ancestral Guardian",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 2,
+      "text": "<b>Lifesteal</b>\n<b>Reborn</b>",
+      "flavor": "No one knows whose ancestor he is, but he's still upset that you never call.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a89ec07ca986bb6c754c88a11ba34f7952d3093b6c680fae31b3e86f7a788b3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_727",
+      "dbfId": 54783,
+      "name": "Body Wrapper",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a friendly minion that died this game. Shuffle it into your deck.",
+      "flavor": "She uses pickle slices for the eyes. Keeps them well-preserved.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba6b72868eac11e9b5d386d51a221734b0baa1c26cb535ee1da4ff05d9d7a941.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0cdc6eebe62fa277db62df94fb25c7514e692823600605b21f385de9ac1008f2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_275",
+      "dbfId": 54002,
+      "name": "Bone Wraith",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Taunt</b>\n<b>Reborn</b>",
+      "flavor": "It uses only the eco-friendly bones from free-range humanoids.",
+      "artist": "Steven Prescott",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7ba7511799b9d7e54253f107ab94ab4891c40ad4b5b43ef6d62a3721455b703.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_198",
+      "dbfId": 54280,
+      "name": "Conjured Mirage",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 10,
+      "text": "<b>Taunt</b>\nAt the start of your turn, shuffle this minion into your deck.",
+      "flavor": "What you see is Isiset.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8b06618d10a7eb85071b98f7aab489da9cff023180a7ba538a98722b0a5a4c6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99725dc660db0802d654f0da2d04cee45e935aba932d7f376a8c41801644b675.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_167",
+      "dbfId": 53889,
+      "name": "Diseased Vulture",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "Whenever your hero takes damage on your turn, summon a random\n3-Cost minion.",
+      "flavor": "He's off the twig! He's kicked the bucket! THIS IS AN EX-VULTURE!",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Beast",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23ddc91203bbbf8ad6b33cf66239256128bf3ed8ad419107628afcc8d15dc914.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b9eb811e23f7e749fd558cb3e2c45715612f57b7cdb227b287f8b1473b87dd2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_137",
+      "dbfId": 53613,
+      "name": "Garden Gnome",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If you're holding\na spell that costs (5) or more,\nsummon two 2/2 Treants.",
+      "flavor": "\"Greetings, my little shrubs... It's whittlin' time.\"",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a90946294c08857a42d858d6ef2b664e6a2a8ec6be750d1ba4aadec23dbf5c6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6754f1da2b103af45b00207ac150224478466fd335e03773e5b0b0950922600.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_262",
+      "dbfId": 53929,
+      "name": "High Priest Amet",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 2,
+      "health": 7,
+      "text": "[x]Whenever you summon a\nminion, set its Health equal\nto this minion's.",
+      "flavor": "All minions are equal, but some minions are more equal than others.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffc310b80b7773bae2a23fd25f05738d2e755d0afb0633f9376384fed085e853.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57d7d06a38e17b40e0bab5cf19adcb8ac25a85818fc285fc3e81cb6296f888f0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_154",
+      "dbfId": 53922,
+      "name": "Hyena Alpha",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If you control\na <b>Secret</b>, summon two\n2/2 Hyenas.",
+      "flavor": "Everything the sun touches is ours\u2014so long as it's already dead.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf5ee842ce44e146fcec9f61ec84f79a80217b005c1fa18dba33bdea8c48e80b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2d2a802c04f6c09bb819f4d89ce20a12105a5d874829f84b3f8635706a9e851.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_324",
+      "dbfId": 53938,
+      "name": "Impbalming",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Destroy a minion. Shuffle 3 Worthless Imps into your deck.",
+      "flavor": "With your complexion, Imp Balm is a great demonizer.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f9fde1a466c497cfc95142fad1ba7e10820068a634f000acfe1f4ffa79a3d78.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2238c39d44840aa50abce6ee73f3d060fbdbd4a9ec2bf14350f401c1ae8a7e70.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_268",
+      "dbfId": 53935,
+      "name": "Psychopomp",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> Summon a\nrandom friendly minion\nthat died this game.\nGive it <b>Reborn</b>.",
+      "flavor": "\"Come with me if you want to re-live.\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9d5c19328c15368c15e6c28a1fba801bcebfa9fffac8174bb17a451df82b216.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7947550b178ffdf5e3c01f1018968e916f7437f0afe64bd35536c5b16a9d5841.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_206",
+      "dbfId": 53407,
+      "name": "Restless Mummy",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Rush</b>\n<b>Reborn</b>",
+      "flavor": "Life-separation anxiety syndrome.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d83668b14f82bce8016bbbc3a23fa2b3610e1f2314484b0767af9c4dac1953dc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_280",
+      "dbfId": 54011,
+      "name": "Sahket Sapper",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Return a _random enemy minion to_ your_opponent's_hand.",
+      "flavor": "\"Here, you dropped this.\"",
+      "artist": "David Kegg",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19ea3fc7ab55e8a3202281c3454bdca23a35a512113a8a5d7a486151b4ae523f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33b11a6c0d6f00ec304a3a7f40cb1dbb96caa9e1696e02a313156ec23c7c541d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_286",
+      "dbfId": 54016,
+      "name": "Shadow of Death",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "Choose a minion. Shuffle 3 'Shadows' into your deck that summon a copy when drawn.",
+      "flavor": "Making new friends takes skill.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7df29dfde0d6d513da30b4167e5f8bf32fbf384a65bf290c06111f8f6c837c1d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0991ec062beac5fe2214b614c5fb122a12b3e3fa0f76d6b88b97c88e77d87d9.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_413",
+      "dbfId": 53661,
+      "name": "Splitting Axe",
+      "cardSet": "Saviors of Uldum",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> Summon copies of your Totems.",
+      "flavor": "The ancient shaman chant, \"Control Axe, Control Vee.\"",
+      "artist": "Malcolm Davis",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56bb90e26aee7823ef9fb19622bff01483001de6863850f719ecd16f518d86b2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/920542a0ef8754434b1be1f32575cbdc0dd3a0bf57724baf87dc11200e5b74e5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_180",
+      "dbfId": 54154,
+      "name": "Sunstruck Henchman",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 6,
+      "health": 5,
+      "text": "At the start of your turn, this has a 50% chance to_fall asleep.",
+      "flavor": "There is E.V.I.L. here that DOES sleep.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38021cdd48b8dedcca66fbcfd335f0624b74e8aab5b740f8ae929dfbb618e803.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fec92ba665f8b03af9a8400494a926d770c33b2ed6ceb2520c9090ed26f57de.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_173",
+      "dbfId": 53990,
+      "name": "Vessina",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "While you're <b>Overloaded</b>, your other minions have +2 Attack.",
+      "flavor": "She wasn't happy when Hagatha sent her back to Uldum. But her \"angry\" hiss sounds like her \"happy\" hiss, so no one knew the difference.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/640d1299ac42af322a45501ea146797091094ac3de83848fd32c51cba2d1a886.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ade99f9523aba32d326a4d030dad4d08280a96877979cb19a6989af519754c1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_288",
+      "dbfId": 54020,
+      "name": "Anka, the Buried",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Change each <b>Deathrattle</b> minion in your hand into a 1/1 that costs (1).",
+      "flavor": "\"You look familiar. Were you at my first funeral?\"",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8daa29ef6e2e1bedb2e9ea34a406c7889f3635d5db04bc5b3f616050754aba1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ae7c46184edc39a5cc0b84ade03e5ca59ff5543c5e7a1369ce5906b2a25a36c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_138",
+      "dbfId": 53615,
+      "name": "Anubisath Defender",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Taunt</b>. Costs (0) if you've cast a spell that costs (5) or more this turn.",
+      "flavor": "Also comes running when he hears a can opener.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1743aee094966ff0df00b7d749e72f101356e683952d280e39a213efc0a7da25.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/019e809f933e52016e0c1dd7e586b05b07fcbc653d936941446dd7d1c0ddbff7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_327",
+      "dbfId": 54314,
+      "name": "Bazaar Mugger",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Rush</b>\n<b>Battlecry:</b> Add a random minion from another class to your hand.",
+      "flavor": "Premium muggings at a discount price.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86af9dfd08cb52225873b877008639eacece72efdd08becef0eb2ca12afe0011.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9d6842bc64a5bc3df3cea8637bb49ef201cb633614baf598359d18ee210a324.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_293",
+      "dbfId": 54493,
+      "name": "Cloud Prince",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you control a <b>Secret</b>, deal 6 damage.",
+      "flavor": "\"In West Cloudidelphia, born and raised; flinging lightning for the rest of my days.\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f64c4e819ca855f923ea5a911fe5ce21a7ff3b97cb3ab3de43d7332f6ae1948.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f0ff816fb58888cf7eb018e4de0d59c9ef657b45fffc5af9575766d32852ddc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_168",
+      "dbfId": 53890,
+      "name": "Dark Pharaoh Tekahn",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> For the rest of the game, your <b>Lackeys</b> are 4/4.",
+      "flavor": "He'll get that League of Explorers and their little murloc too!",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e53df2344ddeba3f3e22b0cde4adb4135266336816fac1b73031fa8c6387186d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60667f45913612fbc3b8f04bc8582be0404ee38e594a3fe422ce466d413ac987.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_703",
+      "dbfId": 54288,
+      "name": "Desert Obelisk",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 0,
+      "health": 5,
+      "text": "[x]If you control 3 of these\nat the end of your turn,\ndeal 5 damage to a\nrandom enemy.",
+      "flavor": "The Obelisk of the Stars can hide an entire land from prying eyes! Or zap a rando.",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dfcb3f0607cff2ef74d0d91fe4edb95a717951ea639e23dde7082d795a5e5f30.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40dff67d88a9b7751088e90b0150efd0fb62a71fd499d66a795a86d5421694f6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_139",
+      "dbfId": 53620,
+      "name": "Elise the Enlightened",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If your deck has no duplicates, duplicate your hand.",
+      "flavor": "From cartographer to combatant, Elise has taken the road less traveled\u2014because no one else could find it on a map.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a5d971c01b38ced067866afd3805ea5ea5cd28b8eaf33874140c13f41d8ebc2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/029ef7c3afca2ffadcbd88cd3b36429e4b1f4874a9f9cad689e5fbe6480a1c6a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_189",
+      "dbfId": 54265,
+      "name": "Faceless Lurker",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Double this minion's Health.",
+      "flavor": "Longtime lurker, first time attacker.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8df464de48bcc340cdbe57dfb199f1f9479d55f7ae60fd91d1d186fe1047589.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c99786c4cbc3ba215aa8f66779156a5a801c4c17be8f61a69807857cc913bd98.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_702",
+      "dbfId": 54284,
+      "name": "Mortuary Machine",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 8,
+      "health": 8,
+      "text": "After your opponent plays a minion, give it <b>Reborn</b>.",
+      "flavor": "The ankle bone's connected to the shin bone. The knuckle bone's connected to the... eh, it'll be fine.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0fdc80da0b4401cc979432a1d1a3b622b31d9bcddfd8e1d9041585b4edafc0f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_435",
+      "dbfId": 53974,
+      "name": "Naga Sand Witch",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Change the Cost\nof spells in your hand to (5).",
+      "flavor": "5 mana footlong, anyone?",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Naga",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4adbfe8e68d43c2c22ef9cda0f05ede53ee963260bc18cf2f6591f2ae71fb460.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f9817bdc2bb2b614850c7365301589f115cc862e11fb8438a69f621ce9cde62.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_292",
+      "dbfId": 54489,
+      "name": "Oasis Surger",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Rush</b>\n<b>Choose One -</b> Gain +2/+2; or Summon a copy of this minion.",
+      "flavor": "Surge's up, dude!",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/562187287e5766dc59f33f2054bf1e9391c4a1ac486ad1882d9018e91ff352d7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/754270b1b2b5c6fc473a0371f9bfe2467aae1e6c8aeabd38777b0ec8cacc624b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_179",
+      "dbfId": 54153,
+      "name": "Phalanx Commander",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "Your <b>Taunt</b> minions\nhave +2 Attack.",
+      "flavor": "Turns out he's really good at herding cats.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6b51ba517c8fad3b87691d214e2212f22081dd54fbd3edb05ab8607b311be8b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2bd98522853159fa4425c76c29678d1c0e3c48ea0b1d84a9b1d93643a8a41acc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_707",
+      "dbfId": 54386,
+      "name": "Plague of Wrath",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Destroy all damaged minions.",
+      "flavor": "\"Thanks, I HATE it!\"",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fce5756131ca11641c641a51615d9963b2c58a3c95552917ba698b3e2eac06b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_270",
+      "dbfId": 53969,
+      "name": "Sandhoof Waterbearer",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "At the end of your turn, restore #5 Health to a damaged friendly character.",
+      "flavor": "Used to carrying for his team.",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2bfdf2f4274bde069a74d8941edbfc664dd982bcf0e9891f271028b35831ee17.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57a75f78b6e19d5c92b763f077b37a1c3ffe4b764c0e3455128e47a83de0e45b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_274",
+      "dbfId": 54000,
+      "name": "Wasteland Assassin",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 2,
+      "text": "<b>Stealth</b>\n<b>Reborn</b>",
+      "flavor": "They'll never see me coming, what with my glowing body, eyes and daggers.",
+      "artist": "Phroilan Gardner",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/674d90d7e0e962860073a661a284333fa74f65914684a2b580eecd8d7a415dd1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_258",
+      "dbfId": 53800,
+      "name": "Armagedillo",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 8,
+      "text": "[x]<b>Taunt</b>\nAt the end of your turn,\ngive all <b>Taunt</b> minions\nin your hand +2/+2.",
+      "flavor": "We may never know what provoked it, but we will never forget the consequences.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f524875bf0f7f4dd4f706573a65ade9cc17f83d68693f50295d473930e18e3fb.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f22f19b058ebf2ff8b28af3685f6d74adb65f6d4cc916b6b4201eb709b6f14d0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_709",
+      "dbfId": 54390,
+      "name": "Armored Goon",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 6,
+      "health": 7,
+      "text": "Whenever your hero attacks, gain 5 Armor.",
+      "flavor": "Armored except for non-critical areas, such as the head, torso, fists and thighs.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e1ec1d37ecbbffc25be903cdd56895b9b08f11deaaf68ab620e256d699c82a4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a536de1b7f3e67851fc1aa14cb17bf8492a0ab5e5ff3b4ee3b1df467e7bfc67c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_706",
+      "dbfId": 54296,
+      "name": "Blatant Decoy",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Deathrattle:</b> Each player\nsummons the lowest Cost\nminion from their hand.",
+      "flavor": "\"Hah! You is being tricked by ME! Togwaggle!\"",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63f2497e0e3162ece46b04f01a28e89c2eae670f6060eec3ac8471c2056b635d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e73c1e5dbbb3e0f9493a514c980b958849d1e8557d2870420f68382c1089d25e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_135",
+      "dbfId": 53576,
+      "name": "Hidden Oasis",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "<b>Choose One</b> - Summon a 6/6 Ancient with <b>Taunt</b>; or Restore #12 Health.",
+      "flavor": "Amazing that it's been hidden, given the twenty-foot treant splashing around in it.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a605a0dc256d4a8d795d7440bac8371c31eea56b777bac153178c220068d431.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12c3438a41c47d843a07a42e39ac9e07019c0c62531435bad8923e6a23d95568.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_208",
+      "dbfId": 53409,
+      "name": "Khartut Defender",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Taunt</b>, <b>Reborn</b>\n<b>Deathrattle:</b> Restore #3\nHealth to your hero.",
+      "flavor": "Gesundheit!",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3224911756520df8176ce2bf89d186c680244f1e1f6e546d0c45e33dd4470b2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4abb2d44f3a8b1c8229754c8a598d8107bba51ce60fb16ad650e80f2d4ad0bf6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Reborn"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_143",
+      "dbfId": 53827,
+      "name": "Pharaoh's Blessing",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Give a minion +4/+4, <b>Divine Shield</b>, and <b>Taunt</b>.",
+      "flavor": "Life hack: Sneeze near a pharaoh.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb2b7e608a7f3428e475ac8b04ac823ce50bb3d484e07c977efc6ec34f8195ff.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2690273f40961e0c76a2d0cb12b19092a3d11af6c17db48953e630efecf8909a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_238",
+      "dbfId": 53778,
+      "name": "Reno the Relicologist",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If your deck has no duplicates, deal 10 damage randomly split among all enemy minions.",
+      "flavor": "All his life, Reno Jackson was only a gatling wand away from becoming the greatest and most terrifying mage who ever existed.",
+      "artist": "Eric Braddock",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccccca72b3bfbe64586f2b74aa879d387552a8187f87501524e42840ab58beb7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/189b1fcab122a178f789d036580e2a2f2b4428319a76e21ffd473bebda8c7b97.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_165",
+      "dbfId": 53887,
+      "name": "Riftcleaver",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 7,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Destroy a minion. Your hero takes damage equal to its Health.",
+      "flavor": "Brings you face to face with your destructive impulses.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc577859a971d648325cef046e3db28aa3e24c8e2235753071f353f3af962f44.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8ec1336f07ef722c1ad8c1186c4f1951f9c8bf873fe0678c531fe27e719a9a3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_410",
+      "dbfId": 53609,
+      "name": "Scarlet Webweaver",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Reduce the Cost of a random Beast in your_hand by (5).",
+      "flavor": "Isn't that nice? The spider made the explorer a sleeping bag!",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36d8957978df0c33de3411c2e33fbf82ab34a8d680b51fbf956d9d15d1c6f08d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5812adffe3cb8105f83d03132f6fb22187150087335de51c143ae5716c5cb820.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_713",
+      "dbfId": 54424,
+      "name": "Swarm of Locusts",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Summon seven 1/1 Locusts with <b>Rush</b>.",
+      "flavor": "Good things never come in swarms.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72f5c0d95be1ea80dc540110168ca2b737812e496ee370563e8175d3372d8a3e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1ca14df03fdf8db6f927835dc6a422572d0c706574337171096e0fdf84b0b13.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_212",
+      "dbfId": 53435,
+      "name": "Wild Bloodstinger",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 9,
+      "text": "<b>Battlecry:</b> Summon a minion from your opponent's hand. Attack it.",
+      "flavor": "Tame Bloodstingers would politely invite your minion to tea.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20ef4ec4b906e530d976436ee67593276e9c45b53df91835e81fb25a72e9e7e9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_156",
+      "dbfId": 53926,
+      "name": "Dinotamer Brann",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If your deck has no duplicates, summon King Krush.",
+      "flavor": "Brann's new dino-taming hobby is going well\u2014his pet can already make him sit, stand, and roll over!",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/746a4daab348476d6cf9f0775dbf08bbf90bf07c45bfe1bac37d414ceb0ca6dc.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94be323bb164fecf228c76c63cf9c7175d76093d68f6266d16b8ce17b06248ff.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_181",
+      "dbfId": 54160,
+      "name": "Earthquake",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 7,
+      "text": "Deal $5 damage to all minions, then deal $2 damage to all minions.",
+      "flavor": "Shake it, sh-sh-sh-shake it like a Kalimdor fissure.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b43b5eaf8661acad192a4615af9d0809cc15b33faa0b12b6680f35db811b014.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a998e63f8e348914b0266721db7ed14f41bfad3cc95e5d5f79acdafb746338c6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_273",
+      "dbfId": 53979,
+      "name": "Overflow",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 7,
+      "text": "Restore #5 Health\nto all characters.\nDraw 5 cards.",
+      "flavor": "It's a high five followed by a low tide.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3071ca602a9d4cfddb77b2ac3ead9b631ed3fb03ba3c72bd12e2f3c352ed35c8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74680cc542a1795ee361a8fbc001b344fc5ddf911b7c1a0d1a19e3512548cabc.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_178",
+      "dbfId": 54148,
+      "name": "Siamat",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Gain 2 of <b>Rush</b>,\n<b>Taunt</b>, <b>Divine Shield</b>, or\n<b>Windfury</b> <i>(your choice).</i>",
+      "flavor": "TAUNT. TAUNT.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66245b8918800fdabba9081d17fe4f97004fab85296ff897208ec1cb1354d8ed.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/239a909e04563d5fe500978dbec1896c92ba624fd1267e1ca4415fb57a78ab4e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_194",
+      "dbfId": 54273,
+      "name": "Wasteland Scorpid",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 3,
+      "health": 9,
+      "text": "<b>Poisonous</b>",
+      "flavor": "After they get to a certain size, it doesn't matter if they're poisonous or not.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93992e0e58734be0f74d45421aafc9fd0f64238c2ab8f515056f97749d31da38.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_215",
+      "dbfId": 53439,
+      "name": "Wrapped Golem",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 7,
+      "health": 5,
+      "text": "[x]<b>Reborn</b>\nAt the end of your turn,\nsummon a 1/1 Scarab\nwith <b>Taunt</b>.",
+      "flavor": "The end result of one of the greatest wrap battles of all time.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ced12f7257292faee8baa7e99ac6730a416ee12e358a9c60be5979dfd6ae457d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7323ad20ae8336bb8b4e9614a06e56df41ed03504f6f73a40d69ab459ff81657.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_177",
+      "dbfId": 54147,
+      "name": "Octosari",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Deathrattle:</b> Draw 8 cards.",
+      "flavor": "Eight arms of sand-flinging, foe-wringing, card-slinging fury!",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f918505581b13aa4c5e151e65767e3b04f3e1e0f06c3fb1457f212538950f970.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d39a388ae757b338719d7c11875dcb471488c31cfa8dace30dd83783db7b7e97.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_190",
+      "dbfId": 54267,
+      "name": "Pit Crocolisk",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 5,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Deal 5 damage.",
+      "flavor": "PIT! Not PET!",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69d2e496160de715c48240b2d21bbd171f7514e562821c9e80f8a8075b489516.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fc10ed42f62874f95e5b2d9602af37348f1abd22db3a23c76ae060d9bcbc254.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_716",
+      "dbfId": 54427,
+      "name": "Tip the Scales",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 8,
+      "text": "Summon 7 Murlocs from your deck.",
+      "flavor": "Hold on, I need to get some murlocs to weigh in on this.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f08949a2aa0f10ac1c9409a49525c4224c74eb5e9e152539a7a01741a8a6ab80.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0caca43f0c6584fcaf9cc8008c0b82fe796f84f6782f8d657a605f1d79fce14a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ULD_253",
+      "dbfId": 53791,
+      "name": "Tomb Warden",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 3,
+      "health": 6,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Summon a copy of this minion.",
+      "flavor": "Also known as an ancient copy machine.",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11a69ab9c39913c234ec709dce751d43eb6e44a36a8472ea1b6f9de1ba3594be.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c649d561b7a711d1ad1796f2b3f3eb03295c1ca7c0436b259de5771e43a07c87.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_236",
+      "dbfId": 53771,
+      "name": "Tortollan Pilgrim",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry</b>: <b>Discover</b> a spell\nin your deck and cast it\nwith random targets.",
+      "flavor": "A tortollan made it to the desert!",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ea674d67f4a4d7383069698bd47fdf9b23d9c6e84436a394b98eaa8a85f55d5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/feb04f4da1c226a254f5572b6b9b4f9d42b78c82dc2aa8fe9427f58c4179b57b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_183",
+      "dbfId": 54257,
+      "name": "Anubisath Warbringer",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 9,
+      "attack": 9,
+      "health": 6,
+      "text": "<b>Deathrattle:</b> Give all minions in your hand +3/+3.",
+      "flavor": "Some dogs will bring you a bone or a squeaky toy. This one brings war!",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f1c7c3d7a24010db5fe11b94bcbae615551da71250595a8e3ca6bfc32c064bd.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c96c5a80fbbbc3e9202d71ff37f39c5578b396d316deaf1cae6172705267fed3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_169",
+      "dbfId": 53972,
+      "name": "Mogu Fleshshaper",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 9,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Rush</b>. Costs (1) less for each\nminion on the battlefield.",
+      "flavor": "He's here to shape *clap* you up!",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eeb6013f59922c0ec4bed95f4593d32ae8313887e56b42c63a6d3b465c90cca9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/796e9fb9ba059410800bcf314e781b190ac900674e421dafa06d6f4310b18efe.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_718",
+      "dbfId": 54431,
+      "name": "Plague of Death",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 9,
+      "text": "<b>Silence</b> and destroy all_minions.",
+      "flavor": "Don't worry, there's a happy little funhouse right under that sand pit.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a65ed1d69cf2522bd003fd5d2cf5f660a331cc47a0df90d2c099c7a0de06f9e2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/934869996c548cd98fb3453e970521346fd3d25ec3f61352ba0eb68354730071.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_721",
+      "dbfId": 54495,
+      "name": "Colossus of the Moon",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 10,
+      "health": 10,
+      "text": "<b>Divine Shield</b>\n<b>Reborn</b>",
+      "flavor": "Strike him down, and you'll face the Colossus of the New Moon.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54ca59e001395043a6c9eb3fe2f3852f2bdbd1792764a6edd92475b10bea76b6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_304",
+      "dbfId": 53336,
+      "name": "King Phaoris",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> For each spell\nin your hand, summon a\nrandom minion of the\nsame Cost.",
+      "flavor": "When you're the king of the cats, the whole desert is your litterbox.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce677d0292f8052932aed6f2bd49ce33e15d2454541dba61b7dac5e8f5b1f9af.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6848c64328882c839797a9a1443404492b9b062dc006fce48ca549ed9aa27a7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_193",
+      "dbfId": 54272,
+      "name": "Living Monument",
+      "cardSet": "Saviors of Uldum",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 10,
+      "attack": 10,
+      "health": 10,
+      "text": "<b>Taunt</b>",
+      "flavor": "This is not the greatest card in the world. This is just a monument.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5695c3a60e1eb1420cc70d4f8d12fce0302eaf00a9fd3fc7ba97ab409efca755.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ULD_216",
+      "dbfId": 53442,
+      "name": "Puzzle Box of Yogg-Saron",
+      "cardSet": "Saviors of Uldum",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 10,
+      "text": "Cast 10 random spells <i>(targets chosen randomly).</i>",
+      "flavor": "\"PUT THE BOX DOWN, RENO!\"",
+      "artist": "Kagi",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e1872ffa6edecd78bdec63bcc3b0b17b4e507d8b537b4a041b5764523e4708d.png",
+      "locale": "enUS"
+    }
+  ]
+}

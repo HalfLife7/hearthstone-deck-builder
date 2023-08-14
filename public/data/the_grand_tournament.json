@@ -1,0 +1,2907 @@
+{
+  "The Grand Tournament": [
+    {
+      "cardId": "AT_004",
+      "dbfId": 2572,
+      "name": "Arcane Blast",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "Deal $2 damage to a minion. This spell gets double bonus from <b>Spell Damage</b>.",
+      "flavor": "Now with 100% more blast!",
+      "artist": "Gabor Szikszai",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3274bbb546c496071030c2a8e6132f0409b02b1e845c2d3eacb3fba6221ddcb4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_059",
+      "dbfId": 2642,
+      "name": "Brave Archer",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Inspire:</b> If your hand is empty, deal 2 damage to the enemy hero.",
+      "flavor": "This is a \"bearly\" concealed reference.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb9c2071ae7882c0ae8d8f412927611e4c9080e77075c4b3d65ae84b11349d5a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_029",
+      "dbfId": 2715,
+      "name": "Buccaneer",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "Whenever you equip a weapon, give it +1 Attack.",
+      "flavor": "The best part of buccaneering is the pants.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ea10c5479c5350159715f75baee074a2acb1c6a08b0df041e4b2a7efea2b180.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_073",
+      "dbfId": 2648,
+      "name": "Competitive Spirit",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "<b>Secret:</b> When your turn starts, give your minions +1/+1.",
+      "flavor": "Competition can be an inspiration to improve oneself.  Or kill all the competitors.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e99db2682069dbb9004670e1ca182202f1d10304b1d4a27fd1ff8297ed00980.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_055",
+      "dbfId": 2582,
+      "name": "Flash Heal",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Restore #5 Health.",
+      "flavor": "Flash!  Ahhhhhhh~",
+      "artist": "Marcelo Vignali",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52e33cc2f55ee1974bbbee133080245ac4aa3c59bddda3373dd270b1fbb6cff6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_133",
+      "dbfId": 2818,
+      "name": "Gadgetzan Jouster",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, gain +1/+1.",
+      "flavor": "It's not HER fault you didn't put a spinning saw blade on your horse.",
+      "artist": "Skan Srisuwan",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56bc320a71139b829c8d6abc34f12846daf36b7ff37dcc67d78fcd1ef21a7cb9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_105",
+      "dbfId": 2502,
+      "name": "Injured Kvaldir",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Deal 3 damage to this minion.",
+      "flavor": "Don't worry.  With a little skin cream he's going to clear right up.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75df6f0331905662cbc945431f33acd5b2c14ce125d48a3dcbd77e647e7fd0d2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_037",
+      "dbfId": 2792,
+      "name": "Living Roots",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Choose One -</b> Deal $2 damage; or Summon two 1/1 Saplings.",
+      "flavor": "2 out of 2 saplings recommend that you summon the saplings.",
+      "artist": "Dan Brereton",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f040405b9c4c9d306a3638595c3946dfe1fd46d80b023c76ca620f47bfe6a389.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_061",
+      "dbfId": 2484,
+      "name": "Lock and Load",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "Each time you cast a spell this turn, add a random Hunter card to your hand.",
+      "flavor": "Rexxar narrowed his eyes, grabbed his machine gun, and said: \"It's go time.  Lock and load.\"\n\nThis card pays homage to that special moment.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4e67bc64094ee953754061a2d2d658b5a64ddc74b045c7eff3e942906e3649f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_082",
+      "dbfId": 2486,
+      "name": "Lowly Squire",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Inspire:</b> Gain +1 Attack.",
+      "flavor": "But not the lowliest!",
+      "artist": "Ron Spears",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4082d129c042241ba7ce262ea911aa0140c60aee760e39bd203136a352671f99.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_013",
+      "dbfId": 2568,
+      "name": "Power Word: Glory",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Choose a minion. Whenever it attacks, restore 4 Health to\nyour hero.",
+      "flavor": "The promise of glory is a powerful tool to get minions to do your bidding.  Only slightly less powerful than the promise of an ice cream bar!",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4846ab77cce61a6380fe5222813e92faa40cfe53d0442f4102f7f339534d23e6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_097",
+      "dbfId": 2499,
+      "name": "Tournament Attendee",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Taunt</b>",
+      "flavor": "He was so excited to get season tickets to this year's Grand Tournament.  He normally doesn't get them at first and has to buy them from Ogre scalpers.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1342b4b85428d9879da559d68aeee95e95ade28062e6e71516c593670b85fbdc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_071",
+      "dbfId": 2758,
+      "name": "Alexstrasza's Champion",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Charge</b>.",
+      "flavor": "\"Put more spikes on her.  No, more spikes.  What part of 'more spikes' do you not understand?  MORE SPIKES!\" - Alexstrasza",
+      "artist": "Evgeniy Zaqumyennyy",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f85c5ca792d6d33ef31d3be6a35cef2dd433b542caac5b8236e6624a81439015.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_053",
+      "dbfId": 2514,
+      "name": "Ancestral Knowledge",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Draw 2 cards. <b>Overload:</b> (1)",
+      "flavor": "MOMMMMMYYYYYYYYY!!!",
+      "artist": "Zoltan & Gabor",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f66a88369aaaf43b31eb9aac52b3066f55cc1e3d47dd47140c7f3323c938eaa7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_077",
+      "dbfId": 2720,
+      "name": "Argent Lance",
+      "cardSet": "The Grand Tournament",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, +1 Durability.",
+      "flavor": "The stripes make it look like a candy cane, but we recommend against licking it.",
+      "artist": "Joe Wilson",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/242696c191fb3bc893e8d29cd344d36db89a54f8162872e18338fd8afc38636d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_109",
+      "dbfId": 2505,
+      "name": "Argent Watchman",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 4,
+      "text": "Can't attack.\n<b>Inspire:</b> Can attack as normal this turn.",
+      "flavor": "Who argent watches the Argent Watchman?",
+      "artist": "Ben Zhang",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbd2359daf77a024e010f4fde230c355bbc15fdbe73048fec398d8b348398b1b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_064",
+      "dbfId": 2729,
+      "name": "Bash",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $3 damage.\nGain 3 Armor.",
+      "flavor": "You might think bashing doesn't take a lot of practice.  It doesn't.",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6ff3ee49cafffe103af9411326e4b5a2f4179164365e24cd8422182725bbab5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_060",
+      "dbfId": 2641,
+      "name": "Bear Trap",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Secret:</b> After your hero is attacked, summon a 3/3 Bear with <b>Taunt</b>.",
+      "flavor": "You'll never guess what's in that conveniently bear-sized, bear-smelling box. ",
+      "artist": "Richard Wright",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a54817968202cba0902d4e1472a03321c924f1c96d03a64185dc7ace88f65889.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_068",
+      "dbfId": 2754,
+      "name": "Bolster",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Give your <b>Taunt</b> minions +2/+2.",
+      "flavor": "The best offense is a good defense.",
+      "artist": "Mishi McCaig",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b99ac4394be54d9a43f359c73baff1b2e3d67055632a956ee27627194b857aa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_089",
+      "dbfId": 2495,
+      "name": "Boneguard Lieutenant",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Inspire:</b> Gain +1 Health.",
+      "flavor": "Underneath all that impressive armor, he's just skin and bones.  Okay, maybe just bones.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83e6d63e51b5f7b3e36bdb68e52a29f9e9ba2ea9b5a597b17c72d2806009005b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_016",
+      "dbfId": 2564,
+      "name": "Confuse",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Swap the Attack and Health of all minions.",
+      "flavor": "This minion is really powerful!",
+      "artist": "Sean O\u2019Daniels",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b1e2c7011fe6122fdc4389fdd75e5bd08306bcabc0aff413fbafd76643dfb68.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_015",
+      "dbfId": 2563,
+      "name": "Convert",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Put a copy of an enemy minion into your hand.",
+      "flavor": "\"Are you interested in... HEALTH benefits?!\"",
+      "artist": "Dan Dos Santos",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/166271c88e11a228a16a4ad275a66e66328f9fcc5fd92f90b1948880f8004d56.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_031",
+      "dbfId": 2766,
+      "name": "Cutpurse",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "Whenever this minion attacks a hero, add the Coin to your hand.",
+      "flavor": "He has a giant collection of purses now.  One for every outfit!",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a572c048b22c862c6a21300aa86e87896c8b78fe1962e95f58dc53c58ef65688.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_038",
+      "dbfId": 2782,
+      "name": "Darnassus Aspirant",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Gain an empty Mana Crystal.\n<b>Deathrattle:</b> Lose a Mana Crystal.",
+      "flavor": "She loves mana crystals, she hates mana crystals.   So fickle!",
+      "artist": "Laurel Austin",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c1b56af7b0ca703c1d90ca78311255a3093340e707ffd760c028105f750bb01.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_024",
+      "dbfId": 2535,
+      "name": "Demonfuse",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Give a Demon +3/+3. Give your opponent a Mana Crystal.",
+      "flavor": "Very dangerous when attached to a demonbomb.",
+      "artist": "Kevin Chen",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6998c3249f95a62f5fbec3a537a5f6e0ab66b107fe5d37ebc81d0bb46809772.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_042",
+      "dbfId": 2783,
+      "name": "Druid of the Saber",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "[x]<b>Choose One -</b> Transform\ninto a 2/1 with <b>Charge</b>;\nor a 3/2 with <b>Stealth</b>.",
+      "flavor": "That's saberTEETH, not like curved pirate blades.  That's a different kind of druid.  Druid of the Curved Pirate Blades.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4d74c20acf9295055cec1ac6c35f62bb85b3cfe52a29e53c886ce6ec622ea92.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_003",
+      "dbfId": 2545,
+      "name": "Fallen Hero",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "Your Hero Power deals 1_extra damage.",
+      "flavor": "And he can't get up.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5020ef21a7d740f3beda1a19ab6f1d575c26e1c1bda03f3e85d234b0a0dd0b46.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_094",
+      "dbfId": 2580,
+      "name": "Flame Juggler",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Deal 1 damage to a random enemy.",
+      "flavor": "At first he liked juggling chain saws, but then he thought, \"Flames are better!  Because FIRE!\"",
+      "artist": "James Zhang",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59f0bb55247bee40f7df2dc6bd0302a78033b29bb6e61711c8eeea1dc0304396.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_080",
+      "dbfId": 2517,
+      "name": "Garrison Commander",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "You can use your Hero Power twice a turn.",
+      "flavor": "He'll never admit it, but he pushes you hard because he really cares about you.",
+      "artist": "Jesper Ejsing",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5bcb3de09c3b396ed9fb69b51e243cfcded4426c38187c0d9b110ec18b77747b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_011",
+      "dbfId": 2555,
+      "name": "Holy Champion",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "<b>Overheal:</b> Gain +2 Attack.",
+      "flavor": "She really likes seeing people get better.  That's why she hurts them in the first place.",
+      "artist": "Alex Garner",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48d674f6f39a45afae0b27e6fc9d52e429a38439907d4ff692d1fa8b360af4b0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overheal"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_058",
+      "dbfId": 2635,
+      "name": "King's Elekk",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, draw it.",
+      "flavor": "Elekk jousting is AWESOME.",
+      "artist": "James Zhang",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e3bb3189ec3f649da67b3a1a99b280ebb6febbbad46910d58601b4ce8242709.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_084",
+      "dbfId": 2577,
+      "name": "Lance Carrier",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give a friendly minion +2 Attack.",
+      "flavor": "Lance Carrier is an obscure entry level position in orcish armies.  A mystery, since orcs don't generally use lances.",
+      "artist": "Tyson Murphy",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fbb4c30a52bfbf437f6391da0237be54c659087916f529b9f92a2bf66b07cfb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_069",
+      "dbfId": 2733,
+      "name": "Sparring Partner",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Give a\nminion <b>Taunt</b>.",
+      "flavor": "Come at me, bro.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3aa115378b1f00755eab380cec46add236a0044fe8817cb4f239774f8f2d14db.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_021",
+      "dbfId": 2777,
+      "name": "Tiny Knight of Evil",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "Whenever you discard a card, gain +1/+1.",
+      "flavor": "\"No, no, no. I asked for a tiny JESTER of evil.\"",
+      "artist": "Raymond Swanland",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9c8715542fb87e40c931b110e6035fb6befe133d9728099ff51392205a9caad.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_052",
+      "dbfId": 2610,
+      "name": "Totem Golem",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Overload:</b> (1)",
+      "flavor": "What happens when you glue a buncha totems together.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "race": "Totem",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9b95d688444324c4d6efa906d148e1c80214844df2623104f94559f68210dbf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_030",
+      "dbfId": 2767,
+      "name": "Undercity Valiant",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Combo:</b> Deal 1 damage.",
+      "flavor": "Almost went to play for Stormwind before signing with Undercity.",
+      "artist": "Zoltan Boros ",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3500c80d6ef4630afd349909b3f644cb60485879c6fdac7fc0b5f1e42f38397e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_026",
+      "dbfId": 2623,
+      "name": "Wrathguard",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 4,
+      "health": 3,
+      "text": "Whenever this minion takes damage, also deal that amount to your hero.",
+      "flavor": "After playing against 5 Annoy-O-Trons, any normal guard will become a Wrathguard.",
+      "artist": "Sojin Hwang",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a24ac97c980713bf82906d921fb856f56d8d7b3ec55a0962bf53fc238082d323.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_116",
+      "dbfId": 2596,
+      "name": "Wyrmrest Agent",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Taunt</b>.",
+      "flavor": "Keeping tabs on the Grand Tournament is priority #1 for the five mighty Dragonflights!",
+      "artist": "Jeff Easley",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69b44fbcaa6bb631763e3300beab76c9ace96b6b7bfb30a93b25740ca908a397.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_087",
+      "dbfId": 2490,
+      "name": "Argent Horserider",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Charge</b>\n<b>Divine Shield</b>",
+      "flavor": "His horse's name is Betsy.",
+      "artist": "Evgeniy Zaqumyennyy",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0697c7e70507763afe6e5e477a90208e295417b9ed9fb6ebc18a82e50072d16.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_035",
+      "dbfId": 2587,
+      "name": "Beneath the Grounds",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Shuffle 3 Ambushes into your opponent's deck. When drawn, you summon a 4/4 Nerubian.",
+      "flavor": "Can you hold these eggs for just a second?  I promise they're not full of giant enraged undead spider things.",
+      "artist": "Daren Bader",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6524f2af039cd7d3c7f26277c6da3caefd491cd8c1d30344b5165c98b301ee5b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_033",
+      "dbfId": 2770,
+      "name": "Burgle",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Add 2 random cards to your hand <i>(from your opponent's class)</i>.",
+      "flavor": "Yoink!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bc7f96380e89e40326b89c319529e118460e77c2f17f4ca01e311e5458d873f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_110",
+      "dbfId": 2585,
+      "name": "Coliseum Manager",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Inspire:</b> Return this minion to your hand.",
+      "flavor": "Meets monthly with the gladiators to discuss career goals.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9d91b8671fe99eb22aaef52df2fef085e7d13a1f4bc6c2399a13eac7c1f8a4c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_083",
+      "dbfId": 2533,
+      "name": "Dragonhawk Rider",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Inspire:</b> Gain <b>Windfury</b>\nthis turn.",
+      "flavor": "Check it out.  You can do barrel rolls on this thing.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d692229c6366c806b01abe70b7d7ce5d1dd1997498b56013506d9fbcbe9d5748.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Windfury"
+        },
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_063t",
+      "dbfId": 2634,
+      "name": "Dreadscale",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 4,
+      "health": 2,
+      "text": "At the end of your turn, deal 1 damage to all other minions.",
+      "flavor": "Let's be clear about this:  ACIDMAW is the sidekick.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c6dc0a34e7ff50c04f06c7ed531905810e2eef31d159391bac5e7310f958460.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_002",
+      "dbfId": 2541,
+      "name": "Effigy",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "<b>Secret:</b> When a friendly minion dies, summon a random minion with the same Cost.",
+      "flavor": "Burning man, brah.",
+      "artist": "Tooth",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc68f568133885f5e95dcaf0fe3a9bcce01a3d590893b26a40de5cf94c4e1a80.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_051",
+      "dbfId": 2620,
+      "name": "Elemental Destruction",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Deal $4-$5 damage to all minions. <b>Overload:</b> (5)",
+      "flavor": "I'm not a shaman or anything, but isn't Elemental Destruction the opposite of what they want to do?",
+      "artist": "Tyler Walpole",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18c27e0b5ebcf7e8be5a54b3abd8bd4be4abf1fe9c526fa5f3a8e444ac07558f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_131",
+      "dbfId": 2519,
+      "name": "Eydis Darkbane",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "Whenever <b>you</b> target this minion with a spell, deal 3 damage to a random enemy.",
+      "flavor": "HATES being called \"the wonder twins\".",
+      "artist": "Ben Thompson",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/907c60c59cb2810de8310da80d87567de3c9e18645d2235c08e38936214c3e14.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_115",
+      "dbfId": 2581,
+      "name": "Fencing Coach",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> The next time you use your Hero Power, it costs (2) less.",
+      "flavor": "Good fencers make good neighbors, right?",
+      "artist": "Howard Lyon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd8197ccb051cca9483cdc3cc6fe69ed635a8a0d6bc0913d6e76e9167c18839f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_129",
+      "dbfId": 2748,
+      "name": "Fjola Lightbane",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "Whenever <b>you</b> target this minion with a spell, gain <b><b>Divine Shield</b>.</b>",
+      "flavor": "LOVES being called \"the wonder twins\".",
+      "artist": "Mark Zug",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fb8ccdba97f178c2027af9f6c4c11338c6e736eb6cd80fa1dc9359c294c1d89.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_048",
+      "dbfId": 2612,
+      "name": "Healing Wave",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Restore #7 Health. Reveal a minion in each deck. If yours costs more, Restore #14 instead.",
+      "flavor": "Favored by shaman who study the art of restoration and healing, this spell would feel smug, if it had feelings.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2face95448e6a38fed2a875f2898a5a0ad124a9240f753780daf887ef4ad4b10.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_092",
+      "dbfId": 2594,
+      "name": "Ice Rager",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 5,
+      "health": 2,
+      "flavor": "He's a lot cooler than Magma Rager.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e8248d487ba786b702fb6d822948bae31fe79e816b44d0acf2206d138d0748d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_065",
+      "dbfId": 2756,
+      "name": "King's Defender",
+      "cardSet": "The Grand Tournament",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> If you have a minion with <b>Taunt</b>, gain +1 Durability.",
+      "flavor": "\"King's Attacker\" is a shield.  Funny, huh?",
+      "artist": "Michael Franchina",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b935b9b9fa9e258fd6dc527d63f6c10cae04c6cc11f0464325fc7381dc0d89c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_106",
+      "dbfId": 2259,
+      "name": "Light's Champion",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> <b>Silence</b> a Demon.",
+      "flavor": "When there's something strange (say, a gibbering demon) in your neighborhood, who are you going to call?",
+      "artist": "Andrea Uderzo",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f512df56b91f37b6efd148e7f8d0c6bd3184a695e26c356255bd35ef34848a0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Silence"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_117",
+      "dbfId": 2493,
+      "name": "Master of Ceremonies",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 4,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If you have a minion with <b>Spell Damage</b>, gain +2/+2.",
+      "flavor": "Goes by \"MC ElfyElf\".",
+      "artist": "Jesper Ejsing",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5033f837479800f37aa099c24f85e010d26d5c3826e1e60a87bff0e629801d5d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_044",
+      "dbfId": 2793,
+      "name": "Mulch",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Destroy a minion.\nAdd a random minion to your opponent's hand.",
+      "flavor": "Is this a noun or a verb?  We will never know.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8885a89a34114c9011ea91855de5cde7e354a399c72e51c4697e975688661d45.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_066",
+      "dbfId": 2711,
+      "name": "Orgrimmar Aspirant",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Inspire:</b> Give your weapon +1 Attack.",
+      "flavor": "\"Four out of three orcs struggle with math.\" - Angry Zurge",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1d39960f8f0f49ec36a96914ba93157eb41403e815a0bb6a0386a9391561788.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_005",
+      "dbfId": 2542,
+      "name": "Polymorph: Boar",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Transform a minion into a 4/2 Boar with <b>Charge</b>.",
+      "flavor": "It's always Huffer.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be534f72bb6d79804af43a461cab9cce9decf14174625283f9e3f07cf36af36e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_056",
+      "dbfId": 2638,
+      "name": "Powershot",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Deal $2 damage to a minion and the minions next to it.",
+      "flavor": "pow POW pow",
+      "artist": "Jonboy Meyers",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3170eb9e1cdb2709d4c9b91f836b389a82863f739ae905bbf54031767fd9c749.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_086",
+      "dbfId": 2576,
+      "name": "Saboteur",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Your opponent's Hero Power costs (5) more next turn.",
+      "flavor": "Listen all y'all it's a saboteur!",
+      "artist": "Greg Staples",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c2934f1658dbe83099ffbd39b418a82700ddb3ef8516ace12a744609ea43f5f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_074",
+      "dbfId": 2717,
+      "name": "Seal of Champions",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Give a minion\n+3 Attack and <b>Divine Shield</b>.",
+      "flavor": "\"Arf! Arf! Arf!\" - Seal of Champions",
+      "artist": "Jonboy Meyers",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b955eeedc0dc2311882f0815e39f4399b59033055d9943b18ffbd7c6224e8225.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_014",
+      "dbfId": 2566,
+      "name": "Shadowfiend",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "Whenever you draw a card, reduce its Cost by (1).",
+      "flavor": "Hopes to be promoted to \"Shadowfriend\" someday.",
+      "artist": "Warren Mahy",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7225160e86190f91216862ab5a93e0fa75f20e41aab9c586f510da72ebd4063.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_032",
+      "dbfId": 2768,
+      "name": "Shady Dealer",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you have a Pirate, gain +1/+1.",
+      "flavor": "I have great deal for you... for 4 damage to your face!",
+      "artist": "Tooth",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/390480cdcf14f21affc72543e17e0f7bbc93da3bfd111aac05ddcb954051b479.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_095",
+      "dbfId": 2579,
+      "name": "Silent Knight",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Stealth</b>\n<b>Divine Shield</b>",
+      "flavor": "He used to be a librarian.  Old habits die hard.",
+      "artist": "Esad Ribic",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad82d5e8d5eeb6b6aa1c665d22b4ade6bc2ffb33a03fa749b20f74528d195511.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_100",
+      "dbfId": 2503,
+      "name": "Silver Hand Regent",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Inspire:</b> Summon a 1/1 Silver Hand Recruit.",
+      "flavor": "The Silver Hand is the best paladin organization.  The Argent Crusaders are super jealous.",
+      "artist": "John Polidora",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2781d34fd1215c3409efdab3f905f7225c034e5c3528d0bd076c7150e6824c06.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_007",
+      "dbfId": 2571,
+      "name": "Spellslinger",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Add a random spell to each player's hand.",
+      "flavor": "Does he sling spells, or do his spells linger about.  Who can say?",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f99d1479e81fa3ee393dc4a00e95eec7f3fbf36ea7385db2d051dcf280e5301f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_057",
+      "dbfId": 2639,
+      "name": "Stablemaster",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 4,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give a friendly Beast <b>Immune</b> this turn.",
+      "flavor": "Takes way better care of her pets than her brother, Unstablemaster.",
+      "artist": "Tyson Murphy",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e90369f589ca15fa031c3b50a410415a34337a934a3633365974ceba24796a50.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_046",
+      "dbfId": 2513,
+      "name": "Tuskarr Totemic",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Summon a random basic Totem.",
+      "flavor": "Turns out the tuskarr aren't real choosy about their totems.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2547b670a954d3478d52ec9511b30a3e285e7d8857c92781acde885bded1a149.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_075",
+      "dbfId": 2515,
+      "name": "Warhorse Trainer",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "Your Silver Hand Recruits have +2 Attack and <b>Taunt</b>.",
+      "flavor": "He doesn't even get Sundays off.  Every day he's hostling.",
+      "artist": "Zoltan & Gabor",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ef2a1572627e9504168173739985f944622e39dc2b819c99ab88f05035cd622.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_108",
+      "dbfId": 2627,
+      "name": "Armored Warhorse",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, gain <b>Charge</b>.",
+      "flavor": "Yep.  It's a horse... wearing armor... going to war.",
+      "artist": "Edouard Guiton & Tony Washington",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23573d6934370ef4b81b9b70ca06b45aeda8133a527424c4bb0e68d331701ecc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_043",
+      "dbfId": 2785,
+      "name": "Astral Communion",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "Gain 10 Mana Crystals. Discard your hand.",
+      "flavor": "Hey!  Moon!  Can I have some mana crystals?",
+      "artist": "Christopher Moeller",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/817ea7e1c480e7f8aac3cd37d7cec0a55cb96a17d428d67bb30b668cc8e6bf4b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_050",
+      "dbfId": 2617,
+      "name": "Charged Hammer",
+      "cardSet": "The Grand Tournament",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "durability": 4,
+      "text": "<b>Deathrattle:</b> Your Hero Power becomes 'Deal 2 damage.'",
+      "flavor": "You can only pick it up if you are worthy.",
+      "artist": "Peet Cooper",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e23e644492b80680ef5370bb5bcc185df858d36394d4f014f40befa0ea525d8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_121",
+      "dbfId": 2518,
+      "name": "Crowd Favorite",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "Whenever you play a card with <b>Battlecry</b>, gain +1/+1.",
+      "flavor": "The crowd ALWAYS yells lethal.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c6eb6e179297b67d21003dd5632779f95e508c5acbeb4c6720f71c953c4bf59.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d629b86efe97312a7867670c48443d71c37b423be403362d79ddaa23dc429d8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_006",
+      "dbfId": 2549,
+      "name": "Dalaran Aspirant",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Inspire:</b> Gain <b>Spell Damage +1</b>.",
+      "flavor": "Is he aspiring or inspiring?  Make up your mind!",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1a759603be774ab378a60992cd9b82b5a17492657fd118581c9f5d318e93fc3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_047",
+      "dbfId": 2613,
+      "name": "Draenei Totemcarver",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Gain +1/+1 for each friendly Totem.",
+      "flavor": "It's nice to find a real craftsman in this day and age of mass-produced totems.",
+      "artist": "RK Post",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc1c421af8d8c49f03211be7dfaaf0e8cb84419c26a2b87741fe22da07c7ffce.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_019",
+      "dbfId": 2822,
+      "name": "Dreadsteed",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> At the end\n of the turn, summon a Dreadsteed.",
+      "flavor": "Crescendo himself summoned this steed, riding it to victory in the Grand Tournament.  Wherever he rides, an army of riders ride behind him, supporting the legendary champion.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/faf5f848add670e722a19bfc61b5cd1a64ca1ee4384dbd8e4af9042e6a4db1ee.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_114",
+      "dbfId": 2752,
+      "name": "Evil Heckler",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Taunt</b>",
+      "flavor": "To be honest, heckling is not the most effective form of evil.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/130cc5e437527fb7f63487abdb3c08aa008188750edc7c8f2e176860367e8eb3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_022",
+      "dbfId": 2628,
+      "name": "Fist of Jaraxxus",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "When you play or discard this, deal $4 damage to a random enemy.",
+      "flavor": "* Not actually Jaraxxus' fist.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/186e067c91fc90e7415d4ce0c39de819a67741909f24201dc69a1011860f066c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "InvisibleDeathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_093",
+      "dbfId": 2532,
+      "name": "Frigid Snobold",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Spell Damage +1</b>",
+      "flavor": "Ironically, the natural enemy of the snobold is THE CANDLE.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d05c71a972f39630b58c9c40292ebea4f36e55dfda57237ece69daf7d5975f1e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_122",
+      "dbfId": 2724,
+      "name": "Gormok the Impaler",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you have at least 4 other minions, deal 4 damage.",
+      "flavor": "Gormok has been giving impaling lessons in a small tent near the tournament grounds.  For only 25g you too could learn the fine art of impaling!",
+      "artist": "Nutthapon Petchthai",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ed234c6b84c3c232a3e357d719f0d20d118b4b18d6aae65b96c2baf1b594728.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_067",
+      "dbfId": 2753,
+      "name": "Magnataur Alpha",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "text": "Also damages the minions next to whomever\nhe attacks.",
+      "flavor": "Playing him also gets you into the Magnataur Beta.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0eb86c20a794953eee4730ac47739e2568822355deef697fdded4c17420c19ab.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_085",
+      "dbfId": 2488,
+      "name": "Maiden of the Lake",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "Your Hero Power costs (1).",
+      "flavor": "Not a good basis for a system of government.",
+      "artist": "Froilan Gardner",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c354e812037b95ba3ae8afbd8d4f505b6a7d28a96bca860b7ecd1d29185dc74c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_076",
+      "dbfId": 2655,
+      "name": "Murloc Knight",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Inspire:</b> Summon a random Murloc.",
+      "flavor": "Hee hee!  Look at his cute little feet.",
+      "artist": "Sam Nielson",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e1980da2e5d32ec829b16f17fa50ed6b8ff4578971b16ac3e5789c7528b1e63.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_034",
+      "dbfId": 2763,
+      "name": "Poisoned Blade",
+      "cardSet": "The Grand Tournament",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 1,
+      "durability": 3,
+      "text": "Your Hero Power gives this weapon +1 Attack instead of replacing it.",
+      "flavor": "How much more poisoned can a blade get?  The answer is a lot.  A lot more poisoned.",
+      "artist": "Nutthapon Petchthai",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc56781b58ad6f08bb0598acbbee142dc6fd58f3ebbdcd1c106f52eeb4512e96.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_111",
+      "dbfId": 2704,
+      "name": "Refreshment Vendor",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Restore #4 Health to each hero.",
+      "flavor": "Menu:  Funnel cakes, carrots, popcorn, jormungar steaks.  It's hard serving a diverse clientele.",
+      "artist": "Ron Spears",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90a68d34889488edd2d00c07f025d2fe96f0f9152039b21d5903b9f6af06c3fe.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_039",
+      "dbfId": 2780,
+      "name": "Savage Combatant",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Inspire:</b> Give your hero\n+2 Attack this turn.",
+      "flavor": "Maybe if you whistle a tune it will soothe him.  Yeah...  Try that.",
+      "artist": "Alex Pascenko",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4b8fd899e231e6a57b4c0f36d0b2a7742708e6127da509a4e29c2bbd743ca54.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_012",
+      "dbfId": 2551,
+      "name": "Spawn of Shadows",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Inspire:</b> Deal 4 damage to each hero.",
+      "flavor": "What did you expect to happen?  He's a Spawn.  Of Shadows.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/854dd4076c19f02ebb58e6e49825b963727134fbabe0f3cf55d400f06939f514.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_091",
+      "dbfId": 2575,
+      "name": "Tournament Medic",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 1,
+      "health": 8,
+      "text": "<b>Inspire:</b> Restore #2 Health to your hero.",
+      "flavor": "The medic tournament is less entertaining than the Grand Tournament.",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2283c32e34178063a49272af09392e975bcf56c39b14335927b487b3149223a1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_017",
+      "dbfId": 2569,
+      "name": "Twilight Guardian",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Taunt</b>.",
+      "flavor": "A result of magical experiments carried out by the Black Dragonflight, it's not his fault that he's a vicious killer.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffd94d4bd618871b4d3f970f00b689b60103749dcb29d5dc881fe495067f96b1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_040",
+      "dbfId": 2786,
+      "name": "Wildwalker",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give a friendly Beast +3 Health.",
+      "flavor": "She was born to be something.  She is just not quite sure what yet...",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4a1dcc2dd89fcdb3dae9e6d29ff77827658f04d2eb04cdf9989e5530a3fa59a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_096",
+      "dbfId": 2500,
+      "name": "Clockwork Knight",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Give a friendly Mech +1/+1.",
+      "flavor": "It takes a lot to wind him up.",
+      "artist": "Skan Srisuwan",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3f5b6dbc77d5582643d5f7458cb36166bf064b1034a16c95c5472a515b57683.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_001",
+      "dbfId": 2539,
+      "name": "Flame Lance",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "Deal $8 damage to a minion.",
+      "flavor": "It's on the rack next to ice lance, acid lance, and English muffin lance.",
+      "artist": "Nutthapon Petchthai",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dfbc36d2a13586175e047289110dd0177359c9e19cf22d9ef44557c8b87a58da.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_119",
+      "dbfId": 2511,
+      "name": "Kvaldir Raider",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Inspire:</b> Gain +2/+2.",
+      "flavor": "Coming soon... to a tuskarr village near you!",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3552b0e2f5fc911ea0823749f23a4c4477d40c707d9c5ff248a251ff390e9e0b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_090",
+      "dbfId": 2497,
+      "name": "Mukla's Champion",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Inspire:</b> Give your other minions +1/+1.",
+      "flavor": "An elegant gorilla, for a more civilized age.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e47f3c133cd849559b317c0f886bc0aa74dbb9642ed1dee907b56b80088b9c1e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_127",
+      "dbfId": 2683,
+      "name": "Nexus-Champion Saraad",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Inspire:</b> Add a random spell to your hand.",
+      "flavor": "The ethereals have their own jousting tournament, and Saraad is the reigning champion.  Also he won the ethereal hot dog eating contest.",
+      "artist": "Marcelo Vignali",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2bc81cdf776e570300b7421e24e64dfcc93a623e71690097f03522b5d0990904.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_101",
+      "dbfId": 2521,
+      "name": "Pit Fighter",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 6,
+      "flavor": "What did the pits ever do to you?",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b77637ab766c19ca045dc130f9952e5d64b3dcd9634a62212381a42ed91c40d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_010",
+      "dbfId": 2552,
+      "name": "Ram Wrangler",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you have a Beast, summon a\nrandom Beast.",
+      "flavor": "Not getting trampled is really the trick here.",
+      "artist": "Brandon Kitkouski",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7eaee29c038359825fc8eb542af760b13d31e176392e3619ac91a17c2eec2623.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_113",
+      "dbfId": 2509,
+      "name": "Recruiter",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Inspire:</b> Add a 2/2 Squire to your hand.",
+      "flavor": "Join the Argent Crusade!  We have attractive tabards and you get to carry really nice swords!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/016723d2b893e5aeab0fba9ff65891980a900c1be08c0e37acf878a320282e76.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_028",
+      "dbfId": 2765,
+      "name": "Shado-Pan Rider",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "text": "<b>Combo:</b> Gain +3 Attack.",
+      "flavor": "He needed a break after that business in the Vale of Eternal Blossoms. Naturally, he chose to spend his vacation in an icy snowscape killing monsters.",
+      "artist": "Ryan Metcalf",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f650349c29531d602ee87c5d09fbb0d5e4a09efbca6960bf36fd43daa4d1439.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_049",
+      "dbfId": 2615,
+      "name": "Thunder Bluff Valiant",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "text": "<b>Inspire:</b> Give your Totems +2 Attack.",
+      "flavor": "Allowing totems to attack is not cheating.  I mean, there isn't anything in the rule books about it.",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc44b6da0c5a98f573b18bbd335d63ce6ade308d9ab99db8360303ab4db46341.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_104",
+      "dbfId": 2504,
+      "name": "Tuskarr Jouster",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, restore #7 Health to your hero.",
+      "flavor": "Just could not be talked out of using his turtle for the joust...",
+      "artist": "Skan Srisuwan",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e48db106c27cba33f2d5d631d67c9136cef64f9c12cddb919d63a956a111f1d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_062",
+      "dbfId": 2483,
+      "name": "Ball of Spiders",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Summon three 1/1 Webspinners.",
+      "flavor": "\"THEY'RE EVERYWHERE GET THEM OFF!!!\" - Everyone",
+      "artist": "Skan Srisuwan",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ce547a1cb9880bb9744297c1dd098a5a561f2a15abe1b333a203feeb938ef73.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_124",
+      "dbfId": 2595,
+      "name": "Bolf Ramshield",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 9,
+      "text": "Whenever your hero takes damage, this minion takes it instead.",
+      "flavor": "Bolf keeps coming in 2nd at the Grand Tournament.  It might be his year this year, if Lebron doesn't enter.",
+      "artist": "Wayne Reynolds",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/928c49d028627b6610af0989dbbf8198d91eb9eabd7cb46c30c3213c93651ad7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_008",
+      "dbfId": 2544,
+      "name": "Coldarra Drake",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 7,
+      "text": "You can use your Hero Power any number of times.",
+      "flavor": "The Grand Tournament has a \"No dragons allowed\" policy, but it's rarely enforced.",
+      "artist": "Christopher Moeller",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/110a2cb9a3d71d2db0abe15b061a8be598905867665cb19c4630fac9ad7946f1.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_025",
+      "dbfId": 2632,
+      "name": "Dark Bargain",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "Destroy 2 random enemy minions. Discard 2 random cards.",
+      "flavor": "A prime example of lose-lose negotiating.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9672adccfe489a00c678d78f11ed390443233fa017abb0cac7f983bf4a71a921.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_078",
+      "dbfId": 2654,
+      "name": "Enter the Coliseum",
+      "cardSet": "The Grand Tournament",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "Destroy all minions except each player's highest Attack minion.",
+      "flavor": "You have to get past the vendors first.  So many are lost to shopping...",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c31da55b96c42f9cf0d5793021bf00277e8a49035b40e1a01ec5e813a985be8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_118",
+      "dbfId": 2510,
+      "name": "Grand Crusader",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Add a random Paladin card to your hand.",
+      "flavor": "A veteran of a number of crusades, she is a force for light and goodness.  Her latest crusade is against goblin telemarketers.",
+      "artist": "Todd Lockwood",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08dfffa2b1b0255d47f67ff603e116107d1116a235c07c3c986c12eaac014248.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_132",
+      "dbfId": 2736,
+      "name": "Justicar Trueheart",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 6,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Replace your starting Hero Power with a better one.",
+      "flavor": "It's like putting racing stripes and a giant spoiler on your hero power.",
+      "artist": "Jomaro Kindred",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df77b23d8151cb384b80da38ad5814395afcf91eff7f29d386fb418bfeacdb4e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_099",
+      "dbfId": 2598,
+      "name": "Kodorider",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Inspire:</b> Summon a 3/5 War Kodo.",
+      "flavor": "Someone called her a Rhinorider, and she's NOT HAPPY.",
+      "artist": "Ben Wootten",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02d694598bef216a1aeab9916303cc7f1858e34a4d1a920ff3c883051628d6c8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_112",
+      "dbfId": 2507,
+      "name": "Master Jouster",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 5,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, gain <b>Taunt</b> and <b>Divine Shield</b>.",
+      "flavor": "Needs just a few more ratings points to become Grandmaster Jouster.",
+      "artist": "Penny Arcade",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dab34b06e05c33c8d2275ffc25b5990c126d438edcf6cf8440e25694e3c16f98.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_088",
+      "dbfId": 2491,
+      "name": "Mogor's Champion",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 8,
+      "health": 5,
+      "text": "50% chance to attack the wrong enemy.",
+      "flavor": "This champion has learned from the best.  Except for his target selection.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/faccd09a96d513eb4f93f1ff7e17bc9f39c1353f4c5be948e93275512a00eb50.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_079",
+      "dbfId": 2726,
+      "name": "Mysterious Challenger",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Put one of each <b>Secret</b> from your deck into the battlefield.",
+      "flavor": "He may sound surly and antisocial, but he's actually just really shy.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be7298be4259c3aa61d5becc1c24cbb1ec3a99e6719b0f9c27eafb73433e549e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_130",
+      "dbfId": 2723,
+      "name": "Sea Reaver",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 7,
+      "text": "When you draw this, deal 1 damage to your minions.",
+      "flavor": "A little better than Sea Minus Reaver.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40f10c233fc5af8201cc591cbde65ba0c3cd1febca2e01c3a89eb4eee6b32fa8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_098",
+      "dbfId": 2573,
+      "name": "Sideshow Spelleater",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Copy your opponent's Hero Power.",
+      "flavor": "Hey!  Let me try that...",
+      "artist": "Wayne Reynolds",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2eaa50968929c6333dd545714a645487f93c28f71652866dad724f87edf4508f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_054",
+      "dbfId": 2618,
+      "name": "The Mistcaller",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give all minions in your hand and deck +1/+1.",
+      "flavor": "Calling the mist doesn't sound all that great.  \"Ooooh, it is slightly damp now!\"",
+      "artist": "Wei Wang",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/157eb73acb28b883ce5b89ecf9ff432289452208b42129a095fbe1de7f98e932.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_128",
+      "dbfId": 2681,
+      "name": "The Skeleton Knight",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 7,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Reveal a minion in each deck. If yours costs more, return this to your hand.",
+      "flavor": "Apparently it really was just a flesh wound.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1b66862902058f64ca9adb518d98e4a7d85a8c7cbbe7039fa12e5dd652761a9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_023",
+      "dbfId": 2537,
+      "name": "Void Crusher",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Inspire:</b> Destroy a random minion for each player.",
+      "flavor": "We like to call him \"Wesley\".",
+      "artist": "Skan Srisuwan",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fb3d0e52795cc00390fe34e4fcd568e42a578ad4d3e51864b037ec10ba60b1c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_027",
+      "dbfId": 2621,
+      "name": "Wilfred Fizzlebang",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "Cards you draw from your Hero Power cost (0).",
+      "flavor": "He can summon anything, even a FEARSOME DOOMGUARD*.\n\n*He's pretty sure this is going to work out.",
+      "artist": "Tooth",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fff07aa5ef62c88207a62e2f3850cff946a78f7b1363d75dbf72464e8618f44c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_063",
+      "dbfId": 2633,
+      "name": "Acidmaw",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 2,
+      "text": "Whenever another minion takes damage, destroy it.",
+      "flavor": "With the help of his trusty sidekick Dreadscale, the giant jormungar Acidmaw is ready to face any knight!",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce66aee683eec55113a47aa7869e67d6c9b6019053edae34edc60615fd185f09.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_102",
+      "dbfId": 2522,
+      "name": "Captured Jormungar",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 5,
+      "health": 9,
+      "flavor": "You can keep him, but you have to promise to feed him and clean out his tank every day!",
+      "artist": "Gonzalo Ordonez",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6cb9184bcd2efca782c2e43efd583df5690674df3ae6b4176ee9969547aa9f6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_123",
+      "dbfId": 2682,
+      "name": "Chillmaw",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> If you're holding\na Dragon, deal 3 damage\nto all minions.",
+      "flavor": "Chillmaw keeps trying to ruin the Grand Tournament, and she would've done it too, if it weren't for those dang kids!",
+      "artist": "Raymond Swanland",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bc6e6ed75d068aa77516780836cb3fb75db40036ef6aa4894059d587d1e910d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_018",
+      "dbfId": 2556,
+      "name": "Confessor Paletress",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Inspire:</b> Summon a random <b>Legendary</b> minion.",
+      "flavor": "She sees into your past and makes you face your fears.  Most common fear:  Getting Majordomo out of Sneed's Old Shredder.",
+      "artist": "Chris Rahn",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18ae198874126d7cad97fab95300319c3dc7138e41d4fb00feab49d9cc4be5db.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Inspire"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_081",
+      "dbfId": 2727,
+      "name": "Eadric the Pure",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 7,
+      "text": "<b>Battlecry:</b> Change all enemy minions'\nAttack to 1.",
+      "flavor": "Nobody rocks a monocle like Eadric.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b164ef4bc9d13643cfd8ddea349c70570b9bf1247f17f68bb11babd9d796804c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_020",
+      "dbfId": 2624,
+      "name": "Fearsome Doomguard",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 6,
+      "health": 8,
+      "flavor": "They were originally called Cuddleguards, but they were not inspiring the proper amount of fear.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/072a0a9661d408a7d5cef54f24f6583871d9b038c31e26bb727ec8b888c1bb00.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_041",
+      "dbfId": 2788,
+      "name": "Knight of the Wild",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "Whenever you summon a Beast, reduce the Cost of this card by (1).",
+      "flavor": "He gets a discount on the tournament entry fee because he is his own horse.",
+      "artist": "Ralph Horsley",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d49d6f202ae0dad734f8697e1a45ac791bd25b734521f10179d1714755fc7fcf.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_070",
+      "dbfId": 2757,
+      "name": "Skycap'n Kragg",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Charrrrrge</b>\nCosts (1) less for each friendly Pirate.",
+      "flavor": "What's more boss than riding a parrot with a jawbone for a shoulderpad while wielding a giant hook-lance-thing and wearing a pirate hat?  NOTHING.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "race": "Pirate",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0eb938cca5d15e479f7eedcd4d96111b8b0c7a4799e022819e49ffff28f3a03c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_009",
+      "dbfId": 2546,
+      "name": "Rhonin",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Deathrattle:</b> Add 3 copies of Arcane Missiles to your hand.",
+      "flavor": "A masterless shamurai.",
+      "artist": "Zoltan & Gabor",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29d4d55016d8bfe688324c68ee6e89207f196c094f98998851d842b9a5c15f97.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_036",
+      "dbfId": 2586,
+      "name": "Anub'arak",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 8,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Return this to your hand and summon a 4/4 Nerubian.",
+      "flavor": "Was actually a pretty nice guy before, you know, the whole Lich King thing.",
+      "artist": "Eric Braddock",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97ac7126dd30341cddb0a81caed76014d77b6843d630beb08c8a46ce2922d27c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_125",
+      "dbfId": 2725,
+      "name": "Icehowl",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 10,
+      "health": 10,
+      "text": "<b>Charge</b>\nCan't attack heroes.",
+      "flavor": "This massive yeti just closes his eyes and charges at the nearest target.  The nearest Target is a couple blocks away and has sick deals on skateboards.",
+      "artist": "John Polidora",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3b2baf0024423c1d321fd52efd78e424071c64d7fe5a92556a47d701ff694c8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_103",
+      "dbfId": 2520,
+      "name": "North Sea Kraken",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 9,
+      "attack": 9,
+      "health": 7,
+      "text": "<b>Battlecry:</b> Deal 4 damage.",
+      "flavor": "You have no idea how tired this guy is of being released.",
+      "artist": "Seamus Gallagher",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04d1285b2bf626b9ba2016460f75b4826b27238310845f9b8b714b4ba1ef0948.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_045",
+      "dbfId": 2796,
+      "name": "Aviana",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 5,
+      "health": 5,
+      "text": "Your minions cost (1).",
+      "flavor": "Call her \"Tweety\".  She'll find it real funny.  I PROMISE.",
+      "artist": "Velvet Engine",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec19b45df958cf9a967045b1b3e327cc18fd146949813bcc5e9ded2c4960b5c4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "AT_120",
+      "dbfId": 2512,
+      "name": "Frost Giant",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 10,
+      "attack": 8,
+      "health": 8,
+      "text": "Costs (1) less for each time you used your Hero Power this game.",
+      "flavor": "Don't ask him about the beard.  JUST DON'T.",
+      "artist": "Greg Staples",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bebc35adc41663cd45055714b3b0716f66c696b017ce2fe6889b5432c1095d7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AT_072",
+      "dbfId": 2760,
+      "name": "Varian Wrynn",
+      "cardSet": "The Grand Tournament",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Battlecry:</b> Draw 3 cards.\nPut any minions you drew directly into the battlefield.",
+      "flavor": "Leader of the Alliance!  Father of Anduin!  Also he likes to play Arena, and he averages 12 wins.",
+      "artist": "Wei Wang",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a2661105d423a2eaf5436728baf5cfe229bd4afcf83bbf22fae623d0da4bae3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    }
+  ]
+}

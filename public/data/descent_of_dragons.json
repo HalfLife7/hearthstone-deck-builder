@@ -1,0 +1,3402 @@
+{
+  "Descent of Dragons": [
+    {
+      "cardId": "DRG_315",
+      "dbfId": 55035,
+      "name": "Embiggen",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 0,
+      "text": "Give all minions in your deck +2/+2. They cost (1) more <i>(up to 10)</i>.",
+      "flavor": "Did you set it to \"wumbo?\"",
+      "artist": "Kagi",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83a0c7846e1fd73482d9f3987fcfc2fed33fe936c0784bf8706a1fe2b7518b76.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ad6468d1c3b5e9bddc27c3a2e0b4c55cd82db2c8418e7a44afd96fbcfbaf7a0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_301",
+      "dbfId": 54872,
+      "name": "Whispers of EVIL",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Add a <b>Lackey</b> to your_hand.",
+      "flavor": "Madame Lazul\u2019s ASMR program is off to a promising start!",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0836b4b55bcde6a5d89209ccc05bd6717439913e03de45e6900934acbc0bd5e7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7090c114ed9d87123892fe7a839fa93d3a634bb61184f4c105b715e79a58a136.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_106",
+      "dbfId": 54906,
+      "name": "Arcane Breath",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Deal $2 damage to a minion. If you're holding a Dragon, <b>Discover</b> a spell.",
+      "flavor": "One of many side effects from eating mana cookies.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f89bf5592387ff824769a2db841ac8ad6237b831a5eb9833fac336f188120ca1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c84ea3cf538a0cb4051984aeba29753ab35e83eaa846bf21693b4bba80756ff2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_239",
+      "dbfId": 55161,
+      "name": "Blazing Battlemage",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 2,
+      "flavor": "Weaponized an ancient technique once used to slice cold butter.",
+      "artist": "Samwise",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/448b479759c81c347904b7a1d007215d5c727deee40804b51ad142d821bee999.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f9e484311bb62198b969078a7751c040ef04a2616e39d9263ee7ca80aa51830.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_035",
+      "dbfId": 55103,
+      "name": "Bloodsail Flybooter",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Add two 1/1 Pirates to your hand.",
+      "flavor": "They\u2019re pretty fly for some pirate guys.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/239bee8f79867de6348196807bf6197c6c4c067822b3b671c57c05dd5eae62a6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ce1e6ef0737a573764a99bcf52ed6299e92e2667289f84498aa5cae15d961c4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_251",
+      "dbfId": 55288,
+      "name": "Clear the Way",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "[x]<b>Sidequest:</b> Summon\n3 <b>Rush</b> minions.\n<b>Reward:</b> Summon a\n4/4 Gryphon with <b>Rush</b>.",
+      "flavor": "The terrifying part is the gryphons' squeaky voices afterward.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e003ec7e287ea581f1218dff77ccead5dc9681d5dca5a0a7afda06f579809fb0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc5e55d3135f9cb59d4664747983d1bc2bd74283dec04b07a14e6f7ae052f3f8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Sidequest"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_078",
+      "dbfId": 55428,
+      "name": "Depth Charge",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 0,
+      "health": 5,
+      "text": "At the start of your turn, deal 5 damage to ALL_minions.",
+      "flavor": "* Does not have <b>Charge</b>.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d557ab3decaf8f180724353b6ba8ce48b0622c0abc5b37267be3f0f8e27c8955.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96451582bfcabad52b431e0b29d3d8b26d4cb99969d4393d64545bf257a752c5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_303",
+      "dbfId": 54874,
+      "name": "Disciple of Galakrond",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> <b>Invoke</b> Galakrond.",
+      "flavor": "Raising Galakrond will cause thurible, thurible damage.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/847d4cc90804adae3004e5dd8cb8e6522ba4e956866180863bd9bd87408b0649.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/782b90b9d4883b1173f53762051bcc2bc9ae845209aa452a7da725192b03fe60.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_028",
+      "dbfId": 55095,
+      "name": "Dragon's Hoard",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "<b>Discover</b> a <b>Legendary</b>_minion from another class.",
+      "flavor": "The Alliance loves this hoard.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ba7ba6fa2f9f6d996b4606496eaad051b3acd1c90285349de36a0d59c61406d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f7acec69f668e0cce2f61b453b0b4fd6b498e6d075984dfa09204e779ac016c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_253",
+      "dbfId": 55292,
+      "name": "Dwarven Sharpshooter",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "Your Hero Power can target_minions.",
+      "flavor": "Scissors, knives, needles, you name it! He'll shoot it.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3902e5391fd5526cb6410189fb6b34cfe078f0660621d2fbcfbfcc0fa7fb1c69.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afbd2a5657f0671accd802736a9485529291c357ebc971cae0f0a7f92822067a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_324",
+      "dbfId": 55283,
+      "name": "Elemental Allies",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "[x]<b>Sidequest:</b> Play an\nElemental 2 turns in a row.\n<b>Reward:</b> Draw 3 spells\nfrom your deck.",
+      "flavor": "Reno\u2019s lucky he wasn\u2019t caught by a fire elemental.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ebf2e000d66f7e3be72e5b726ce599916ff59498be525be590cac03774e66ea1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0eed63006fa26ddeea5730ecde2b1c662ff725b1583f5a7baf8751351b4a51d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Sidequest"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_057",
+      "dbfId": 55402,
+      "name": "Hot Air Balloon",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "At the start of your turn, gain +1 Health.",
+      "flavor": "The Gadgetzan Pilgrim's Bounty parade is missing a float this year.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3e3ee224b84e8909a71ca29614b8d3f24cec424513c7292e121fcab1c83927f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9c1bd8790b35696f137f58bfbe3dd047a6639b21f0dc9263fec080491b13620.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_248",
+      "dbfId": 55248,
+      "name": "Invocation of Frost",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Freeze</b> an enemy. \n<b>Invoke</b> Galakrond.",
+      "flavor": "Galakrond adores a little frosting.",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d8fe952ceb67051f755541d4286ec3922bed52c4f10aaad4540c0cf40bf370a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d458960f2da43719bf8328134965cfc7ca91aa014dcf29cd5d2971dd0757a91.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Invoke"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_323",
+      "dbfId": 55281,
+      "name": "Learn Draconic",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "[x]<b>Sidequest:</b> Spend\n8 Mana on spells.\n<b>Reward:</b> Summon a\n6/6 Dragon.",
+      "flavor": "Upon taking up the spellbook, Reno realized with a start: \"I can't read.\"",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/272151da80c657b75e47c6d3aa699a43bc7f7d8ab448fdd7e97b294fe159c429.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5c97a926ee3012fa15896a8e9107511e219d7aca7c3c13b8f238ca13ac52862.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Sidequest"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_030",
+      "dbfId": 55097,
+      "name": "Praise Galakrond!",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "[x]Give a minion +1 Attack.\n<b>Invoke</b> Galakrond.",
+      "flavor": "\"Turn to Galakrond, Chapter 3 Verse 12.\n\n'SNARL! ROAR! GRAAAAGH!'\n\nLet us reflect on this wisdom.\"",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64103b1a5fb7e9f0992bf7e46c1283b82abdd099ca0a220d404a0cef3152df53.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cd506338e65a6581bbc87223319b2f7eba30bacb18188fbf52ab00656f0d94b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_206",
+      "dbfId": 54893,
+      "name": "Rain of Fire",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Deal $1 damage to all_characters.",
+      "flavor": "You know it\u2019s autumn when the skies rain brimstone and fire. Also: pumpkin spice!",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/835c32381dc2309f76c2ca5e9add65d96da0b4c55c44b512ecc4b8d31fdae195.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/385f0471ac4982b79b19c677d23bcc95518c96ebed5ba9c605b95ce416181174.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_008",
+      "dbfId": 54924,
+      "name": "Righteous Cause",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "<b>Sidequest:</b> Summon 5 minions.\n<b>Reward:</b> Give your minions +1/+1.",
+      "flavor": "\"And I hereby dub thee a cadet of the Explorer\u2019s League! NEXT!\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1297fd23d53cf290e9e50fc8df46baade1da5cd5093a1ca1ed5269bb79cf9e9f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19d0948d6d737785801ced6bcc3ebdddf67972b1b4a70687744c6661e8e101f2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Sidequest"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_233",
+      "dbfId": 55069,
+      "name": "Sand Breath",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "[x]Give a minion +1/+2.\nGive it <b>Divine Shield</b> if\nyou're holding a Dragon.",
+      "flavor": "After Uldum, EVERYONE had sand breath.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51a87aa135883013d59cb1e90c871da1d857352233467175878afbb25f0fdba1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9bea648ab52eceb2612bd6748c89e914b9d6a0fa368fede7d4d993db7c518dd1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_317",
+      "dbfId": 55033,
+      "name": "Secure the Deck",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "<b>Sidequest:</b> Attack twice with your hero. <b>Reward:</b> Add 3 'Claw' spells to your hand.",
+      "flavor": "\"Tied it down, boss. I don't really know why you asked me to do that.\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1be3b71334fd6712e4e02b87777774eadf8d9f6f4a99906814e3d3948900203c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a42d1e0dd7eacea814348a908aa671bdfa6fc730444f122670b29af63093e00d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Sidequest"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_024",
+      "dbfId": 55005,
+      "name": "Sky Raider",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Add a random Pirate to your hand.",
+      "flavor": "Maybe he should've hatched a plan that could actually carry booty back too.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/746a495f79be6fc736080e6b88268324d87c8cc6ed9de5634604d8a45a9de8c8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fdda24348f550a937d36af49af550c2215e4fc5f8867bf7fa81860b46bfd75b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_215",
+      "dbfId": 54965,
+      "name": "Storm's Wrath",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Give your minions +1/+1.\n<b>Overload:</b> (1)",
+      "flavor": "How many dragons does it take to destroy a hot air balloon? One, two, three, CRUNCH!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21e03a422dadc0ce6eae02c2f992b09f8725585c383a48ddb141aa284ab2a950.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afef28f99f742055d9e82122925f0ee101a1ed231f228c39c1a1482f9d62b431.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_051",
+      "dbfId": 55262,
+      "name": "Strength in Numbers",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Sidequest:</b> Spend 10 Mana on minions.\n<b>Reward:</b> Summon a minion from your deck.",
+      "flavor": "One minion, two minions... tree minions!",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01e95c2e768e44cc632bf2368832a67c42351fc815f0b4b26fa2533eb33d0c97.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dab740528b08c7781f0989e0590aaa7ef67f32381da928ae7581af2a89c92361.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Sidequest"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_216",
+      "dbfId": 54966,
+      "name": "Surging Tempest",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "Has +1 Attack while you_have <b>Overloaded</b> Mana Crystals.",
+      "flavor": "\"Overloaded? Should've gotten a surge protector.\"",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40e9f37092f5910bce5a74d1840252d330147705357dddd5c121dcf16ffb88c6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e40230dc7e4333627f576728f56e0994de392e93fe007597b92fe3062fed7fbf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_255",
+      "dbfId": 55301,
+      "name": "Toxic Reinforcements",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "[x]<b>Sidequest:</b> Use your Hero\nPower three times.\n<b>Reward:</b> Summon three\n2/1 Leper Gnomes.",
+      "flavor": "In the event of a sudden loss of cabin pressure, a slingshot will be deployed for convenient evacuation.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e31a0750fd29eccd0970010fca62944a6fb075f21933c249575eddcadd5a82d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad0fbb5e30494ee430bc75c5a3a8fcca948f32193e5926fe1fe9eaf634ab125b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Sidequest"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_311",
+      "dbfId": 55039,
+      "name": "Treenforcements",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "[x]<b>Choose One -</b> Give a\nminion +2 Health and\n<b>Taunt</b>; or Summon a\n2/2 Treant.",
+      "flavor": "Treemendous value!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae24ce92c22489c315274f19a3c8d003022d7581bee72b6393d0fc67b425537c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26881ba9c51f0ef19e77c577f8c7962b6a9637465a3b744bc88f6f0bad5e567e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_107",
+      "dbfId": 54907,
+      "name": "Violet Spellwing",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Add an 'Arcane Missiles' spell to_your hand.",
+      "flavor": "A bird in the hand is worth three missiles in the grave.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Elemental",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39eb36c0311d01989ea705a9cc1bb56409c908c6a249e525abab167b19b9ac97.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7be0176814aac202b47db9099b87106cd107e1e58c26c16013913e045589e387.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_318",
+      "dbfId": 55052,
+      "name": "Breath of Dreams",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Draw a card. If you're holding a Dragon, gain an empty Mana Crystal.",
+      "flavor": "Ysera has the worst morning breath.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc6b55f1946ac749d5ec51bea85760c549b75091ddfbb5a2a028df72b0a24a76.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da02fa9a5073c41b3917af8a9a89896632975862f28f0702a8fb5d367118cd01.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_006",
+      "dbfId": 54922,
+      "name": "Corrosive Breath",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "[x]Deal $3 damage to a\nminion. If you're holding\na Dragon, it also hits\nthe enemy hero.",
+      "flavor": "It's a breath of fresh terror!",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a72b6411e147d6415667f09db0619b5609f774a04fdd657e621eb57dbc086be7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ec43a0c42df25d3863c13ae0872afc4faa977bc284e75f1ed48e295f75b117b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_070",
+      "dbfId": 55420,
+      "name": "Dragon Breeder",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Choose a friendly Dragon. Add a copy of it to_your hand.",
+      "flavor": "Deathwing would have been more well-adjusted if he'd been raised by this guy.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34253bde580de9d04388f6382824a80d63482d3062a8cf1a6350ddc2e0fa4cd1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07ad0c6b593c3d4a3edc7954d0415facbf9cae393c6272ef7ae9d362c3f7e061.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_306",
+      "dbfId": 54887,
+      "name": "Envoy of Lazul",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Look at 3 cards.\nGuess which one is in\nyour opponent's hand\nto get a copy of it.",
+      "flavor": "\"Note to self: possess someone who's local and knows directions next time.\"",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2562404fa31c8e09726f8357281b906d9edf827e78962f8a979b4aae58e2d5f2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e402a015fc1097a90876857e8d5326704bcad224d911db155825a573504d8029.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_066",
+      "dbfId": 55416,
+      "name": "Evasive Chimaera",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Poisonous</b>\nCan't be targeted by spells or Hero Powers.",
+      "flavor": "One head only tells the truth, while the other head only tells lies. But they both spit poison.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8cbfdcb8b89e26c7d4749bd3d6fdd16631f2eac575bea8625e1a59c29b80fac.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/115e5d0a25ae2733f12c33881eef178c3eea3036603fefa921e818afba6191d6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_401",
+      "dbfId": 55975,
+      "name": "Grizzled Wizard",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Swap Hero Powers with your opponent until your next turn.",
+      "flavor": "When he was young, he was an Outrageous Magus.",
+      "artist": "David Kegg",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63abebdc2369469df1916bc0d2297100c4d8c02bd40b504de11d7b55cf0e8d32.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55cd6e51b5f418942da07459ea682dc37aa7e113f035dded4a9d6d24941602f6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_205",
+      "dbfId": 54892,
+      "name": "Nether Breath",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Deal $2 damage.\nIf you're holding a Dragon, deal $4 damage with <b>Lifesteal</b> instead.",
+      "flavor": "\"Whether the Nether is cold,\nwhether the Nether is hot,\nwe'll burn together,\nwhatever the Nether,\nwhether we like it or not.\"",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5435d918693e33b7ff00d023cfd528d477407e859220b1da6790a5fc2636db0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d551fc30c3adbab8ab2bf1ad1b15700d7fdfc2d0e1e1c8c5ba93f68e18c611a0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_056",
+      "dbfId": 55401,
+      "name": "Parachute Brigand",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]After you play a Pirate,\nsummon this minion\nfrom your hand.",
+      "flavor": "She flies standby.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2885a5d9be60c1db826b9a4db2203cf375339e6eb88b335daf45214b2943147.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d58a3654a95a1928568cbe39d304857b1b03066f61d8c00bdfea90025032155d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_252",
+      "dbfId": 55291,
+      "name": "Phase Stalker",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]After you use your Hero\nPower, cast a <b>Secret</b>\nfrom your deck.",
+      "flavor": "It's not just a phase! I don't have to tell you anything! GAWSH!",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b5144ed5f9154b3c7ee0da4ce725f0a0feec5cc619c2ca04486c8be6f90a214.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5dc0e5ed20556c346713a0c3136d22366671d8bcc954415110e4ddd3b7aa8b18.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_021",
+      "dbfId": 55002,
+      "name": "Ritual Chopper",
+      "cardSet": "Descent of Dragons",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> <b>Invoke</b> Galakrond.",
+      "flavor": "Chop chop, Galakrond!",
+      "artist": "Lloyd Hoshide",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c23359c8b36cea233be65b44bffebada20e0a663fa615d73cca1ac76bf1033e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d21d0b721bda23929da0f777237c23370f119496a91eafc2a344156eafb6f599.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Invoke"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_258",
+      "dbfId": 55342,
+      "name": "Sanctuary",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "[x]<b>Sidequest:</b> Take no\ndamage for a turn.\n<b>Reward:</b> Summon a 3/6\nminion with <b>Taunt</b>.",
+      "flavor": "Few quests are completed by cowering under a table.",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30d00ea3433de30e1cabdad54f86622e5045da51c19729b5bb0ac3310d1dd669.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2703941eb275392636a6ecbf7eae96671db8e87adbe790f302509e7487ef226b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Sidequest"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_312",
+      "dbfId": 55038,
+      "name": "Shrubadier",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Summon a 2/2_Treant.",
+      "flavor": "Her shoots can kill.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35efb4d07e906aab46329c5c0264a3853ae51d45fd425f3aaef31ae133b1a5d8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5236fda89f5c5deef894218344d751e9d706a1bdb721ea1c5b1832a4453d7a4f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_049",
+      "dbfId": 55208,
+      "name": "Tasty Flyfish",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Give a Dragon in your hand +2/+2.",
+      "flavor": "Reinforced with vitamins and mrglrls.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06221c364ac7b0723272e12283b26c68c12934ee840526dec078841f1d3dd484.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28e679683aecbb0c8c9c4b90cd8a565e9972d50e3f0f42a884f511df63c825ad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_092",
+      "dbfId": 55436,
+      "name": "Transmogrifier",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "Whenever you draw a card, transform it into a random <b>Legendary</b> minion.",
+      "flavor": "All it takes is some imagination and a cardboard box.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab971d3d86a38b3f082a1233dddbc356316bf858e52a6f1a1234492419bcdc42.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c75940a6a2869a02e8ee38e05282e1f2c829a9148e0cef6475414f5deed9f6d8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_062",
+      "dbfId": 55407,
+      "name": "Wyrmrest Purifier",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Transform all\nNeutral cards in your deck\ninto random cards from\nyour class.",
+      "flavor": "She keeps your deck classy.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/992fc5d6186fe36638aeea09261b75be18e2a2951582fee8e123d9c5abbb4169.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e6d8968e892d1b6630ecb05280af10542d19f424850dd1bb61d8771bc207a1e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_025",
+      "dbfId": 55006,
+      "name": "Ancharrr",
+      "cardSet": "Descent of Dragons",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "durability": 2,
+      "text": "After your hero attacks, draw a Pirate from your_deck.",
+      "flavor": "The problem with anchors is they often end up sinking to the bottom of your deck.",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7b7c7941b1001b8e92a07c11f95dddc5847099bc5d698b9249e0e02ed0d09b3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b9284fee26b0e46bceed85257250760ad7d9a15251f202462126f987afa409d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_249",
+      "dbfId": 55250,
+      "name": "Awaken!",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "<b>Invoke</b> Galakrond. Deal_$1 damage to all_minions.",
+      "flavor": "This is an alarm clock you can't ignore.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12f6a6337e1c4aa21d110f3885ba9226314f8da864dfc03ba91be25aeceacf84.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ff9c79c5eed7de4b95c67fdf402dadd89b597bc5e49f8d0a66e446b85b25949.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_071",
+      "dbfId": 55421,
+      "name": "Bad Luck Albatross",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Shuffle two 1/1 Albatross into your opponent's deck.",
+      "flavor": "Legend holds that it's bad luck to harm it. So maybe just pat it on the head, okay?",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84c53d120740f2798352db756660e6c9f8e4f5b6473f74fa3261a40dd4963db8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7c5496805936224cb4b9328492ecc66585914b7609520b422d7689f2ea4eba7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_403",
+      "dbfId": 56226,
+      "name": "Blowtorch Saboteur",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Your opponent's next Hero Power costs (3).",
+      "flavor": "Before he came along, we went through a lot of duct tape.",
+      "artist": "Ekaterina Shapovalova",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3de5f275cc8d9ec30ca0e9fdb23dd23f5bc4a7fc08cc7ce156444adc7ba90e9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6b7c434d02d895628f0bd8e612771c0931f9cfa12cf2319634182b00d5ac8a4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_307",
+      "dbfId": 54898,
+      "name": "Breath of the Infinite",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Deal $2 damage to all minions. If you're holding a Dragon, only damage enemies.",
+      "flavor": "It's called \"circular breathing.\" ",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c605d9028e6ae759bed8d91d0814af9f21b4cffa6afb25dfd5ca78db3945621.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c01514d8a5c21236efc577d2055f24ab422dcf2e4e82c6c7a9079080fe1c5d7a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_229",
+      "dbfId": 55056,
+      "name": "Bronze Explorer",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Lifesteal</b>\n<b>Battlecry:</b> <b>Discover</b> a Dragon.",
+      "flavor": "Always ready to explore new friendships! Except with Deathwing.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f40c7ae65181cc54ddd96b707d281e3061ce3a1b62812576f0c56cb9857472a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72f3f710797f5643e5dd4d1242cf42fa335c292d8d7b99e02d2e3ef6cf05af11.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_104",
+      "dbfId": 54904,
+      "name": "Chenvaala",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "After you cast three spells in a turn, summon a 5/5_Elemental.",
+      "flavor": "Like the Dragon Soul. If dragons had souls of ice.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69c78f87235ec2e9fc2535bb23228b1125c85d34601fc41feff434731443f285.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eebf08b67eefd4bf292b24b11000eabe5e6ebce44bcb88e27d287274a3c8bb14.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_204",
+      "dbfId": 54891,
+      "name": "Dark Skies",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "[x]Deal $1 damage to a\nrandom minion. Repeat\nfor each card in your hand.",
+      "flavor": "\"It's a drizzle of fire. A fine mist, really.\"",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac84d1f0918a708e35bc539d7af677017d229dee7c43a8f9b654631dd576502f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31cd50268616784252be91b9c8f617803dd5f2ce6e426e2b8cae67eed46c0f96.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_010",
+      "dbfId": 54926,
+      "name": "Diving Gryphon",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 1,
+      "text": "<b>Rush</b>\n<b>Battlecry:</b> Draw a <b>Rush</b> minion_from_your_deck.",
+      "flavor": "Warning: May cause carousel flashbacks.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca5f1e0455f8e879bf8ad4c0d37f346934ae893eb987b6ba27e208683ec18b82.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d888e4b9c43b89a0f84709c3bd59811888c50d80dc8dab901fcabb79586db6c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_202",
+      "dbfId": 54888,
+      "name": "Dragonblight Cultist",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 1,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> <b>Invoke</b> Galakrond.\nGain +1 Attack for each\nother friendly minion.",
+      "flavor": "Galakrond would be extra mad if he was resurrected with gnaw marks on his bones.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7dccabfd78f071748c2eb12a8f530e163a6f8ea1c0b3c318eecd685fb49eddc7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/076751f7c9adc034ab99ec55e4e4111452c38804b1042f1341a6eea88dbf9595.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_235",
+      "dbfId": 55072,
+      "name": "Dragonrider Talritha",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Give a Dragon in your hand +3/+3 and this <b>Deathrattle</b>.",
+      "flavor": "You can't just run away from your problems. Unless you have another dragon to jump to.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31ad90e764b660c54a74b7d51ea77daff88426afc3798c1660c280c92f0ae960.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89512b513cf6766105a5c5c1b6e8c02de3187ffbfd2621dd62f0f8f3e2cf6612.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_088",
+      "dbfId": 55446,
+      "name": "Dread Raven",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "Has +3 Attack for each other Dread Raven you_control.",
+      "flavor": "Fun Fact: A group of three Dread Ravens is an unkindness. Four is lethal!",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a93e89e301752a0d7d342bd45bf334eeceff3c93de2ab950aac49a45c633b4c0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98372ef220be086f1d370fd5d8e0ba3fe0b1c1aed2d387f512771b540eaa8f09.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_020",
+      "dbfId": 55001,
+      "name": "EVIL Quartermaster",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Add a <b>Lackey</b> to your hand. Gain 3 Armor.",
+      "flavor": "He trained for a whole year to become quarter-master. Three more, and he'll be a full-master.",
+      "artist": "Kagi",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/701b077d606853c8baae95b1d047970a9c545809c6285fd995bf60166d71a956.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0edfa472be5d72eafad5a310c1101c4a47fabf213a8d7011061b33cd89405a80.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_250",
+      "dbfId": 55251,
+      "name": "Fiendish Rites",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "<b>Invoke</b> Galakrond.\nGive your minions +1_Attack.",
+      "flavor": "\"You have the right to sacrifice an ally. If you do not have an ally, then one will be sacrificed for you.\"",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30858429becb5d8a59e0e1694bfe56055ed716857f30cea9e0562aa9d2e87fa8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98ee9d658630d24e96a500f28569418fc2a71ac10f2b4f6df3310a51b2f16510.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_060",
+      "dbfId": 55405,
+      "name": "Fire Hawk",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Gain +1 Attack for each card in your opponent's hand.",
+      "flavor": "It\u2019s our fault for making all those card backs that look like food.",
+      "artist": "Servando Lupini",
+      "collectible": true,
+      "race": "Elemental",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c17269dc83cc67f36e2760ab8ffc5a7fb240324f2b6c51e93b37eb2be884223.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7178851c854b815b1de16e6561502a0a47a0331e5ead0539054944b9b1df0b0e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_059",
+      "dbfId": 55404,
+      "name": "Goboglide Tech",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you control a_Mech, gain +1/+1 and_<b>Rush</b>.",
+      "flavor": "The word \"glide\" is always in quotes in the manual.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce7baba515ea3041500bc02ad944cdbafdd0def5454ce52f86d44dc5c8f2ca79.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/474cbd628a67535b04a8ddb1af78f3ff35616ec8c707ba8bcbea2b78c6f12abc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_219",
+      "dbfId": 54971,
+      "name": "Lightning Breath",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]Deal $4 damage to a\nminion. If you're holding\na Dragon, also damage\nits neighbors.",
+      "flavor": "Recipe: One dragon, four wool socks, thick shag carpet.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a8c014bac53cffaf139137aea6e5e9d1e0efcd9b7675a4e9e6718f9663fba66.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72e03becd82ab5300633ef749b53535917d59b9b78fcaafb37a7e22facee4cd0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_068",
+      "dbfId": 55418,
+      "name": "Living Dragonbreath",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "Your minions can't be_<b>Frozen</b>.",
+      "flavor": "If you want that muscular physique, you've really gotta feel the burn.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00a6b602c45b818e4bfe9c5e1b4f9f450dd142393717810b77eb8f3026350b87.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65fa10ae2bd7816c535271278c5b7c40cc9d48d8bda42a6b3e8d84afc90531c1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_308",
+      "dbfId": 54917,
+      "name": "Mindflayer Kaahrj",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Choose an\nenemy minion.\n<b>Deathrattle:</b> Summon a new copy of it.",
+      "flavor": "It\u2019s pronounced \"Kaahrj.\"",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff327a680062922a950b83b0ca627110163ff60863fd87ac4b3467faca3acdc0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cdc3ba389c29aed395e5b3fb29d1a48eca55ca9469b12195d38babf578c60300.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_254",
+      "dbfId": 55294,
+      "name": "Primordial Explorer",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Poisonous</b>\n<b>Battlecry:</b> <b>Discover</b> a Dragon.",
+      "flavor": "\"We're letting the poisonous dude carry the bags?\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6c090a5049b3a6d50386c2d6eb16a6dea0f379df150d7caa4f66c5678705cf3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dffcee32181a3e7498eeb0d449d4530db15fc577e0e3cc4214d117588cbb9d61.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Poisonous"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_022",
+      "dbfId": 55003,
+      "name": "Ramming Speed",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Force a minion to attack one of its neighbors.",
+      "flavor": "Her deductible keeps going up.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f041587522688ca7935f42790af4a1680ac68fddb01594619c5f01d4021aa37c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5bb2ad33583396dbf0cdc8030bd9cdab2f2a5cfa9da16a985a7ea029643ff19.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_081",
+      "dbfId": 55431,
+      "name": "Scalerider",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, deal 2 damage.",
+      "flavor": "Do Re Me Fa So La Spear Throw!",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/068cd18e3920229c37fc6aec398c05b85c8b9148efe4fb0f0f7c1afea909297d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a00b19df1d441b96046b0f2a5dcd3e54c133468ac1a6ece30e7c636b479cfe8d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_019",
+      "dbfId": 55000,
+      "name": "Scion of Ruin",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Rush</b>. <b>Battlecry:</b> If you've <b>Invoked</b> twice, summon 2_copies of this.",
+      "flavor": "Ruined! RUINED!",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60c88ad9f838a9b28a7324d2aa77374522085225ae480e34318cb53c42d34daf.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b8e5b73f13b36f0be97ffacc41944dafacfa1e083bcb81fd943cbbf6339b98d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_247",
+      "dbfId": 55246,
+      "name": "Seal Fate",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Deal $3 damage to an undamaged character. <b>Invoke</b> Galakrond.",
+      "flavor": "Firmly press the seal of your fates instead of leaving the flap open.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/084ead77c8ad7f4f7eb64319d3a4796b0cd68fbb682cfca5562a6b7fa869bad3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c339df769b4600f4e6212ceddb8d98ad9035f5777196e619ea6ede551b6c6ca8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_225",
+      "dbfId": 55047,
+      "name": "Sky Claw",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 1,
+      "health": 2,
+      "text": "Your other Mechs\nhave +1 Attack.\n<b>Battlecry:</b> Summon two 1/1 Microcopters.",
+      "flavor": "Carefully engineered to never grab the Mimiron plush toy.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9bcfd88159c85e4281d03f3e9a61752883c95863698395371c8284ce98d8b7c9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/653f3c380e5b7b5422ebf87080b8ff203fd893b1276915249198e069aec5bca6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_023",
+      "dbfId": 55004,
+      "name": "Skybarge",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "[x]After you summon a\nPirate, deal 2 damage\nto a random enemy.",
+      "flavor": "It's more of a ship-gun than a gunship.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f93328a7c37f962eeb7635c4f14e39b755a461aea7af87573255e0af412ac842.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ef628964c213f121719377e2fc630929d5984c6b8f970ece03980ac5a35488f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_007",
+      "dbfId": 54923,
+      "name": "Stormhammer",
+      "cardSet": "Descent of Dragons",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "durability": 2,
+      "text": "Doesn't lose Durability while you control a_Dragon.",
+      "flavor": "It brings the storm before the calm.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/239212a56bdc873190689477848dc6735c6111839e64389edceab92df3412c7b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9beaaac6cc2e85926af9ddbaee1d6c087117cacdf037a383f589cb63d19548fa.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_102",
+      "dbfId": 54901,
+      "name": "Azure Explorer",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Spell Damage +2</b>\n<b>Battlecry:</b> <b>Discover</b> a Dragon.",
+      "flavor": "Has an appetite for knowledge!",
+      "artist": "Charlene LeScanff",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e82a397e4dbc087d36bee279f137430e0a8a87eff8755251a20d434b387e5c32.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bd2516b78408f348c58db12f8eb10a60b0601cae6ff507df159585115c04ba9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Spell Damage"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_050",
+      "dbfId": 55210,
+      "name": "Devoted Maniac",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Rush</b>\n<b>Battlecry:</b> <b>Invoke</b> Galakrond.",
+      "flavor": "There are plenty of apathetic maniacs, but they couldn't be bothered.",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0237760e48b9e64a1679ed8ecb725b69b95304f69068dca90b6fb9f117fa5583.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/526157e5c1c75e2cd2e6f12e44a706ae0123af783f1834c080d71ba94205379d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_256",
+      "dbfId": 55303,
+      "name": "Dragonbane",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "After you use your Hero Power, deal 5 damage to a random enemy.",
+      "flavor": "*Thunk* \"That wasn\u2019t a dragon!\" *Thunk* \"THAT wasn\u2019t a dragon!\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b34b8f7486ea496aacae994d714e215a7d9e485406e81d7144c0b687344aef9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2989a48d7ea26bc71fd4030e9bdd9b5737c91bca86d1172403844969fa1860a1.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_063",
+      "dbfId": 55408,
+      "name": "Dragonmaw Poacher",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If your opponent controls a Dragon, gain +4/+4 and <b>Rush</b>.",
+      "flavor": "I prefer my dragons over-easy.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9502bf0c6c45b36f4bed30351ed5def201954425123e351536cbd3a0b35a567e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfeccafe33b5ba2a15937381eb46e366a7521d032288fcb4be83a699a1f8d818.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_073",
+      "dbfId": 55423,
+      "name": "Evasive Feywing",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "Can't be targeted by spells or Hero Powers.",
+      "flavor": "I've never heard of this fey-dragon called \"Brightwing,\" but if I HAD, I\u2019d say we\u2019d be best friends.",
+      "artist": "Concept Art House",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc89b87138cfb4995f76cf3d368854e63053a0c633d7e3473ee052db287fc558.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b2072860b534550ef173d96d9b33c4cc7514800a4ce8da71c0a343712f2672d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_300",
+      "dbfId": 54871,
+      "name": "Fate Weaver",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> If you've <b>Invoked</b>\ntwice, reduce the Cost of\ncards in your hand by (1).",
+      "flavor": "Do not draw the attention of a Fate Weaver, for it will always loom over your destiny.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94f2eb4afaf600644a2528969c0acfac4fcb7614a78453cc778705ece4914a9d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/445ad7a1e9360b56ce8d65ddf1d87284c0d6fda958326dec7bde53099eb0e525.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_257",
+      "dbfId": 55304,
+      "name": "Frizz Kindleroost",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Reduce the Cost of Dragons in your deck by_(2).",
+      "flavor": "Frizz knows that baby dragons need warmth, care, and the highest possible level of goblin engineering.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fda0c9a9f4073ba31da526efd4d5ac303f485c6ce074667a68e96c6e93a29d45.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e660bd739334a7763ec11be262452cd032f6143f5cccbc233b7ed0a318c3d333.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_302",
+      "dbfId": 54873,
+      "name": "Grave Rune",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Give a minion \"<b>Deathrattle:</b> Summon 2 copies of this.\"",
+      "flavor": "I'm gravely sorry to rune this.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62cb5593603293430aa2af284564e621f35e491ac0270dbab21f816025e42384.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28a069734abd1781613a3f9d87fa52a2ab361417810d635a8765021c5d186eab.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_065",
+      "dbfId": 55415,
+      "name": "Hippogryph",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Rush</b>\n<b>Taunt</b>",
+      "flavor": "Known for its ferocious grace, the hippogryph is a truly majestic creature. Except when molting.",
+      "artist": "Gabe Gonzalez",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e795ac371170f72a92aaf0cb9dafeb78f91fe8831d05e60cdaeab8a8d7e91a32.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06f94d1a3b65454711e5a562eddc8ff869689edd1cb6c31cc0b97244a04c8dde.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_055",
+      "dbfId": 55400,
+      "name": "Hoard Pillager",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Equip one of your destroyed weapons.",
+      "flavor": "Better to have stabbed and lost. And then found again!",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26983f2dcf3735347d6c594dea820e5b2a5074c4245eb2e1727630ca4893982c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2874668931afb7190e6b4cc3ff6a3d4261ba9be421aedbfcb374db602fb9bd1f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_232",
+      "dbfId": 55068,
+      "name": "Lightforged Zealot",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If your deck has no Neutral cards, equip a __4/2_Truesilver_Champion._",
+      "flavor": "Card-carrying member of the Paladins Only Paladin Club.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d2922d8adf33d88bc78d63351ebd0937d10c9cb5bfe8cb6176c78598df9644c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e97f486b0241b9e33c70695a711aff5ea88b8a4dd195326bb7d42eb59de88f72.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_500",
+      "dbfId": 55935,
+      "name": "Molten Breath",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "[x]Deal $5 damage to a\nminion. If you're holding\na Dragon, gain 5 Armor.",
+      "flavor": "Pizza so hot it burns OTHER PEOPLE\u2019S MOUTHS.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf968ce88879a4b7bf45c268f674f7ec3d047f1c42bb47f5a9f038d6b001325f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2764824748f43b0685cce3e2238021290c7a8d6cc4ae9093ff9032b7fa751507.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_031",
+      "dbfId": 55099,
+      "name": "Necrium Apothecary",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Combo:</b> Draw a <b>Deathrattle</b> minion from your deck and gain its <b>Deathrattle</b>.",
+      "flavor": "Necrium: Get the afterlife without the aftertaste!",
+      "artist": "Yewon Park",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76cfb55ed3602fa42d65aec2ef00cc26933dac4da3cf2fa52a4c409a9d26da9a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/906b2cc1deb11027a20cf7378e29d2821c05081677df9fa97cea413fa2fe34d4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_309",
+      "dbfId": 54919,
+      "name": "Nozdormu the Timeless",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Battlecry:</b> Set each player to 10 Mana Crystals.",
+      "flavor": "Time is mana!",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36e31332b9908ca300e7fa656f30fd7a0141e5b82fd1b415a7602efb8320f9f6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4fca244d75f5f2e5df5627655838352e4692745e824ff5f4fc3a18f94f511cf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_211",
+      "dbfId": 54956,
+      "name": "Squallhunter",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 7,
+      "text": "<b>Spell Damage +2</b>\n<b>Overload:</b> (2)",
+      "flavor": "\"Oh, the weather outside is frightful\u2026 But Squallhunter's so delightful!\n \nAnd since we've gone down this road--overload, overload, overload!\"",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f497976a1dfa26663d7002000b83ecdd96f9e45fe56b3852479beed8886b17d7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ffd053042135a148d4a6c13a66e87fe4c4d13d2fbffcc7bfb5f7216280f9e3b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_067",
+      "dbfId": 55417,
+      "name": "Troll Batrider",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Deal 3 damage to a random enemy minion.",
+      "flavor": "\"Quiet! The bat can't hear where he's goin'!\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aff9a313646b4a0e1dfd9b72df877527f024df17349b95aa689f297d14854285.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cacc936b907a4bd97b8307eedd9d669efa3db9daa9397c0b799afe5c2c68d083.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_027",
+      "dbfId": 55094,
+      "name": "Umbral Skulker",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If you've <b>Invoked</b>\ntwice, add 3 Coins to\nyour hand.",
+      "flavor": "\"Three gold?! Do you have any idea how long this quest chain was?\"",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0963c87373ffc9edd110066a1b7c1e384cc3534112933c9350a1a0398500cc0c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/295198762f24324c4a014f7a45def80480bf08a1ba0335fd1d19afa9284f179a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_203",
+      "dbfId": 54890,
+      "name": "Veiled Worshipper",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> If you've <b>Invoked</b>\ntwice, draw 3 cards.",
+      "flavor": "If you\u2019re not wearing your regulation cultist clothing, how will Galakrond know to devour you last?",
+      "artist": "David Kegg",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efc42d354a66387756aa145bae1ad5b803695d6b0daa9f2ca6d5d9d95cd626f3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/341876a94405594c82ab09d636017225fe6f535d35e4ad5817c546947b9b20ad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_058",
+      "dbfId": 55403,
+      "name": "Wing Commander",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "Has +2 Attack for each Dragon in your hand.",
+      "flavor": "\"Flap! Flap! FLAP!\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8acb8d3afae4176fd9a230912fa5a7a66597de263a666109bf43d0ec09ac3722.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98c2e149b8170b9f8f769c4285cbe310ac393810c2cd0f6ce13283c7d5f4a490.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_064",
+      "dbfId": 55414,
+      "name": "Zul'Drak Ritualist",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 9,
+      "text": "[x]<b>Taunt</b>\n <b>Battlecry:</b> Summon three\nrandom 1-Cost minions\nfor your opponent.",
+      "flavor": "Generosity is a core value in cult culture.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8eaace370396dc5b5643fdd8f7080db106bcfe275063be472ea0822ae336ac0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24cc786e83590852e68cbc7f996db928818c0a623c92935e4bef7b874a6a4f10.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_314",
+      "dbfId": 55036,
+      "name": "Aeroponics",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Draw 2 cards.\nCosts (2) less for each Treant you control.",
+      "flavor": "Good seeds can go far.",
+      "artist": "Sam Nielson",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a3f20da8b7e64bf19f6a59a5ae957577cda65d5865f63a8ffdb14d50fcb1686.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d5b6a778da1439c038dd223c7ca593e5ec1a2e63e3387c6839d767ca48736e5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_226",
+      "dbfId": 55048,
+      "name": "Amber Watcher",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Restore #8_Health.",
+      "flavor": "Healing really resin-ates with him.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da85b7fdff8af60df1b139e906d195904e9265459d5107dcafbd1c9d6acd4140.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6bf2357bcb4bd7723f943d20ed1d73de1bade7dd64298b82252d905d52567954.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_096",
+      "dbfId": 55643,
+      "name": "Bandersmosh",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]Each turn this is in your\nhand, transform it into a\n5/5 copy of a random\n<b>Legendary</b> minion.",
+      "flavor": "The Shudderwock finds him particularly frumious.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1354380f2128eed9a03805fd9ccc6d158f6899b7ac484759e5aaeeaaabc103f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57d151b7327ddedde825f0f4c1a664e02a3d02591d9bc84a3a5ed8408ed8cd47.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_054",
+      "dbfId": 55399,
+      "name": "Big Ol' Whelp",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Draw a card.",
+      "flavor": "A chonker, a real absolute unit.",
+      "artist": "Concept Art House",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f018a8afbda1b537201d6af4b0bd8e3fa0c6c3c2b4a870699e236860e76ccf5b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a50f037608c416984d6126c24ded805381e317bcc15c15169039a83b52f03afc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_086",
+      "dbfId": 55454,
+      "name": "Chromatic Egg",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 0,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Secretly <b>Discover</b>\na Dragon to hatch into.\n<b>Deathrattle:</b> Hatch!",
+      "flavor": "Nefarian was known for creating two things: horrible monsters and excellent breakfasts.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4a4a8120fd2524ddeed0db08497fa5320537e75af2b31dd9f55396fa3eeaf40.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f67071005ea125031ddb292e97a145cd16a78163efa0391233179ed896f8967.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_304",
+      "dbfId": 54876,
+      "name": "Chronobreaker",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Deathrattle:</b> If you're holding\na Dragon, deal 3 damage\nto all enemy minions.",
+      "flavor": "If he asks to borrow your watch, just say no.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9c19474ac2ba2a561942b8d27ff3ae4e448dd1dc1b075ee0af1edc5d8d25ef8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03b5866aff84838e8efa290f4b8c63426a259deaf13b290009f7cb5491ee8f16.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_075",
+      "dbfId": 55425,
+      "name": "Cobalt Spellkin",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Add two 1-Cost spells from your class to_your hand.",
+      "flavor": "Spews more spells than a sleep-talking wizard.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a0f5822789e54fdec06d30a5b58ca5fa513bb9412bc76d870c0b2367b609345.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1adf335b7108a32844c21513dbf1e54ed580d21e549cd393802940346a8abf41.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_218",
+      "dbfId": 54969,
+      "name": "Corrupt Elementalist",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> <b>Invoke</b> Galakrond twice.",
+      "flavor": "Her element is \"Horns.\"",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5773dac155c5591774ae1e60da8a59ff72bbea08612935d2186eb8daf9d0a6d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40b00ad5dde92293213abeb498ad9465469732ab8848e7b73885c242e12e6ed5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_201",
+      "dbfId": 54885,
+      "name": "Crazed Netherwing",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If you're holding\na Dragon, deal 3 damage to all other characters.",
+      "flavor": "Always tail swipes left.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66fa154de0ea0083b3a4fce81d2080cc85ddb7d38ffff016a4bc99cc933e4fb9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/662ffc1188b29ff67880c90b732c91de44be5bd36283cf4e35c2a315c21c88ef.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_223",
+      "dbfId": 55021,
+      "name": "Cumulo-Maximus",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If you have <b>Overloaded</b> Mana Crystals, deal 5 damage.",
+      "flavor": "\"Are your clouds not entertained?!\"",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da6524afb9daafa8f46524c6f448f5b78a32bf43177791a655a3ecde3a51b0ab.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/886140bdca03db4f61aecfca4ccc966716b5c327d302e1ac79785d914c5b9619.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_217",
+      "dbfId": 54967,
+      "name": "Dragon's Pack",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Summon two 2/3 Spirit Wolves with <b>Taunt</b>. If you've <b>Invoked</b> twice, give them +3/+3.",
+      "flavor": "Each dragon's pack is guaranteed to have at least one rare.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24db304b770e0f61605e6b701cb92cafa24baf010684293ce2e1a9a058c15cf4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01bde0878940da7602c40ed2ad99b9faecae88a4e67c47c3c7b51ba2243a0009.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Invoke"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_076",
+      "dbfId": 55426,
+      "name": "Faceless Corruptor",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "text": "[x]<b>Rush</b>. <b>Battlecry:</b> Transform\none of your minions into\na copy of this.",
+      "flavor": "What does Madame Lazul have against faces?!",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba650f14fe47c5aa62c1dce9290b98944869f89c58293ee77d28c77d59ea7ce1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3210d1e542980e86c6207b46944217a78c594d7a4a93f5b84a3a296f83283daf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_082",
+      "dbfId": 55432,
+      "name": "Kobold Stickyfinger",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Steal your opponent's weapon.",
+      "flavor": "He no take candle. He take sword.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84a9a685cf57b38183e43ddccf19ce8fcee8a3fbe67d1006b0e3a841bd28f2a2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/024162bddd452c136151595c0529f4f88bb06c1f838bcf6001d410909f121d36.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_270",
+      "dbfId": 56161,
+      "name": "Malygos, Aspect of Magic",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 2,
+      "health": 8,
+      "text": "[x]<b>Battlecry:</b> If you're holding\na Dragon, <b>Discover</b> an\n upgraded Mage spell.",
+      "flavor": "It's official. We can say Malygeese.",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b74a526c48ece5c0a40d75b2ca767b5256a54f8a576a7a17ea148bf6cb3b2b6f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6561ece6157507ab785e672fd7448d585f2148453bf5eeed47fba6df3db046c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_069",
+      "dbfId": 55419,
+      "name": "Platebreaker",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Destroy your opponent's Armor.",
+      "flavor": "Worst. Dinner guest. Ever.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92cfcdccd709d2fd4a7474d24e327f470c8377716836c0286518abd853a3d318.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/702cc368b8bbe94f1a61b01e7efa41fc79c04e193500a53976145f7d7140196b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_321",
+      "dbfId": 55276,
+      "name": "Rolling Fireball",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Deal $8 damage to a minion. Any excess damage continues to\nthe left or right.",
+      "flavor": "Why don't they ever run perpendicular?",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90a000dba039e3b64a3ed56e94ab191ef46f5e2ccfa6edbe7826c50b218d4d82.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6cdfec8b6c45ecb4e6bd05bac3d192f8e64e21ddcc04f1f7ac5a8fef42410b6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_242",
+      "dbfId": 55166,
+      "name": "Shield of Galakrond",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> <b>Invoke</b> Galakrond.",
+      "flavor": "Realistically, she's the shield for Galakrond's big toe.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91760c30ec21bca2df2c1084567091be876d1811c0c153cfae15fcbab4d916a5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e821b55034170ad6adfad71a5e96be54c8f68deb6e88ff0b88df493a0c19cb34.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_072",
+      "dbfId": 55422,
+      "name": "Skyfin",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, summon 2 random Murlocs.",
+      "flavor": "\"Do you want to be a murloc or a dragon?\" \n\n\"Yes.\"",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Murloc",
+      "otherRaces": [
+        "Dragon"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66ed89c53cfb3ad309701f4a315a0adedc180b5101a7b4174a31e5bb32ec3cbe.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c16ac57d8b89ac4e8006521ca19e474ba608df76d0b21667d506c9bcaeb7fc49.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_034",
+      "dbfId": 55102,
+      "name": "Stowaway",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> If there are cards\nin your deck that didn't start\nthere, draw 2 of them.",
+      "flavor": "Cut him a break. Even economy class tickets are pretty expensive these days.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d072dac28946e4b88e05b0e9698daf04ec2b87f60759076ae103ca83f9fd6c09.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/421a6009514f64ebe569ea64ffd7af6fe94273bec3c665b608dd204e4b3beed2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_084",
+      "dbfId": 55466,
+      "name": "Tentacled Menace",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 6,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Each player draws a card. Swap their_Costs.",
+      "flavor": "He calls this one the \"Calamari Special.\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97eb9f15bded0b8710f9d5dec065cc5b7573238b1f08fe868dfeb03350fa8562.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/065a2b207de043950102611916447eef24df63a30319606aaa9192dd481fe3b9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_246",
+      "dbfId": 55245,
+      "name": "Time Rip",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Destroy a minion.\n<b>Invoke</b> Galakrond.",
+      "flavor": "\"It's time. R.I.P.\"",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd569256ba5b971919a0cfc5bab7048ba80b6dc063885ae31578669a2f0d2d31.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2bae58ae77d1e3d323e2a8f1c6b3b91b3b24572423762a8fd4e48fbecc54937.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Invoke"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_036",
+      "dbfId": 55104,
+      "name": "Waxadred",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 7,
+      "health": 5,
+      "text": "[x]<b>Deathrattle:</b> Shuffle a\nCandle into your deck that\nresummons Waxadred\nwhen drawn.",
+      "flavor": "Waxadred the dragon fought for his king, frolicking through the fields melting everything!",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "otherRaces": [
+        "Elemental"
+      ],
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ffd09725c438cf39c80f45b46be988b719addd61426797a7be71cfdfb857ee7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/252a485c4457607b2b65b486404dda555c68fb1c3aba4ccdd8faef173c51ebfb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_207",
+      "dbfId": 54894,
+      "name": "Abyssal Summoner",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Summon a\nDemon with <b>Taunt</b> and stats\nequal to your hand size.",
+      "flavor": "But gnomes have tiny hands...",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2006e7ca6f471fc9e7bb88c4c3f9fe22ad517a9b242b31419582ab4d26663317.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae167566b8eed0da9181fe9872e4987ae3bdb86038880f8160c3a16450dac5d3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_074",
+      "dbfId": 55424,
+      "name": "Camouflaged Dirigible",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Give your other Mechs <b>Stealth</b> until your_next turn.",
+      "flavor": "\"What does that cloud look like to you?\" \n\n\"Trouble.\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b75825364ccade1c4539fea7461ea47132b3d20df07ef5336abee43b706bb7f4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f879c5c6594f1b01127becf1a5bdeede1085b5a0ca8276736f76586aa5b6d36.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_033",
+      "dbfId": 55101,
+      "name": "Candle Breath",
+      "cardSet": "Descent of Dragons",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 6,
+      "text": "Draw 3 cards. Costs (3)_less while you're holding a Dragon.",
+      "flavor": "\"And Waxadred shall light their fires, with roaring breath hotter than pyres!\n \nCome before him, scamp and vandal, pledge your faith and lift your candle!\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e3973c5a68683ba7f6013f1c2016ddf9e84cca78c9656819ef7318d2d08df3a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e74755b768ef1e72bcaa196019cd65c957f7862d9168947d8288a778f11a914.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_322",
+      "dbfId": 55280,
+      "name": "Dragoncaster",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, your next spell this turn costs (0).",
+      "flavor": "It\u2019s challenging to perform magic on dragonback. It\u2019s so easy to drop the rabbit.",
+      "artist": "David Kegg",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b36ca69bd416623f5a0fac9cf407267a3554547b405f2b0eb9a615e3dde6388d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71301a4f04ebb245851746e145ec03680c6c735dbb2913bf96560930006240c1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_313",
+      "dbfId": 55037,
+      "name": "Emerald Explorer",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 4,
+      "health": 8,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> <b>Discover</b> a Dragon.",
+      "flavor": "Make it a double dragon!",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/728a5f7edb257c459181fb8702ace5384d79e746feeaaab25bf23e25e46b5395.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97c539f4446e521288abf35e679c8efba0760857f9f96100a6f4d3922070687e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_079",
+      "dbfId": 55429,
+      "name": "Evasive Wyrm",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 5,
+      "health": 3,
+      "text": "<b>Divine Shield</b>, <b>Rush</b>\nCan't be targeted by spells or Hero Powers.",
+      "flavor": "Deftly dodges spells like a real wiggle wyrm.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c659432446e83e32c9661a2abe47f89fa2d886f57c2640a864b89cb80f07617a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca158cbf21bba7706aa2e34f65228a21328d44f2ae37d6e3562c1a4e5defcb28.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_037",
+      "dbfId": 55105,
+      "name": "Flik Skyshiv",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Destroy a\nminion and all copies of it\n<i>(wherever they are)</i>.",
+      "flavor": "Junior explorers scan the night sky in fear of her candle\u2019s flame!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c793547ca7cd9a078f9a9ee587e504c7b73c7b0efeed3988856e25d82d04d52b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b7d59a4e1d1950df4e28b3a6da28e6e2a140c63f2bee0815857370dd46f3c8e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_061",
+      "dbfId": 55406,
+      "name": "Gyrocopter",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Rush</b>\n<b>Windfury</b>",
+      "flavor": "The hula doll is still absolutely required.",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5500370317f35ad25fcf1a376657ec4efe9efa8fac7be53c648d87a8077c276.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1634fbca5fe4b9a14b12dec33ac69efdf6c10b42e476478f124233b25ee1c8b3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_099",
+      "dbfId": 55907,
+      "name": "Kronx Dragonhoof",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Draw Galakrond.\nIf you're already Galakrond,\nunleash a Devastation.",
+      "flavor": "The only one who knows how to properly prepare Galakrond's coffee.",
+      "artist": "Jerry Mascho",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fba8a8d92a7eab271f7d86a5531d17b243511f889f3b5b541a8768978434b294.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d483ff2a7414978b11d8814f3f344928fb010ddb3af14e898c2733a48f9e28d1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_224",
+      "dbfId": 55024,
+      "name": "Nithogg",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Summon two\n0/3 Eggs. Next turn they\nhatch into 4/4 Drakes\nwith <b>Rush</b>.",
+      "flavor": "Not to be confused with Nithogger.",
+      "artist": "Peet Cooper",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b8cd7986071f86a42555d47d3ce2d33ebff69743bef1d266c8a1cc76fe84ce7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6574f917242cdf08aec806b77c84bfa380c4dac573cc9eae4314a57634ddad3c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_077",
+      "dbfId": 55427,
+      "name": "Utgarde Grapplesniper",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Both players draw a card. If it's a Dragon, summon it.",
+      "flavor": "Note: The dragon may be a little cranky upon arrival.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a9bc233b218990fbb6e4107bc3e2acd042f4af324f5aa223cf6e621011bc5c8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e77fad21b29d7db60c512838491081b9a4397505693bc3c74f543631ba75c05.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_095",
+      "dbfId": 55640,
+      "name": "Veranus",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 7,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Change the Health of all enemy minions to 1.",
+      "flavor": "As an empty nester, she just misses her little ones.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b409f792fbc595578eef14df4afbc8dd5d672faa73edb09269ca5913a855c5b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5bb3344fa67e72b6506f5d2eff6fda6e7fee211cdfebb9ec245a7263b57c0fa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_310",
+      "dbfId": 54935,
+      "name": "Evasive Drakonid",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Taunt</b>\nCan't be targeted by spells or Hero Powers.",
+      "flavor": "Doesn't respond to spells, hero powers, calls, or text messages.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7de8c180cae656123b21039fc27d40dbc9de58cadf6d9b92a4f156b53e56132b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88ab4e744a02fd54de657de157d90b12907f88b793a279eccc89dfd96e0f1f44.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_610",
+      "dbfId": 57419,
+      "name": "Galakrond, the Nightmare",
+      "cardSet": "Descent of Dragons",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 7,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Draw 1 card.\nIt costs (0).\n<i>(@)</i>",
+      "flavor": "The enormous creature unfurled terrifying claws dripping with poisonous ichor. King Togwaggle was pleased, but inwardly disappointed the great Nightmare refused to wear the candle.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a631b2588f5db9264ad65b4eb178fe50c1ba3c39f05f9c163a138dab1dc5090e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_620",
+      "dbfId": 57427,
+      "name": "Galakrond, the Tempest",
+      "cardSet": "Descent of Dragons",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 7,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Summon two\n2/2 Storms with <b>Rush</b>.\n<i>(@)</i>",
+      "flavor": "Hagatha cried out over the winds: \"Truly, you are as powerful as the Maelstrom!\" To which the Tempest answered: \"I AM THE MAELSTROM.\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4b12cb8231ccdf47d610554f1ee7d06ff1fe1e6828b5be6c5a20cd678d28044.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_650",
+      "dbfId": 57413,
+      "name": "Galakrond, the Unbreakable",
+      "cardSet": "Descent of Dragons",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 7,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Draw 1 minion.\nGive it +4/+4.\n<i>(@)</i>",
+      "flavor": "The ground quaked beneath the behemoth as Dr. Boom continued: \"\u2026with over 400 TONS of solid Storm Silver plate.\" Then he beeped a small remote. \"And luxury spikes!\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/813c0ef0f822a9a34aa1edc53f97c497dff2583cefe419ccb821ff4726979c24.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_660",
+      "dbfId": 57416,
+      "name": "Galakrond, the Unspeakable",
+      "cardSet": "Descent of Dragons",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 7,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Destroy 1\nrandom enemy minion.\n<i>(@)</i>",
+      "flavor": "Lazul called Galakrond\u2019s name, her voice echoed by whispers from the deep. Both of Galakrond\u2019s eyes opened\u2026 and then other eyes opened, as well.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f1458f761a36da7a9b04d5a97fdd754bc68d16e65afacff89c150a626471ddf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_600",
+      "dbfId": 57329,
+      "name": "Galakrond, the Wretched",
+      "cardSet": "Descent of Dragons",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 7,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Summon\n1 random Demon.\n<i>(@)</i>",
+      "flavor": "Fel-flames slowly writhed around the skeleton, until the great bones knit themselves together into a demonic monstrosity. Rafaam shielded his face from the heat but could not hide his grin.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5759049893a3ec15dda24d787899726693c771a622284039975a15455d84f2b1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_319",
+      "dbfId": 55031,
+      "name": "Goru the Mightree",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 10,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> For the rest of\nthe game, your Treants\nhave +1/+1.",
+      "flavor": "He's untreefeated.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0c4cba6936e38b2a0237d6430893e17eacf93c3b6741973844199e8287d9b96.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/434e713c169c5eb4b7ba0db893ce5cb8b2901e45fd377f62f549053020519b29.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_231",
+      "dbfId": 55067,
+      "name": "Lightforged Crusader",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 7,
+      "health": 7,
+      "text": "[x]<b>Battlecry:</b> If your deck has\nno Neutral cards, add 5\nrandom Paladin cards\nto your hand.",
+      "flavor": "Self-appointed president of the Paladins Only Paladin Club.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3851f29477e57c2005c30734ef67573b9de73b745c26b45fd9610948287b5f42.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5570b4b2625813dc6ef94d4348fada509839f2dc343540912b113514e441c0f2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_091",
+      "dbfId": 55470,
+      "name": "Shu'ma",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 1,
+      "health": 7,
+      "text": "At the end of your turn,\nfill your board with 1/1_Tentacles.",
+      "flavor": "How to tell your mother to go away.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a02ed4862048cafa8b1ad47e7aece9529c4de6a00d7751aee02ab370272a6db6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/357fddd3d4c7777d3fe04c33ec9c46c6933487f39c25c0d4d0675d3b4af26a1b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_208",
+      "dbfId": 54896,
+      "name": "Valdris Felgorge",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Increase your maximum hand size to 12. Draw 4 cards.",
+      "flavor": "I don't mean to pry, but you don't by chance happen to have six fingers on both of your hands?",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8927d83d17738e826777c59df018409ab9fa10cf30450faca6042634e422d766.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ca3648b62b5adfaa559c5a902fc67ff97ee7d01c57eca0e6cfe13aaf59c53e8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_026",
+      "dbfId": 55007,
+      "name": "Deathwing, Mad Aspect",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 12,
+      "health": 12,
+      "text": "<b>Battlecry:</b> Attack ALL\nother minions.",
+      "flavor": "Bite that one, bite that other one, claw this one, swallow that one whole....",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/473ba7879d4abfceabbd66789ffe08ddd880f60807462d7aca27a9720baabcdf.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5359bc77315374ff46bbb96d24ddd53582f500543e2aab5a0996cdefe9c0d0b6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_109",
+      "dbfId": 54909,
+      "name": "Mana Giant",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]Costs (1) less for each\ncard you've played this\ngame that didn't start\nin your deck.",
+      "flavor": "Spell more and save more with a GIANT discount!",
+      "artist": "SARIYA",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7cdec008225dc50dd530eb50843fe009cea16c554ae1b20d9c3eb52426453c67.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cf51ae26d7941a361d7c40f49b15f3b043625f292592399b6032c19fe2541c5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_090",
+      "dbfId": 55438,
+      "name": "Murozond the Infinite",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Battlecry:</b> Play all cards your opponent played last_turn.",
+      "flavor": "\"Well, I'm glad YOU knew what I should be doing this turn.\"",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b28dfdd55d68d20d5cccd008d483f59b3133c667fe6598fb29df945f4d2c611.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/336b515349b424c23500dd1cf3fd1338e5e2ca2a53cb447c219eb38e2bae8815.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_213",
+      "dbfId": 54960,
+      "name": "Twin Tyrant",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 4,
+      "health": 10,
+      "text": "<b>Battlecry:</b> Deal 4 damage to two random enemy minions.",
+      "flavor": "They can never agree on whether it's too hot or too cold.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e08aa39c0f692e7e951a228d90f34929f16e9377e622673bdd67121a8c77f19.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e203586f08b7a62eb3683d5b8c2f660460620b0cb7d5ae31638b6b51efdce5c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_209",
+      "dbfId": 54897,
+      "name": "Zzeraku the Warped",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 4,
+      "health": 12,
+      "text": "[x]Whenever your hero\ntakes damage, summon\na 6/6 Nether Drake.",
+      "flavor": "The extra Z is for \"zesty.\"",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92ec7c23a56b03207a788ab3dc784db653f0d3f5cc363a9de8ac016074001a9b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7abe2f0abfe429eb8a9c7eddf35cd3dabd758a9e7ef67fa8ae809b3e9197b88b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "DRG_089",
+      "dbfId": 55441,
+      "name": "Dragonqueen Alexstrasza",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Battlecry:</b> If your deck has\nno duplicates, add 2 other\nrandom Dragons to your\nhand. They cost (0).",
+      "flavor": "Givin' lives and takin' names.",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9cade007269d115d1fd485449412c070eada5dd3d21a892a49d4fb74be91aa3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4908ae89df1190e6c0183794f3f86c167f4219457d3648f1927e673737fce6f1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_402",
+      "dbfId": 56189,
+      "name": "Sathrovarr",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Choose a friendly minion. Add a copy of it to_your hand, deck, and battlefield.",
+      "flavor": "Just wait until you also find a copy in your pocket. And your desk! And your FRIDGE!!",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/813f9471401cddcb3e0b100a18c4b87bf17456ea53834d9de152016c9cb30cdb.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d426938ca1f15416c4ee80bd077433ab6a849a26bad99b523d88b58e26e512d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "DRG_320",
+      "dbfId": 55030,
+      "name": "Ysera, Unleashed",
+      "cardSet": "Descent of Dragons",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 4,
+      "health": 12,
+      "text": "[x]<b>Battlecry:</b> Shuffle 7 Dream\nPortals into your deck.\nWhen drawn, summon\na random Dragon.",
+      "flavor": "Releash the Dragon!",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54f823bf41d230d78a56cd96a8dce1d40fe585bb67ff4743c667b50991651d62.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16955a442dee31db2ee72a0ecf9262c3f0ff308fcc350a5bb63c60fea02aeeac.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    }
+  ]
+}

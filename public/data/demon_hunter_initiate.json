@@ -1,0 +1,425 @@
+{
+  "Demon Hunter Initiate": [
+    {
+      "cardId": "BT_752",
+      "dbfId": 58607,
+      "name": "Blur",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Your hero can't take damage this turn.",
+      "flavor": "\"What are you trying to tell me? That I can dodge axes?\" \n\"I\u2019m trying to tell you that when you\u2019re a Demon Hunter, you won\u2019t have to.\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3550f4a62e7452f83ad789cd14f899cd5c8fed3090631326ff882c995c1324f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_351",
+      "dbfId": 58487,
+      "name": "Battlefiend",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "After your hero attacks, gain +1 Attack.",
+      "flavor": "Say what you like about my hatchet-headed hooligan, he\u2019s my battle-friend.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afcd811e07af8f34e7156739151d09dd8c2bfa76e25fd46f637b8e621b340409.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_490",
+      "dbfId": 58452,
+      "name": "Consume Magic",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Silence</b> an enemy_minion.\n<b>Outcast:</b> Draw a card.",
+      "flavor": "Please be mindful when consuming raw or undercooked magic.",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e99f8288d7b143302cd245e49ab25c6282f85f38c6456c2089d86a2559234e78.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        },
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_427",
+      "dbfId": 56873,
+      "name": "Feast of Souls",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Draw a card for each friendly minion that died this turn.",
+      "flavor": "Nothing fills you up like soul food!",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e31f42401bd959ad75b516b46a6db9f3163e2e1659445f17bfb9fa0aad1ac293.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_753",
+      "dbfId": 58610,
+      "name": "Mana Burn",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Your opponent has 2 fewer Mana Crystals next turn.",
+      "flavor": "One way to ensure that they are not prepared.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a13ba71c11c2f2fe4fd339a1c4fa9269beda5622702134347e748f81e1ef9d16.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_175",
+      "dbfId": 56928,
+      "name": "Twin Slice",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Give your hero +2 Attack this turn. Add 'Second Slice' to your hand.",
+      "flavor": "The slice so nice, it'll cut you twice.",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59c4b1061db2a9b7309751d0fe72a0bfb82f6526b134993de8b0d19c4649d7e3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_407",
+      "dbfId": 56739,
+      "name": "Ur'zul Horror",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Add a 2/1 Lost Soul to your hand.",
+      "flavor": "You face face face face face Jaraxxus!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16fb289a59bd16aeca7d7e9d5ce698e533ab884c4ba52b861973674185f1765a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_922",
+      "dbfId": 56587,
+      "name": "Umberwing",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> Summon two 1/1 Felwings.",
+      "flavor": "Demon Hunters refer to these glaives as \"the ol\u2019 flappy-attackys.\"",
+      "artist": "Kagi",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/432e58df8e02749393fd02ca9e0bee4d5691051cac5a08dc4c2f4b6f2876968f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_354",
+      "dbfId": 58492,
+      "name": "Blade Dance",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Deal damage equal to your hero's Attack to 3 random enemy minions.",
+      "flavor": "The surest way to clear the dance floor.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8209e49d6016e875dfec29e60518f4ab1611050570ca44beaf54ecce9ab94a66.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "AffectedBySpellPower"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_801",
+      "dbfId": 58183,
+      "name": "Eye Beam",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "<b>Lifesteal</b>. Deal $3 damage to a minion.\n<b>Outcast:</b> This costs (1).",
+      "flavor": "Sometimes looks CAN kill.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da394a4dffe85e4dbd47f4a9e125d3f869da887fff1012612be8c3f0ca83a6a5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/600ad59b67bc0bfb52c89e37ffb73ed790f2aac6bbdee9bc11efe8c4108d0723.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_355",
+      "dbfId": 59710,
+      "name": "Wrathscale Naga",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "After a friendly minion dies, deal 3 damage to a_random enemy.",
+      "flavor": "If throwing glaives is what you crave; \nsummon tokens and make 'em broken.",
+      "artist": "Ware Lee",
+      "collectible": true,
+      "race": "Naga",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41a385ab44a8934f904a11b351a473849bc2893a457c18ab8dbcbc0bace4a288.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_937",
+      "dbfId": 56652,
+      "name": "Altruis the Outcast",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 2,
+      "text": "[x]After you play the left-\nor right-most card in your\nhand, deal 1 damage\nto all enemies.",
+      "flavor": "Altruis betrayed Illidan to forge his own way in Outland. With Blackjack. And Netherdrakes.",
+      "artist": "Jerry Mascho",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc3f61cee023ec55ec62ea55388a9e7e776cfa2445ae736a283ee5b2a4525442.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_814",
+      "dbfId": 58524,
+      "name": "Illidari Felblade",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "text": "<b>Rush</b>\n<b>Outcast:</b> Gain <b>Immune</b> this_turn.",
+      "flavor": "A whirling dervish of demonic devastation.",
+      "artist": "Angelica Alieva",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f236d8d9eb78e63eaca36f54e45086da7b6f2dde5ab557237aa4cbf5522f255a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_416",
+      "dbfId": 56765,
+      "name": "Raging Felscreamer",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> The next Demon you play costs (2) less.",
+      "flavor": "Screaming loudly will not reduce the cost of non-demonic goods.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/feef97dcde4f64950c5d6db79af5f1636db4443c36e9454ba1e5136b854c1f3a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_488",
+      "dbfId": 58246,
+      "name": "Soul Split",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Choose a friendly Demon. Summon a copy of it.",
+      "flavor": "Spoiler: they're both the evil twin.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2219e24c607b90f298cec1611242613fa5e5209358d8b03064393571d7ace5e9.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_173",
+      "dbfId": 56841,
+      "name": "Command the Illidari",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "Summon six 1/1_Illidari with <b>Rush</b>.",
+      "flavor": "Give me an R! \nGive me a U! \nGive me an S! \nGive me an H! \nYou two, you\u2019re exclamation points!",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb2636227737916d8fa14f9e0bc6a40a7b004de9d6d32e86156f267b5a7698c0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_510",
+      "dbfId": 59865,
+      "name": "Wrathspike Brute",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 2,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\nAfter this is attacked,\ndeal 1 damage to\nall enemies.",
+      "flavor": "You scratch her back, her back scratches back.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4671db3c9af5b5df670bc4a81d595368e41f21392d0b850d8df3a896a393a20f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_271",
+      "dbfId": 56905,
+      "name": "Flamereaper",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 5,
+      "durability": 3,
+      "text": "Also damages the minions next to whomever your hero_attacks.",
+      "flavor": "Honestly it sows more flame than it reaps.",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7afa958a9a5f3042414199b6cfd4a60b93c610e3511ecaa25f56a31dd701ebed.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_487",
+      "dbfId": 58244,
+      "name": "Hulking Overfiend",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 5,
+      "health": 10,
+      "text": "<b>Rush</b>. After this attacks and kills a minion, it may_attack again.",
+      "flavor": "To hulk, perhaps, to fiend: ay, there's the rub.",
+      "artist": "Bayard Wu",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d98dcd626bccd8fefaa64426ee66198427600b2a59c16d7732d3586ceabfe256.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_481",
+      "dbfId": 58172,
+      "name": "Nethrandamus",
+      "cardSet": "Demon Hunter Initiate",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Battlecry:</b> Summon two\nrandom @-Cost minions.\n<i>(Upgrades each time a\nfriendly minion dies!)</i>",
+      "flavor": "Missed the big descent with the other dragons. But better late and nether!",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afe038a10c235e89ad22d1e43b4ae655f7ae61049abacb4313f6fbcb70dd8c96.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    }
+  ]
+}

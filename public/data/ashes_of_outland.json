@@ -1,0 +1,3121 @@
+{
+  "Ashes of Outland": [
+    {
+      "cardId": "BT_020",
+      "dbfId": 56445,
+      "name": "Aldor Attendant",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Reduce the Cost_of your Librams by_(1) this game.",
+      "flavor": "Will check to make sure you have a valid libramary card.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41a27d9b03af154ce39f47c53d9022359666ba278dfce64802008756d883ba1a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_711",
+      "dbfId": 56528,
+      "name": "Blackjack Stunner",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> If you control a\n<b>Secret</b>, return a minion\nto its owner's hand.\nIt costs (2) more.",
+      "flavor": "\"I'm about to ruin this 10-cost minion's whole career.\"",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3f7f1f1165d8c660430b064a8cfbdef0b8928806d7124d71d59cde8b4fee0368.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a63ab6ba0a40bbfcc2c9ad45c6b0b93a481687b34903fd8612917669fcf75751.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_480",
+      "dbfId": 58170,
+      "name": "Crimson Sigil Runner",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Outcast:</b> Draw a card.",
+      "flavor": "He's not the fastest of the bunch, but he'll take a stab at it anyway.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a945d2c32753c212d5e70b60d929008913e62f2c0e4af66f7f13346a17cd3d0f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_724",
+      "dbfId": 57184,
+      "name": "Ethereal Augmerchant",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Deal 1 damage to a minion and give it <b>Spell Damage +1</b>.",
+      "flavor": "According to him, undamaged minions just spell problems.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c2fa656b28764fbbf504f6f83b07acf8feeed5c7da822acdbd76e282c149106.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_006",
+      "dbfId": 56389,
+      "name": "Evocation",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "Fill your hand with random Mage spells.\nAt the end of your turn, discard them.",
+      "flavor": "You too could be the winner of the national spelling spree!",
+      "artist": "Gonzalo Ordonez",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83a696ef022142c2ef6f1b40054d8684f2833afe3b7ae31fcc7d5842a06fc299.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_021",
+      "dbfId": 56460,
+      "name": "Font of Power",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "<b>Discover</b> a Mage minion. If your deck has no minions, keep all 3.",
+      "flavor": "It's Comic Sans.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db804929876491c7667f1dbee6b734138bdc614e7366117364696c62fffe0f15.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_722",
+      "dbfId": 57182,
+      "name": "Guardian Augmerchant",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Deal 1 damage to a minion and give it <b>Divine Shield</b>.",
+      "flavor": "\"What doesn't kill you makes me money!\"",
+      "artist": "Alexa Rockman",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5319fddd3c4449ffd8fd8d30b884a21cb4a8fa4f1fc6686d0813408b59fa6af6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_202",
+      "dbfId": 56483,
+      "name": "Helboar",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Give a random Beast in your hand +1/+1.",
+      "flavor": "Beasts love Helbacon Strips! ",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e07def1769cac6d5ac134c7e0f1e33c0a33831f86fc30d4c03dd477b6cf6bf3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_121",
+      "dbfId": 56508,
+      "name": "Imprisoned Gan'arg",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Dormant</b> for 2 turns.\nWhen this awakens,\nequip a 3/2 Axe.",
+      "flavor": "Factory Direct Fiery War Axe. Please allow two turns for delivery.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/187a878274beb52a1783f86562686d19278694d4e17b5b36f3d2bee7e541a97d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_258",
+      "dbfId": 56624,
+      "name": "Imprisoned Homunculus",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Dormant</b> for 2 turns.\n<b>Taunt</b>",
+      "flavor": "He got a time out for excessive vulgarity.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cae402b509a125e920cb59e1f3a9b1636a3e66c1579d52229983f41f17cf10e4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_009",
+      "dbfId": 56392,
+      "name": "Imprisoned Sungill",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Dormant</b> for 2 turns.\nWhen this awakens, summon two 1/1\nMurlocs.",
+      "flavor": "Imprisoned for ten thousand years! Not because it's a demon. Because of the dancing.",
+      "artist": "Sam Nielson",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/037a079102d2a0381de6b426978a8487bcf7f806b5bb8347ef73dcaf17982904.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_731",
+      "dbfId": 57191,
+      "name": "Infectious Sporeling",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "After this damages a minion, turn it into an Infectious_Sporeling.",
+      "flavor": "\"The best thing about being me\u2014there\u2019s so many 'me's.\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c4ca9bb65e4d50ff2c120391d6e9da1531e700c2245bca884591597cd60de1e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_197",
+      "dbfId": 57166,
+      "name": "Reliquary of Souls",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]<b>Lifesteal</b>\n<b>Deathrattle:</b> Shuffle\n'Reliquary Prime'\ninto your deck.",
+      "flavor": "These three represent Anger, Desire, and Suffering. Much like raid night guild chat.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/961e02b1ae7456d3bf03b0df385bbd6365fdb8d2f1c5a65316778b102d2630f8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9dba866e81290c9cb78b7fdcf80ba26875c84bb8b3f74ffde973903ae4a8289.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_252",
+      "dbfId": 56595,
+      "name": "Renew",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Restore #3 Health. <b>Discover</b> a spell.",
+      "flavor": "I am rejuvenated, I am renewed, I am my own nightlight!",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9fb7155ea6e69efc7fc015992d9ea7fc3742a863012fb0c910b6d7f881ef20d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_723",
+      "dbfId": 57183,
+      "name": "Rocket Augmerchant",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Deal 1 damage to a minion and give it <b>Rush</b>.",
+      "flavor": "\"Don't worry, this won't hurt me a bit.\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b869521490bdd71ecc26f158efadc84c494ac49584c99356d212c67e5866057.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_306",
+      "dbfId": 56520,
+      "name": "Shadow Council",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "Replace your hand\nwith random Demons.\nGive them +2/+2.",
+      "flavor": "Why is everybody in Outland replacing their hands?!",
+      "artist": "Wayne Wu",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c88891d4d4c9c318d0c7431d72ee2c181ee5f502be2147058872977986cf4cf.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61d9604fd23353aa0ec79ca026cec3d35a45922bebc513ad218e57a674ff5e19.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_727",
+      "dbfId": 57187,
+      "name": "Soulbound Ashtongue",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 4,
+      "text": "Whenever this minion takes damage, also deal that amount to your hero.",
+      "flavor": "He claims to be \"soulbound,\" but I just think he's clingy.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c557fe6b0acf73f0bad19b1001f2ba0fb189840b380dea296f66b1bf98b52bbb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_701",
+      "dbfId": 56377,
+      "name": "Spymistress",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 3,
+      "health": 1,
+      "text": "<b>Stealth</b>",
+      "flavor": "Spies in Outland must blend into the environment. That means hot-pink gear and bright green hair. It\u2019s a weird place.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5951f484de35cdb16d4f06faad031345422a7eb208ddf9df429d3e5a8f70a9d2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_233",
+      "dbfId": 57718,
+      "name": "Sword and Board",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Deal $2 damage to a minion. Gain 2 Armor.",
+      "flavor": "Stab and Slab. Charge and Targe. Slash and Bash. You get the idea.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8246745b52d7dd71377a97e1774887f1978601e265b51da349056304247dcfb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_199",
+      "dbfId": 57149,
+      "name": "Unstable Felbolt",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Deal $3 damage to an enemy minion and a random friendly one.",
+      "flavor": "Warning! Your minions are seated in the splash zone.",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79fa14716addd9c484893bc1a392f1181edb51b71a5cc5254bc005822a8b7a74.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9923fb88b694874b2a704083ccb68b8fe5ae588d06a92d8f075afb3c36b06c3b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_707",
+      "dbfId": 56524,
+      "name": "Ambush",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]<b>Secret:</b> After your\nopponent plays a minion,\nsummon a 2/3 Ambusher\nwith <b>Poisonous</b>.",
+      "flavor": "Clip-clop clip-clop CLIP-CLOP STAB!",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39b3633cb93c50bb70ca4e243566f702a1ca09996f3132d8a4f767042bcd8418.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_022",
+      "dbfId": 56461,
+      "name": "Apexis Smuggler",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "After you play a <b>Secret</b>, <b>Discover</b> a spell.",
+      "flavor": "\"S-secrets? I don't have any! Whoa, look, a spell!\"",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2273cb010b8328ebc6fe9c88adb11fad89f1f08b78f281a25de8f187c54f421d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_702",
+      "dbfId": 56378,
+      "name": "Ashtongue Slayer",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give a <b><b>Stealth</b>ed</b> minion +3 Attack and <b>Immune</b> this turn.",
+      "flavor": "Her other hand attachments include a corkscrew and a bottle opener.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad19c127d3e5f874be76957fc5de6f49b70e3af0d831dadd472b514d5ef7192c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_028",
+      "dbfId": 56717,
+      "name": "Astromancer Solarian",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Spell Damage +1</b>\n<b>Deathrattle:</b> Shuffle\n'Solarian Prime'\ninto your deck.",
+      "flavor": "Loyal to Kael'thas Sunstrider, this blood elf mage sought arcane power in the Void. Did she find it... or did IT find her?",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4d90ace94f634cda4a7e800c501d42306a87c3afe1fd9ea493daed814e42dac.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b08ab624253292c7d504a774471982e3a0ba85e7feea24385eda58027e48768d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_042",
+      "dbfId": 57145,
+      "name": "Bamboozle",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "[x]<b>Secret:</b> When one of\nyour minions is attacked,\ntransform it into a random\none that costs (3) more.",
+      "flavor": "\"WE DO YOU A BAMBOOZLE, HOOMAN!\"",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/483d449dc52033dcb8f60252c631066e2d6427fb34e636afd262a305001281db.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_715",
+      "dbfId": 57175,
+      "name": "Bonechewer Brawler",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Taunt</b>\nWhenever this minion takes\n_damage, gain +2 Attack.",
+      "flavor": "When you get this swole, arrows are basically free acupuncture.",
+      "artist": "Josh Harris",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/326bde8c7e5c341ca372e8049a861ca48cf10d0b1f718d83281a8d68ce4b4cad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_124",
+      "dbfId": 56512,
+      "name": "Corsair Cache",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Draw a weapon.\nGive it +1/+1.",
+      "flavor": "Where's a corsair's favorite place to hide treasure? Under their deck!",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cad761afe5b0fd788f929b126354fc0fc37396282f5ce03183716681d44c4ea2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_709",
+      "dbfId": 56526,
+      "name": "Dirty Tricks",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "[x]<b>Secret:</b> After your\nopponent casts a spell,\ndraw 2 cards.",
+      "flavor": "\"Ahh sand in my eyes! Also, I'm being stabbed.\"",
+      "artist": "David Kegg",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf226c93de787a8d5e22e7d898567a1d6e5187d9c9cc62563556869047b2957e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_262",
+      "dbfId": 56632,
+      "name": "Dragonmaw Sentinel",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Lifesteal</b>.",
+      "flavor": "On the side, she's training for the annual Dragonmaw hammer throw tournament.",
+      "artist": "David Kegg",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3bcc06d47f3ac2f0a7c6b89afec35f9a4caf330f2137740114bd1f46b8a07fd9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_496",
+      "dbfId": 58495,
+      "name": "Furious Felfin",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> If your hero\nattacked this turn, gain\n+1 Attack and <b>Rush</b>.",
+      "flavor": "Signature moves include Eye Bream, Feast of Soles, and Metamorphofish.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Murloc",
+      "otherRaces": [
+        "Demon"
+      ],
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29c8fdd25f171f7ff16e7bffaa49af6b10a50838c51edd4c58af441d58c146da.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_292",
+      "dbfId": 57546,
+      "name": "Hand of A'dal",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Give a minion +2/+1.\nDraw a card.",
+      "flavor": "When it meets the Hand of Gul'dan, they're SHAKING.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5d70d65320ebb5d49a45953ef80f32ae602e6e35ae7a06e38c5beb4b542919f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_514",
+      "dbfId": 59869,
+      "name": "Immolation Aura",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $1 damage to all minions twice.",
+      "flavor": "If you can't take the heat, stop standing in the fire.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0945e6b350f62fee5f531500393df8dbafddc34f51a04d5b25c6535b88ca07ca.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_211",
+      "dbfId": 56482,
+      "name": "Imprisoned Felmaw",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 5,
+      "health": 4,
+      "text": "[x]<b>Dormant</b> for 2 turns.\nWhen this awakens,\n__attack a random enemy.",
+      "flavor": "It doesn't care who woke it up, someone's getting bitten.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/602567ea0fb7fe832909b81c9c454eb35af887f9cb6857b5c8668b1741a3fdd1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_305",
+      "dbfId": 56519,
+      "name": "Imprisoned Scrap Imp",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Dormant</b> for 2 turns.\nWhen this awakens,\ngive all minions in your hand +2/+2.",
+      "flavor": "His impish imports imply impressively impetuous impropriety.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Demon",
+      "otherRaces": [
+        "Mech"
+      ],
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/783cdbe9d33bc817cfa3126c46aebdd5ad2c996e07e53f51e57181305313c2cb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_156",
+      "dbfId": 56820,
+      "name": "Imprisoned Vilefiend",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Dormant</b> for 2 turns.\n<b>Rush</b>",
+      "flavor": "If you do the time, you gotta make up the time.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6cb9d9f67336a325d7d96175152a2c21b281a6db2487867e97326a0666012bdd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_132",
+      "dbfId": 56684,
+      "name": "Ironbark",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Give a minion +1/+3 and <b>Taunt</b>.\nCosts (0) if you have at least 7 Mana Crystals.",
+      "flavor": "\"The important thing, son, is to protect your spores! I have spoken!\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fb783cbdf2ded52471bf58d480e5f210f7a2c91255c7d06314762ecdb758a5a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_309",
+      "dbfId": 56534,
+      "name": "Kanrethad Ebonlocke",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]Your Demons cost (1) less.\n<b>Deathrattle:</b> Shuffle\n'Kanrethad Prime'\ninto your deck.",
+      "flavor": "After Illidan's downfall, Kanrethad formed the Council of the Black Harvest to study Illidan's fel magic. Some say he was... green with envy.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5f09df9d65f11ee4ad4a7427b5701af66caa250aa5b0962ca0d43f8efd22541.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ac915c441c7e70b4500e1a005ed3443228fcbdc79e838d7e74c7a76c24afb80.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_025",
+      "dbfId": 56555,
+      "name": "Libram of Wisdom",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Give a minion +1/+1\nand \"<b>Deathrattle:</b> Add\na 'Libram of Wisdom'\nspell to your hand.\"",
+      "flavor": "The best wisdom is passed on.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/deb64627ac72347576c44c70e37a99e19b0b7959728d54369fa094838b2bc3a8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_733",
+      "dbfId": 57193,
+      "name": "Mo'arg Artificer",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 4,
+      "text": "All minions take double damage from spells.",
+      "flavor": "Double-damage. You know the drill.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Demon",
+      "otherRaces": [
+        "Mech"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/480893b53ebb1230959683bc4213d33032629f8475a4a2c827874d183ca9bfe6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_019",
+      "dbfId": 56444,
+      "name": "Murgur Murgurgle",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "[x]<b>Divine Shield</b>\n<b>Deathrattle:</b> Shuffle\n'Murgurgle Prime'\ninto your deck.",
+      "flavor": "Murlocs are not native to Outland. When the Sungills arrived, one among them rose to the challenge of this dark world. They call him... Murgurgle. Murgur Murgurgle.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "race": "Murloc",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be09aa23b860255b3b9a4f93d7960af233bd1b92bdd81b2056a15796e3b582a9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_321",
+      "dbfId": 56985,
+      "name": "Netherwalker",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a Demon.",
+      "flavor": "You got to Nethercrawl before you can Netherwalk.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/baefd509be7a218d13ba9a8c0c33368c1f0995f8e8726d0373203e71632e1064.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_203",
+      "dbfId": 56484,
+      "name": "Pack Tactics",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Secret:</b> When a friendly minion is attacked, summon a 3/3 copy.",
+      "flavor": "\"Just you wait, I\u2019ll go get on my main!\"",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1450bda1d204aebe5e683d9d7c2ec5270d389764b63a1dd7b0f98dca2084cc31.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_008",
+      "dbfId": 56391,
+      "name": "Rustsworn Initiate",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Summon a 1/1 Impcaster with\n<b>Spell Damage +1</b>.",
+      "flavor": "The Rusted Legion's training leaves a little to be desired. He hasn't even had a tetanus shot yet!",
+      "artist": "Zero",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e1f5511e66725433917ae5674f374a9b94be4ff0e3875790f51e3e4fa0f8585.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_213",
+      "dbfId": 56703,
+      "name": "Scavenger's Ingenuity",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Draw a Beast.\nGive it +3/+3.",
+      "flavor": "\"A beast, barely alive. Gentlemen, we can rebuild it! Make it stronger, faster... spikier.\"",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b80c4612c9ed867ab33ffba6e3fcaaae4ef9550e3bfd273bf190417535a7cf44.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_254",
+      "dbfId": 56603,
+      "name": "Sethekk Veilweaver",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]After you cast a spell on\na minion, add a Priest\nspell to your hand.",
+      "flavor": "The Sethekk weren't able to survive this long by being wasteful with their power. Or their wacky hats.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c35e33742946ef5e7c8fc5f1cbf2e02a42c97780aac86cf7af94159950587bee.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ecf879f9f12a60a5ea0c35df21f60b0eee15338b6f882d1640481d11da984af.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_188",
+      "dbfId": 57979,
+      "name": "Shadowjeweler Hanar",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "[x]After you play a <b>Secret</b>,\n<b>Discover</b> a <b>Secret</b> from\na different class.",
+      "flavor": "What is a shadowjeweler? A miserable little pile of secrets.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef76e91b78b88b0b04be31a778a8a994beb4b21369d2a21777893c2ae18919e6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_491",
+      "dbfId": 58453,
+      "name": "Spectral Sight",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "[x]Draw a card.\n<b>Outcast:</b> Draw another.",
+      "flavor": "\"Pick a card, any card! Preferably the left- or right-most card.\"",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0fe5105ca0d1bcc966e76fac49af4c9ff3bb176b48b9dfe895b9956bd701078.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_014",
+      "dbfId": 56439,
+      "name": "Starscryer",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Draw a spell.",
+      "flavor": "Often grieves with the Starsweeper.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5473f619cd8d7cf61875240b9f85472e3a2c819eda4cd908c7fb9345987f5c4b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_713",
+      "dbfId": 56530,
+      "name": "Akama",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Stealth</b>\n<b>Deathrattle:</b> Shuffle 'Akama\nPrime' into your deck.",
+      "flavor": "\"To many of my people, I am known as a traitor... as Illidan's lapdog. I will remain in the shadows, for now... Actually, maybe I'll just remain in the shadows forever.\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e768afcb6eddf2c4ae09a336fcdc9973d92033566b10067f9eacb0b9738e8c8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2de8b637b4b6a25f02138b8a62c56091b4b3dfd43769c0800344e102c09820ee.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_257",
+      "dbfId": 56623,
+      "name": "Apotheosis",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Give a minion +2/+3 and <b>Lifesteal</b>.",
+      "flavor": "Defined as the absolute pinnacle of existence. Plus Lifesteal.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e07a935bab532738143443fe94c25606c7ba60a49a4fb1df16b452da6225946a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_136",
+      "dbfId": 56689,
+      "name": "Archspore Msshi'fn",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Shuffle\n'Msshi'fn Prime'\ninto your deck.",
+      "flavor": "Brave leader of the Sporeggar. Guided by the philosophy that one should not mssh with matters that are not one's msshiness.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b1e5132f5853945073d053413400700adeb12eafed57b293e990d89e5a83c83.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d6f4eb18dda6090c3f5432e5e6a191017587975e4e58e7b91d585e5caf0d16c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_201",
+      "dbfId": 56398,
+      "name": "Augmented Porcupine",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]<b>Deathrattle</b>: Deal this\nminion's Attack damage\nrandomly split among\nall enemies.",
+      "flavor": "Pokey-man. Gotta spike 'em all!",
+      "artist": "Charlene Le Scanff",
+      "collectible": true,
+      "race": "Beast",
+      "otherRaces": [
+        "Mech"
+      ],
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8205395466025bbeabcb2736fc7d6179ce82025f6db943a727ed920348d5a3c5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/946760437fb7215c9a707b8418c6174d0a3fedcf001b7b1b9d7ae816266223df.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_117",
+      "dbfId": 56504,
+      "name": "Bladestorm",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Deal $1 damage to all minions. Repeat until one dies.",
+      "flavor": "Dear minions: \n\nWoosh, woosh, woosh, woosh, woosh.\n\nBest regards,\nBladestorm",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe27a5bc3e57f098a09e34d0ef9db891316e4eb7ca30b3958ac672886a8c9444.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_721",
+      "dbfId": 57181,
+      "name": "Blistering Rot",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 1,
+      "health": 2,
+      "text": "[x]At the end of your turn,\nsummon a Rot with stats\nequal to this minion's.",
+      "flavor": "Known as 'Fel Gel' to the Illidari, it's excellent protection against harsh Draenic sunshine.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb0429743203f4985c9be21bc2980b63f10f7a729d6ab8e000aa9d729ee00850.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_134",
+      "dbfId": 56686,
+      "name": "Bogbeam",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Deal $3 damage to_a minion.\nCosts (0) if you have at least 7 Mana Crystals.",
+      "flavor": "Some think the mysterious bright lights in the bog are alien invaders, others think they're just swamp gas. Turns out, it's just druids.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c2f9faffe564bf0c1080ce9a14254b221cba8a891672fa1e64afbec947da290.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_106",
+      "dbfId": 56417,
+      "name": "Bogstrok Clacker",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Transform adjacent minions into random minions that cost (1) more.",
+      "flavor": "This clacker's crackers for hacking slackers into whack attackers.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/207e2dad1b94663d56855a0b0ec399df99579e92cb243580ba2dec737b894af5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_140",
+      "dbfId": 56734,
+      "name": "Bonechewer Raider",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If there is a damaged minion, gain +1/+1 and <b>Rush</b>.",
+      "flavor": "And if that minion has a frisbee, LOOK OUT!",
+      "artist": "Ware Lee",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f38d7a13fd26a062a6c049ca1900348f585d3c57356ed007939f2e3d2ade0a9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_781",
+      "dbfId": 57721,
+      "name": "Bulwark of Azzinoth",
+      "cardSet": "Ashes of Outland",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 1,
+      "durability": 4,
+      "text": "[x]Whenever your hero would\ntake damage, this loses\n_1 Durability instead.",
+      "flavor": "This plate turned shield you shall wield, praying its powers fel will serve you well.",
+      "artist": "SARIYA",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3a7b7777ac5b77ee6aba2a79d3cee9931db947c2daa9132a933a96b4379b3b4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_307",
+      "dbfId": 56523,
+      "name": "Darkglare",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "After your hero takes damage, refresh a Mana_Crystal.",
+      "flavor": "He's got a dark glare, but he sees crystal clear! ",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5fca135e3c18cc1a099c417bf80c457e0cfadc4fc38a695bc081a9a691e0319.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77ef6292117c5b678d6b82be4b013de30cde72c1868566e2e39b73245f6990f2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_256",
+      "dbfId": 56681,
+      "name": "Dragonmaw Overseer",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "At the end of your turn, give another friendly minion +2/+2.",
+      "flavor": "Ah, the Booterang... nothing cures peon laziness faster.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/210eb5d24e992597ade0a798bc818e438de14b50130ba18853ee1655e03130d8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_714",
+      "dbfId": 57174,
+      "name": "Frozen Shadoweaver",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> <b>Freeze</b> an_enemy.",
+      "flavor": "She still wears her Frozen Shadoweave set despite the many, many nerfs. She just can't let it go!",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17e3c5c8fcdfeb15055a9adefadc57bddd0d35a30c9e8dc3c8d66c1042cbaab8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_128",
+      "dbfId": 56677,
+      "name": "Fungal Fortunes",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Draw 3 cards. Discard any minions drawn.",
+      "flavor": "Far superior to a beanstalk boondoggle.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b643a7099717283de2819300687d2910eed554951b0837a88d83be46bd8dbd65.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_710",
+      "dbfId": 56527,
+      "name": "Greyheart Sage",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If you control\na <b><b>Stealth</b>ed</b> minion,\ndraw 2 cards.",
+      "flavor": "\"What am I drinking again?\"",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa94863c9e5d4688b33b21c1cee238da1b7744e3ad2d3165acf5ffbe1545ff2c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_004",
+      "dbfId": 56387,
+      "name": "Imprisoned Observer",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Dormant</b> for 2 turns.\nWhen this awakens,\ndeal 2 damage to all\nenemy minions.",
+      "flavor": "Currently serving two turns on charges of aggravated minion slaughter.",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69bfef41e266e97bff9a69e3a5af01acc9aba67c9e56e90422d093e2a27b2225.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_127",
+      "dbfId": 56676,
+      "name": "Imprisoned Satyr",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Dormant</b> for 2 turns.\nWhen this awakens, reduce\nthe Cost of a random minion\nin your hand by (5).",
+      "flavor": "\"C'mon down to Illhoof's bargain bin! When the satyr's free, he'll lower your fee!\"",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/256bc2edd2648c4e56ca0dc3a893155f1c66983f22648432e1c9d301eeaf63e1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_109",
+      "dbfId": 56420,
+      "name": "Lady Vashj",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]<b>Spell Damage +1</b>\n<b>Deathrattle:</b> Shuffle 'Vashj\nPrime' into your deck.",
+      "flavor": "Personal handmaiden to Queen Azshara turned lieutenant to Illidan Stormrage. Also quite the hair sssstylist.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Naga",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b429078bd65f10465675110ac8679a2ac98dde9478bea478bbff8ba651ade206.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbe8e3b9c030a63bfa0461449ba03fee7c9d56115aefd4f9f73f270877466c4b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_115",
+      "dbfId": 56472,
+      "name": "Marshspawn",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you cast\na spell last turn,\n<b>Discover</b> a spell.",
+      "flavor": "Hopes to someday promote to Marshsqueen.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fdf2e6d197bcda61ad14fa9375019726bb329c46b7b94532c7f53df094b26e8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_003",
+      "dbfId": 56386,
+      "name": "Netherwind Portal",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "<b>Secret:</b> After your opponent casts a spell, summon a random\n4-Cost minion.",
+      "flavor": "More aromatic than a regular portal.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e1190c259e3870e4bc5b42587f89f82e0ba9d6fa5cd48f45c8eddf632bdd0de.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_730",
+      "dbfId": 57190,
+      "name": "Overconfident Orc",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 6,
+      "text": "<b>Taunt</b>\nWhile at full Health,\nthis has +2 Attack.",
+      "flavor": "\"I am da powerful! You are da poop!\"",
+      "artist": "Sam Nielson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b0c9fbdee99ddf70df4bc91e17fd8db3013a4cebcdca81ccfed3e65d9e92ce2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_100",
+      "dbfId": 56411,
+      "name": "Serpentshrine Portal",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Deal $3 damage.\nSummon a random\n3-Cost minion.\n<b>Overload:</b> (1)",
+      "flavor": "This is why you never flush a three-cost minion.",
+      "artist": "Gustav Schmidt",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4faa72cc998003faee9055eaca89dce8506a57da9e0234b96b9b5af8da5a7d60.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_126",
+      "dbfId": 56660,
+      "name": "Teron Gorefiend",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Destroy all\nother friendly minions.\n<b>Deathrattle:</b> Resummon\nthem with +1/+1.",
+      "flavor": "\"You\u2019re fine, friendly minions! You're fine! Don\u2019t tell Mom!\"",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68b301b41018ffb7cbbabe0a4a89c4691a73f02bad0355381364a7b34f20d6f5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c78187e006bdf26c9fa3b643d7a75107805deead05de866c7aedaec66f53977.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_159",
+      "dbfId": 56823,
+      "name": "Terrorguard Escapee",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 7,
+      "text": "<b>Battlecry:</b> Summon three 1/1 Huntresses for your_opponent.",
+      "flavor": "Poor guy is terrified, look at his faces.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/198300976b45b117d887c017623fe0addd07e0778cbbb74a8b5ba1ff138db8aa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_113",
+      "dbfId": 56470,
+      "name": "Totemic Reflection",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Give a minion +2/+2.\nIf it's a Totem, summon a copy of it.",
+      "flavor": "\"Upon reflection, I have decided that your board needs more ME.\"",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f15ff66ab2553143ad756caf18f3290b048f75749bd3755ec3745578ebbdcab.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_018",
+      "dbfId": 56443,
+      "name": "Underlight Angling Rod",
+      "cardSet": "Ashes of Outland",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "durability": 2,
+      "text": "After your Hero attacks, add a random Murloc to your hand.",
+      "flavor": "\"I said I wanted the ASHbringer not FISHbringer!\"",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2193072c06110ecc28d04a95ba9e8c71326ba7486c9553e596b0b6064f5e9c2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_120",
+      "dbfId": 56507,
+      "name": "Warmaul Challenger",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 1,
+      "health": 10,
+      "text": "<b>Battlecry:</b> Choose\nan enemy minion.\nBattle it to the death!",
+      "flavor": "Old gladiator rules: first one to die loses.",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e27c57790a1feecdfdb297cfb1e50c75ecd4ac77fdb8914923da1823bbe5d72d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_210",
+      "dbfId": 56451,
+      "name": "Zixor, Apex Predator",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]<b>Rush</b>\n<b>Deathrattle:</b> Shuffle 'Zixor\nPrime' into your deck.",
+      "flavor": "A living terror. Teleports at will. Feasts on tainted helboar meat. No head scritches unless you're Leoroxx.",
+      "artist": "Steven Prescott",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18558a02508faad9208c322e7cbc71ec51a72be99cb6a5c101becdc9eb3076d4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6446a48dda0e46fb269c2672c049343541e00463c11ed5810497cd7a64c2e424.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_423",
+      "dbfId": 56860,
+      "name": "Ashtongue Battlelord",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Taunt</b>\n<b>Lifesteal</b>",
+      "flavor": "Demons have destroyed the lives of the Ashtongue draenei. Now he\u2019s got a shoulder-axe to grind.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21d90aa25b7d34eae535cec143d76d549b9f50dc4bead0e4dc60c151d9e1063c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_717",
+      "dbfId": 57177,
+      "name": "Burrowing Scorpid",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Deal 2 damage.\nIf that kills the target,\ngain <b>Stealth</b>.",
+      "flavor": "It's a game of hide and go sting.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf4c4dfa559c00a08367ccdb0622a66922d2748813c0515d78671c15f9832a7c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_728",
+      "dbfId": 57188,
+      "name": "Disguised Wanderer",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Summon a 9/1 Inquisitor.",
+      "flavor": "He wanders east... always into the east.",
+      "artist": "Ben Olson",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75a47a17f9fa042de4eadf1ce740080644cfb0d467927155e32281b9e254c645.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26d2c7b56a3449b95d9583e65ce0255edc4db8885546b85139d40568f371f175.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_010",
+      "dbfId": 56393,
+      "name": "Felfin Navigator",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give your other Murlocs +1/+1.",
+      "flavor": "Return my fishes to me, and I myself shall carry you to the gates of Mrrhalla! ",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53430a89132319da4bcca467925137ff8a606cb9da06ae2015120fc993706d6a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_129",
+      "dbfId": 56678,
+      "name": "Germination",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Summon a copy of a friendly minion.\nGive the copy <b>Taunt</b>.",
+      "flavor": "I regret asking how sporelings are made.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ac41bb242702e901e87d5d79f364f12585e0c1163676e9ebc090af53837b781.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_002",
+      "dbfId": 56385,
+      "name": "Incanter's Flow",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Reduce the Cost of spells in your deck by_(1).",
+      "flavor": "\"Gettin' them discounts in bulk amounts, spells can come, and spells can go, castin' costs drop with my sweet, sweet flow.\"",
+      "artist": "David Kegg",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b3da5c0a291aba0f2a5a03f0c38afdb81992f8b619f671e5def6691ad12fb77.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_123",
+      "dbfId": 56510,
+      "name": "Kargath Bladefist",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Rush</b>\n<b>Deathrattle:</b> Shuffle\n'Kargath Prime'\ninto your deck.",
+      "flavor": "He rules the Shattered Hand orc clan with an iron... bladefist.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4767a009aea4eb11ddb4b618aeadd1830895aacb02a788d3f326d67676dac5ff.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d1042a15d28b37c4871c83d22828c0d86e96562906494d6e3c5b191f7905920.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_187",
+      "dbfId": 58202,
+      "name": "Kayn Sunfury",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Charge</b>\nAll friendly attacks ignore_<b>Taunt</b>.",
+      "flavor": "\"Armor and heals may slow my zeal, but fel and glaives excite me!\"",
+      "artist": "Wayne Reynolds",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02bc3e871b6e22010632237d921aeee2810e63bf395dd7d20639b95dc2699fbb.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61bdc6d326dd079fc50120c3c9725ef985b25980e6de3fe8ab6063b0a3886b74.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        },
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_850",
+      "dbfId": 58549,
+      "name": "Magtheridon",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 12,
+      "health": 12,
+      "text": "[x]<b>Dormant</b>. <b>Battlecry:</b> Summon\nthree 1/3 enemy Warders.\nWhen they die, destroy all\nminions and awaken.",
+      "flavor": "Came from another world to invade Outland and bend it to his will\u2026 only to be overthrown by an elf from another world who invaded Outland and bent it to his will.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "elite": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89ed254557b467c3e1350844e18fb28c7ebdc71b7c2e54633b84308ebc7a2556.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_737",
+      "dbfId": 57197,
+      "name": "Maiev Shadowsong",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Choose a minion.\nIt goes <b>Dormant</b> for 2 turns.",
+      "flavor": "Go directly to Demon Jail. Do not attack minions, do not collect mana crystals.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca4e9b975f9f4233e9e23c96344822c703da102fbe0a6fd6f64bf2630c15fa3e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_429",
+      "dbfId": 56899,
+      "name": "Metamorphosis",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 4,
+      "text": "Swap your Hero Power to \"Deal 4 damage.\" After 2 uses, swap it back.",
+      "flavor": "As the humble caterpillar becomes a beautiful butterfly, so too does a demon hunter become a hideous mass of writhing destruction and unfettered chaos.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a63c630d5740051ef237bd05f3721d02ac3353ada5b7769d80f5ef65730ec82.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_212",
+      "dbfId": 56694,
+      "name": "Mok'Nathal Lion",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 2,
+      "text": "<b>Rush</b>. <b>Battlecry:</b> Choose a friendly minion. Gain a copy of its <b>Deathrattle</b>.",
+      "flavor": "Never underestimate a lioness when her pride is on the line.",
+      "artist": "Daren Bader",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a85d832eb4395a45c85872a3ca625f5d7dc54206827ac5a88bbcd5048486f94.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_301",
+      "dbfId": 56502,
+      "name": "Nightshade Matron",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Rush</b>\n<b>Battlecry:</b> Discard your highest Cost card.",
+      "flavor": "Throws shade at those \"high-cost\" minions.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8b3241c964a1e7eea5dea890ebee5ba8ae26ea6a7d3fb140386dfffd8595bf3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_130",
+      "dbfId": 56680,
+      "name": "Overgrowth",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Gain two empty Mana_Crystals.",
+      "flavor": "Zangarmarsh: it's a fungal out there!",
+      "artist": "Armand Serrano",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33364b992f0fee77ebcb5344e58a5dbda80793ee03edad1ee0b1be615ca999cc.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_190",
+      "dbfId": 57907,
+      "name": "Replicat-o-tron",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "At the end of your turn, transform a neighbor into a copy of this.",
+      "flavor": "According to the Boom Labs sales brochure, it \"impractically makes itself!\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd37df6c6d080093c86414b51bc5864877794bb14a967e07b8d6af872a425adf.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_160",
+      "dbfId": 56824,
+      "name": "Rustsworn Cultist",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Give your\nother minions \"<b>Deathrattle:</b>\nSummon a 1/1 Demon.\"",
+      "flavor": "\"Rust\u2026 I love it. It's all coarse, and rough, and irritating. And it gets everywhere.\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b29b9aee99f5441ad9e118008225ea6242f87dd9c97aa0c0628788461c6adaab.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_205",
+      "dbfId": 56697,
+      "name": "Scrap Shot",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Deal $3 damage.\nGive a random Beast in_your hand +3/+3.",
+      "flavor": "Make your foe's armor your fauna's fashion!",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aba43007646b8de382fc695048e3d450e0448dc5fdf7a6de7105178733547fb6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_302",
+      "dbfId": 56511,
+      "name": "The Dark Portal",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Draw a minion. If you have at least 8 cards in hand, it costs (5) less.",
+      "flavor": "Some say it's the source of Azeroth's greatest problems\u2014aside from the gnomes.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05b9b0f5106752a9342e062bb7e0b78b6f384a9e23c007a8b6556482d06a8c1c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_110",
+      "dbfId": 56467,
+      "name": "Torrent",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "[x]Deal $8 damage to a\nminion. Costs (3) less if\nyou cast a spell last turn.",
+      "flavor": "Weeks of underwater cross-training have really built up her fourarms.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16e8626dcdbe9ae46d309b14fd125789e2562fb995703c355192f8c909c28c2f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0aea03b5e0c81ddee74163c118f034d1e833f1db155b9a658617fea61a75baf5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_101",
+      "dbfId": 56412,
+      "name": "Vivid Spores",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Give your minions \"<b>Deathrattle:</b> Resummon this minion.\"",
+      "flavor": "Hey man, I just feel like... death is just a construct of our imaginations, ya know?",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc9075004e1e5d85d90d58265e70b688b1fcde7af4b9e1f3efa4e2cc91d3f469.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_735",
+      "dbfId": 57195,
+      "name": "Al'ar",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 7,
+      "health": 3,
+      "text": "<b>Deathrattle</b>: Summon a\n 0/3 Ashes of Al'ar that resurrects this minion on your next turn.",
+      "flavor": "Week #679: Still no mount...",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eec5511aa5271082c6e7bcb33ae570a62c6c31ae86ead408112330e82e7b4a20.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_026",
+      "dbfId": 56556,
+      "name": "Aldor Truthseeker",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Taunt</b>. <b>Battlecry:</b> Reduce the Cost of your Librams by (2) this game.",
+      "flavor": "It\u2019s under 'T.'",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18dcfec72ef2dec44217aea899c22c2f77f8e86ae64d38b53caaffd668888adb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_291",
+      "dbfId": 57217,
+      "name": "Apexis Blast",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Deal $5 damage.\nIf your deck has no minions, summon a random 5-Cost minion.",
+      "flavor": "Lonely mages can still have a blast!",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1241ce800657604be73635d2231d958cff008bba0008feb750e6116dc11ee697.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_102",
+      "dbfId": 56413,
+      "name": "Boggspine Knuckles",
+      "cardSet": "Ashes of Outland",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 4,
+      "durability": 2,
+      "text": "After your hero attacks, transform your minions into random ones that cost (1) more.",
+      "flavor": "I would NOT want to put my hand in there. It's... SQUISHY.",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c855afa8abb79f70fadfbf20cf46518a8fac388f647d6b0477926a358f6e3fcd.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_135",
+      "dbfId": 56687,
+      "name": "Glowfly Swarm",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Summon a 2/2 Glowfly for each spell in your_hand.",
+      "flavor": "Glowflies are distant relations to spelling bees.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e4c331e6eff37b0f636700e9b5d9fb2d2d02963b8029546ef303401f09dd198.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_934",
+      "dbfId": 56649,
+      "name": "Imprisoned Antaen",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 10,
+      "health": 6,
+      "text": "[x]<b>Dormant</b> for 2 turns.\nWhen this awakens, deal\n10 damage randomly split\namong all enemies.",
+      "flavor": "Can I get a pair of size XXXXXL manacles?",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8366a0b09b307e6a81cbe5d85745256b45fc0746706103f8ab80ffdd8a9c9761.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00f185601ef4797fb79255e37f1b8991ee6d61abf36d6d01e882386c4276d516.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_011",
+      "dbfId": 56394,
+      "name": "Libram of Justice",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "Equip a 1/4 weapon. Change the Health of all enemy minions to 1.",
+      "flavor": "Proper justice. Throw the book at him!",
+      "artist": "Wayne Wu",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f168cf20220de46cd796faba1effa7120c1c13951446852755c85f2eb3187414.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_253",
+      "dbfId": 56598,
+      "name": "Psyche Split",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Give a minion +1/+2. Summon a copy of it.",
+      "flavor": "This is how the arakkoa make friends.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f7432916903797901d5215c510d767f9411d068f97b0ba51d8e343ada0d6db4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_720",
+      "dbfId": 57180,
+      "name": "Ruststeed Raider",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 1,
+      "health": 8,
+      "text": "<b>Taunt</b>, <b>Rush</b>\n<b>Battlecry:</b> Gain +4 Attack this turn.",
+      "flavor": "Three-time winner (and sole survivor) of the Crashes of Outland motocross!",
+      "artist": "Ware Lee",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/edc0ce1c4e01c1dce605284ef010a7e2cd09db92369756d381549dc2d151899a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a160635422a02db3bf1cd34d466d8bb1d87659c9320377a0b020cec03db73dc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_249",
+      "dbfId": 57165,
+      "name": "Scrap Golem",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Taunt</b>. <b>Deathrattle</b>: Gain Armor equal to this minion's Attack.",
+      "flavor": "Abuse, reuse, recycle.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6fe421c4a90c82689e3c0ff30400628aba99a3638c3dd3f9648476acc909848.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_114",
+      "dbfId": 56471,
+      "name": "Shattered Rumbler",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If you cast a spell last turn, deal 2 damage to all other minions.",
+      "flavor": "HAPPY BIRTHDAY TO THE GROUND!",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/932cbe7ab0703f157a4fd6a8e69807f9bbf24bbb0911fa46fce494eb70f1ce97.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_430",
+      "dbfId": 56900,
+      "name": "Warglaives of Azzinoth",
+      "cardSet": "Ashes of Outland",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 3,
+      "durability": 3,
+      "text": "After attacking a minion, your hero may attack again.",
+      "flavor": "The blades glow green from things unseen, dark dreams whirling in the felfire gleam.",
+      "artist": "SARIYA",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01199cd50f2694d1b75046cce5962df42f60ad4c3374d2fb09159d05533228e2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_729",
+      "dbfId": 57189,
+      "name": "Waste Warden",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Deal 3 damage to\na minion and all others of\nthe same minion type.",
+      "flavor": "Recycle that can, or you get the cuffs!",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12050a3188e5cfaadd86f7f536244e84049ee64e605106e9b57d18826800bb8c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38ad90ad1039695662610f791ba940bd01e8deea25a974c5b2041422e0265efc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_726",
+      "dbfId": 57186,
+      "name": "Dragonmaw Sky Stalker",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 5,
+      "health": 6,
+      "text": "<b>Deathrattle:</b> Summon a 3/4 Dragonrider.",
+      "flavor": "\"I will find you, sky!\"",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fef40167825fdbfc18b431238e5870c7d31ee5644e8b74830bcaba4eba28db6b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_509",
+      "dbfId": 59864,
+      "name": "Fel Summoner",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 8,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Summon a random Demon from your_hand.",
+      "flavor": "All's well that ends fel when the fel summoner summons well.",
+      "artist": "David Kegg",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27ee0a356aae74bdc73a0011a96a96e3fbad73d4e81c7d7f68d158a9368d010d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_300",
+      "dbfId": 56501,
+      "name": "Hand of Gul'dan",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 6,
+      "text": "When you play\nor discard this,\ndraw 3 cards.",
+      "flavor": "His skull also draws three cards. Imagine how many cards he could draw with HIS ENTIRE BODY!",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6a81aa7f4deb69119a53f3c4dd4183a34e9ba9529c0f98ee3c5c1cc556e8176.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "InvisibleDeathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_255",
+      "dbfId": 56622,
+      "name": "Kael'thas Sunstrider",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 7,
+      "text": "Every third spell you cast each turn costs (1).",
+      "flavor": "\u201cDescent of Dragons was merely a set back!\u201d",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable through Trial by Felfire Challenges.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5707022a3624d3610fb463c1ad4e83dbfe71bf8b26a83f78faf06117c26a82db.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_196",
+      "dbfId": 57326,
+      "name": "Keli'dan the Breaker",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Destroy a minion.\nIf drawn this turn, instead\ndestroy all minions\nexcept this one.",
+      "flavor": "He calms down a lot if you just give him a turn.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c44fce556240d737f43e877a8975c4a9e782c2e489c4d0ad7580083d7a149ca4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_732",
+      "dbfId": 57192,
+      "name": "Scavenging Shivarra",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 6,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Deal 6 damage randomly split among all_other minions.",
+      "flavor": "Say what you want but finding a matching set of six swords takes commitment.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05f67d9be356a8d347eaad60edf5d455cc6ea3a732837517cb08ca9e8d78f8bf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_601",
+      "dbfId": 58201,
+      "name": "Skull of Gul'dan",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Draw 3 cards.\n<b>Outcast:</b> Reduce their Cost by (3).",
+      "flavor": "A fellow of evil possessed, of most devious shadow. He hath turned on his kin a thousand times, and now, how abhorred in all imagination he is!",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b993eaf287e93fcceaa1913a5582eb2ebc3066c1add31605681c6ededd49f5d3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_230",
+      "dbfId": 57619,
+      "name": "The Lurker Below",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 6,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Deal 3 damage\nto an enemy minion. If it\ndies, repeat on one of\nits neighbors.",
+      "flavor": "\"Throw it back! THROW IT BACK!\"",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08d2d7f5e14df45206f6dee55d41280de76aed3e09c86834d068f699ab5b005e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_138",
+      "dbfId": 56732,
+      "name": "Bloodboil Brute",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 6,
+      "health": 8,
+      "text": "<b>Rush</b>\nCosts (1) less for each damaged minion.",
+      "flavor": "Call Gurtogg a brute if you like, but no one else cares about the wounded like he does.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6a68892042fe7ede53ea5466e9d79c966e89360d500999b467b0d48b5ce80bc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_716",
+      "dbfId": 57176,
+      "name": "Bonechewer Vanguard",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 4,
+      "health": 10,
+      "text": "[x]<b>Taunt</b>\nWhenever this minion takes\ndamage, gain +2 Attack.",
+      "flavor": "She came here to taunt you and chew on bones, and she's all outta bones.",
+      "artist": "Ben Olson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d671e8ca83c83885e7b80e471398591925f7e05bb8b69ea7073bb77c7abcec7a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_703",
+      "dbfId": 56379,
+      "name": "Cursed Vagrant",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 7,
+      "health": 5,
+      "text": "<b>Deathrattle:</b> Summon a 7/5 Shadow with <b>Stealth</b>.",
+      "flavor": "Little did he know\u2026 it was really the talbuk leg that was cursed.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54a7d840c7477ca06404e7dcf00d22d80152ec348626f2b5ba9af62743d37926.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_334",
+      "dbfId": 57476,
+      "name": "Lady Liadrin",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Add a copy of\neach spell you cast on\nfriendly characters this\ngame to your hand.",
+      "flavor": "When it comes to spells, she loves 'em then she librams.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a79093a61b95ea895f6007bc5412c80968f7aeeee6ed3f75786537ea8f29e851.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_133",
+      "dbfId": 56685,
+      "name": "Marsh Hydra",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 7,
+      "health": 7,
+      "text": "[x]<b>Rush</b>\nAfter this attacks, add a\nrandom 8-Cost minion\nto your hand.",
+      "flavor": "Three heads of marsh-mashing, bog-bashing, swamp-stomping fury!",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Beast",
+      "otherRaces": [
+        "Mech"
+      ],
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42a49735742e278d5f4b061a358f4c168b8131e8d082c06e1dd4dcfb59829fb0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_493",
+      "dbfId": 58455,
+      "name": "Priestess of Fury",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 6,
+      "health": 7,
+      "text": "At the end of your turn, deal 6 damage randomly split among all enemies.",
+      "flavor": "Furious that she only has six warglaives. The Sightless Watcher has eight! The fel is always greener on the other side.",
+      "artist": "Bayard Wu",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df3528e679a7d597945d9d99d806c62cf2417f5cf9a5a7d1221e823a907df479.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03a7a37e1702381e0a3cefafa54dd66f07e40273ebe1546531a51aee528c6849.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_341",
+      "dbfId": 57688,
+      "name": "Skeletal Dragon",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 4,
+      "health": 9,
+      "text": "[x]<b>Taunt</b>\nAt the end of your turn, add\na Dragon to your hand.",
+      "flavor": "I wish to complain about this dragon what I purchased not half an hour ago from this very boutique.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Dragon",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8aea6df5ac872c3f6c0617d55b155cbb0c15be24ff59237b012b7906e5075bce.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_198",
+      "dbfId": 57160,
+      "name": "Soul Mirror",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 7,
+      "text": "Summon copies of enemy minions. They attack their copies.",
+      "flavor": "It\u2019s a doppelgang-war!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5dc69f00d1da6c882b3a96dcb51f3e47d3b23fa5f835442e619e17b1d07b7c12.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_214",
+      "dbfId": 56758,
+      "name": "Beastmaster Leoroxx",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Summon 3 Beasts from your hand.",
+      "flavor": "Father of Rexxar, Champion of the Horde, and Flexxar, Champion of the Gym.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4d1832d0c1a7649588c6f8fd5616baa051a06f854519755b372c3e9b5b08299.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_761",
+      "dbfId": 60280,
+      "name": "Coilfang Warlord",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 9,
+      "health": 5,
+      "text": "[x]<b>Rush</b>\n<b>Deathrattle:</b> Summon a\n 5/9 Warlord with <b>Taunt</b>.",
+      "flavor": "Prepare for the staunch conch launch!",
+      "artist": "Kagi",
+      "collectible": true,
+      "race": "Naga",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/204729699fba3dd577e612f93397513bd9027a04fdf2586170b52f395f94673a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_072",
+      "dbfId": 57950,
+      "name": "Deep Freeze",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 8,
+      "text": "<b>Freeze</b> an enemy. Summon two 3/6 Water Elementals.",
+      "flavor": "\"Dancing with the Satyrs\u2026 on Ice!\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2682bb47f1be394b24f57f728d4a7f54bf198a2ecd176afd1649231f34488f59.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_304",
+      "dbfId": 56516,
+      "name": "Enhanced Dreadlord",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 5,
+      "health": 7,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Summon a 5/5\nDreadlord with <b>Lifesteal</b>.",
+      "flavor": "Photo actually taken across the street in the reflection of a doorknob.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5b8a884ee684786220a729965bd07710711eef1c0c5e7d5491ac23b25590cd5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_734",
+      "dbfId": 57194,
+      "name": "Supreme Abyssal",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 12,
+      "health": 12,
+      "text": "Can't attack heroes.",
+      "flavor": "Yet, you still feel attacked.",
+      "artist": "Clint Langley",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e02ac6c55ca1e7813f161a82fd19cf99ab7f5b68f66f1d9d5ba949ae381cd3fd.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_024",
+      "dbfId": 56554,
+      "name": "Libram of Hope",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 9,
+      "text": "Restore 8 Health. Summon an 8/8 Guardian with <b>Taunt</b> and_<b>Divine Shield</b>.",
+      "flavor": "\"Think you got lethal? Libram of NOPE!\"",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e078e0867745aec4e09529d2cd3831d760bbf971e3e40bd05ca90ca228df144b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_486",
+      "dbfId": 58243,
+      "name": "Pit Commander",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 9,
+      "attack": 7,
+      "health": 9,
+      "text": "<b>Taunt</b>\nAt the end of your turn, summon a Demon from your deck.",
+      "flavor": "\"Pit! Do as I say!\"",
+      "artist": "Ludo Lullabi",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/966f52b84a10064203fe55417bc809f420c996783b24652401b729103a457b6b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_131",
+      "dbfId": 56682,
+      "name": "Ysiel Windsinger",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 5,
+      "health": 5,
+      "text": "Your spells cost (1).",
+      "flavor": "Reach down into your lungs. The wind that resides there is your greatest treasure. It provides the gift of song, which is free. \n*But not less than (1)",
+      "artist": "J. Axer",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2bfc45e6d4af90cee7ad2229dd501b395a69e03b30caa58a8b2fbc91a88ad14.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "BT_163",
+      "dbfId": 56827,
+      "name": "Nagrand Slam",
+      "cardSet": "Ashes of Outland",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 10,
+      "text": "Summon four 3/5 Clefthoofs that attack random enemies.",
+      "flavor": "Come on and slam, and welcome to Nagrand!",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ea1bdc8b62bd13e6b4a869e0f237004a3e419da7ec68f36dc9df2614f075d60.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BT_155",
+      "dbfId": 56819,
+      "name": "Scrapyard Colossus",
+      "cardSet": "Ashes of Outland",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 10,
+      "attack": 7,
+      "health": 7,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Summon a \n7/7 Felcracked Colossus\nwith <b>Taunt</b>.",
+      "flavor": "Heap on heapin' on.",
+      "artist": "Steven Prescott",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c5727a02c41926d41dfd1ef4873046f4265de192eb9f9eac383e36475649d3f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    }
+  ]
+}

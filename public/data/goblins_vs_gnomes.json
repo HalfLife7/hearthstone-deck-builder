@@ -1,0 +1,2672 @@
+{
+  "Goblins vs Gnomes": [
+    {
+      "cardId": "GVG_093",
+      "dbfId": 2061,
+      "name": "Target Dummy",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 0,
+      "attack": 0,
+      "health": 2,
+      "text": "<b>Taunt</b>",
+      "flavor": "The engineering equivalent of a \"Kick Me\" sticker.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6a6cfbfeae4a0c447f1f77c89616a99239bc59ffc6a5b9657a4db47f26482e0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_082",
+      "dbfId": 2050,
+      "name": "Clockwork Gnome",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Add a <b>Spare Part</b> card to your hand.",
+      "flavor": "Clockwork gnomes are always asking what time it is.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/687b07f38018ab9b701a88b77a9ea4a2a92c25581674558454a16f86c69f52cb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_013",
+      "dbfId": 1932,
+      "name": "Cogmaster",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "Has +2 Attack while you have a Mech.",
+      "flavor": "After a while, you don't see the cogs and sprockets. All you see is a robot, a spider tank, a deathray...",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5dc1a0826f1da92361819047379055e99b19b53691e2eb19b23e3cf179d2042.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_012",
+      "dbfId": 1933,
+      "name": "Light of the Naaru",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Restore #3 Health. If the target is still damaged, summon a Lightwarden.",
+      "flavor": "\"Light it up!\" - Command given to both Lightwardens and Goblins holding Flamecannons.",
+      "artist": "Jesper Ejsing",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1237ab559e0d9d98853072af505b52a53cd07c18ef06d9c5652d48ab0fd3b2f9.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_009",
+      "dbfId": 1937,
+      "name": "Shadowbomber",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Deal 3 damage to each hero.",
+      "flavor": "Shadowbomber does her job, but she's kind of phoning it in at this point.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/590cb7224eb30f5a03e201134719ef21c51c5f5b9428503189ca890723b2b4de.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_051",
+      "dbfId": 2019,
+      "name": "Warbot",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "Has +1 Attack while damaged.",
+      "flavor": "Mass production of warbots was halted when it was discovered that they were accidentally being produced at \"sample size.\"",
+      "artist": "Tyler Walpole",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a076185a388b05390b6bebd7754faa7b0ff23e00d57ad09ac708daadf47e9dcc.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_085",
+      "dbfId": 2053,
+      "name": "Annoy-o-Tron",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Taunt</b>\n<b>Divine Shield</b>",
+      "flavor": "The inventor of the Annoy-o-Tron was immediately expelled from Tinkerschool, Tinkertown, and was eventually exiled from the Eastern Kingdoms altogether.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe099fad35d096998527c146e46595b0f5c496678c415e8a1464a20c0a7b0d89.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c97d959fe6f68fd396e02a885aacc7ad7400547369159c09840d944ade26dad9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_030",
+      "dbfId": 2096,
+      "name": "Anodized Robo Cub",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Taunt</b>. <b>Choose One -</b>\n+1 Attack; or +1 Health.",
+      "flavor": "It's adorable! AND OH MY GOODNESS WHY IS IT EATING MY FACE",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/735a166b4079e9b93dd2d9c8b0e95e3dec93ddf5ad7bc28b077ef511a1c21779.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_017",
+      "dbfId": 2094,
+      "name": "Call Pet",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Draw a card.\nIf it's a Beast, it costs (4) less.",
+      "flavor": "Real hunters tame hungry crabs.",
+      "artist": "E. M. Gist",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76db59d88307150705638e494d7628cce31ded9b53c2630816b4820ba0c99af4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_038",
+      "dbfId": 2006,
+      "name": "Crackle",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $3-$6 damage. <b>Overload:</b> (1)",
+      "flavor": "Snap! This card! Pop!",
+      "artist": "Warren Mahy",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdac3f4cb8c7d90fe1ed4ea70675f3a57b0a2d9a9958b46980360897cd64093b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_015",
+      "dbfId": 2093,
+      "name": "Darkbomb",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $3 damage.",
+      "flavor": "If you're looking to make an \"Emo\" deck, this card is perfect!",
+      "artist": "Jeff Haynie",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e495753527902cb8d6c740def6c206b69ab7cb34ad2223bfb66d4572204873d4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_076",
+      "dbfId": 2044,
+      "name": "Explosive Sheep",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Deal 2 damage to all minions.",
+      "flavor": "How is this supposed to work?  Your enemies think, \"<i>Hey!</i> Cute sheep!\" and run over to cuddle it?",
+      "artist": "Ralph Horsley",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5aa30416aaf9f9e81df53c436fe92c47e98d8fae7c34fc15f46f8b249f1143d1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_026",
+      "dbfId": 1991,
+      "name": "Feign Death",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Trigger all <b>Deathrattles</b> on your minions.",
+      "flavor": "The hardest part about doing a \"Feign Death\" convincingly is learning how to make the right smell. It takes a lot of commitment.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90634ec14c295198bc904637772764e3ffca72111e9d71d1b11792d08c45b5ed.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_001",
+      "dbfId": 1927,
+      "name": "Flamecannon",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $4 damage to a random enemy minion.",
+      "flavor": "Calling something a flamecannon really doesn't do much to distinguish it from other goblin devices.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94481feb8cfb57b7ef0bf76bd52273dc4a9b3df64d6da1424cba9a5c4885136b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_081",
+      "dbfId": 2049,
+      "name": "Gilblin Stalker",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Stealth</b>",
+      "flavor": "\"Shhh, I think I hear something.\"\n\n\"Ah, it's probably nothing.\" - Every Henchman",
+      "artist": "Seamus Gallagher",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b86e7a97d01a8b3ea22f8d2a61c5040c148f947b6ff2a37e3b5510dc6d8fcfaa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_043",
+      "dbfId": 2011,
+      "name": "Glaivezooka",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> Give a random friendly minion +1 Attack.",
+      "flavor": "For the times when a regular bazooka just isn't enough.",
+      "artist": "Gino Whitehall",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/492c3f04a8c81ff8f352a3316b9059371f90f66ff9092d29f510ab08b255f032.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_023",
+      "dbfId": 1988,
+      "name": "Goblin Auto-Barber",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give your weapon +1 Attack.",
+      "flavor": "This guy is excellent at adjusting your haircut and/or height.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc608276076078075a10039a204e75cf1aa23079029512ea9dafcbf0591a0e38.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_006",
+      "dbfId": 1940,
+      "name": "Mechwarper",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "Your Mechs cost (1) less.",
+      "flavor": "Mechs that summon mechs? What's next? Donuts that summon donuts? Mmmmm.",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5109fb107d41ef0c77dcbfbeee5bd3aa4b1719af392803dfcc76df4a7d47146e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_103",
+      "dbfId": 2071,
+      "name": "Micro Machine",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "At the start of each turn, gain +1 Attack.",
+      "flavor": "This card is the real thing.",
+      "artist": "Skan Srisuwan",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28c4c47a60bd430ed5ccd3ce410536309c57f25991955d2f4c84d9e5a99e2f14.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_025",
+      "dbfId": 1990,
+      "name": "One-eyed Cheat",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 4,
+      "health": 1,
+      "text": "Whenever you summon a Pirate, gain <b>Stealth</b>.",
+      "flavor": "When pirates say there is no \"Eye\" in \"team,\" they are very literal about it.",
+      "artist": "Danny Beck",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f842753cb7387ec072b3a6c358d21efe4396d7f76f46d4936393bbea49195a5d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_064",
+      "dbfId": 2032,
+      "name": "Puddlestomper",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "flavor": "He pays homage to Morgl, the great murloc oracle! (Who doesn't??)",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0bafe0120477856157a76ac772b7bf8dd79207f25e7af7374639ec7b0748058b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_018",
+      "dbfId": 2172,
+      "name": "Queen of Pain",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "<b>Lifesteal</b>",
+      "flavor": "Her sister is the Queen of Pane who sells windows and shower doors.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d806ef5a1bd136604de465fe5d7fe9e06aa27421eb4e87da947b9b796797d1d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_108",
+      "dbfId": 2076,
+      "name": "Recombobulator",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Transform a friendly minion into a random minion with the same Cost.",
+      "flavor": "For when you didn\u2019t combobulate quite right the first time around.",
+      "artist": "Ben Olson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afa7ba14c2b69acd4e32d3764a79ab26776aaf6240e56ee017e6258745eef3ac.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_057",
+      "dbfId": 2025,
+      "name": "Seal of Light",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Restore #4 Health to your hero and gain +2 Attack this turn.",
+      "flavor": "The walrus of Light restores EIGHT Health.",
+      "artist": "Jason Chan",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd717cbf59898dfc5733560104cf20d1cfd7ac25cdd53d9e2a32f36f5c0bb16b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_072",
+      "dbfId": 2040,
+      "name": "Shadowboxer",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "Whenever a minion is healed, deal 1 damage to a random enemy.",
+      "flavor": "Punching is its primary function. Also, its secondary function.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3aef78dcb4c38d44c26d1c2feff7a37a5b9b4f1d0fb2546202edd18da1fd0e02.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_058",
+      "dbfId": 2026,
+      "name": "Shielded Minibot",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Divine Shield</b>",
+      "flavor": "He chooses to believe what he is programmed to believe!",
+      "artist": "Raymond Swanland",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33da024752fa781d3b0fa3b9cbdeda4fd7ef94241d15d85f20a1b3d15808b885.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff7bb0878701c1c399a657bbb1745dc7935e2f174dd4f3c3a96f05e5fe0fe622.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_075",
+      "dbfId": 2043,
+      "name": "Ship's Cannon",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]After you summon a\nPirate, deal 2 damage\nto a random enemy.",
+      "flavor": "If you hear someone yell, \"Cannonball!\" you're about to get wet. Or crushed.",
+      "artist": "Warren Mahy",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1da6f2ffe753d4f0a4cafc0c70fe3b9375f3df91da81024d2c084da2933e67c5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_011",
+      "dbfId": 1936,
+      "name": "Shrinkmeister",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give a minion -2_Attack this turn.",
+      "flavor": "After the debacle of the Gnomish World Enlarger, gnomes are wary of size-changing inventions.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42b503eb9ccf678982e5966d6d746a7757460f2392af266e44676df45acc82da.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_002",
+      "dbfId": 1928,
+      "name": "Snowchugger",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Freeze</b> any character damaged by this minion.",
+      "flavor": "Do the slow chant when he waddles by: \"Chug! Chug! Chug!\"",
+      "artist": "Gabor Szikszai",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba9562a7d4cc9d676271f3d9b534e6ddf7000fed88fb580c2ec709acf7f9ddf2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_087",
+      "dbfId": 2055,
+      "name": "Steamwheedle Sniper",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "Your Hero Power can target minions.",
+      "flavor": "Goblins seldom have the patience for sniping. Most prefer lobbing explosives.",
+      "artist": "Jun Kang",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d8c9de443643e5e92f9c9f40fa51739418f38d06ca47e93a4cd9f1b4b2005a5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_067",
+      "dbfId": 2035,
+      "name": "Stonesplinter Trogg",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "Whenever your opponent casts a spell, gain +1 Attack.",
+      "flavor": "The only thing worse than smelling troggs is listening to their poetry.",
+      "artist": "Peet Cooper",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4af09df16f1359ec5c95a93707f23cd4f86daf6167a0ddb9f8e020e0e480e143.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_003",
+      "dbfId": 1929,
+      "name": "Unstable Portal",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Add a random minion to your hand. It costs (3) less.",
+      "flavor": "The denizens of Azeroth have no idea how much work goes into stabilizing portals.  We spend like 30% of GDP on portal upkeep.",
+      "artist": "Sean O\u2019Daniels",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cba7041fc447cf4aeba4e1ef1c28c1803e22258661893615e82c314aacd3dd93.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_039",
+      "dbfId": 2007,
+      "name": "Vitality Totem",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 0,
+      "health": 3,
+      "text": "At the end of your turn, restore #4 Health to your hero.",
+      "flavor": "You can usually find these at the totemist's market on Saturdays.",
+      "artist": "Guangjian Huang",
+      "collectible": true,
+      "race": "Totem",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4a6bcbb268971021d0d5259256b7d3244346dab03b4b057a4542b990838bfb0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_037",
+      "dbfId": 2005,
+      "name": "Whirling Zap-o-matic",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Windfury</b>",
+      "flavor": "If you pay a little extra, you can get it in \"candy-apple red.\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87e097855d8d41e2301fce7441e6abe53a38f7ab05a29fa3611dc33db00c07f9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_050",
+      "dbfId": 2018,
+      "name": "Bouncing Blade",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Deal $1 damage to a random minion. Repeat until a minion dies.",
+      "flavor": "Only goblins would think this was a good idea. Even they are starting to have their doubts.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/226dd76669af15b72234c1b427a57af5ca7a3b63631cdbdecd86ef3d3960284e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_059",
+      "dbfId": 2027,
+      "name": "Coghammer",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "durability": 3,
+      "text": "<b>Battlecry:</b> Give a random friendly minion <b>Divine Shield</b> and <b>Taunt</b>.",
+      "flavor": "So you ripped this out of a machine, carved some runes on it, stuck it on a handle, and now it's a weapon of great divine power? Seems legit.",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/004f5be05dacb1b6ab029370b4044c180f504af7892600a8cde8a651d7922ba2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_024",
+      "dbfId": 1989,
+      "name": "Cogmaster's Wrench",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 1,
+      "durability": 3,
+      "text": "Has +2 Attack while you have a Mech.",
+      "flavor": "For tightening cogs and smashin' troggs!",
+      "artist": "Richard Wright",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/616dd6829d251a5ce88cc02fadd01796d5f2f607cab6db09d6881e2269b2ef1f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_084",
+      "dbfId": 2052,
+      "name": "Flying Machine",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 4,
+      "text": "<b>Windfury</b>",
+      "flavor": "To operate, this contraption needs a hula doll on the dashboard. Otherwise it's just a \u201cfalling machine.\u201d",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31fda5fea3783c1aa8d9859805d7a21f7efa3d887d10a2d896d214c40ace7fde.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_098",
+      "dbfId": 2066,
+      "name": "Gnomeregan Infantry",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 4,
+      "text": "<b>Charge</b>\n<b>Taunt</b>",
+      "flavor": "The gnomes are valiant and ready to return to their irradiated, poorly ventilated homeland!",
+      "artist": "Zoltan & Gabor",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0664f7c303f66605413bacc7225cfdee5ad563905a71388fa3c4217c1727f53.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_092",
+      "dbfId": 2060,
+      "name": "Gnomish Experimenter",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Draw a card. If it's a minion, transform it into a Chicken.",
+      "flavor": "He's legitimately surprised every time he turns himself into a chicken.",
+      "artist": "Jesper Ejsing",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00dfcd7830d98dc3e4577604bed5d7523712cbc82a379559894180e5458813b4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_095",
+      "dbfId": 2063,
+      "name": "Goblin Sapper",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "Has +4 Attack while your opponent has 6 or more cards in hand.",
+      "flavor": "He\u2019s not such a binge exploder anymore. These days, he only explodes socially.",
+      "artist": "Jesper Ejsing",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe7caf9bcdf3039d9d1024acd32597e683f14483665a897f6ad6608a8d6db421.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_032",
+      "dbfId": 2225,
+      "name": "Grove Tender",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Choose One -</b> Give each player a Mana Crystal; or Each player draws a card.",
+      "flavor": "Likes: Hiking and the great outdoors. Dislikes: Goblin shredders and sandals. (Can\u2019t find any that fit!).",
+      "artist": "Chris Rahn",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86e9e24915bb023a073102413a888d78db2eefc88be9763ec6f790d9e506c3a4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_104",
+      "dbfId": 2072,
+      "name": "Hobgoblin",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "Whenever you play a 1-Attack minion, give it +2/+2.",
+      "flavor": "Hobgoblins are meeting next week to discuss union benefits.  First on the list: dental plan.",
+      "artist": "Laurel Austin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e96c969f4d220754f1ac6eb1ca99188f2c1e7a2d55086c39a5f32420d59c6cec.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_089",
+      "dbfId": 2057,
+      "name": "Illuminator",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "If you control a <b>Secret</b> at the end of your turn, restore #4 Health to your hero.",
+      "flavor": "\"LUMOS!\" is not what they yell. What do you think this is, Hogwarts?",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/142a507fb8fd31d05cd83b22b80767d6649eb814ac90b45379c5b0f5e66bda2c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_027",
+      "dbfId": 1992,
+      "name": "Iron Sensei",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "At the end of your turn, give another friendly Mech +2/+2.",
+      "flavor": "Mechs like learning from him because he really speaks their language.\n\n0110100001101001",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/988dfde79742b184ca42429967d6144c655ae75a11eb28c54e05661c90a25ca8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e8261b6fa79da2c5586b99ea6c4cf63919fcb17bd0a52e6d28eb7935cbbfee1.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_097",
+      "dbfId": 2065,
+      "name": "Lil' Exorcist",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Gain +1/+1 for each enemy <b>Deathrattle</b> minion.",
+      "flavor": "Warlocks have the town exorcist on speed dial in case they unleash the wrong demon.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8dcdf77c129eaf3b000d546c276aa55e271ec9772b35895027546a5dba438f20.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_048",
+      "dbfId": 2016,
+      "name": "Metaltooth Leaper",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give your other Mechs +2 Attack.",
+      "flavor": "Don't leave them out in the rain. In Un'Goro Crater there is a whole colony of rust-tooth leapers.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d01f60a5f4a5d428b0755d085f2283c31b90b419af7db5e9d3a9adcceb8043f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86c5e432ac57a5cb2521ee4c3a7036050fd343dc9fc92dd4e8233e535cf91786.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_109",
+      "dbfId": 2077,
+      "name": "Mini-Mage",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "text": "<b>Stealth</b>\n<b>Spell Damage +1</b>",
+      "flavor": "He is sometimes found hiding in the treasure chest in the Gurubashi Arena.",
+      "artist": "Ben Olson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1daa5dae29e71ec0ae89487aaeca21163a664e92c868166e31fbfd6c793c149f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_061",
+      "dbfId": 2029,
+      "name": "Muster for Battle",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon.",
+      "flavor": "\"I'm bringing the guacamole!\" \u2013 One of the most successful (yet rare) Silver Hand rallying cries",
+      "artist": "Mike Hayes",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8ebc92f100a1138ee32e26b8dbd1ccc13d9091155ed990d15f8054510e0784d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_065",
+      "dbfId": 2033,
+      "name": "Ogre Brute",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "text": "50% chance to attack the wrong enemy.",
+      "flavor": "Ogres have really terrible short-term chocolate.",
+      "artist": "Vinod Rams",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35ab6952f256f415172be820dfd67e840e60dfae96e16ec04341e66b3729b526.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_054",
+      "dbfId": 2022,
+      "name": "Ogre Warmaul",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "durability": 2,
+      "text": "50% chance to attack the wrong enemy.",
+      "flavor": "Simple, misguided, and incredibly dangerous. You know, like most things ogre.",
+      "artist": "Richard Wright",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5ce0616271c9ac583ae73826d30996670609762c965bd3d4514e29e779289f1.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_036",
+      "dbfId": 2004,
+      "name": "Powermace",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "durability": 2,
+      "text": "<b>Deathrattle:</b> Give a random friendly Mech +2/+2.",
+      "flavor": "People assume that shamans control the elements, but really, they have to ask them stuff and the elements are like, \"Yeah ok, sure.\"",
+      "artist": "Zoltan & Gabor",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/809f481f434784e738d3be32d6f9d5da4bbe6c8af5e268173ab8144bbe912b55.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_101",
+      "dbfId": 2069,
+      "name": "Scarlet Purifier",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Deal 2 damage to all minions with <b>Deathrattle</b>.",
+      "flavor": "The Scarlet Crusade is doing market research to find out if the \"Mauve Crusade\" would be better received.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/988b0e517609dfbec1833d05e417b5258f9d3b0f0658c54c9c53c88d56c28d3e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_123",
+      "dbfId": 2249,
+      "name": "Soot Spewer",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Spell Damage +1</b>",
+      "flavor": "The inventor of the goblin shredder is involved in several patent disputes with the inventor of the soot spewer.",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0aca5c49c007ab27a4e07fc248b62b89871553a9b1e5e88fef5d5751edfc19ce.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_044",
+      "dbfId": 2012,
+      "name": "Spider Tank",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "flavor": "\"What if we put guns on it?\" -Fizzblitz, staring at the spider-transportation-machine",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1376fdf41d9aa1d97d517b21d7269229c3509b7664e2e250b3d58caded8bee4c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_102",
+      "dbfId": 2070,
+      "name": "Tinkertown Technician",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you have a Mech, gain +1/+1 and add a <b>Spare Part</b> to your hand.",
+      "flavor": "Won't you take me to... Tinkertown?",
+      "artist": "Gabor Szikszai",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82202cd09e86ba05f7052cb1cb189620bee1ebded28b12407e1bf5c70077a1ba.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_010",
+      "dbfId": 1935,
+      "name": "Velen's Chosen",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Give a minion +2/+4 and <b>Spell Damage +1</b>.",
+      "flavor": "Velen wrote a \"Lovely Card\" for Tyrande with a picture of the Deeprun Tram that said \"I Choo-Choo-Choose you!\"",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/697a32cc556b1c3a644b3f666d0adc0a4725582530601103b7c756e83870d9de.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_029",
+      "dbfId": 1998,
+      "name": "Ancestor's Call",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "Put a random minion from each player's hand into the battlefield.",
+      "flavor": "\"Hey! Ancestors!\" - Ancestor's call",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63716a0295687e420558bb62b5d52c9a8efe44c9f7056553d5765b6853617cdb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_091",
+      "dbfId": 2059,
+      "name": "Arcane Nullifier X-21",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Taunt</b>\nCan't be targeted by spells or Hero Powers.",
+      "flavor": "There was some hard talk between gnome magi and engineers about inventing this mech.",
+      "artist": "Zero",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21b3922c5db924816b0181812dc96b813547258556ac072df7732dad18b18512.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_068",
+      "dbfId": 2036,
+      "name": "Burly Rockjaw Trogg",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "Whenever your opponent casts a spell, gain +2 Attack.",
+      "flavor": "He's burly because he does CrossFit.",
+      "artist": "Aleksi Briclot",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a78c7c1dfadb1cedd104a3a85ec27ea7940f11c0419e689b25b634cbc3f62afb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_066",
+      "dbfId": 2034,
+      "name": "Dunemaul Shaman",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Windfury, Overload:</b> (1)\n50% chance to attack the wrong enemy.",
+      "flavor": "He just closes his eyes and goes for it. Raarararrrarar!",
+      "artist": "Jos\u00e9 Ladr\u00f6nn",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3fa39ba5d780930911436fc6a6bd9ba4d7287bbe6577e188e5adc3960820386.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_005",
+      "dbfId": 1941,
+      "name": "Echo of Medivh",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "Put a copy of each friendly minion into your hand.",
+      "flavor": "Medivh's echo haunts Karazhan, eternally cheating at chess and <i>Hearthstone</i>.",
+      "artist": "Alex Garner",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a0f6c0e4ad7b2a6b0361d764bd8a260a6d232f1576c34a1cb66c9efec641979.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_107",
+      "dbfId": 2075,
+      "name": "Enhance-o Mechano",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give your other minions <b>Windfury</b>, <b>Taunt</b>, or <b>Divine Shield</b>\n<i>(at random)</i>.",
+      "flavor": "His enhancements are gluten free!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f605d6a2e7183d613fc3402717709c92603a18942af15af8fc0bf40a8cedde29.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Windfury"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_020",
+      "dbfId": 1997,
+      "name": "Fel Cannon",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "At the end of your turn, deal 2 damage to a non-Mech minion.",
+      "flavor": "The box says, \"New and improved, with 200% more fel!\"",
+      "artist": "Matt Gaser",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d38ac06d6dc9828857478f53f3cc48b5e69f3e625971f9767d7b05d43f4329e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_004",
+      "dbfId": 1934,
+      "name": "Goblin Blastmage",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you have a Mech, deal 4 damage randomly split among all enemies.",
+      "flavor": "If you can't find a bomb to throw, just pick up any goblin invention and throw that.",
+      "artist": "Glenn Rane",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8aee84dd45493986f6fd9748b17a3b860eba398e6d2ac343ef15b2568e3324cb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_045",
+      "dbfId": 2013,
+      "name": "Imp-losion",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Deal $2-$4 damage to a minion. Summon a 1/1 Imp for each damage dealt.",
+      "flavor": "The shrapnel is waaaaay worse than the explosion.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42320bb51f969af1e2f89ddfc777668da2bc4ac1f4b3aaf76882d0afa24edd0d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_094",
+      "dbfId": 2062,
+      "name": "Jeeves",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 1,
+      "health": 4,
+      "text": "At the end of each player's turn, that player draws until they have 3 cards.",
+      "flavor": "This robot is a lean, mean, butlerin' machine.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5c3a1ab201c658e73aba95e8f9dc9d9d83fc77e8f8b1f8bccba660df1accebb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_074",
+      "dbfId": 2042,
+      "name": "Kezan Mystic",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Take control of a random enemy <b>Secret</b>.",
+      "flavor": "They pretend to be wise and enlightened, but they mostly just hate to be left out of a secret.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c017d172119a9c57a070d33a0b046f9d64a343ec10abf8ba9430ec112d29f49d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_071",
+      "dbfId": 2039,
+      "name": "Lost Tallstrider",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "flavor": "The message, \"If found, please return to Mulgore,\" is tattooed on his rear.",
+      "artist": "Ben Zhang",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f5b5cb6bbcac49ce702617039caaa27cd2e1f2cc3f5cdde60c1ae1f8227d5ae.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_078",
+      "dbfId": 2046,
+      "name": "Mechanical Yeti",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Deathrattle:</b> Give each player a <b>Spare Part.</b>",
+      "flavor": "The yetis of Chillwind Point are a source of both inspiration and savage beatings.",
+      "artist": "Chris Seaman",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09f258fb6e7b8cd790e64b0bdbe7e11a375ea673f0a769a3e6910f659f6c23df.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_096",
+      "dbfId": 2064,
+      "name": "Piloted Shredder",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Summon a random 2-Cost minion.",
+      "flavor": "Once upon a time, only goblins piloted shredders. These days, everyone from Doomsayer to Lorewalker Cho seems to ride one.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96761238ea28357a1dff66898ada81717104503dbb0b52b3c34a9e21d3ae1aa8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_047",
+      "dbfId": 2015,
+      "name": "Sabotage",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "Destroy a random enemy minion. <b>Combo:</b> And your opponent's weapon.",
+      "flavor": "Rogues can't stand it. They know you planned it! They are going to set you straight!",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/732250aaa8d6b59d8a7f3495ab7507657fbe69ac2451b1b5daf5ee10e7417458.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_055",
+      "dbfId": 2023,
+      "name": "Screwjank Clunker",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Give a friendly Mech +2/+2.",
+      "flavor": "If it breaks, just kick it a couple of times while yelling \"Durn thing!\"",
+      "artist": "Jesper Ejsing",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc6b496a6c3df165308143b9bdf2f1fdfee6bc7a411eaa6412ccc913d407d6c3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fba9ff49495f1555f0e39ef06fe5972f23704a23a291a8779f457d9945f1c30c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_040",
+      "dbfId": 2008,
+      "name": "Siltfin Spiritwalker",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "Whenever another friendly Murloc dies, draw a card. <b><b>Overload</b>:</b> (1)",
+      "flavor": "The elements respond to anyone who calls them for a worthy cause, even if you call them by yelling, \"MRGHRGLGLGL!\"",
+      "artist": "Clint Langley",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27c26ff8717e1acd08a661ca84cdc635de474f0e8e77f8d14c56d06db75e7325.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_022",
+      "dbfId": 2095,
+      "name": "Tinker's Sharpsword Oil",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Give your weapon +3 Attack. <b>Combo:</b> Give a random friendly minion +3 Attack.",
+      "flavor": "\"Get ready to strike oil!\" - Super-cheesy battle cry",
+      "artist": "Den",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ecdfaaeaae664e69f544b0a6c3a5ee917b7b6c3b8d188c0add6922032ff7894.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_122",
+      "dbfId": 2234,
+      "name": "Wee Spellstopper",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "Adjacent minions can't be targeted by spells or Hero Powers.",
+      "flavor": "Bane of spellcasters and spelling bees everywhere.",
+      "artist": "Jonboy Meyers",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b262d768b4cd72a76350ddd4ac46be995d9e7139746eb57f855c9e841e39a426.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "AdjacentBuff"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_069",
+      "dbfId": 2037,
+      "name": "Antique Healbot",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Restore #8 Health to your hero.",
+      "flavor": "They don't make 'em like they used to! (Because of explosions, mostly.)",
+      "artist": "Jesper Ejsing",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51864a6cf678d480e30cd0beb21fb6e2ca399a4cfe353e840c119df2ddf244c6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_119",
+      "dbfId": 2087,
+      "name": "Blingtron 3000",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Equip a random weapon for each player.",
+      "flavor": "PREPARE PARTY SERVOS FOR IMMEDIATE DEPLOYMENT.",
+      "artist": "Jomaro Kindred",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e106467a0fbac6360fac1ca50824160ad920f113a83750c99c96c1bf3a87a59.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_063",
+      "dbfId": 2031,
+      "name": "Bolvar Fordragon",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 1,
+      "health": 7,
+      "text": "Whenever a friendly minion dies while this is in your hand, gain +1 Attack.",
+      "flavor": "Spoiler alert: Bolvar gets melted and then sits on an ice throne and everyone forgets about him.",
+      "artist": "Tooth",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd36aa8047966b502f6f6c18ab4aea4ed0f427917213ee6160ac3114fdb33bca.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_099",
+      "dbfId": 2067,
+      "name": "Bomb Lobber",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Deal 4 damage to a random enemy minion.",
+      "flavor": "He lobbies Orgrimmar daily on behalf of bombs.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/508b5612ad73eadfacb8d55c3a9de6575468133665a7639c88fb5ff00ee39be8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_062",
+      "dbfId": 2030,
+      "name": "Cobalt Guardian",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 6,
+      "health": 3,
+      "text": "Whenever you summon a Mech, gain <b>Divine Shield</b>.",
+      "flavor": "Guardians used to be built out of Adamantium, but production got moved to Gadgetzan and Cobalt was cheap.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9df8e56c339d0f42e9eb2f147a1ca040714cbc1f39462ce4f50a1d3d9b1f5e2a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be3b5d87d525c540ab4aff566cd9c339c7427f97b31eb9d0ab3ee1dd2d60b676.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_073",
+      "dbfId": 2041,
+      "name": "Cobra Shot",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "Deal $3 damage to a minion and the enemy hero.",
+      "flavor": "\"Cobra Shot\" hurts way, way, way more than \"Cobra Cuddle.\"",
+      "artist": "Howard Lyon",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b04592d876a32dbb4a832ca7094fac76b50dfe3a2fe8e02fd109ac9691756d44.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_019",
+      "dbfId": 1985,
+      "name": "Demonheart",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Deal $5 damage to a minion.  If it's a friendly Demon, give it +5/+5 instead.",
+      "flavor": "Virtually every member of the pro demon lobby is a warlock. Weird.",
+      "artist": "Kerem Beyit",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35afee5c0da1498d301597d5f28f421a7e87aad4126b129ea56e3a57a3d7cced.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_080",
+      "dbfId": 2048,
+      "name": "Druid of the Fang",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you have a Beast, transform this minion into a 7/7.",
+      "flavor": "The Druids of the Fang live in the Wailing Caverns. They wear cool snake shirts and tell snake jokes and say \"bro\" a lot.",
+      "artist": "Brandon Kitkouski",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b28d9f206cff28a0b50d30a4bf6d9131d0581d200a4d34d246df3ca0b199cea1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_016",
+      "dbfId": 1982,
+      "name": "Fel Reaver",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 8,
+      "health": 8,
+      "text": "Whenever your opponent plays a card, remove the top 3 cards of your deck.",
+      "flavor": "So reaver. Much fel. Wow.",
+      "artist": "Zoltan & Gabor",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/918f5681a9f7663a0e0475567540af328869e485a9b32f804432885b0f0cc081.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_100",
+      "dbfId": 2068,
+      "name": "Floating Watcher",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "Whenever your hero takes damage on your turn, gain +2/+2.",
+      "flavor": "\"Evil Eye Watcher of Doom\" was the original name, but marketing felt it was a bit too aggressive.",
+      "artist": "Todd Lockwood",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e807b27c1910af23ff67f485c94790cd881aa7181bd377aa8c8648329d29569c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34cc18ee1a4d5573e2c386f91225c6cb1bf5aca8f276d76024f77013f0fb4227.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_120",
+      "dbfId": 2088,
+      "name": "Hemet Nesingwary",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 6,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Destroy a Beast.",
+      "flavor": "It's hard to make a living as a hunter in a world where beasts instantly reappear minutes after you kill them.",
+      "artist": "Ralph Horsley",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60a3e23b2fd7e8e42819af295f2a36485b7755ad9af8dedd610ed90fe8bb9d42.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_106",
+      "dbfId": 2074,
+      "name": "Junkbot",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 1,
+      "health": 5,
+      "text": "Whenever a friendly Mech dies, gain +2/+2.",
+      "flavor": "One bot's junk is another bot's AWESOME UPGRADE!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53329ded9e9cdd76c7ee8b1a3166ad8ff8c6d3b6cc1d3cad48f0adb51f0d58c3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec6d4ecbdc8e049b5cdffc52a2ede922758755d93c734819feacca3c58d66f48.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_046",
+      "dbfId": 2014,
+      "name": "King of Beasts",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Taunt</b>. <b>Battlecry:</b> Gain +1 Attack for each other Beast you have.",
+      "flavor": "He never sleeps.  Not even in the mighty jungle.",
+      "artist": "Seamus Gallagher",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85fb90b0128a27ded4078acf2a0e42791347e738e7f846d67579b0471492fb1d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_090",
+      "dbfId": 2058,
+      "name": "Madder Bomber",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Deal 6 damage randomly split between all other characters.",
+      "flavor": "Dang, Bomber, calm down.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e029bb582824293823def9c5fecac4a3e8e5a61c56e9938e6477f73bdc206abe.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_111",
+      "dbfId": 2079,
+      "name": "Mimiron's Head",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "At the start of your turn, if you have at least 3 Mechs, destroy them all and form V-07-TR-0N.",
+      "flavor": "Do not push the big red button!",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43257b224c0261b0f6743ba86df76d5842e9c8e0dd323a5ee2f1d62af30f581c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_088",
+      "dbfId": 2056,
+      "name": "Ogre Ninja",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Stealth</b>\n50% chance to attack the wrong enemy.",
+      "flavor": "He didn't have the grades to get into ninja school, but his dad pulled some strings.",
+      "artist": "Samwise",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e548c55c95f093b989740d1cb1c28081983eff36dba6280e8ae7b322e2dcc2f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_060",
+      "dbfId": 2028,
+      "name": "Quartermaster",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Give your Silver Hand Recruits +2/+2.",
+      "flavor": "His specialty? Dividing things into four pieces.",
+      "artist": "Phroilan Gardner",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1bfd19141d4af7fbc76094aed45d32b92dafb8f0673eeb317186cc45643ed030.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_070",
+      "dbfId": 2038,
+      "name": "Salty Dog",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 7,
+      "health": 4,
+      "flavor": "He's recently recovered from being a \"scurvy dog.\"",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92844474a7ff1bb11e11e39caf1f7cd71a371d0f12846b65b35a565bea8d6939.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_053",
+      "dbfId": 2021,
+      "name": "Shieldmaiden",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Gain 5 Armor.",
+      "flavor": "She has three shieldbearers in her party to supply her with back ups when she gets low on durability.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95d8db06e3530426913fe9c180b5c616b89f00004444c10c90d6438d3501085f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_086",
+      "dbfId": 2054,
+      "name": "Siege Engine",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "Whenever you gain Armor, give this minion +1 Attack.",
+      "flavor": "Wintergrasp Keep's only weakness!",
+      "artist": "Zero",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ceb36c3ba20c0b13a6e695ecb1c62d32a6193f619bba2e94685f008548c84b2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_083",
+      "dbfId": 2051,
+      "name": "Upgraded Repair Bot",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Give a friendly Mech +4 Health.",
+      "flavor": "It's the same as the previous generation but they slapped the word \"upgraded\" on it to sell it for double.",
+      "artist": "Nutchapol Thitinunthakorn",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f889a92f0e1dc4f65cf654131ca864047c478adb6e96988f396bba7100c069a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_014",
+      "dbfId": 1931,
+      "name": "Vol'jin",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 6,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Swap Health with another minion.",
+      "flavor": "Vol'jin is a shadow hunter, which is like a shadow priest except more voodoo.",
+      "artist": "Raymond Swanland",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7def5d24bbe84903990a88b89339761e97063d77d359db22528eb16fb6a970ca.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_077",
+      "dbfId": 2045,
+      "name": "Anima Golem",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 9,
+      "health": 9,
+      "text": "At the end of each turn, destroy this minion if it's your only one.",
+      "flavor": "The Dark Animus is evil and mysterious and huge and unable to write sentences that utilize proper grammar.",
+      "artist": "Josh Harris",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc65bf3ca4189c33bdbd78f19e30cd4474be5fc551c5989d4f363c6b28ba4fc6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_041",
+      "dbfId": 2009,
+      "name": "Dark Wispers",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "<b>Choose One -</b> Summon 5 Wisps; or Give_a minion +5/+5 and <b>Taunt</b>.",
+      "flavor": "Don't worry; we fired the person who named this card.",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e99d1bb145b6204a6fab6a36e350b187177c2a46c24d2807adf214390e7372c4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_117",
+      "dbfId": 2085,
+      "name": "Gazlowe",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 6,
+      "text": "Whenever you cast a 1-Cost spell, add a random Mech to your hand.",
+      "flavor": "Gazlowe was voted \"Most Likely to Explode\" in high school.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48ec17c9f700f2188fada0ce34a1bfaa0262dcca32518caa26073cf4e0832801.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_056",
+      "dbfId": 2024,
+      "name": "Iron Juggernaut",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 6,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Shuffle a Mine into your opponent's deck. When drawn, it explodes for 10 damage.",
+      "flavor": "The Iron Juggernaut guards Orgrimmar and has just earned the \"Employee of the Month\" award!",
+      "artist": "Raymond Swanland",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f53c72248dde908e9258cfa2f74be0815eeb0440a08efe1d3e15107a159bba5b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_008",
+      "dbfId": 1938,
+      "name": "Lightbomb",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "Deal damage to each minion equal to its Attack.",
+      "flavor": "This is what happens when you allow goblins to be priests.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24fea18bc48d5c06de97bb24144cecda75c72c57e2737c2218a970ceeb3764ae.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "AffectedBySpellPower"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_034",
+      "dbfId": 2002,
+      "name": "Mech-Bear-Cat",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 7,
+      "health": 6,
+      "text": "Whenever this minion takes damage, add a <b>Spare Part</b> card to your hand.",
+      "flavor": "Crushes buildings with his BEAR hands. ",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/555a6c3b569010347d91e60bb66a53bfee9ea08fe1851443dd94db4580f66678.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_112",
+      "dbfId": 2080,
+      "name": "Mogor the Ogre",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 7,
+      "health": 6,
+      "text": "All minions have a 50% chance to attack the wrong enemy.",
+      "flavor": "Mogor helped reopen the Dark Portal once. You know you're in trouble when you have to rely on an ogre.",
+      "artist": "Michal Ivan",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c0f21f8af2dcf52c5737d8c5f797a438a981113931e32d21222c10364e6fb2b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_105",
+      "dbfId": 2073,
+      "name": "Piloted Sky Golem",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Summon a random 4-Cost minion.",
+      "flavor": "The pinnacle of goblin engineering. Includes an espresso machine and foot massager.",
+      "artist": "Michael Phillippi",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d80a50111dccced857d20e70d1b7be6f3a83ff7b2c9e53971143146bf67c70c0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_031",
+      "dbfId": 1995,
+      "name": "Recycle",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Shuffle an enemy minion into your opponent's deck.",
+      "flavor": "Druidic recycling involves putting plastics in one bin and enemy minions in another bin.",
+      "artist": "Efrem Palacios",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/542823eac5809b9eb251cbd70500f86b7ecd26f94f55db991695df1c93239793.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_115",
+      "dbfId": 2083,
+      "name": "Toshley",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 7,
+      "text": "<b>Battlecry and Deathrattle:</b> Add a <b>Spare Part</b> card to your hand.",
+      "flavor": "Something about power converters.",
+      "artist": "Zoltan & Gabor",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77d3fb0559dd6969e3ae363ea1279d04655bd20703e4c121b6d401a08df76ef5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_028",
+      "dbfId": 1993,
+      "name": "Trade Prince Gallywix",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 8,
+      "text": "Whenever your opponent casts a spell, gain a copy of it and give them a Coin.",
+      "flavor": "Gallywix believes in supply and demand. He supplies the beatings and demands you pay up!",
+      "artist": "Wei Wang",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f98ffe545086ab728721e032014a1129569806ccac803aa27973396778f80b49.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_052",
+      "dbfId": 2020,
+      "name": "Crush",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 7,
+      "text": "Destroy a minion. If you have a damaged minion, this costs (4) less.",
+      "flavor": "Using this card on your enemies is one of the best things in life, according to some barbarians.",
+      "artist": "Michael Sutfin",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a260b97858ccf129c509c9653acef4d0c160a12c40d4e1b664aa6aca8e1fcbed.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_110",
+      "dbfId": 2078,
+      "name": "Dr. Boom",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Battlecry:</b> Summon two 1/1 Boom Bots. <i>WARNING: Bots may explode.</i>",
+      "flavor": "MARVEL AT HIS MIGHT!",
+      "artist": "Alex Garner",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff80d96bc07ea818284607762214de170f969e301cd64ef7c8c32986cd03ca63.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_007",
+      "dbfId": 1939,
+      "name": "Flame Leviathan",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 7,
+      "health": 7,
+      "text": "When you draw this, deal 2 damage to all characters.",
+      "flavor": "Mimiron likes to take the Flame Leviathan out on some sweet joyrides.",
+      "artist": "Aleksi Briclot",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b426ffed8e681d30633735966be7c7eacba6fa3101ecc409170029b51ae8a197.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_049",
+      "dbfId": 2017,
+      "name": "Gahz'rilla",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 9,
+      "text": "Whenever this minion takes damage, double its Attack.",
+      "flavor": "The Sen'jin High football team is The Gahz'rillas.",
+      "artist": "Raymond Swanland",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e94f2541b908cb660dff82cb937d715e5c5e79c3c768d2a732f6bb14dbc060e4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_035",
+      "dbfId": 2003,
+      "name": "Malorne",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 9,
+      "health": 7,
+      "text": "<b>Deathrattle:</b> Shuffle this minion into your deck.",
+      "flavor": "When Malorne isn't mauling hordes of demons, he enjoys attending parties, though he prefers to go stag.",
+      "artist": "Oliver Chipping",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7341986f7190fbced1e30df90ae37dc7342c13ec7f447dd6afdb08c48015a14.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_042",
+      "dbfId": 2010,
+      "name": "Neptulon",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Battlecry:</b> Add 4 random Murlocs to your hand. <b>Overload:</b> (3)",
+      "flavor": "Neptulon is \"The Tidehunter\". He\u2019s one of the four elemental lords. And he and Ragnaros get together and make really amazing saunas.",
+      "artist": "Ruan Jia",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cc0f8784477a68bd241c5d5df3ddea3114e9c4277203cc47466515f0dac8435.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_118",
+      "dbfId": 2086,
+      "name": "Troggzor the Earthinator",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "Whenever your opponent casts a spell, summon a Burly Rockjaw Trogg.",
+      "flavor": "He keeps earthinating the countryside despite attempts to stop him.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9cea178e0ae6c20e9542243ea02e3bea9b4e4e05973dca366953dbcfc408c89.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_113",
+      "dbfId": 2081,
+      "name": "Foe Reaper 4000",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 6,
+      "health": 9,
+      "text": "Also damages the minions next to whomever it attacks.",
+      "flavor": "Foe reaping is really not so different from harvest reaping, at the end of the day.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0034ab5da6adbfd0bc90795d400c92b482f2410a63655bfa7fed041653bdd278.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6527bb3505de635cada9a1b7e85fc393742b6b7abf1c2367a541fc01af28868.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_079",
+      "dbfId": 2047,
+      "name": "Force-Tank MAX",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Divine Shield</b>",
+      "flavor": "There is a factory in Tanaris for crafting force-tanks, but it only ever made two, because of cost overruns.",
+      "artist": "Nutchapol Thitinunthakorn",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c1dc58c39198168ae61ab7b581e91143afc0788d66e3517c2562a452b2294a1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_114",
+      "dbfId": 2082,
+      "name": "Sneed's Old Shredder",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 5,
+      "health": 7,
+      "text": "<b>Deathrattle:</b> Summon a random <b>Legendary</b> minion.",
+      "flavor": "When Sneed was defeated in the Deadmines, his shredder was sold at auction to an anonymous buyer. (Probably Hogger.)",
+      "artist": "Christopher Moeller",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69f204b65c29ff9fb9887a62d0e9cc47e74f8192ad0c3fb659780fdcb36d88bc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_021",
+      "dbfId": 1986,
+      "name": "Mal'Ganis",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 9,
+      "health": 7,
+      "text": "Your other Demons have +2/+2.\nYour hero is <b>Immune</b>.",
+      "flavor": "Mal'Ganis doesn't like being betrayed, so if you discard him, watch out.",
+      "artist": "Wayne Reynolds",
+      "collectible": true,
+      "elite": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a55a8452f7a6b2b527e344729a86ed4499bbaef218ce016bf93155096312fe06.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ec2899dd2aa3ded68d26b8e7a0b4914c1d3bf0ada413964e94b2be8379f94c7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "GVG_116",
+      "dbfId": 2084,
+      "name": "Mekgineer Thermaplugg",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 9,
+      "health": 7,
+      "text": "Whenever an enemy minion dies, summon a Leper Gnome.",
+      "flavor": "He was obsessed with explosives until he discovered knitting. Now he yells, \u201cSWEATERS! MORE SWEATERS!\u201d",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83a2a7ba56b5498023cf322e04958b4e4c907cafb40bb781ce3d862e842f7f61.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_033",
+      "dbfId": 2001,
+      "name": "Tree of Life",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 9,
+      "text": "Restore all characters to full Health.",
+      "flavor": "Healing: It grows on trees!",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd206157e2e780bb49cafec2345105837094b6cb05f1060a7b70d3eb5846e353.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GVG_121",
+      "dbfId": 2233,
+      "name": "Clockwork Giant",
+      "cardSet": "Goblins vs Gnomes",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 12,
+      "attack": 8,
+      "health": 8,
+      "text": "Costs (1) less for each card in your opponent's hand.",
+      "flavor": "He and Mountain Giant don't get along.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f62579e8d740f02bd994d7b72a7dc423aa28555027a2521fec112b0f8b4807d9.png",
+      "locale": "enUS"
+    }
+  ]
+}

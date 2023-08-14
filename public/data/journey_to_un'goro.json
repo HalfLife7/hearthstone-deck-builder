@@ -1,0 +1,3165 @@
+{
+  "Journey to Un'Goro": [
+    {
+      "cardId": "UNG_961",
+      "dbfId": 41944,
+      "name": "Adaptation",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Adapt</b> a friendly minion.",
+      "flavor": "Pray for salvation. If that fails, pray for extra horns or bigger teeth.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3a42c1e397a73d0a7d13ab02e376f7b17c5c3798924d611c601f677811fe3ef.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_019",
+      "dbfId": 41152,
+      "name": "Air Elemental",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Horde",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "Can't be targeted by spells or Hero Powers.",
+      "flavor": "Makes a mean puff pastry.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb09a65514b05a495b119c87287580da7fe6b4f9b457e7d20a9f3b208c468ceb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_940",
+      "dbfId": 41494,
+      "name": "Awaken the Makers",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "<b>Quest:</b> Summon\n7 <b>Deathrattle</b> minions.<b>\nReward:</b> Amara, Warden of Hope.",
+      "flavor": "They keep hitting the Snooze button.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bb25c609349248fa4a93fc1f630121dbbf23950d2ddb788d9605864800abf59.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_030",
+      "dbfId": 41170,
+      "name": "Binding Heal",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Restore #5 Health to a minion and your hero.",
+      "flavor": "By accepting this healing, you agree to the following terms\u2026",
+      "artist": "Tyler Walpole",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a61916686bb8f182fbb617c6ce5594e8a29e5193b7106467c00f702688624e95.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_032",
+      "dbfId": 41173,
+      "name": "Crystalline Oracle",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Horde",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "[x]<b>Deathrattle:</b> Copy a card\nfrom your opponent's deck\n_and add it to your hand.",
+      "flavor": "Being made of light has its disadvantages, but at least it's always looking on the bright side.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa7e8abcd8b9bffff70ff51e36a56d47b9b808ce1781c3d79ddea14ca1b7bd71.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_085",
+      "dbfId": 41261,
+      "name": "Emerald Hive Queen",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Horde",
+      "rarity": "Epic",
+      "cost": 1,
+      "attack": 2,
+      "health": 3,
+      "text": "Your minions cost (2) more.",
+      "flavor": "She rules the emerald hive at the end of the yellow brick trail.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07f0785b1a5b8490a5d11d9693e8b8c8741d7e6c09e95c5f70e49ddf82420951.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_803",
+      "dbfId": 41309,
+      "name": "Emerald Reaver",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Deal 1 damage to each hero.",
+      "flavor": "Not to be confused with clubbing enthusiast Emerald Raver.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9e09f1fa7d82cd5e7c1132a1e21752a91d4e7e506b67ca9916b75840b602cce.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_809",
+      "dbfId": 41323,
+      "name": "Fire Fly",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Alliance",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry</b>: Add a 1/2 Elemental to your hand.",
+      "flavor": "Archnemeses: small children with glass jars.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/727f48febd7f6b0d5463ce53ba18f1043ab26f1010e9161c631a74c335352642.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_934",
+      "dbfId": 41427,
+      "name": "Fire Plume's Heart",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "[x]<b>Quest:</b> Play\n7 <b>Taunt</b> minions.\n<b>Reward:</b> Sulfuras.",
+      "flavor": "Why does an active volcano need to be defended? To save its ash.",
+      "artist": "Nate Bowden",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e94db72e275f81bfd00e39080d8e174fb1143516e86a1f1246da3c7f80cf1e4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_018",
+      "dbfId": 41151,
+      "name": "Flame Geyser",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Deal $2 damage.\nAdd a 1/2 Elemental to_your hand.",
+      "flavor": "Oh, a wise geyser eh?",
+      "artist": "Chris Seaman",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec94eaaba6e67eb8c6b3fe40e11d8bc6c4fb905530a4177ee35fc24bf63a032c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_205",
+      "dbfId": 41111,
+      "name": "Glacial Shard",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> <b>Freeze</b> an_enemy.",
+      "flavor": "Ice, ice, baby!",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0524166ca560bd1f980a493eec59e8937f5033305f87867b879ef28d91cc57a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_856",
+      "dbfId": 42011,
+      "name": "Hallucination",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Discover</b> a card from your opponent's class.",
+      "flavor": "It's the good kind of hallucination.",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9da2c11250f1fa716ffd16ea489f8700677c793fffe0514c52bdfcb382873ed.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_923",
+      "dbfId": 41401,
+      "name": "Iron Hide",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Gain 5 Armor.",
+      "flavor": "Week 6. I remain covered head to toe with scales. They do not yet realize that I am not a dinosaur.",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c13a612c9396d62da4fbbf523eda17f79cb9d507101f1ac9b209eb0c53263a9.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_912",
+      "dbfId": 41353,
+      "name": "Jeweled Macaw",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Add a random Beast to your hand.",
+      "flavor": "It\u2019s not LITERALLY jeweled. The goblins were terribly disappointed.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efdcb2b56043b065cbb1ae697aeeaa7ab32ca9da9b7860fcfc065da4abc40a5a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_116",
+      "dbfId": 41099,
+      "name": "Jungle Giants",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "[x]<b>Quest:</b> Summon\n5 minions with\n5 or more Attack.\n<b>Reward:</b> Barnabus.",
+      "flavor": "Forming the Golakka Crater was the end of Barnabus' disastrous career as a dancer.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17a78edf7377fc25edd47e23864be84877aa06b4a7c7840b7d10021242aa3159.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_829",
+      "dbfId": 41856,
+      "name": "Lakkari Sacrifice",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "[x]<b>Quest:</b> Discard 6 cards.\n<b>Reward:</b> Nether Portal.",
+      "flavor": "They asked, \u201cAnd what must we give in return?\u201d Gul\u2019dan lowered his hood and answered: \u201cSix\u2026 cards\u2026\u201d",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7873ffd66e6b67b0deb6990d1dc79469d5abcc302c68a4076010d69dde905e6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_960",
+      "dbfId": 41912,
+      "name": "Lost in the Jungle",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "faction": "Alliance",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Summon two 1/1 Silver Hand Recruits.",
+      "flavor": "George and Karl were never heard from again.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3db597a1c7cca8b1f6c74ca1bba0806d79dc4dee6331a56219c2d74bfabcc29.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_929",
+      "dbfId": 41420,
+      "name": "Molten Blade",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "durability": 1,
+      "text": "Each turn this is in your hand, transform it into a new weapon.",
+      "flavor": "It\u2019s a sword! It\u2019s a knife! It\u2019s a swizzle-stick!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9de9fcc6881c4be474687acc54a2dcae3cd8b6b55cc541cb03b6cf903149e197.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_028",
+      "dbfId": 41168,
+      "name": "Open the Waygate",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "[x]<b>Quest:</b> Cast 8 spells that\ndidn't start in your deck.\n<b>Reward:</b> Time Warp.",
+      "flavor": "Although powerful, the incantation is simple. It\u2019s just a jump to the left, and then a step to the right.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da139958362f621346e5de0fa3b4ac2b5315bf04543e6c197b1d0ca820f59fa3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_914",
+      "dbfId": 41357,
+      "name": "Raptor Hatchling",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Shuffle a 4/3 Raptor into your deck.",
+      "flavor": "They\u2019re just baby teeth. Lots and lots of baby teeth.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5646e5961672018b340ee995370197524446a0870c8f1a26f7837694f4b40ad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_916",
+      "dbfId": 41360,
+      "name": "Stampede",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "Each time you play a Beast this turn, add_a_random Beast to_your hand.",
+      "flavor": "Many hunters long for the pitter-patter of enormous feet.",
+      "artist": "Daren Bader",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d7a46318c0351518b73255dad1ba021e7412d4de728d79d78a65ab8b09f52e6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_067",
+      "dbfId": 41222,
+      "name": "The Caverns Below",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "[x]<b>Quest:</b> Play four minions\nwith the same name.\n<b>Reward:</b> Crystal Core.",
+      "flavor": "Why can't it ever be The Taverns Below?",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e46569bc9ffa6ed9048dc0512f63febe573d10384e46d44def1d9b0fd9dc919.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_954",
+      "dbfId": 41868,
+      "name": "The Last Kaleidosaur",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "<b>Quest:</b> Cast 6 spells\non your minions.\n<b>Reward:</b> Galvadon.",
+      "flavor": "\u201cImpossible!\u201d exclaimed the Silver Hand Recruit, his eyes filled with fear. Uther shook his head, turning the crystal until it caught the light: \u201cLife finds a way.\u201d",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a38b0df51e2c103eaf4fe9b1c38831c216ea7bdc2ab6a00275782d8b524356eb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_920",
+      "dbfId": 41368,
+      "name": "The Marsh Queen",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "[x]<b>Quest:</b> Play seven\n1-Cost minions.\n<b>Reward:</b> Queen Carnassa.",
+      "flavor": "Question: What's scarier, one giant angry dinosaur or 15 smaller vicious ones? Answer: AHHHHHHH THEY FOUND MEEEEEE",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba44539d23a70be297b9a0a13006d2bd34462be0d983e099e3bcda04b63f9fe6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_942",
+      "dbfId": 41499,
+      "name": "Unite the Murlocs",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 1,
+      "text": "[x]<b>Quest:</b> Summon\n10 Murlocs.\n<b>Reward:</b> Megafin.",
+      "flavor": "Form feet and legs!  Form arms and body!  Oh.  Sorry.  I was thinking about Mechafin.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ca64c1869d3024206fe474853cb5f5fdc9722c5e356dda0a4c9dd3757f7e683.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Quest"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_020",
+      "dbfId": 41153,
+      "name": "Arcanologist",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Draw a <b>Secret</b>.",
+      "flavor": "What did you draw? Shhhh\u2026 it\u2019s a secret.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d9d8bff807dd37dd2436c274f8f5ccb54ac626fafc11d94b55a6febb12751af.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_063",
+      "dbfId": 41216,
+      "name": "Biteweed",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Combo:</b> Gain +1/+1 for each other card you've played this turn.",
+      "flavor": "AKA Edwin VanLeaf.",
+      "artist": "Craig Elliott",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e0cdb47040c547d173bd75247303b3291103ea1ec47837f6ac10cf45992888b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_836",
+      "dbfId": 41876,
+      "name": "Clutchmother Zavas",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "Whenever you discard this, give it +2/+2 and return it to your hand.",
+      "flavor": "A bit of a snob: still refuses to drive anything with automatic transmission.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/241edaef379e2461310f2a442c575a165df6a6a1e13f7d260c97333c60e9e26b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "InvisibleDeathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_926",
+      "dbfId": 41406,
+      "name": "Cornered Sentry",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Taunt</b>. <b>Battlecry:</b> Summon three 1/1 Raptors for your_opponent.",
+      "flavor": "The Draenei are seriously considering cancelling \"Bring Your Murderous Pet to Work Day.\"",
+      "artist": "Jomaro Kindred",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d14be2c06e5dd07d972783223810ea4bcbd4fcf68cba880b5b8304a1d0e3675f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_831",
+      "dbfId": 41871,
+      "name": "Corrupting Mist",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Curse all minions. Destroy them at the start of your next turn.",
+      "flavor": "The most terrifying of Un\u2019goro magics is both silent\u2026 AND deadly.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18a39d281706725165c0404a3e931b66e1321d781ec7581c9586170b9276aff1.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_915",
+      "dbfId": 41358,
+      "name": "Crackling Razormaw",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> <b>Adapt</b> a friendly_Beast.",
+      "flavor": "Wasn't clever enough to go AROUND the electric fence.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/471d7206ede828bd1873850ed4c4ff3577f06a2c6b65933086324978fa434432.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_917",
+      "dbfId": 41363,
+      "name": "Dinomancy",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Your Hero Power becomes 'Give a Beast +2/+2.'",
+      "flavor": "Anyone can dinomance. Just put your lips together and RAAWWWAARGGGH.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe6cbe1ca0c30fc0fb7667c78f9f630769e356f7e02d612240269b43a5bdf5c1.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_108",
+      "dbfId": 41081,
+      "name": "Earthen Scales",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Give a friendly minion +1/+1, then gain Armor equal to its Attack.",
+      "flavor": "You can make your own Earthen Scales at home. Step 1: Roll around in the dirt. Step 2: Magic.",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e5f2a5c6ac95bc5d8a9d39c8810744f0943afc433e848ff636399fd8b2f34ec.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_922",
+      "dbfId": 41400,
+      "name": "Explore Un'Goro",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Replace your deck with_copies of \"<b>Discover</b> a card.\"",
+      "flavor": "It turns out cards DO grow on trees!",
+      "artist": "Jerry Mascho",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/153e520c2a596ec47ee969e463234eaa78b5972fd29765013f8a74b8dd63e496.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_202",
+      "dbfId": 41107,
+      "name": "Fire Plume Harbinger",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Reduce the Cost of Elementals in your hand_by (1).",
+      "flavor": "Good for summoning elementals. Great for making s'mores.",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1055551255dfe46726f1d5dee2c960947709ab66143861c662d7c162150bc70.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_807",
+      "dbfId": 41316,
+      "name": "Golakka Crawler",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Destroy a Pirate and gain +1/+1.",
+      "flavor": "Universally adored by both control decks and ninjas.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b485b798fffa67f6a368ce6c6951b45a828eca9dc21c2df33e02bcfa336c1ba.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_910",
+      "dbfId": 41350,
+      "name": "Grievous Bite",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $2 damage to a minion and $1 damage to adjacent ones.",
+      "flavor": "Ooh.  I'll have a bite of this, and of this, and of this...",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1349370d119ecb91a62a622498577513eb9822cfe6408cc313957c15e5cb0e6b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_011",
+      "dbfId": 41139,
+      "name": "Hydrologist",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a <b>Secret</b>.",
+      "flavor": "Murloc hydrologists are pretty rare.  Most murloc undergrads pick computer science.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/feffe78981b24aea4f3e6bff933899822e59d8d83cb5f88b8c2dd6e46b938753.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_953",
+      "dbfId": 41866,
+      "name": "Primalfin Champion",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "[x]<b>Deathrattle:</b> Return any\nspells you cast on this\nminion to your hand.",
+      "flavor": "Sure, he'll return your stuff.  OVER HIS DEAD BODY!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fd26a0920c8b4a64585a566b90e6cced352dcad65967831eec9295d553366d3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_201",
+      "dbfId": 41105,
+      "name": "Primalfin Totem",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 0,
+      "health": 3,
+      "text": "At the end of your turn, summon a 1/1 Murloc.",
+      "flavor": "Emits a sound only murlocs can hear, which is good because it\u2019s REALLY annoying.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Totem",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3952dc1c6015de91ec80d7783bda565f6c1495109609babe64770bc2b3a44f85.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_941",
+      "dbfId": 41496,
+      "name": "Primordial Glyph",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "<b>Discover</b> a spell. Reduce its Cost by (2).",
+      "flavor": "It's the Ancient Tol'vir symbol for \"Whoops!\"",
+      "artist": "Matthew O'Connor",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3160c655b61561e4ea7bb712c077e81a0fc4830671eb0c1cc2db2b069d98703.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_027",
+      "dbfId": 41162,
+      "name": "Pyros",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Return this to_your hand as a 6/6 that costs (6).",
+      "flavor": "If you strike her down, she shall become more powerful than you can possibly\u2026 well, she'll become a 6/6 anyways.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17d52e5c47c6b1a0b9a137043b055d9b99c2dd7f87eeaa5478de4d1f90197c16.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_034",
+      "dbfId": 41176,
+      "name": "Radiant Elemental",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "Your spells cost (1) less.",
+      "flavor": "It's a literal lava lamp!",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c83689bb37ac1c3333b751093fc295f075af99326b3eff15d088051468ef6b37.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_009",
+      "dbfId": 41137,
+      "name": "Ravasaur Runt",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If you control at_least 2 other minions, <b>Adapt.</b>",
+      "flavor": "Doesn't like to adapt unless others are watching. Some minions are such show-offs.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24b838fbe379765f8360ee651d7d31f86b912a1879180b6bc773d04dcd2d72a5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_058",
+      "dbfId": 41208,
+      "name": "Razorpetal Lasher",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Add a\nRazorpetal to your hand\nthat deals 1 damage.",
+      "flavor": "The reason why there are no zombies in Un'goro. ",
+      "artist": "Sojin Hwang",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5857e3d898542a7d08c183e1964a75547f9bb042b9554b328ec99c8dbc702e01.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_057",
+      "dbfId": 41207,
+      "name": "Razorpetal Volley",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Add two Razorpetals to_your hand that deal_1 damage.",
+      "flavor": "The result of a fundamental misunderstanding of the phrase \"flower power\".",
+      "artist": "Chanchai Luechaiwattanasopon",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fc46339657a79a41e758353352e414d5169bb9211552790a97eaacfd773abb1.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_073",
+      "dbfId": 41245,
+      "name": "Rockpool Hunter",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give a friendly Murloc +1/+1.",
+      "flavor": "Loves crab meat. Fears crabs.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c31dedae2a8e8050c1cef122ec8d80dab54577576059efc30fb8707be388cf6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90564a5387b7a61e813c5076dc74193a572112470b37061880da842e555c3349.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_029",
+      "dbfId": 41169,
+      "name": "Shadow Visions",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "<b>Discover</b> a copy of a spell in your deck.",
+      "flavor": "This one\u2019s a bird. And here\u2019s a bunny!",
+      "artist": "Nutchapol Thitinunthakorn",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9737cd84234eca953bc674cd3ace1bfea9ff2f489527b3032fdb94f435236285.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_846",
+      "dbfId": 41927,
+      "name": "Shimmering Tempest",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Add a random Mage spell to your hand.",
+      "flavor": "HATES being summoned for Kirin Tor party lighting.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5c390f24982204cb6d2d066f347ee3bbdee322bec27c944fc201ae153213587.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_808",
+      "dbfId": 41318,
+      "name": "Stubborn Gastropod",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Taunt</b>\n  <b>Poisonous</b>",
+      "flavor": "Stubbornly pursuing its dream to become Azeroth's fastest animal!",
+      "artist": "Aaron Miller",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c06250ddbe7e36a9a67320f2337ce49eba3e1eab95d11eb348083769334dc427.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_078",
+      "dbfId": 41252,
+      "name": "Tortollan Forager",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Add a random minion with 5 or more Attack to your hand.",
+      "flavor": "In the Tortollan tongue, Un\u2019goro is known as the \u201cLand of the Lost and Found.\u201d",
+      "artist": "Jerry Mascho",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7e322f9a9d0f9d9458b7c1ebbf085ee6561416d3300dcd05e397060d8ce9018.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_818",
+      "dbfId": 41524,
+      "name": "Volatile Elemental",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Deal 3 damage to a random enemy minion.",
+      "flavor": "Currently in an anger management class with Raging Worgen, Grommash Hellscream, and The Angry Chicken. It isn't helping.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73fb7d3fe05fbbc42f3907ba647b497ac31dacfa963d5f1412f2540bb12172f1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_835",
+      "dbfId": 41875,
+      "name": "Chittering Tunneler",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a spell. Deal damage to your hero equal to its Cost.",
+      "flavor": "Ear to the ground, he carefully interpreted the chittering noises: \u201cYou wanna cast a spell? I wanna cast a spell!\u201d",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9dfef1b8077547a460100583ad7f85337fdf331f16dc64b79b34373758858f3f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_035",
+      "dbfId": 41177,
+      "name": "Curious Glimmerroot",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Look at 3 cards.\nGuess which one started\nin your opponent's deck\nto get a copy of it.",
+      "flavor": "George promised to be good. But it's easy for little Glimmerroots to forget.",
+      "artist": "Servando Lupini",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a20227b29cfb6a051e72b75a099df30a04dde54bb8c07017c3b90dc86b1a4790.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_083",
+      "dbfId": 41259,
+      "name": "Devilsaur Egg",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 0,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Summon a 5/5 Devilsaur.",
+      "flavor": "A key ingredient in all discerning Funnel Cake recipes.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/943a4c0fec1f8f32054a74f24600d95a9a7af0dfe7e1f0583af20799e4d2e9d4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_076",
+      "dbfId": 41249,
+      "name": "Eggnapper",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Summon two 1/1 Raptors.",
+      "flavor": "Often misunderstood, it's just that he likes to use the eggs as pillows.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/486d54adeea8c85f72a45997ca88f7c6bde957159155b9244da738baf182b290.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_109",
+      "dbfId": 41086,
+      "name": "Elder Longneck",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 5,
+      "health": 1,
+      "text": "<b>Battlecry:</b> If you're holding a minion with 5 or more Attack, <b>Adapt</b>.",
+      "flavor": "And so the bartender says, \u201cWhy the long neck?\u201d",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/938eaab67b8b6ff0e1b29dcdf9339a3736758a31ad263d56781c056d7721a6ed.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_823",
+      "dbfId": 41834,
+      "name": "Envenom Weapon",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Give your weapon <b>Poisonous</b>.",
+      "flavor": "Like Deadly Poison, but deadlier.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2339f0e8d1f1779ef8ea15427743bf60d6d695d8f68d8657f0590f34b7744f81.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_814",
+      "dbfId": 41328,
+      "name": "Giant Wasp",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Stealth</b>\n <b>Poisonous</b>",
+      "flavor": "Float like a butterfly, sting like a giant wasp!",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cc2c50cba6862e0c7ffa4c41ac8e8599e31b1ce891a7a318cea316201393d9e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_946",
+      "dbfId": 41683,
+      "name": "Gluttonous Ooze",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Destroy your opponent's weapon and gain Armor equal to its Attack.",
+      "flavor": "Three time winner of the Un'Goro weapon eating contest.",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa18c2da4b10503caf2bca08c44c06792c8fa83b6c2b39f08eabdfc917afcc96.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_938",
+      "dbfId": 41479,
+      "name": "Hot Spring Guardian",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Restore #3_Health.",
+      "flavor": "NONE SHALL PASS until at least an hour after eating.",
+      "artist": "Gustav Schmidt",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee6dca65657fce70fe742baef7dd81b3a5f0711fc32a126c9798aea2644125a4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_844",
+      "dbfId": 41925,
+      "name": "Humongous Razorleaf",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Alliance",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 8,
+      "text": "Can't attack.",
+      "flavor": "Loves goblins.  In a light cream sauce.",
+      "artist": "Tooth",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f53a566955e42b1901ff968600ff818ea35f2f59fdae811063009d5e0c2540d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_845",
+      "dbfId": 41926,
+      "name": "Igneous Elemental",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Add two 1/2 Elementals to your hand.",
+      "flavor": "We wanted to name him \"Ingenious Elemental\", but he just wasn't that bright. ",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83dcec7f286be8ec4bfcef04f898937b678147a96573b53b2122f3bc131e9840.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_024",
+      "dbfId": 41158,
+      "name": "Mana Bind",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "<b>Secret:</b> When your opponent casts a spell, add a copy to your hand that costs (0).",
+      "flavor": "Nice spell.  YOINK!",
+      "artist": "Izzy Hoover",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f327e479d5e131bcfab675b5947d413747cb6302de58d0357af10f76baa4e800.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_060",
+      "dbfId": 41212,
+      "name": "Mimic Pod",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Draw a card, then add a copy of it to your hand.",
+      "flavor": "Jinx!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b3631c8abb65cf67ea44655b8e2119019a15d79d5e2b6755c8d8a25e1b5db9d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_022",
+      "dbfId": 41155,
+      "name": "Mirage Caller",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Choose a friendly minion. Summon a 1/1 copy of it.",
+      "flavor": "Mirage is actually the name of its long-lost cat.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1de41cbae85241f30db2849f98ec4160faaf6c91291b861270ae0d5e74b9698.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_937",
+      "dbfId": 41478,
+      "name": "Primalfin Lookout",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If you control another Murloc, <b>Discover</b> a_Murloc.",
+      "flavor": "Lookout is a self-appointed title that's mostly an excuse to beat things up.",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0daadcfdc36b9b385b8e5f8893eec189b56206c882f666c3fe55e69e85d851d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_001",
+      "dbfId": 41076,
+      "name": "Pterrordax Hatchling",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b><b>Battlecry:</b> Adapt</b>.",
+      "flavor": "Aww.  So cute.  Want to feed him another finger?",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34b07dd4bcabb50da504d4fb25d919c39441572cf1235b50b4836b9b7c19c7df.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_956",
+      "dbfId": 41879,
+      "name": "Spirit Echo",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Give your minions \"<b>Deathrattle:</b> Return _this to your hand.\"",
+      "flavor": "I guess you can say they\u2019re\u2026 \u201csoul survivors.\u201d",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d1fdb1cd5271685e9f806b935fb8288e6686fbc4a8946253af1392d4634e8f4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_072",
+      "dbfId": 41243,
+      "name": "Stonehill Defender",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 1,
+      "health": 4,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> <b>Discover</b> a <b>Taunt</b>_minion.",
+      "flavor": "Briefly tried stand-up comedy under the name \"Stonehill Offender\", but turtles are just too thin-skinned.",
+      "artist": "Mark Gibbons",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22917bc40bbdb916616a1b9130d25417c61a8aed4ccd67b0c33b3395d78ef0c1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_928",
+      "dbfId": 41418,
+      "name": "Tar Creeper",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "text": "<b>Taunt</b>\nHas +2 Attack during your opponent's turn.",
+      "flavor": "If you won't come to the tar pits, we'll bring them to you!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28dd776a6b61eecf927659b5351cbf330fb52dfbb31b19dbb8d490d8737a876d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_800",
+      "dbfId": 41304,
+      "name": "Terrorscale Stalker",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Trigger a friendly minion's <b>Deathrattle</b>.",
+      "flavor": "Likes to scare his friends half to death.",
+      "artist": "Chris Seaman",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66caa1233e52b120cd57e25dfb3c90f1813bbb2ee0bbf3c22457cda1ad7a9a3e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_082",
+      "dbfId": 41257,
+      "name": "Thunder Lizard",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry</b>: If you played an_Elemental last turn, <b>Adapt</b>.",
+      "flavor": "What? THUNDER LIZARD is adapting!",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a30d929604941a3d653172a5eff2b96b519ceab6ba0279ed824409c32a256c7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_817",
+      "dbfId": 41521,
+      "name": "Tidal Surge",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "<b>Lifesteal</b>\nDeal $4 damage to a_minion.",
+      "flavor": "Also good for removing pesky stains.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9abc5cbd8b858031a79a20bdab82db24093796861db7d19b40fb04472cbd1c42.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_075",
+      "dbfId": 41247,
+      "name": "Vicious Fledgling",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "After this minion attacks a_hero, <b>Adapt</b>.",
+      "flavor": "A youngster who is truly hungry for self-improvement.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dca0ca9dd684c6e78e3825d5ab5def25c255560730f9cb595c7f383465c1f0af.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_832",
+      "dbfId": 41872,
+      "name": "Bloodbloom",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "The next spell you cast this turn costs Health instead of Mana.",
+      "flavor": "Help save mana.  Donate blood today!",
+      "artist": "Tyler Walpole",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c087f910e52871f67d11e367e7ba6349643e3845a15846e7709cfd92a7e449b6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_113",
+      "dbfId": 41096,
+      "name": "Bright-Eyed Scout",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Draw a card. Change its Cost to (5).",
+      "flavor": "Also inordinately excited for cupcakes.",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c02331b18887f4a156189ea6dfe12df7289f371fbec03fdf14fc602c57c743b2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_103",
+      "dbfId": 40991,
+      "name": "Evolving Spores",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "<b>Adapt</b> your minions.",
+      "flavor": "The most powerful mushrooms are commonly found in boxes marked with \"?\".",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78599f423146f242b0c3d0699459e20e1c2b67e866ff817c5e2ce24a6e7751cc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_084",
+      "dbfId": 41260,
+      "name": "Fire Plume Phoenix",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Deal 2 damage.",
+      "flavor": "This is what happens when you use a volcano as a bird bath.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "race": "Elemental",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f633d39ba77a6e94df24e977f7e1c9da5cbe8cb38e4888924679c92516ff5030.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_089",
+      "dbfId": 41265,
+      "name": "Gentle Megasaur",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Adapt</b> your_Murlocs.",
+      "flavor": "\"Low, low rents! Must enjoy a nomadic lifestyle. Quasi-sentient, bipedal, amphibious humanoids ONLY!\"",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6e8e33e0296171e521da4d59b1cda6510d75a0407e360d62b28c8111e059399.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_833",
+      "dbfId": 41873,
+      "name": "Lakkari Felhound",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 8,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Discard your two lowest-Cost cards.",
+      "flavor": "Guaranteed to track tar all over your carpet.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7c77c9fdd67b80b4a2c8892329020b2b7d1daf89ce38c0850fa84cd485eda2d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_962",
+      "dbfId": 41945,
+      "name": "Lightfused Stegodon",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Adapt</b> your Silver_Hand Recruits.",
+      "flavor": "\u201cCome now, Johnston. I think those horns are quite fetching on you.\u201d",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56a538f22cfdad2d10973e0ecfa999f99440c9e302b499b489a10bae28892744.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1fb1659998a727b3799ee333ba5e110f1b23cb867453f5e2e196e583c20f7951.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_948",
+      "dbfId": 41690,
+      "name": "Molten Reflection",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Choose a friendly minion. Summon a copy of it.",
+      "flavor": "Dang, I'm looking pretty hot!",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de4b8e9b993436b65ac191396b9841fcb384743bc62e598b2edf07995d844fce.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_061",
+      "dbfId": 41213,
+      "name": "Obsidian Shard",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "durability": 3,
+      "text": "[x]Costs (1) less for each\ncard you've played from\nanother class.",
+      "flavor": "You know you\u2019re a Rogue when a sharp rock makes you go \u201cOoh!  Dagger!\u201d",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6904049626b41df3a84d4f0e4778bd7269e839522245e05c97bdb4301bbdb79.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_047",
+      "dbfId": 41191,
+      "name": "Ravenous Pterrordax",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Destroy a friendly minion to <b>Adapt</b>_twice.",
+      "flavor": "For better results, feed your pterrordax low-fat, high-fiber minions.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d6c87b624c9a50f0bdef7175cc7d846f7eae64de4a8417da6cc1cd8ccd9057c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_101",
+      "dbfId": 40973,
+      "name": "Shellshifter",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Choose One - </b>Transform\ninto a 5/3 with <b>Stealth</b>;\nor a 3/5 with <b>Taunt</b>.",
+      "flavor": "Master of the Three Shell Monte.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65ed793223a677d54fd453b917e0224dcf5422c4295a09c7e8617ddf6b9ace58.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_065",
+      "dbfId": 41218,
+      "name": "Sherazin, Corpse Flower",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Go <b>Dormant</b>. Play 4 cards in a turn to revive this minion.",
+      "flavor": "A Tortollan gardener's worst nightmare.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e2b44510765b206cf76c80079a925c0daa3e1fb39379a45a6dd05f65ae61b2c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_900",
+      "dbfId": 41289,
+      "name": "Spiritsinger Umbra",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "After you summon a minion, trigger its <b>Deathrattle</b> effect.",
+      "flavor": "She sees the fate of anyone she meets, but it's always the same: dinosaur attack.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54e6180da9f30caf91c53ac74b09989cdea06dc6aafa54f62e8b5bf36f096f9c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_021",
+      "dbfId": 41154,
+      "name": "Steam Surger",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> If you played\nan Elemental last turn,\nadd a 'Flame Geyser'\nto your hand.",
+      "flavor": "Explorers nicknamed him the Teapot Elemental.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e162910d7f14f226ed8cb3100a4536f8c55a0d3458c0b1a20429cfb1219a871b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_810",
+      "dbfId": 41324,
+      "name": "Stegodon",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Taunt</b>",
+      "flavor": "Level 40 Tortollan Paladins quest to tame a Stegodon.  There are no level 41 Tortollan Paladins.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e80f94d3e0569d15a51f84b12254de088c5206b5d4f63e855f97c07d3c6e9c40.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_843",
+      "dbfId": 41913,
+      "name": "The Voraxx",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]After you cast a spell on\nthis minion, summon a\n1/1 Plant and cast\nanother copy on it.",
+      "flavor": "I am the Voraxx.  I speak for the weeds.",
+      "artist": "Jimmy Lo",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b9123eb6f54ee3bcf8c8b37f6fe544002f9e07ff4e47dc8ff0716e076755ceb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_070",
+      "dbfId": 41241,
+      "name": "Tol'vir Stoneshaper",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> If you played an\nElemental last turn, gain\n_<b>Taunt</b> and <b>Divine_Shield</b>.",
+      "flavor": "He spends a lot of time keeping himself in stoneshape.",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5dd13ed80ef352be1c7b00e878c77b9ab2fab75f2329d108e3657297dd758134.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_037",
+      "dbfId": 41180,
+      "name": "Tortollan Shellraiser",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Give a random\n_friendly minion +1/+1.",
+      "flavor": "A hero... In a half-shell. ",
+      "artist": "Garrett Hanna",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8cdff991d277d45b6ef82f2e9142476c2e0779aede068466129ed5583b59ba8e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d211e05dc4c549f7714277a2471ea7fe1b00bdeae59e1cc00f4148bb0581aa89.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_087",
+      "dbfId": 41263,
+      "name": "Bittertide Hydra",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 8,
+      "health": 8,
+      "text": "Whenever this minion takes damage, deal 3 damage to_your hero.",
+      "flavor": "It's actually only the middle head that's bitter. The others are sweet and spicy.",
+      "artist": "Mark Gibbons",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8a9d29601e782968d9e1ca0e5dc8adb439f963599119a35d7809c0449de51c0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_957",
+      "dbfId": 41890,
+      "name": "Direhorn Hatchling",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "text": "<b>Taunt</b>\n<b>Deathrattle:</b> Shuffle a 6/9 Direhorn with <b>Taunt</b> into your deck.",
+      "flavor": "His mom could beat up your mom.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40ec1966bcbc5fcffb98294a9c793b40091e85963bb5139ef410e151a14ee267.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_851",
+      "dbfId": 41935,
+      "name": "Elise the Trailblazer",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Shuffle a sealed_<b>Un'Goro</b> pack into_your deck.",
+      "flavor": "Reno taught her that blazing her own trail is a lot more fun than following someone else's map.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/892039550b7af45c2080e186178b32f722b409ad9158ed793fc1268705fb94c0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_834",
+      "dbfId": 41874,
+      "name": "Feeding Time",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Deal $3 damage to a minion. Summon three 1/1 Pterrordaxes.",
+      "flavor": "True, they're only 1/1s, but they eat as much as most 4/4s!",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10d55c3c0d106c2e29da92bcda7300196e2598c17b4b6e938db954bc233c98c4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_111",
+      "dbfId": 41094,
+      "name": "Living Mana",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Transform your Mana Crystals into 2/2 Treants. Recover the mana when they die.",
+      "flavor": "If you truly love your mana, set it free.",
+      "artist": "Matt Gaser",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eebf49899cb1d97f95dec9cdd635c2c44841cd1865bffbf307dc2d1d665c21f6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_963",
+      "dbfId": 42046,
+      "name": "Lyra the Sunshard",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "Whenever you cast a spell, add a random Priest spell to your hand.",
+      "flavor": "Arise, fair sun, and kill my envious foes. They don't have a legendary as beautiful as you.",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/833409c64c313ebd40fae1eca04b18e5b79c6570c2f17daa80752fc8a0924072.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_801",
+      "dbfId": 41305,
+      "name": "Nesting Roc",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "text": "<b>Battlecry:</b> If you control at_least 2 other minions, gain <b>Taunt</b>.",
+      "flavor": "Roc eggs are great in omelettes, sandwiches, and as bait to turn poachers into bird food.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf7225c6f2b34db296b00e0fd8f75b254c6c44a2a155d607944dcf7cbb9e6f07.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_816",
+      "dbfId": 41410,
+      "name": "Servant of Kalimos",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> If you played\nan Elemental last turn,\n_<b>Discover</b> an Elemental.",
+      "flavor": "He's doing his best, but his mom thinks that if he had just applied himself in school Kalimos would be working for HIM.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad2b07bc611fc6085d321523caf46fc2c6511d5c26bc5ff5f3e8ff50d14a6e02.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_927",
+      "dbfId": 41407,
+      "name": "Sudden Genesis",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Summon copies of your damaged minions.",
+      "flavor": "Being hurt can make you another person.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee4a722880e34a532132c3e9601cd6aea58d30c68cdf235a22c054fa8fb05952.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_049",
+      "dbfId": 41194,
+      "name": "Tar Lurker",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 1,
+      "health": 7,
+      "text": "<b>Taunt</b>\nHas +3 Attack during your opponent's turn.",
+      "flavor": "Hi, Tar here. Long time lurking, first time taunting\u2026",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c20649939067ff2719ed4cf54fd77baf451d7549fb56ff976a4d27df00a67f4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_913",
+      "dbfId": 41354,
+      "name": "Tol'vir Warden",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Draw two 1-Cost minions from your deck.",
+      "flavor": "Ferocious in combat\u2026 and even more terrifying in pet battles. ",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a934366a161b65229a1cd7442a5b36cb09f0e6ceec73dc6b1a56e983a76c3fa9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_100",
+      "dbfId": 40971,
+      "name": "Verdant Longneck",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Adapt</b>.",
+      "flavor": "Always sticking its neck into other people\u2019s business.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0280d674848092a879e6787fa2f19421457667da5004eb28f28f3a980efb4a62.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_064",
+      "dbfId": 41217,
+      "name": "Vilespine Slayer",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Combo:</b> Destroy a minion.",
+      "flavor": "'Cause slayers gonna slay, slay, slay, slay, slay.",
+      "artist": "Efrem Palacios",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccbe77408888347efd8fcd16bdb8f506ab83709c03168440c3b4b8a07c606e5f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_025",
+      "dbfId": 41159,
+      "name": "Volcano",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Deal $15 damage randomly split among all_minions.\n<b>Overload:</b> (2)",
+      "flavor": "Many young shaman summon a volcano as their first school project.",
+      "artist": "Gustav Schmidt",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ce5c9f6d3fda16107f817068c03043ef7c1e9b66df8844648ad0fe1e910f642.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_830",
+      "dbfId": 41869,
+      "name": "Cruel Dinomancer",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Deathrattle:</b> Summon a\nrandom minion you\ndiscarded this game.",
+      "flavor": "As that old saying goes: \"you don't get into dinomancing to make friends.\"",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c02bf95c7bd2d1bcc0b738d304b051149908105057f15faffddbd86a5157e1c1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_079",
+      "dbfId": 41253,
+      "name": "Frozen Crusher",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 8,
+      "health": 8,
+      "text": "After this minion attacks, <b>Freeze</b> it.",
+      "flavor": "Goes by the online handle \"KoolKrusher99.\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ba651ef13d4e98e96039141edfc73ab3fb975dafff0c4245034fa02b380f699.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_840",
+      "dbfId": 41885,
+      "name": "Hemet, Jungle Hunter",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Destroy all cards in your deck that cost (3)_or less.",
+      "flavor": "The goblin travel agency lost his luggage, but he's still having a great vacation!",
+      "artist": "Sam Nielson",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76a68967d04a42e8211df16d445611cc89e6742d1af77746d4eadc360d43ecec.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_955",
+      "dbfId": 41878,
+      "name": "Meteor",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "Deal $15 damage to a minion and $3 damage to adjacent ones.",
+      "flavor": "When you absolutely, positively have to kill all the dinosaurs.",
+      "artist": "Matt Gaser",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e685fd26c29ca4f50cfc4d2b1738f2711f61d2c2d64dafda540add1278da325.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_925",
+      "dbfId": 41404,
+      "name": "Ornery Direhorn",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> <b>Adapt</b>.",
+      "flavor": "\"It's an herbivore.  How dangerous can it be?\"  - Famous last words",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78291c186faa9d96fc294b1fb8a47bbe2304eefbbe81a3970799ffbdd346642e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Adapt"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_812",
+      "dbfId": 41415,
+      "name": "Sabretooth Stalker",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 8,
+      "health": 2,
+      "text": "<b>Stealth</b>",
+      "flavor": "It's gotten a bit long in the tooth.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa6b70711d2054b1fd91ac4e790f59ee32c2b032ce5d031dfa7f3af81436b024.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_952",
+      "dbfId": 41864,
+      "name": "Spikeridged Steed",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Give a minion +2/+6 and <b>Taunt</b>. When it dies, summon a Stegodon.",
+      "flavor": "What beats cavalry? Dinosaur cavalry.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a84b9397d4ad82294aff4c548bb8248e7afc35c4851d3c332e1a142cb82a3ec4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_015",
+      "dbfId": 41145,
+      "name": "Sunkeeper Tarim",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 7,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Set all other minions' Attack and Health to 3.",
+      "flavor": "Ironically, his favorite number is 4.",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2942d47dbfe5e28e3c0797ff2acefc601d152bf89e84692edc2532b3c309136d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_847",
+      "dbfId": 41928,
+      "name": "Blazecaller",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If you played an_Elemental last turn, deal 5 damage.",
+      "flavor": "For when a flamecaller just won't do.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0e2ef0f165d9cbce15ba43d7ba00e38c67675c66f0a242a1b5f4539b7bbde64.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_086",
+      "dbfId": 41262,
+      "name": "Giant Anaconda",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 5,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Summon a minion from your hand with 5 or more Attack.",
+      "flavor": "Must be something it ate.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abbc11ff9d4326b8e1fc930a3441c914407ee526a5cd0ff15bdb868a496f4833.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_010",
+      "dbfId": 41138,
+      "name": "Sated Threshadon",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 5,
+      "health": 7,
+      "text": "<b>Deathrattle:</b> Summon three 1/1 Murlocs.",
+      "flavor": "Bet you can't eat just one murloc!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3486dcbea03c2baf6a14283d8e558509e1f2aa0510a7af358bd3fdbc18cf9dde.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab8809e2848b6ade57ba41a12e3ecb46737a329fbc74f05ee117312129a308c8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_208",
+      "dbfId": 41116,
+      "name": "Stone Sentinel",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you played an Elemental last turn, summon two 2/3 Elementals with <b>Taunt</b>.",
+      "flavor": "He and his friends just want to rock out.",
+      "artist": "Rudy Siswanto",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d2b7e7e1d16ca1c7db4111e4ee3b5448bd28ef869801851199bd18c8361217a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_813",
+      "dbfId": 41327,
+      "name": "Stormwatcher",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 4,
+      "health": 8,
+      "text": "<b>Windfury</b>",
+      "flavor": "Aspiring meteorologist!",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1349024f06e193e0d1212967f5a18436dd1a6f2f0c77b7eb471426d91109d24.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_919",
+      "dbfId": 41366,
+      "name": "Swamp King Dred",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 9,
+      "health": 9,
+      "text": "After your opponent plays a minion, attack_it.",
+      "flavor": "Swamp King Dred, more like Swamp King Dead, amiright?",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c7fcc9e8d66ea2a9e566413d0c4ff9fea9e3e6d9444d74cc96c28407e71157d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_838",
+      "dbfId": 41881,
+      "name": "Tar Lord",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 1,
+      "health": 11,
+      "text": "<b>Taunt</b>\nHas +4 Attack during your opponent\u2019s turn.",
+      "flavor": "Tar Lord, man... legendary monster? Aw, forget it.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c23d59cf6dbcdfe70707db8e1c3e33eed227a1b41607d4043776799693256301.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_950",
+      "dbfId": 41859,
+      "name": "Vinecleaver",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 4,
+      "durability": 3,
+      "text": "[x]After your hero attacks,\nsummon two 1/1 Silver\nHand Recruits.",
+      "flavor": "George and Karl!  Thank the Light we found you!",
+      "artist": "Joe Wilson",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a727a64b201636ea69693931e298bcd29381952212b7cdcbf66fdad9ee8450a3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_002",
+      "dbfId": 41120,
+      "name": "Volcanosaur",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 5,
+      "health": 6,
+      "text": "<b>Battlecry:</b> <b>Adapt</b>, then_<b>Adapt</b>.",
+      "flavor": "Always fun to say out loud \"VOL-CA-NO-SAUUUR!\"",
+      "artist": "Daren Bader",
+      "collectible": true,
+      "race": "Beast",
+      "otherRaces": [
+        "Elemental"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0526dd11afa0012398371525f71ef1af65ea280a914631872c97f2d2330853fb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Adapt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_099",
+      "dbfId": 41286,
+      "name": "Charged Devilsaur",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Charge</b>\n<b>Battlecry:</b> Can't attack heroes this turn.",
+      "flavor": "What happens when a dinosaur mixes soda and pop rocks.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "race": "Beast",
+      "otherRaces": [
+        "Elemental"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de10894f42a036f0c32c8ce5748fb730739226ddd242b36d31ec58ed64883116.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_004",
+      "dbfId": 41130,
+      "name": "Dinosize",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 8,
+      "text": "Set a minion's Attack and Health to 10.",
+      "flavor": "Comes with fries and a drink.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1afea1f2109a9dd95ac3fda23ff19b152045a37606fb505a36d5f754251fa7c0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_854",
+      "dbfId": 42009,
+      "name": "Free From Amber",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 8,
+      "text": "<b>Discover</b> a minion that costs (8) or more. Summon it.",
+      "flavor": "Bingo! Minion DNA!",
+      "artist": "Anton Kagounkina",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2958b7c964e8786ca57469db6c546b607c720d6df5dcf0c3b8f5dc25e0650357.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_211",
+      "dbfId": 41331,
+      "name": "Kalimos, Primal Lord",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 7,
+      "health": 7,
+      "text": "[x]<b>Battlecry:</b> If you played an\nElemental last turn, cast an\nElemental Invocation.",
+      "flavor": "All that's missing is a little heart.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d3d6fc7a80390c7ca97e71c873fb3f22a1bfc5f485696b8aa854530e2442ae7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_848",
+      "dbfId": 41929,
+      "name": "Primordial Drake",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 4,
+      "health": 8,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Deal 2 damage\nto all other minions.",
+      "flavor": "Before he became a rap artist.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41d3f6ed54fd6e757f9495441bcfa8dff4cc3bdb4681177be1393dc6d3136f4b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_088",
+      "dbfId": 41264,
+      "name": "Tortollan Primalist",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a spell_and cast it with random targets.",
+      "flavor": "I see pizza in my future. ",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85b2e6873156d4827a9331110eb6b069ef3c22147902c46c6c533752aabd445e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_071",
+      "dbfId": 41242,
+      "name": "Giant Mastodon",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 9,
+      "attack": 6,
+      "health": 10,
+      "text": "<b>Taunt</b>",
+      "flavor": "Still salty about it not being the \"Year of the Mastodon.\"",
+      "artist": "Chanchai Luechaiwattanasopon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ac1b1e7af184e0ed75a6da2ea9c180c28f679a88825bcec19eebb531314dc48.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_933",
+      "dbfId": 41425,
+      "name": "King Mosh",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 9,
+      "health": 7,
+      "text": "<b>Battlecry:</b> Destroy all damaged minions.",
+      "flavor": "He's a terror at concerts.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6923c4a3e85e76986f45d941b4b67214641abe5649b35328a34202721680baa6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_907",
+      "dbfId": 41294,
+      "name": "Ozruk",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Gain +5 Health\nfor each Elemental you\nplayed last turn.",
+      "flavor": "Between you and me, Ozruk is a bit obsessed with his body.",
+      "artist": "Tooth",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8e04708cc07bce6b634ec500252dbe5deed9aa55cccca621636678e91ff507e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "UNG_852",
+      "dbfId": 41954,
+      "name": "Tyrantus",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 12,
+      "health": 12,
+      "text": "Can't be targeted by spells or Hero Powers.",
+      "flavor": "Millennia of evolutionary pressures turned his species into the Faerie Dragons we know today.",
+      "artist": "Chris Rahn",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8692cfcabad0418a5b505576e6161d3929479f8268ec667c82d66fd3f88096d0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "UNG_806",
+      "dbfId": 41315,
+      "name": "Ultrasaur",
+      "cardSet": "Journey to Un'Goro",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 10,
+      "attack": 7,
+      "health": 14,
+      "flavor": "Evolved the really long neck to spy on its neighbors.",
+      "artist": "Laurel Austin",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9239a8491af050ee3b99ddde545a9a2ada87f9a0e2f7cbc73d764f263472b23e.png",
+      "locale": "enUS"
+    }
+  ]
+}

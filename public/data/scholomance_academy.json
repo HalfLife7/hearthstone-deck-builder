@@ -1,0 +1,3235 @@
+{
+  "Scholomance Academy": [
+    {
+      "cardId": "SCH_145",
+      "dbfId": 59599,
+      "name": "Desk Imp",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 0,
+      "attack": 1,
+      "health": 1,
+      "flavor": "\"I feel inky!\"",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ed3f6092d1d4556418ebe692a7fb992f28cd1b79000f2a6dbd2ad12240c0433.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_427",
+      "dbfId": 60016,
+      "name": "Lightning Bloom",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Refresh 2 Mana Crystals.\n<b>Overload:</b> (2)",
+      "flavor": "Curiously, this plant never blooms in the same place twice.",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Druid",
+      "multiClassGroup": "Druid/Shaman",
+      "classes": [
+        "Druid",
+        "Shaman"
+      ],
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/730bd8d585efe44038584b32bd670b47aceb4efd05aa4e07e690dd8cc0dc0256.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_514",
+      "dbfId": 59223,
+      "name": "Raise Dead ",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Deal $3 damage to your hero. Return two friendly minions that died this game to your hand.",
+      "flavor": "Technically, it\u2019s just really late healing.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Priest",
+      "multiClassGroup": "Warlock/Priest",
+      "classes": [
+        "Priest",
+        "Warlock"
+      ],
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e47abd74197f79010e95bfe9d0d3aaf7741a3d59d34fe1805a1a97663bd66a5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_617",
+      "dbfId": 59705,
+      "name": "Adorable Infestation",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Give a minion +1/+1. Summon a 1/1 Cub. Add a Cub to your hand.",
+      "flavor": "Some cards are strong by sheer power; others draw strength from love.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "multiClassGroup": "Hunter/Druid",
+      "classes": [
+        "Druid",
+        "Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34c5a781c641f2a5537eb75e3c8812b7f6ef78aa3a4bdf80091ee37bdc2d2a0a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_311",
+      "dbfId": 59029,
+      "name": "Animated Broomstick",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Rush</b>\n<b>Battlecry:</b> Give your other minions <b>Rush</b>.",
+      "flavor": "\"Blimey, that's a Stratocumulus 1000!\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49e8144045caff8470d4aee6a6a4f2efc25d4d8a53a808b42321e6006c3636c4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_237",
+      "dbfId": 58978,
+      "name": "Athletic Studies",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Discover</b> a <b>Rush</b> minion. Your next one costs (1) less.",
+      "flavor": "It's a quick read.",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8da15dc4ccb9489f7ccc95eb00510eaafcb10f09dc43019cd15838f0b43676ec.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_509",
+      "dbfId": 59207,
+      "name": "Brain Freeze",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "<b>Freeze</b> a minion. <b>Combo:</b> Also deal $3 damage to it. ",
+      "flavor": "\"The professor called on me, and I totally froze!\"",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "playerClass": "Mage",
+      "multiClassGroup": "Mage/Rogue",
+      "classes": [
+        "Mage",
+        "Rogue"
+      ],
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d2a00180d8f1c94396700bc6e96b359b43ccfc45ce5d60b6c2184e96c5185bd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_300",
+      "dbfId": 58782,
+      "name": "Carrion Studies",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Discover</b> a <b>Deathrattle</b> minion. Your next one costs (1) less.",
+      "flavor": "A good read but a little too much fluff.",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/782228a3f8dbd1227db6839cb50e81b7e4eaeb63d1751c0b2595954fa8d58615.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_600",
+      "dbfId": 59394,
+      "name": "Demon Companion",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Summon a random Demon Companion.",
+      "flavor": "Owning a pet can be real hell at times.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "multiClassGroup": "Demon Hunter/Hunter",
+      "classes": [
+        "Hunter",
+        "Demon Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/136d217431fc9ee3106272e91f4a9e27c688d68077bdebc262da9d4f7d407642.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_158",
+      "dbfId": 59628,
+      "name": "Demonic Studies",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Discover</b> a Demon. Your next one costs (1) less.",
+      "flavor": "\"Do you wanna summon a demon? I wanna summon a demon!\"",
+      "artist": "Kagi",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/359d628b0cf19fbfac8102193791fbeeb6401e75d91940c7d9fd86eea4496b2a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_235",
+      "dbfId": 58976,
+      "name": "Devolving Missiles",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "[x]Shoot three missiles\nat random enemy minions\nthat transform them into\nones that cost (1) less.",
+      "flavor": "Most intermural spell-dueling contests end with a field of wisps.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Mage",
+      "multiClassGroup": "Shaman/Mage",
+      "classes": [
+        "Mage",
+        "Shaman"
+      ],
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0662a5a2f82d68060dfa6bb6cfbfaf20971eebf0b8237b33ace3b951b78ae33f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_422",
+      "dbfId": 59606,
+      "name": "Double Jump",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Draw an <b>Outcast</b> card from your deck.",
+      "flavor": "The key to every speed run.",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ec45af48e9d5fb61c704070601fb4b3519fca06b549ede68f6f5a9208d1b227.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_233",
+      "dbfId": 58974,
+      "name": "Draconic Studies",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "[x]<b>Discover</b> a Dragon. Your\nnext one costs (1) less.",
+      "flavor": "Our Draconic Studies program has a high rate of burnout.",
+      "artist": "Kagi",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/567391135e9fc177566c6fa2b5333534e9307474d6331901136c9c3df9dadc79.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_702",
+      "dbfId": 59726,
+      "name": "Felosophy",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "[x]Copy the lowest Cost\nDemon in your hand.\n<b>Outcast:</b> Give both +1/+1.",
+      "flavor": "\"Like, isn't evil subjective man?\"",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "multiClassGroup": "Warlock/Demon Hunter",
+      "classes": [
+        "Warlock",
+        "Demon Hunter"
+      ],
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40ebd4b753863a231e5c7b7067e066cabd3ba123661efb31f71b7d1dcd5b09c1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_247",
+      "dbfId": 59038,
+      "name": "First Day of School",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Add 2 random 1-Cost minions to your hand.",
+      "flavor": "\"Report to the bookstore to buy your books, the alchemist to buy your potions, and then get your wands at the\u2026 wandryroom?\"",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b7a0324473d1b08acc23a9f3d6721e7d14451609286f18bd9668bf56893655a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_137",
+      "dbfId": 59579,
+      "name": "Frazzled Freshman",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 4,
+      "flavor": "\"Late to bed, early to rise, makes a student unable to open her eyes.\"",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab697a77584ae031a2a86b47e01e69672151160c88f2456ca531af78d35f39a8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_231",
+      "dbfId": 58972,
+      "name": "Intrepid Initiate",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Spellburst:</b> Gain +2_Attack.",
+      "flavor": "How you like them apples?",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/694d20ee7e10924496955db0ab3e0973f85f8099afb26bf4f95a3c6fb8fbd103.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_310",
+      "dbfId": 59013,
+      "name": "Lab Partner",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Spell Damage +1</b>",
+      "flavor": "\"Professor, a gnome burned my homework!\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13059e66daded9a9b1aec0743404b217e9654311afdf83fd2a651edd054cb254.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_333",
+      "dbfId": 59163,
+      "name": "Nature Studies",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Discover</b> a spell. Your next one costs (1) less.",
+      "flavor": "\"I have a first edition! Go ahead, count the rings.\"",
+      "artist": "SARIYA",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c307a29127bf35c01e28b119920ec1143bd5f79eb649999e7701de2e9d15ceea.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_604",
+      "dbfId": 59449,
+      "name": "Overwhelm",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Deal $2 damage to a minion. Deal one more damage for each Beast you control.",
+      "flavor": "Scholomance student Brewfest prank gone terribly, terribly awry.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5240eed8cc6fb7c78b9b21d431690b16e39d97e3c4dda9cbfd19f823c5a428b0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_606",
+      "dbfId": 59456,
+      "name": "Partner Assignment",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Add a random 2-Cost and 3-Cost Beast to_your hand.",
+      "flavor": "In every group assignment, someone does all the legwork.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b31fdf36b0a296c1ad5ffc1eb4d00c3e02086d81336d217100380f3debc133b6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_248",
+      "dbfId": 59039,
+      "name": "Pen Flinger",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> Deal 1 damage\nto a minion.\n <b><b>Spellburst</b>:</b> Return this\nto_your hand.",
+      "flavor": "The pen is also a more aerodynamic short-range projectile than the sword.",
+      "artist": "Zoe Feng",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac0a86ae7591b3b9542ce41b6541be8ab441c8be2d70f9647866249c1d01a92d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_270",
+      "dbfId": 59213,
+      "name": "Primordial Studies",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Discover</b> a <b>Spell Damage</b> minion. Your next one costs (1) less.",
+      "flavor": "A long forgotten tome whose very essence seeps of magic. 40 dust, used.",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Mage",
+      "multiClassGroup": "Shaman/Mage",
+      "classes": [
+        "Mage",
+        "Shaman"
+      ],
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42ff28907d6cb2e9181dcdbd4b0ce23c0754ac2a000c1f97ef8d0952cd007866.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_305",
+      "dbfId": 58794,
+      "name": "Secret Passage",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "Replace your hand with 4 cards from your deck. Swap back next turn.",
+      "flavor": "I use this to sneak out at night and do some villainous baking in the kitchen.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfda6463be71c8d94866cbe7879a6afebf5c9de94dd9e7a4253d230d57d2d6db.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_524",
+      "dbfId": 59409,
+      "name": "Shield of Honor",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Give a damaged minion +3 Attack and <b>Divine Shield</b>.",
+      "flavor": "\"Sir, this shield would've been more helpful last turn!\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "multiClassGroup": "Warrior/Paladin",
+      "classes": [
+        "Paladin",
+        "Warrior"
+      ],
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47dbec4bed8d1dedba2387f6f65cd4e7961d6f4f92b398ad100a9489a38ddce0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_259",
+      "dbfId": 59151,
+      "name": "Sphere of Sapience",
+      "cardSet": "Scholomance Academy",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 1,
+      "durability": 4,
+      "text": "[x]At the start of your turn,\nlook at your top card. You\ncan put it on the bottom\n_and lose 1 Durability.",
+      "flavor": "This is what it sounds like when spheres scry. ",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d150a196759b0ca598f7853ad4da6a67cf1913b788480123f19ace619148a1a5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_700",
+      "dbfId": 59724,
+      "name": "Spirit Jailer",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Shuffle 2 Soul Fragments into your deck.",
+      "flavor": "\"Sure, they're in your deck, but the mind is like, the REAL prison.\"",
+      "artist": "Ben Olson",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "multiClassGroup": "Warlock/Demon Hunter",
+      "classes": [
+        "Warlock",
+        "Demon Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33b3c78fc37cba844c141cfd3c6dfc801d990b27df8cca89043dc9c1698b17ab.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_312",
+      "dbfId": 59035,
+      "name": "Tour Guide",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Your next Hero Power costs (0).",
+      "flavor": "\"Here is the original blueprint for the Academy grounds! Don't mind those so-called dark chambers\u2026 They'll be at the end of the tour.\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/901fd59e8b53a83898016f32bca73c41e5ae5ddb8c8eec2018a28fcdbb5e71a9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_279",
+      "dbfId": 59233,
+      "name": "Trueaim Crescent",
+      "cardSet": "Scholomance Academy",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 1,
+      "attack": 1,
+      "durability": 4,
+      "text": "After your Hero attacks a minion, your minions attack it too.",
+      "flavor": "You could have just pointed.",
+      "artist": "Kagi",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "multiClassGroup": "Demon Hunter/Hunter",
+      "classes": [
+        "Hunter",
+        "Demon Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b2c3ed70b33dd0a544275ac9fb6d67484df24c283c6cd5dd31062624d2fbd48.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_350",
+      "dbfId": 59556,
+      "name": "Wand Thief",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Combo:</b> <b>Discover</b> a Mage_spell.",
+      "flavor": "\"What\u2019re ya buyin\u2019?\u201d",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Mage",
+      "multiClassGroup": "Mage/Rogue",
+      "classes": [
+        "Mage",
+        "Rogue"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79ac064403d107456c4f654e8af9c304dd6ee67653c671d7615d8f975713109e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_250",
+      "dbfId": 59083,
+      "name": "Wave of Apathy",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Set the Attack of all enemy minions to 1 until your next turn.",
+      "flavor": "\"Flavor text? Eh. Can\u2019t be bothered.\"",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "multiClassGroup": "Paladin/Priest",
+      "classes": [
+        "Paladin",
+        "Priest"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd56ac97cd902c5fd612b507c17bbbfaa471bb148ad5efd40e82a2b9d383c667.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_133",
+      "dbfId": 59170,
+      "name": "Wolpertinger",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Summon a copy of this.",
+      "flavor": "Scholomance student Brewfest prank gone awry.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f025adae0b73b77121df8ff84844b2e308b972f644a7049fed0c715dfac55b0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_149",
+      "dbfId": 59616,
+      "name": "Argent Braggart",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Gain Attack and Health to match the highest in the battlefield.",
+      "flavor": "Not sure why he's bragging, he's got the same stats as the next guy.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0dfeeef40fe7078749f3feddc298ed21ced97e4830d06b417fa7de22da82dbc8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_147",
+      "dbfId": 59605,
+      "name": "Boneweb Egg",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 0,
+      "health": 2,
+      "text": "[x]<b>Deathrattle:</b> Summon\ntwo 2/1 Spiders. If you\ndiscard this, trigger its\n<b>Deathrattle</b>.",
+      "flavor": "Noblegarden is going to be really exciting this year!",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f71d3e794a58ad97a223367d925cef74e152d1a56938a1f75a3687e69b0be80.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "InvisibleDeathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_353",
+      "dbfId": 59639,
+      "name": "Cram Session",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Draw $1 |4(card, cards) <i>(improved by <b>Spell Damage</b>)</i>.",
+      "flavor": "The font of the arcane gives nearly limitless access to power and energy! But it can't keep you awake, for that we still use coffee.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/492c49caa78d80c86ca8b5459c6fe04330b1ec2f66199d30e1da08390f4c8375.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_713",
+      "dbfId": 60043,
+      "name": "Cult Neophyte",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Your opponent's spells cost (1) more next_turn.",
+      "flavor": "Make a new recruit's deficiencies your efficiencies.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cda9ef46ed11f6bb02a08236179e94975b7f4a9148174ba55289bd8a6256b24c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_236",
+      "dbfId": 58977,
+      "name": "Diligent Notetaker",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Spellburst:</b> Return the spell to your hand.",
+      "flavor": "You never know what cards are going to be on the test.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46da7c16979a39dfe6fb8aca3f852a351a382f5e272653ebb3910b502be9d548.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_242",
+      "dbfId": 59001,
+      "name": "Gibberling",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Spellburst:</b> Summon a Gibberling.",
+      "flavor": "\"As a Linguistics student I have studied the Gibberlings. I have determined they are speaking Gibberish.\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d880993ffba4f072e8ba9c6e0e00810b59c9673ec157d40f565162ba732be0f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_525",
+      "dbfId": 59410,
+      "name": "In Formation!",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Add 2 random <b>Taunt</b> minions to your hand.",
+      "flavor": "None can doubt the strength of the Scholomance student body.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ceacb79c376626069599c2023ea447b9c81de5d5895a355abb7f0d9200b5b091.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_283",
+      "dbfId": 59259,
+      "name": "Manafeeder Panthara",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you've used your Hero Power this turn, draw a card.",
+      "flavor": "Feeds on mana, crystal kibble, and whatever it was you were just snacking on.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/618a34764d98909b803d48c7936092caf237d6a1ce9e5a420a66036c58b0b569.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_706",
+      "dbfId": 59877,
+      "name": "Plagiarize",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Secret:</b> At the end of your opponent's turn, add copies of the cards they played to your hand.",
+      "flavor": "Copying is just using your resources wisely.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a30a4dc2889b76decef4485ac052e5dbc1f10f113323d8fae4204e41634b5b1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_136",
+      "dbfId": 59572,
+      "name": "Power Word: Feast",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Give a minion +2/+2. Restore it to full Health at the end of this turn.",
+      "flavor": "Some people are here for the stellar, world-renowned academic program. Others are here for the buffet.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7fe6cdf289f8a100808b00788314c651a8a024f98d2715df6308cb4473eb2276.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_301",
+      "dbfId": 58790,
+      "name": "Rune Dagger",
+      "cardSet": "Scholomance Academy",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "durability": 3,
+      "text": "After your hero attacks, gain <b>Spell Damage +1</b> this turn.",
+      "flavor": "Turns out being stabbed makes you more vulnerable to magic.",
+      "artist": "Kagi",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a26841106f1671c608eefadcfef9d22338e056374e95b8c6404f2b474fc81324.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_708",
+      "dbfId": 59914,
+      "name": "Sneaky Delinquent",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 1,
+      "text": "<b>Stealth</b>. <b>Deathrattle:</b> Add a 3/1 Ghost with <b>Stealth</b> to your hand.",
+      "flavor": "All right, now open your lid and say \"Ahh!\"",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3931f64b605b53029f6c6d2710f87a24a8974ed9004aa8b2e712d42ae11bda7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_701",
+      "dbfId": 59725,
+      "name": "Soul Shear",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Deal $3 damage to a\nminion. Shuffle 2 Soul\nFragments into your deck.",
+      "flavor": "\"Just a little off the sides please.\"",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "multiClassGroup": "Warlock/Demon Hunter",
+      "classes": [
+        "Warlock",
+        "Demon Hunter"
+      ],
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76649a9a53a1bb3d82997ab007257441e3fef74d8edda4944af82a4c112aca53.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_199",
+      "dbfId": 58947,
+      "name": "Transfer Student",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "This has different effects based on which game board you're on.",
+      "flavor": "Oh, the places you'll go!\nThere is so much to fight!\nThere are boards to be explored.\nThere are dreams to take flight.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Earnable after opening a <i>Scholomance Academy</i> card pack.",
+      "howToGetGold": "Solve the mystery of Transfer Student's origins.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26ac2d1ea3a5007e55e189197aeee6ba89f9066606a22e809b292957c8d19cb7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_537",
+      "dbfId": 59703,
+      "name": "Trick Totem",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 0,
+      "health": 3,
+      "text": "At the end of your turn, cast a random spell that costs (3) or less.",
+      "flavor": "It knows how to sit still and do tricks. Still working on rolling over, though.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Totem",
+      "playerClass": "Mage",
+      "multiClassGroup": "Shaman/Mage",
+      "classes": [
+        "Mage",
+        "Shaman"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c3fc4a0ff51410686d7fa4dd6ce8abd8d4bb26b053605942157ace01864e670.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_160",
+      "dbfId": 59646,
+      "name": "Wandmaker",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Add a 1-Cost spell from your class to_your hand.",
+      "flavor": "She creates incredibly affordable wands of all shapes and sizes. But not owls. The owl is all-natural.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d468fa6a8f3d493042f203abcb3788be65784c584816d48f7f8d15b965aafd0b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_538",
+      "dbfId": 60003,
+      "name": "Ace Hunter Kreen",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "Your other characters are <b>Immune</b> while attacking.",
+      "flavor": "This grandmaster marksman loves winning tournaments and eating a bit of ice cream.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "multiClassGroup": "Demon Hunter/Hunter",
+      "classes": [
+        "Hunter",
+        "Demon Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c2ad71ef7c4bb6a1aacb483a9eaba0262842a96e68cbc34c289c2d2a737be03.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_340",
+      "dbfId": 59188,
+      "name": "Bloated Python",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Summon a 4/4 Hapless Handler.",
+      "flavor": "This is why Scholomance engineering students prefer C++.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d11cae7ccb704de56b07a30a12bfe71e4da3e374de2bbb93c5412f9fec86850d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_523",
+      "dbfId": 59408,
+      "name": "Ceremonial Maul",
+      "cardSet": "Scholomance Academy",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "durability": 2,
+      "text": "<b>Spellburst</b>: Summon a Student with <b>Taunt</b> and stats equal to the spell's Cost.",
+      "flavor": "For the most discerning of hall monitors.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "multiClassGroup": "Warrior/Paladin",
+      "classes": [
+        "Paladin",
+        "Warrior"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cfe80ae024110137d6264b0fb253ab5b6c38aab4ae679ac0dd040b0d77ed7c31.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_521",
+      "dbfId": 59402,
+      "name": "Coerce",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Destroy a damaged minion. <b>Combo:</b> Destroy any minion.",
+      "flavor": "\"Give me your lunch money, or the sandwich gets it!\"",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "multiClassGroup": "Rogue/Warrior",
+      "classes": [
+        "Rogue",
+        "Warrior"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/059aab906240709f1b7b0ef63850d31ed06479cd57722c1213c79bd1ef57f4af.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_348",
+      "dbfId": 59540,
+      "name": "Combustion",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "[x]Deal $4 damage to\na minion. Any excess\ndamages both neighbors.",
+      "flavor": "Sally is friends with three Silverhand Recruits conveniently standing in a line. After casting this spell, how many friends does she have left? (Show your work.)",
+      "artist": "L. Lullabi & A. Zemskov",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0c96682dc47a7361068e9e71744cf369c815e017cffadbdda6e6c6ae09be1e9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_714",
+      "dbfId": 60090,
+      "name": "Educated Elekk",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]Whenever a spell is played,\nthis minion remembers it.\n<b>Deathrattle:</b> Shuffle the\nspells into your deck.",
+      "flavor": "\"This reminds me of a saying. 'An elekk never\u2026' something. I can't remember.\"",
+      "artist": "Cheng Hao",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/782da31bc3c57ab09ecbd2961f3f84586b4d5931a56bb1ea62b2a01b2c38e3a5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_157",
+      "dbfId": 59627,
+      "name": "Enchanted Cauldron",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 1,
+      "health": 6,
+      "text": "<b><b>Spellburst</b>:</b> Cast a random spell of the same Cost.",
+      "flavor": "Do you smell what the cauldron is cooking? If so, we apologize.",
+      "artist": "Matt O'Connor",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/933dc31f593f9bdbeac81ed1110f71b9e29e9d061059ae0be36055cda2948d2e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_241",
+      "dbfId": 59000,
+      "name": "Firebrand",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b><b>Spellburst</b>:</b> Deal 4 damage randomly split among all_enemy minions.",
+      "flavor": "Too cool for school, too hot for thought.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8b90bc569092a3e4c5badfa392d63474d32d021d973537ea3e79832caa775e4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_302",
+      "dbfId": 58791,
+      "name": "Gift of Luminance",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Give a minion <b>Divine Shield</b>, then summon a_1/1 copy of it.",
+      "flavor": "You get a small version of yourself in a snow globe to remember the moment.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "multiClassGroup": "Paladin/Priest",
+      "classes": [
+        "Paladin",
+        "Priest"
+      ],
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9abab60ac69ad1d6ea1a9ab0e3864a929531fa246f0e99334b6e0dc24f874e5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_532",
+      "dbfId": 59594,
+      "name": "Goody Two-Shields",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 2,
+      "text": "<b>Divine Shield</b>\n<b>Spellburst:</b> Gain <b>Divine Shield</b>.",
+      "flavor": "These are my shields. There are at least two like them, and both are mine.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62fc4f71e99e15ae51f994389dff5477847038a3af56b46bd62c0673444873b2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_507",
+      "dbfId": 59164,
+      "name": "Instructor Fireheart",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> a spell\nthat costs (1) or more.\nIf you play it this turn,\nrepeat this effect.",
+      "flavor": "When you have fire in your heart, even death can't stop you.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aec46eb071ce054f64b2ecbe9cae53694adba5d9a65be0bb61b6faf8d18c1342.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_526",
+      "dbfId": 59411,
+      "name": "Lord Barov",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Set the Health\nof all other minions to 1.\n<b>Deathrattle:</b> Deal 1 damage\nto all minions.",
+      "flavor": "Alexei Barov stayed at Scholomance despite leasing it to Kel\u2019Thuzad. He says it\u2019s for \"supervision.\" ",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "multiClassGroup": "Warrior/Paladin",
+      "classes": [
+        "Paladin",
+        "Warrior"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/709116aa021a6afeea63149c988f790e94def8135243cf99aacb6a9f4151db10.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_276",
+      "dbfId": 59230,
+      "name": "Magehunter",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Rush</b>\nWhenever this attacks a minion, <b>Silence</b> it.",
+      "flavor": "Hates waiting. Abhors chit chat. Fond of the color purple.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7a0eb5b45da30e957987b6669effe4681093d8cf4b2a2f6bd991c929b6ac8a7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_159",
+      "dbfId": 59643,
+      "name": "Mindrender Illucia",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Replace\nyour hand with a copy of\nyour opponent's until\nend of turn.",
+      "flavor": "\"\u2026and that's how I ended up with a Murloc Cultural Studies major.\"",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1fa48994bdbbd4feac7b3251c44873272655136e4b2debf65a89206a200f4d31.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_271",
+      "dbfId": 59214,
+      "name": "Molten Blast",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Deal $2 damage. Summon that many 1/1 Elementals.",
+      "flavor": "Well, how would YOU celebrate after finals week?!",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/925f82e5c0ddb09d741574172e8c7b1157fb43de314702643ce51ede81e43917.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_317",
+      "dbfId": 59101,
+      "name": "Playmaker",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]After you play a <b>Rush</b>\nminion, summon a copy\n_with 1 Health remaining.",
+      "flavor": "\"Here's the plan: you go left, I go right, and the wounded guy takes the hit.\"",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ba265f2d19525973024f1c58371fc057ddeda386c7ec4f72e41607cbc896f6a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_539",
+      "dbfId": 60004,
+      "name": "Professor Slate",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "Your spells are <b>Poisonous</b>.",
+      "flavor": "\"Don\u2019t worry, this will be over in a second. It might FEEL like an eternity, but I assure you, it\u2019s quite quick!\"",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da1a0f766b3b218f5937654653a23e3838f1d3d1c8a933c7852f860151cf1130.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_146",
+      "dbfId": 59601,
+      "name": "Robes of Protection",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "Your minions have \"Can't be targeted by spells or Hero Powers.\"",
+      "flavor": "Warning: Robes of Protection are intended for targeted effects only and are not an effective defense against Flamestrike, Twisting Nether, or other AOE attacks.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/286bed8c58111e6dfa9bf01b585c75dc3a14ffe5eb271a5aac195ca81f86ff66.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_307",
+      "dbfId": 58796,
+      "name": "School Spirits",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "[x]Deal $2 damage to all\nminions. Shuffle 2 Soul\nFragments into your deck.",
+      "flavor": "\"B-E A-G-G-R-E-S-S-I-V-E!\"",
+      "artist": "Steven Prescott",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/965a37447e20ac713bbf4c2ddb30cef7157cb194b959cc0e239f426479b2475e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_622",
+      "dbfId": 59989,
+      "name": "Self-Sharpening Sword",
+      "cardSet": "Scholomance Academy",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 1,
+      "durability": 4,
+      "text": "After your hero attacks, gain +1 Attack.",
+      "flavor": "You no longer have to bring a stack of #2 swords to a test!",
+      "artist": "Kagi",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a948d2b76689802c7dfe52a6cb209996a77a37be5c9bae2bc4c3d72ba7252a7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_517",
+      "dbfId": 59263,
+      "name": "Shadowlight Scholar",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Destroy a Soul Fragment in your deck to deal 3 damage.",
+      "flavor": "Imagine having the power of soul magic and using it as a reading light.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb8b876cc486d369ef480f9bcda691a5eb912e6a17d0294bb1661251926eb240.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_607",
+      "dbfId": 59457,
+      "name": "Shan'do Wildclaw",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Choose One -</b> Give Beasts\nin your deck +1/+1; or\nTransform into a copy\nof a friendly Beast.",
+      "flavor": "She holds both an academic post and a scratching post.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "multiClassGroup": "Hunter/Druid",
+      "classes": [
+        "Druid",
+        "Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7cb38260f0d3b4478ba84dabdedae592ace87f837a296ff0a274e00b20e7247.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_355",
+      "dbfId": 60151,
+      "name": "Shardshatter Mystic",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Destroy a Soul Fragment in your deck to deal 3 damage to all other minions.",
+      "flavor": "Enjoys a good soul-crushing defeat.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95aad4a1679648631d16038034abfd374c333ed6364b52e236e41a06cd5b80f3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_182",
+      "dbfId": 59253,
+      "name": "Speaker Gidra",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 1,
+      "health": 4,
+      "text": "[x]<b><b>Rush</b>, Windfury</b>\n<b><b>Spellburst</b>:</b> Gain Attack\nand Health equal to\nthe spell's Cost.",
+      "flavor": "If a teacher lectures in a forest, does she even make a sound?",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "multiClassGroup": "Druid/Shaman",
+      "classes": [
+        "Druid",
+        "Shaman"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6abc0d9b4d2d0ff97bb7bad380aa57a25efe3f8a366ecf4e781c6be02b5d4e21.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Windfury"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_142",
+      "dbfId": 59590,
+      "name": "Voracious Reader",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "text": "At the end of your turn, draw until you have 3 cards.",
+      "flavor": "But how much of it is skimming?",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afc5869b4d0796ecf449e2a954d518eda713434f2a767c835948c5b6ddf00d42.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_519",
+      "dbfId": 59400,
+      "name": "Vulpera Toxinblade",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "Your weapon has +2_Attack.",
+      "flavor": "The blade works well enough on its own\u2026 but this is just in case.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5161e0c585551bd80d427e66c8ff9e303a6f11dc0dbd056b157f80460791cd4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_513",
+      "dbfId": 59222,
+      "name": "Brittlebone Destroyer",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If your hero's\nHealth changed this turn,\ndestroy a minion.",
+      "flavor": "Broke many a leg in drama class.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "multiClassGroup": "Warlock/Priest",
+      "classes": [
+        "Priest",
+        "Warlock"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/840a34e4adea3f86a97ba8dd1d80f90d5628dfb72c08894e52403006c7b219c3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_120",
+      "dbfId": 59619,
+      "name": "Cabal Acolyte",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\n<b>Spellburst:</b> Gain control\nof a random enemy minion\nwith 2 or less Attack.",
+      "flavor": "How did he get to the top of his class? He pulled a few strings!",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/549b92bd789f5d8cd41548f20b11bb385eaa74e4b775e724b1441a69aaa9c4b6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_232",
+      "dbfId": 58973,
+      "name": "Crimson Hothead",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "<b>Spellburst:</b> Gain +1 Attack and <b>Taunt</b>.",
+      "flavor": "Has a real passion for spelling.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78966c13575e1bb752ede16458c9be3f93fafe974e805f8732bcd023b71632db.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_126",
+      "dbfId": 59623,
+      "name": "Disciplinarian Gandling",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]After you play a minion,\ndestroy it and summon a\n4/4 Failed Student.",
+      "flavor": "\"He doesn\u2019t grade on a curve, but on a sharp spike instead.\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "multiClassGroup": "Warlock/Priest",
+      "classes": [
+        "Priest",
+        "Warlock"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28b65afa698714dc033efe7e513bac4583d1fda5788b7f8af2ad9375b083593a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_143",
+      "dbfId": 59595,
+      "name": "Divine Rager",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 1,
+      "text": "<b>Divine Shield</b>",
+      "flavor": "For when you need to rage, rage against the dying of the Light.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a11934a26cf13102863467fbdfa2e16e17472f12acde3846ad1a4f734ce2f320.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_707",
+      "dbfId": 59911,
+      "name": "Fishy Flyer",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Rush</b>. <b>Deathrattle:</b> Add a_4/3 Ghost with <b>Rush</b> to_your hand.",
+      "flavor": "Like a fish out of water.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c54a59a010dec9ccc5a5e2d33cf4c333b0dfa0a02372633d5ce5fce25eb995dd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_356",
+      "dbfId": 60153,
+      "name": "Glide",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "[x]Shuffle your hand into\nyour deck. Draw 4 cards.\n<b>Outcast:</b> Your opponent\ndoes the same.",
+      "flavor": "\"Come with me, and you'll see, a whole new hand of possibly the same cards.\"",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11af493ea9e5f4f662895ded42ebca940c922eb05f3721dce46b55c35eb7985b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_613",
+      "dbfId": 59553,
+      "name": "Groundskeeper",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> If you're holding a\nspell that costs (5) or more,\nrestore 5 Health.",
+      "flavor": "It\u2019s tricky for dryads to tend the garden without trampling the flowers.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Druid",
+      "multiClassGroup": "Druid/Shaman",
+      "classes": [
+        "Druid",
+        "Shaman"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39be6e54965cfcc461a771e7ad10ea4766e51a2d770d6ee4d89e4275f9ba035f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_141",
+      "dbfId": 59587,
+      "name": "High Abbess Alura",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "<b><b>Spellburst</b>:</b> Cast a spell from your deck <i>(targets this if possible)</i>.",
+      "flavor": "She's all about hitting the books. Literally.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "multiClassGroup": "Paladin/Priest",
+      "classes": [
+        "Paladin",
+        "Priest"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdac26de1afd02b7b1d4852ffff2dc2c2f74e76919412f8602992c435d5cd980.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_426",
+      "dbfId": 59691,
+      "name": "Infiltrator Lilian",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 2,
+      "text": "[x]<b>Stealth</b>\n<b>Deathrattle:</b> Summon a 4/2\nForsaken Lilian that attacks\na random enemy.",
+      "flavor": "She'll get to the bottom of this even if it kills her. Twice!",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e834d3a793bc725c696df2dd7aeeb1d314d79167ad03f39a49268b8a40a67a12.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_239",
+      "dbfId": 58980,
+      "name": "Krolusk Barkstripper",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Spellburst:</b> Destroy a random enemy minion.",
+      "flavor": "My friend went krolusk tipping once\u2026 once!",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0ee99a591bf22f7729e577e24c09177df5f3bfc33ef2cf235e917f5b3db9f1b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_428",
+      "dbfId": 60278,
+      "name": "Lorekeeper Polkelt",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Reorder your deck\nfrom the highest Cost card\nto the lowest Cost card.",
+      "flavor": "quicksort [] = [] quicksort (x:xs) = quicksort small ++ (x : quicksort large) where small = [y | y <- xs, y <= x] large = [y | y <- xs, y > x]",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ee19f23c9e8fc9acd98f601ec5ed4fbaa5a163d79152277bcfea7c4c03fa4c8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_252",
+      "dbfId": 59089,
+      "name": "Marrowslicer",
+      "cardSet": "Scholomance Academy",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> Shuffle 2 Soul Fragments into your deck.",
+      "flavor": "Perfect for killing the first boss in Icecrown Citadel.",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71ee3b9f437922adacd522d9cdf910b3faebbe6510cd83a19e1f6bd1559ce9b5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_352",
+      "dbfId": 59621,
+      "name": "Potion of Illusion",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "Add 1/1 copies of your minions to your hand. They cost (1).",
+      "flavor": "Unfortunately, there's no potion that can make you unsee all the faces in that bottle.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Mage",
+      "multiClassGroup": "Mage/Rogue",
+      "classes": [
+        "Mage",
+        "Rogue"
+      ],
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e3ba7e795cfb1763fabb0d08e9cd3aeacf8249515c1091ce1935b86f5a0c38a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_238",
+      "dbfId": 58979,
+      "name": "Reaper's Scythe",
+      "cardSet": "Scholomance Academy",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "durability": 2,
+      "text": "[x]<b>Spellburst</b>: Also\ndamages adjacent\nminions this turn.",
+      "flavor": "Die. Die. Die.",
+      "artist": "Kagi",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c53695c664aeb445026c9214933618ccc1c73a29c2d14e81ca690a6039f46845.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_234",
+      "dbfId": 58975,
+      "name": "Shifty Sophomore",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Stealth</b>\n<b>Spellburst:</b> Add a <b>Combo</b> card to your hand.",
+      "flavor": "Experienced enough to do crimes, inexperienced enough to be super obvious about it.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b08885ad5fbad95d8d70544dfc710af70fa98e84b1d57a4fa024f78f6271f395.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        },
+        {
+          "name": "Stealth"
+        },
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_603",
+      "dbfId": 59395,
+      "name": "Star Student Stelina",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]<b>Outcast:</b> Look at 3 cards\nin your opponent's hand.\nShuffle one of them\ninto their deck.",
+      "flavor": "Cheating is just using your resources wisely.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b3cc9fa98f64cdd7b73ff8df19f736e018ca3790236672598ffa484d0b009d8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_522",
+      "dbfId": 59403,
+      "name": "Steeldancer",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Summon a random\nminion with Cost equal to\nyour weapon's Attack.",
+      "flavor": "Pretty powerful if you blade your cards right.",
+      "artist": "Gonzalo Ordonez",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "multiClassGroup": "Rogue/Warrior",
+      "classes": [
+        "Rogue",
+        "Warrior"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37620462fca523c9398507c0a4a9d492d5a89323eceb9288db28965338925ee7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_705",
+      "dbfId": 59753,
+      "name": "Vilefiend Trainer",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Outcast:</b> Summon two 1/1_Demons.",
+      "flavor": "My Vilefiend Trainers give me a much better sprint than my Air Gul'dans.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5c4dab645f8fa855ea688da067de7135343d68edc9b36c514e3dd416e8bb3d1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_313",
+      "dbfId": 59036,
+      "name": "Wretched Tutor",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Spellburst:</b> Deal 2 damage to all other minions.",
+      "flavor": "\"If you like my tutoring, you'll love my sister the art therapist, my father the driver, and my mother the housekeeper.\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19a674e26b4e0f8d1dc7098d2e365274fd253b7a3cd76ba92d9e47bc40c175d1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_243",
+      "dbfId": 59002,
+      "name": "Wyrm Weaver",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b><b>Spellburst</b>:</b> Summon two 1/2 Mana Wyrms.",
+      "flavor": "Studied basket weaving as an undergrad.",
+      "artist": "Bios Studio",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/340557e0b3907fad35da126562dbe20e27845794a42e053a7ba33374b2b37579.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_138",
+      "dbfId": 59583,
+      "name": "Blessing of Authority",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Give a minion +8/+8. It_can't attack heroes this turn.",
+      "flavor": "A paladin fights with honor! We don't go face... until next turn!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b97dd1f1d6493d8e0423633954b9cd94d59759a1bfa62139ee96a3acdd5edee2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_618",
+      "dbfId": 59720,
+      "name": "Blood Herald",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 1,
+      "health": 1,
+      "text": "Whenever a friendly minion dies while this is in your hand, gain +1/+1.",
+      "flavor": "\"Red Blood, it gives you wings.\"",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Demon Hunter",
+      "multiClassGroup": "Demon Hunter/Hunter",
+      "classes": [
+        "Hunter",
+        "Demon Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d178c986ba8216ba25c4cbeec78034b296c1ed78bc052508ba08dda5d2783d7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_623",
+      "dbfId": 60023,
+      "name": "Cutting Class",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "[x]Draw 2 cards.\nCosts (1) less per Attack\nof your weapon.",
+      "flavor": "When you actually are the sharpest tool in the shed.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "multiClassGroup": "Rogue/Warrior",
+      "classes": [
+        "Rogue",
+        "Warrior"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d45cc52202994e21c8c2ad76805850525ed711887e775846949e3fdca563262.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_425",
+      "dbfId": 59690,
+      "name": "Doctor Krastinov",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Rush</b>\nWhenever this attacks, give your weapon +1/+1.",
+      "flavor": "He is not a medical doctor.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "multiClassGroup": "Rogue/Warrior",
+      "classes": [
+        "Rogue",
+        "Warrior"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/054f1995e5316ef905542d4d7da8c1107fdeabed97307bef569b540e4435e572.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_224",
+      "dbfId": 58931,
+      "name": "Headmaster Kel'Thuzad",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "<b><b>Spellburst</b>:</b> If the spell destroys any minions, summon them.",
+      "flavor": "\"You wish to know my secrets, hmm? I carry little bits of tuna in the sleeves of my robe, he loves that. Oh, you meant the risen dead? That was trivial, trivial.\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1dcdc830c25759944be396320d63a23095d6441db78bd3438cae6402f5b50e2d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_351",
+      "dbfId": 59609,
+      "name": "Jandice Barov",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 2,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> Summon two\nrandom 5-Cost minions.\nSecretly pick one that dies\n_when it takes damage.",
+      "flavor": "Her parents own Scholomance. Of course she's going to play tricks on the students!",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "multiClassGroup": "Mage/Rogue",
+      "classes": [
+        "Mage",
+        "Rogue"
+      ],
+      "howToGetDiamond": "Obtained by owning 25 Scholomance Academy Legendary cards.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e69762a2d70e19e432fd4c34750f32b175e23b843c618dfa8335be4c022f03f0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_605",
+      "dbfId": 59452,
+      "name": "Lake Thresher",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "Also damages the minions next to whomever\nthis attacks.",
+      "flavor": "\"There\u2019s a monster in the lake?!\" \n\"That\u2019s not a monster, that\u2019s Gary.\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/021a8acd887081da3333c58df5af70d522a8fea2f7d01ae983221c2717019e82.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_400",
+      "dbfId": 58770,
+      "name": "Mozaki, Master Duelist",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 8,
+      "text": "After you cast a spell, gain <b>Spell Damage +1</b>.",
+      "flavor": "Treats her students like her peers, which means defeating them in one-sided duels all day long. ",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66f389ff92ad299d5d211431fa154b26c4a808cc6063013eb9b0f6a1e0c642e6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_710",
+      "dbfId": 59918,
+      "name": "Ogremancer",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "text": "[x]Whenever your opponent\ncasts a spell, summon a 2/2\nSkeleton with <b>Taunt</b>.",
+      "flavor": "After their third attempt, Tharg began to suspect that Krul was summoning the skeletons on purpose.",
+      "artist": "Ben Olson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/506cd8fe81e0d06806d5d7fb630b76f2caa9e5c419a6f1d5ccd842d06c58da59.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_273",
+      "dbfId": 59216,
+      "name": "Ras Frostwhisper",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "text": "At the end of your turn,\ndeal $1 damage to all enemies <i>(improved by <b>Spell Damage</b>)</i>.",
+      "flavor": "Always the favorite of Headmaster Kel'Thuzad, Ras nonetheless received a chilly reception from the other faculty.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "multiClassGroup": "Shaman/Mage",
+      "classes": [
+        "Mage",
+        "Shaman"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0774ddd53071c8d58e57e44823309ca7592cdf212e297e36ed9146447e9ec57e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_704",
+      "dbfId": 59732,
+      "name": "Soulshard Lapidary",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Destroy a Soul\nFragment in your deck to\ngive your hero +5 Attack\nthis turn.",
+      "flavor": "Also known as a soul sequincer.",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be633ad32aa6366f05e99f066390da3c06c85ddf93cfd0030c3d3477aafa0c8d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_245",
+      "dbfId": 59027,
+      "name": "Steward of Scrolls",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Spell Damage +1</b>\n<b>Battlecry:</b> <b>Discover</b> a spell.",
+      "flavor": "Oh dang it, I spilled ink elemental all over my essay!",
+      "artist": "Ware Lee",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d16c08bd4d2e71ccec3872866ef56fd5db13d33f73e3dd649daf0e2402033d6b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_244",
+      "dbfId": 59026,
+      "name": "Teacher's Pet",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Summon a\nrandom 3-Cost Beast.",
+      "flavor": "Really goes the extra mile to get the Hay+.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "multiClassGroup": "Hunter/Druid",
+      "classes": [
+        "Druid",
+        "Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38541e676a45cbd7a24e15ba5c121cdfd0bbcc63d8940d4ce64f3e4125454aeb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_615",
+      "dbfId": 59558,
+      "name": "Totem Goliath",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Deathrattle:</b> Summon all four basic Totems.\n<b>Overload:</b> (1)",
+      "flavor": "It was an art project, and nobody knew when to stop.",
+      "artist": "MAR Studio",
+      "collectible": true,
+      "race": "Totem",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b74c47d6465daa97ee866d16f3b61cf850c926dd4acc5229fe112059d02d6d4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_616",
+      "dbfId": 59614,
+      "name": "Twilight Runner",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Stealth</b>\nWhenever this attacks, draw 2 cards.",
+      "flavor": "Every morning you find two dead cards at your doorstep.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e038f19ffb224cd2bc33a2922b31b6816f2ef19cf5d80bc9f7e10a6c509f410.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_162",
+      "dbfId": 59658,
+      "name": "Vectus",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Summon two\n1/1 Whelps. Each gains a\n<b>Deathrattle</b> from your minions\nthat died this game.",
+      "flavor": "Don\u2019t let that dark magic worry you. He\u2019ll ensure they hatch without a scratch.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13d952cbfc4d39715d0c7f595f456f52106344bdc96dff907f78ba3249cbf72e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_343",
+      "dbfId": 59192,
+      "name": "Void Drinker",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>. <b>Battlecry:</b> Destroy\na Soul Fragment in your\ndeck to gain +3/+3.",
+      "flavor": "It has no taste.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1f2fb310a9177430058602bf4c1613c03465e3b3c717cab47746fa4d7cdd648.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_139",
+      "dbfId": 59584,
+      "name": "Devout Pupil",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Divine Shield, Taunt</b>\nCosts (1) less for each spell\nyou've cast on friendly\ncharacters this game.",
+      "flavor": "He considers textbooks Light reading.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "multiClassGroup": "Paladin/Priest",
+      "classes": [
+        "Paladin",
+        "Priest"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a41ed206a7a8aafae01124fd3c94e4756fd98560887d32da0462bb700e06d0bd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_614",
+      "dbfId": 59555,
+      "name": "Forest Warden Omu",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Spellburst:</b> Refresh your Mana Crystals.",
+      "flavor": "She wishes all things could grow and flourish at Scholomance. If only she knew\u2026",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcee0f427b8acc446dff026206c43aee6188b51ff01b58c3c49fcb0887b04e6a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_512",
+      "dbfId": 59221,
+      "name": "Initiation",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Deal $4 damage to a minion. If that kills it, summon a new copy.",
+      "flavor": "The things a murloc's gotta go through to graduate from Scholomance\u2026",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df2bcfe63946e304d8bceaec1a86703a465fa7f25da0aa1df49f035c97827618.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_712",
+      "dbfId": 59963,
+      "name": "Judicious Junior",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 4,
+      "health": 9,
+      "text": "<b>Lifesteal</b>",
+      "flavor": "She's judge, jury, and junior!",
+      "artist": "Eric Browning",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f688f32d95f6752ac4bec0cb68debe68f361c7d5a09e4ed7be930c141665090.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_230",
+      "dbfId": 58971,
+      "name": "Onyx Magescribe",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 4,
+      "health": 9,
+      "text": "<b>Spellburst:</b> Add 2 random spells from your class to_your hand.",
+      "flavor": "Sometimes you gotta spend spells to earn spells.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eaa991e248c797d81df37612e41403153eb22e964c76d47ded5af0690221a6b0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spellburst"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_612",
+      "dbfId": 59542,
+      "name": "Runic Carvings",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "<b>Choose One -</b> Summon four 2/2 Treant Totems; or <b>Overload:</b> (2) to summon them with <b>Rush</b>.",
+      "flavor": "\"That totem was beautiful\u2026 and you runed it!\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Druid",
+      "multiClassGroup": "Druid/Shaman",
+      "classes": [
+        "Druid",
+        "Shaman"
+      ],
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5ed8c5835ad9a0668715556b4063bfb1d0ec22260887f327530a1533f15f5c3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_709",
+      "dbfId": 59916,
+      "name": "Smug Senior",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 5,
+      "health": 7,
+      "text": "<b>Taunt</b>. <b>Deathrattle:</b> Add a_5/7 Ghost with <b>Taunt</b> to_your hand.",
+      "flavor": "You want to see something funny? Go visit him in five years.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c7f9f819c5791eaa68552a959326402b320d7d8d17748b8b21ea8e0b1ec08ed.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_530",
+      "dbfId": 59576,
+      "name": "Sorcerous Substitute",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If you have <b>Spell Damage</b>, summon a copy of this.",
+      "flavor": "This substitute's substitution is a dangerous institution.",
+      "artist": "Agatha Zhou",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35cbabfb305af7466ceedf681f93e3cf2a58d0be47dc52eb738ad99c9a909547.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_533",
+      "dbfId": 59602,
+      "name": "Commencement",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 7,
+      "text": "Summon a minion from your deck. Give it <b>Taunt</b> and <b>Divine Shield</b>.",
+      "flavor": "\"Remember, graduates\u2014you carry a heavy weight on your shoulders now.\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "multiClassGroup": "Warrior/Paladin",
+      "classes": [
+        "Paladin",
+        "Warrior"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/392f1f00d5d04d6f8e87bdfec7b882b2529d8c5f725935e1878fb15c376d9a6e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_253",
+      "dbfId": 59092,
+      "name": "Cycle of Hatred",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 7,
+      "text": "Deal $3 damage to all minions. Summon a 3/3 Spirit for every minion killed.",
+      "flavor": "If you run 2 of these, would that make it the bi-cycle of hatred?",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5d8cbc8cc376b9c6bfbc6bf817c902bae831fad09958364a5a77eb604d67f35.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_357",
+      "dbfId": 60164,
+      "name": "Fel Guardians",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 7,
+      "text": "Summon three 1/2 Demons with <b>Taunt</b>. Costs (1) less whenever a_friendly minion dies.",
+      "flavor": "What happened after the guardians tripped? They Fel.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3714329c24008d51c17e8f3dcf794060eb9aedc2e2f4b1f6d25207ef3e63bb4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_610",
+      "dbfId": 59539,
+      "name": "Guardian Animals",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 7,
+      "text": "Summon two Beasts that cost (5) or less from your deck. Give_them <b>Rush</b>.",
+      "flavor": "The guidelines specifically state: \"Students may also bring an ironbeak owl OR an alleycat OR a toad.\" They never said how big.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "multiClassGroup": "Hunter/Druid",
+      "classes": [
+        "Druid",
+        "Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83b9164ee1775ca1f1e89ab8dd53761d648741a87a1dd1552a21a837b6160465.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_717",
+      "dbfId": 61174,
+      "name": "Keymaster Alabaster",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 8,
+      "text": "[x]Whenever your opponent\n_draws a card, add a copy to_\n_your hand that costs (1).",
+      "flavor": "The key to his mastery is a solid stack of backup copies.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ccb153102c9c980f5d78d62eb7182e1ecc975ec13ab3de503843ff6e914335a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_703",
+      "dbfId": 59727,
+      "name": "Soulciologist Malicia",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> For each Soul Fragment in your deck, summon a 3/3 Soul with <b>Rush</b>.@ <i>(@)</i>",
+      "flavor": "If you value your life, don't call it a \"soft science.\"",
+      "artist": "Steven Prescott",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "multiClassGroup": "Warlock/Demon Hunter",
+      "classes": [
+        "Warlock",
+        "Demon Hunter"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be88d252e5d8de51266d0e42715f9c9df72122bca8c5d99d0c4612bee48cc225.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_181",
+      "dbfId": 59252,
+      "name": "Archwitch Willow",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Summon a random Demon from your hand and deck.",
+      "flavor": "One of the demons will do all the work while the other gets the same grade.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cf5c54ea113b737d40aea9005599b56db47e3189fb18d18c509902d66b39459.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_711",
+      "dbfId": 59948,
+      "name": "Plagued Protodrake",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Deathrattle:</b> Summon a random 7-Cost minion.",
+      "flavor": "\"What\u2019s in the drake?! WHAT\u2019S IN THE DRAKE?\"",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Dragon",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec1e70f5bf662c454c60d5b58cfc9b7063d4044ec5e5a5da82335029a7ac8a37.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_535",
+      "dbfId": 59694,
+      "name": "Tidal Wave",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 8,
+      "text": "<b>Lifesteal</b>\nDeal $3 damage to\nall minions.",
+      "flavor": "\"Hang Four, mon!\"",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ca2075eb7b14bd71a94cb2c8c04688716c2aac40880719827087c740f7c3909.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_337",
+      "dbfId": 59175,
+      "name": "Troublemaker",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 6,
+      "health": 8,
+      "text": "At the end of your turn, summon two 3/3 Ruffians that attack random enemies.",
+      "flavor": "\"Prepare for trouble!\"\n\"Make it double!\" ",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ef362e2a7f439921bcef359de1be7c4b6b0360e606fd38c618b15af7d184e60.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_135",
+      "dbfId": 59569,
+      "name": "Turalyon, the Tenured",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 3,
+      "health": 12,
+      "text": "[x]<b>Rush</b>. Whenever this attacks\na minion, set the defender's\nAttack and Health to 3.",
+      "flavor": "\"Let evil flee before righteousness; let the innocent live in peace. Let the day come when none need fear. For that day, I give my life gladly.\"",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/081c0b3d6c3cfb77a546326bcbc9a999e61f7d843b9a8ef25855fe66efc50a91.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_354",
+      "dbfId": 60143,
+      "name": "Ancient Void Hound",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 9,
+      "attack": 10,
+      "health": 10,
+      "text": "[x]At the end of your turn,\nsteal 1 Attack and Health\nfrom all enemy minions.",
+      "flavor": "What happened to my 1/1 Void Pup? And the glee club?!",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcd9af8bd5c1a7cd78aa7e246c68196c50a9145efea6566161013a771df539c0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_621",
+      "dbfId": 59947,
+      "name": "Rattlegore",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 9,
+      "health": 9,
+      "text": "<b>Deathrattle:</b> Resummon this with -1/-1.",
+      "flavor": "He looks bad now, but he was pretty handsome in his 20/20s.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1dc5ce08ed7fa09e48de2d8cc23c7d374721e59a44b5b5bcb503889f8c124ba0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "SCH_140",
+      "dbfId": 59585,
+      "name": "Flesh Giant",
+      "cardSet": "Scholomance Academy",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 10,
+      "attack": 8,
+      "health": 8,
+      "text": "Costs (1) less for each time your hero's Health changed during your turns.",
+      "flavor": "\"A BIG mistake.\"",
+      "artist": "Ian Ameling",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "multiClassGroup": "Warlock/Priest",
+      "classes": [
+        "Priest",
+        "Warlock"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70d9ec6255c4571fb150bd26cf3d7505279d2df7ffdcb6630e653220d9e11067.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "SCH_609",
+      "dbfId": 59450,
+      "name": "Survival of the Fittest",
+      "cardSet": "Scholomance Academy",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 10,
+      "text": "Give +4/+4 to all minions in your hand, deck, and battlefield.",
+      "flavor": "Sometimes the fittest is the one smart enough to not start a fight with seven 6/6 Treants.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8e35546526f0efae2eb6fb0786e16da8596085c7280192ea93ac003668bd92e.png",
+      "locale": "enUS"
+    }
+  ]
+}

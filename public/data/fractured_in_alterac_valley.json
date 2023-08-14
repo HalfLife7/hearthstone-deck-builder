@@ -1,0 +1,3868 @@
+{
+  "Fractured in Alterac Valley": [
+    {
+      "cardId": "ONY_034",
+      "dbfId": 71292,
+      "name": "Curse of Agony",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "[x]Shuffle three Agonies\ninto the opponent's deck.\nThey deal Fatigue damage\nwhen drawn.",
+      "flavor": "Now, fools, you shall all understand my back pain!",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10f777d2d5e5c8b26b711c7b8e2b6e11873ec7549a2705b91b824e63cfe40764.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_209",
+      "dbfId": 67204,
+      "name": "Dreadprison Glaive",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "durability": 3,
+      "text": "[x]<b>Honorable Kill:</b> Deal\ndamage equal to your\nhero's Attack to the\nenemy hero.",
+      "flavor": "Keep your allies close. Keep your evil demons in your weapon.",
+      "artist": "Studio Hive ",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54f23a38ba7ac896b468dbdbbbd80963b90079cb28598b4ac4b10be5be5eedec.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_330",
+      "dbfId": 70026,
+      "name": "Gift of the Naaru",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "[x]Restore #3 Health to\nall characters. If any\nare still damaged,\ndraw a card.",
+      "flavor": "What do I look like, a charity?",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c30693b27e0db56e88a2d89b4cc9177f30d1328ad76f0e499f00364e23bdb1fe.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_121",
+      "dbfId": 70219,
+      "name": "Gnome Private",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]<b>Honorable Kill:</b> Gain\n+2 Attack.",
+      "flavor": "She's doing her part.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07c83b6f46ee507c23fa3a0a0f96471d2d317f992e49d787a71de1fccb477607.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_308",
+      "dbfId": 67826,
+      "name": "Grave Defiler",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Copy a Fel spell in your hand.",
+      "flavor": "She keeps her Fel spells nice and organized in her defiling cabinet.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0d7b8df9835b40036bc300f9e23e632ac7308be484a33abe0f2a3ce64862ea7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_023",
+      "dbfId": 71249,
+      "name": "Hit It Very Hard",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Gain +10 Attack and \"Can't attack heroes\" this turn.",
+      "flavor": "\"...and very fast.\"",
+      "artist": "L. Lullabi & A. Zemskov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be670289df8ed779d0435f3dd5ebdf6a35212accb84e83abf67af3ac3826019a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_137",
+      "dbfId": 70241,
+      "name": "Irondeep Trogg",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "[x]After your opponent\ncasts a spell, summon\n_another Irondeep Trogg.",
+      "flavor": "STOP AGGROING MORE!",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f25423eef2574d661c88c3f6ff54310bad9bc72094c5e7515b7b1a97e42fd28.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_142t",
+      "dbfId": 70257,
+      "name": "Ivus, the Forest Lord",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> Spend the rest of\nyour Mana and gain +2/+2,\n<b>Rush</b>, <b>Divine Shield</b>, or <b>Taunt</b>\nat random for each.",
+      "flavor": "He's always welcome at the local tavern, unlike a <i>certain</i> Ancient.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d38599b13a2e33834fc93510bcb6832352d7857f8a1f994e919069e814bc1d55.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_324",
+      "dbfId": 70020,
+      "name": "Shadow Word: Devour",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "Choose a minion.\nIt steals 1 Health from\n_ALL other minions.",
+      "flavor": "Devouring souls is like a buffet. You have to take a little bit of everything.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/821f4c1208e0d794ae4bca56911523ddae6b17c9e8c768331d97ff74aec8be06.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_114",
+      "dbfId": 67871,
+      "name": "Shivering Sorceress",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Reduce the Cost\nof the highest Cost spell\nin your hand by (1).",
+      "flavor": "Remember to use your sick days wisely.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a0147c5c11678a6ae62feecf14afb9471d257543b1e56f8b3b4f241ddae7a79.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_025",
+      "dbfId": 71251,
+      "name": "Shoulder Check",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "<b>Tradeable</b>\nGive a minion +2/+1 and <b>Rush</b>.",
+      "flavor": "One... two... yeah, all present and correct.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d4f07c9bc74ae0eba1b3b64a1bd61d80a0c079c6ea2ed96e0f85f22d7735c88.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Tradeable"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_266",
+      "dbfId": 67932,
+      "name": "Windchill",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Freeze</b> a minion.\nDraw a card.",
+      "flavor": "The thermometer says it\u2019s 0\u00b0 right now, but with the windchill it feels like -25\u00b0.",
+      "artist": "Todd Harris",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b0798e69d0308e9baa7d65ecab6030c54be4aa831f205a5e796c9b115594453.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_016",
+      "dbfId": 71239,
+      "name": "Wings of Hate (Rank 1)",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Summon two 1/1\nFelwings. <i>(Upgrades\nwhen you have 5 Mana.)</i>",
+      "flavor": "For one day each February, they become the Wings of Love. ",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd516015bec4a9ab0ff9a56ad9748c46c12de767776ec4d17d1d0f1021cb7a12.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_115",
+      "dbfId": 67873,
+      "name": "Amplified Snowflurry",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Your next Hero Power costs (0) and <b>Freezes</b> the target.",
+      "flavor": "I bet it\u2019s just exaggerating.",
+      "artist": "Junru Zhuo",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31c167d8cf80921bb83dcf905c8d653d41ba8276b003ae56cf1fc1d50f93e0e2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_022",
+      "dbfId": 71248,
+      "name": "Battle Vicar",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a\nHoly spell.",
+      "flavor": "She's the most down-to-earth paladin you'll ever meet... until she stands up.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f2965c7e534e2c03ecf4acef89f7970b079af00ba30fdab085bf350b062e218.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_118",
+      "dbfId": 69577,
+      "name": "Battleworn Vanguard",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]After your hero attacks,\nsummon two 1/1 Felwings.",
+      "flavor": "\"Welcome to Dun Baldar Felwings! Do you want 'em mild, spicy, or BURNING Legion?\"",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/137eb369cc1fc5456a674a9cd63db903b10055cc800d9da26e628a212d79fca3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_329",
+      "dbfId": 70025,
+      "name": "Bless",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Give a minion +2 Health,\nthen set its Attack to be\nequal to its Health.",
+      "flavor": "Bless is bmore.",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9b825990f17ef701cafceb3b143d87d01b2d6dd2096d81347a4a15d45fa5594.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_244",
+      "dbfId": 67574,
+      "name": "Bloodseeker",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "durability": 2,
+      "text": "<b>Honorable Kill:</b>\nGain +1/+1.",
+      "flavor": "What do you mean shooting them in the back isn\u2019t honorable?!",
+      "artist": "Studio Hive ",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d094d2dc5e7181032db49d7746fd88f1900f67b8aa9ce6da19ada8b12477cddd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_013",
+      "dbfId": 71236,
+      "name": "Bracing Cold",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Restore #5 Health to\nyour hero. Reduce the\nCost of a random spell\nin your hand by (2).",
+      "flavor": "Worst. Hug. Ever.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9bb74e3a1ebf254f0ff97934e993db8c3f9b0a9a68942b9105a4d9520c27d633.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_295",
+      "dbfId": 70320,
+      "name": "Capture Coldtooth Mine",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "<b>Choose One -</b> Draw your lowest Cost card;\nor Draw your highest\nCost card.",
+      "flavor": "We hit a huge haul! Or wait\u2026 no, it's just a coin.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c1044425c2d6d6e4354f44cef9ed2562b8614375a0a99ffe091a0a5c9329591.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_294",
+      "dbfId": 70295,
+      "name": "Clawfury Adept",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give all other friendly characters +1 Attack this turn.",
+      "flavor": "The Inept Clawfury is a danger only to themselves.",
+      "artist": "Clint Cearley",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d74cdcf48291aef0fff959b1f65b515a1d27bfc32ec124f8fc7259a49e110fdb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_122",
+      "dbfId": 70220,
+      "name": "Corporal",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Honorable Kill:</b> Give\nyour other minions\n<b>Divine Shield</b>.",
+      "flavor": "When he\u2019s sitting in the graveyard ready to rez, he\u2019s incorporal.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f6dc1b08c9dbb190200cfa29a61af25d44a48a72f3fa67c42c86ddfae9704c4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_010",
+      "dbfId": 71233,
+      "name": "Dragonbane Shot",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Deal $2 damage.\n<b>Honorable Kill:</b> Add a \nDragonbane Shot\nto your hand.",
+      "flavor": "<i>*Only effective against small dragons.</i>",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fdf85f2001eabb26edd40bebe9220d58c374d7b4dfcfa90cbd0ae1305f51f0c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_147",
+      "dbfId": 71321,
+      "name": "Dun Baldar Bunker",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]At the end of your\nturn, draw a <b>Secret</b> and\nset its Cost to (1).\nLasts 3 turns.",
+      "flavor": "Brutalist architecture for brutal times.",
+      "artist": "J. Paick & K. Turovec",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "howToGetGold": "Obtained by gaining Honor in Fractured in Alterac Valley.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29952de1b2dea3b4aea817fa8e0aea3262d8c0ff08d266a64fd9ff8adb8d9c01.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_661",
+      "dbfId": 72549,
+      "name": "Field of Strife",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Your minions have\n+1 Attack.\nLasts 3 turns.",
+      "flavor": "I heard it's lovely there around this time of year.",
+      "artist": "J. Paick & K. Turovec",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c94a9366acdb00be4562038195e2eb077dd8070a36eb1ff8bf3190c57cb72dec.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_601",
+      "dbfId": 76041,
+      "name": "Forsaken Lieutenant",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b><b>Stealth</b>.</b> After you play\na <b>Deathrattle</b> minion, become a 2/2 copy of it with <b>Rush</b>.",
+      "flavor": "WE didn\u2019t forsake him. He CHOSE to defend a tower against the entire Alliance front line by himself.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/875a58000287d7b2bcc4a0e878cea68137f9f1d45e7bc3e809c76939ae4a4541.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_259",
+      "dbfId": 67833,
+      "name": "Frostbite",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $3 damage.\n<b>Honorable Kill:</b> Your opponent's next spell costs (2) more.",
+      "flavor": "The sad reality of a raging toothpaste addiction.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db1658d157153eabdb0c99b22efe9030813056d48042e2ce9afbaad716f40e49.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_109",
+      "dbfId": 67194,
+      "name": "Frozen Buckler",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Gain 10 Armor. At the start of your next turn, lose 5 Armor.",
+      "flavor": "\"Hey, I bet I could shatter this.\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45750883b07bdf653b7b8370b62715b68ca2f746e3570cf284f16815bf95bd94.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ONY_008",
+      "dbfId": 71231,
+      "name": "Furious Howl",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Draw a card.\nRepeat until you have at least 3 cards.",
+      "flavor": "Hunters make the worst neighbors.",
+      "artist": "L. Lullabi & A. Zemskov",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe7d3bd744ca6a798d0bab2ec7b02192cc8a29c866d76b37ff4171964f082563.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_238",
+      "dbfId": 67375,
+      "name": "Gankster",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 4,
+      "health": 2,
+      "text": "[x]<b>Stealth</b>\nAfter your opponent plays\na minion, attack it.",
+      "flavor": "UGH! IM GETTING MY MAIN!",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd81d0957aab88856fa66a0336c03f0a32c6febd52322b835f30ba3482e3a249.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_226",
+      "dbfId": 67243,
+      "name": "Ice Trap",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "<b>Secret:</b> When your opponent casts a spell, return it to their hand instead. It costs (1) more.",
+      "flavor": "I literally watched the Hunter place it down in front of me and I still stepped in it.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3447b25ddf65b8128f6613a7ea8ea856d4f1c41da1c4b60104cf28730d8aa2df.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_660",
+      "dbfId": 72460,
+      "name": "Iceblood Garrison",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]At the end of your turn,\ndeal $1 damage to all_\nminions. Lasts 3 turns.",
+      "flavor": "On weekends, it hosts the local community theater rehearsals.",
+      "artist": "J. Paick & K. Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "howToGetGold": "Obtained by gaining Honor in Fractured in Alterac Valley.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c94a505580e3dc1a8e640898c52f8fef3df5061bc2a38ec68110b84514744a5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ONY_014",
+      "dbfId": 71237,
+      "name": "Keen Reflex",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "[x]Deal $1 damage to all\nminions. <b>Honorable Kill:</b>\nGain +1 Attack this turn.",
+      "flavor": "All of Onyxia's whelps were no match for Kurtrus' backflip.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d22650e8ded922e948a9999653c985fda624f852233cdda80c5d80a2df6b348c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_326",
+      "dbfId": 70022,
+      "name": "Luminous Geode",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "After a friendly minion is healed, give it +2 Attack.",
+      "flavor": "No take candle. BE CANDLE.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ec07b806628213d911daeebb8decb0dba89b5e4ee2ba2f314cbef7b09ee482c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_219",
+      "dbfId": 67233,
+      "name": "Ram Commander",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Add two\n1/1 Rams with <b>Rush</b>\nto your hand.",
+      "flavor": "Get your RAM in pairs for better performance.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Mary Had a Little Ram\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b48201bd4ea00c3a1e7afad17ca04071e6d013e5456ccc2d707a21805893bd8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_710",
+      "dbfId": 70202,
+      "name": "Reconnaissance",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Discover</b> a <b>Deathrattle</b> minion from another class. It costs (2) less.",
+      "flavor": "\u201cBut Commander, I already did the connaissance.\u201d",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fd8c50620d35ed0fb0dbd00b0084acbf8083a7ac968894b04180db4784758a9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_027",
+      "dbfId": 71253,
+      "name": "Ring of Courage",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Tradeable</b>\nGive a minion +1/+1. Repeat for each enemy minion.",
+      "flavor": "Now to find the Ring of Wisdom and Ring of Power.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65534dc796ae4dec2a0eb5c7a75b2726076adcae5726406805057c90b73b7398.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Tradeable"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_277",
+      "dbfId": 69986,
+      "name": "Seeds of Destruction",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Shuffle four Rifts\ninto your deck. They\nsummon a 3/3 Dread\nImp when drawn.",
+      "flavor": "May your harvest be dreadful.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68d8555d236606a9fc2e35bfc3e735b0d3311dd009adc6912538c9870da7e7e5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_212",
+      "dbfId": 67210,
+      "name": "Siphon Mana",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $2 damage.\n<b>Honorable Kill</b>: Reduce the Cost of spells in your hand by (1).",
+      "flavor": "Why spend mine when I can take yours?",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6e9153d07f6b973fc78c2a7263c67fd7b126adcb2f64bcd37ce167c56e3b9b3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_260",
+      "dbfId": 67861,
+      "name": "Sleetbreaker",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Add a Windchill to your hand.",
+      "flavor": "Likes chilly, hates chili.",
+      "artist": "Cheng Hao",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ef1cb4cbcf943996bcdf08447cf02d3f5f9ab71babe6f5161c4b1d1a2fef066.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_123",
+      "dbfId": 70221,
+      "name": "Sneaky Scout",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Stealth</b>\n<b>Honorable Kill:</b> Your next\nHero Power costs (0).",
+      "flavor": "Do you know what they call Scouts that aren't sneaky? Target practice.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d65c6fb297240683234bf9a5eb3d439e24e2e870e07a192c1cd6356511672591.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        },
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_012",
+      "dbfId": 71235,
+      "name": "Spirit Mount",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "[x]Give a minion +1/+2\nand <b>Spell Damage +1</b>.\nWhen it dies, summon\na Spirit Raptor.",
+      "flavor": "Bru'kan said his spirit would always be with us. He failed to mention that his raptor\u2019s would be too.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce66f430e8ee46e971db93b3548b9751b9262630703b8e8bb4a8f56106d1f490.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_401",
+      "dbfId": 70400,
+      "name": "Stormpike Quartermaster",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "After you cast a spell,\ngive a random minion in your hand +1/+1.",
+      "flavor": "Frozen funnel cakes taste just like ice cream, if you pretend real hard.",
+      "artist": "Sergey Tsvelykh",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/802f5f2e1b178e1d36bf004b9b743e26b93b83af6e30f3298eb347c495927bce.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_402",
+      "dbfId": 70488,
+      "name": "The Lobotomizer",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "durability": 2,
+      "text": "[x]<b>Honorable Kill:</b> Get a\ncopy of the top card\nof your opponent's\ndeck.",
+      "flavor": "This may hurt a little, but don't worry, you won't remember it.",
+      "artist": "Studio Hive ",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07c7a8d61d9a189ce29043299301be2b423829744bdae2852ee4ea6e4d805857.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_119",
+      "dbfId": 70012,
+      "name": "To the Front!",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Your minions cost (2) less this turn <i>(but not less than 1)</i>.",
+      "flavor": "Except healers. You go to the back.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/081c8daa4582104b1b9b5373f319eb0939219a6935732f629a31d3501d9cc3ec.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ONY_032",
+      "dbfId": 71289,
+      "name": "Tooth of Nefarian",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "[x]Deal $3 damage.\n<b>Honorable Kill:</b> <b>Discover</b> a\nspell from another class.",
+      "flavor": "Nefarian: Lord of Blackrock, creator of the chromatic dragonflight, victim of several root canals.",
+      "artist": "Ware Lee",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e5d3cec0d5bbe429c6b1e884d517ffa16f11f73bbfb94cef99c50cd9655ecda.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_213",
+      "dbfId": 67211,
+      "name": "Vitality Surge",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Draw a minion.\nRestore Health to your hero equal to its Cost.",
+      "flavor": "If your vitality lasts longer than four hours, consult a Priest.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a944aef00c633978a19bf12fd334a3e97f1b21f3b9f15c55a5c401783d6d01b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_282",
+      "dbfId": 70005,
+      "name": "Build a Snowman",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Summon a 3/3\nSnowman that <b>Freezes</b>.\nAdd \"Build a Snowbrute\"\nto your hand._",
+      "flavor": "This is the coolest spell once you get it rolling.",
+      "artist": "Moon Colony",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8dea0fa89988ed726eba4d4962a570645c126186d3e488f41d0e2ec141bd823.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_126",
+      "dbfId": 70226,
+      "name": "Bunker Sergeant",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> If your opponent\nhas 2 or more minions,\ndeal 1 damage to all\nenemy minions.",
+      "flavor": "Best hair in the valley.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e711a1bc9a48f34b05dec332e59fb46fc775b732c4cf893203354261fb63847.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_251",
+      "dbfId": 67761,
+      "name": "Cheaty Snobold",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "After an enemy is <b>Frozen</b>, deal 3 damage to it.",
+      "flavor": "This one will knock you out cold.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13f5d2fcd1e75205e46223ca3f278aa653adb6d88d437b582717c1b066aa3059.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_201",
+      "dbfId": 66874,
+      "name": "Coldtooth Yeti",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "text": "<b>Combo:</b> Gain +3 Attack.",
+      "flavor": "Its arrival heralds the Brain Freeze Yeti.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/747b65579b15afc9ddd67ad75f3490c5a0cb19ec9f5e0be17649bfa353c291cb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_315",
+      "dbfId": 67759,
+      "name": "Deliverance",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Deal $3 damage to a minion. <b>Honorable Kill:</b> Summon a new 3/3\ncopy of it.",
+      "flavor": "In 30 minutes or less, or else it\u2019s free!",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f20fa0137458874a4ac6c49e2ab12014d2993a8a98bb0f161c0d2928ada6fc8f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_657",
+      "dbfId": 72440,
+      "name": "Desecrated Graveyard",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]At the end of your turn,\ndestroy your lowest Attack\nminion to summon a\n4/4 Shade. Lasts 3 turns.",
+      "flavor": "People are dying to get in.",
+      "artist": "J. Paick & K. Turovec",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7743a947e683542c77b527cd1baa2ebf5f2709fc538f43eb41b0da88243d1bab.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_124",
+      "dbfId": 70223,
+      "name": "Direwolf Commander",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Honorable Kill:</b> Summon a 2/2 Wolf with <b>Stealth</b>. ",
+      "flavor": "When you\u2019re riding a wolf, it\u2019s in charge and you're allowed to make suggestions.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45da0e06aeab0927f745f6b3743269f8aa6d13068947dca347278df5fffc3188.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_711",
+      "dbfId": 70203,
+      "name": "Double Agent",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If you're holding\na card from another class,\n_summon a copy of this.",
+      "flavor": "And under the Alliance tabard? Another Horde tabard.",
+      "artist": "Samche Chen",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16f1a8d2ce14abfbc62a9468aa93fc538b3ad1e42e622a075aef5b62463a8f21.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_261",
+      "dbfId": 67886,
+      "name": "Flag Runner",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 6,
+      "text": "Whenever a friendly minion dies, gain +1 Attack.",
+      "flavor": "I see your argument, but\u2026do you have a flag?",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7cec211914314fc1a3aaafa48415cee2b096bf3d968abb8b3279741f287f36c5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_360",
+      "dbfId": 73528,
+      "name": "Frostwolf Kennels",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]At the end of your\nturn, summon a 2/2\nWolf with <b>Stealth</b>.\nLasts 3 turns.",
+      "flavor": "The #1 reason Alliance members defect to the Horde is to adopt a cute frostwolf puppy.",
+      "artist": "J. Paick & K. Turovec",
+      "collectible": true,
+      "playerClass": "Druid",
+      "howToGetGold": "Obtained by gaining Honor in Fractured in Alterac Valley.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4678674ab8082f33dd429fbb0fcb248cca822ee2e1d6ac3dd3becfdf1fe3c28f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_285",
+      "dbfId": 70107,
+      "name": "Full-Blown Evil",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Deal $5 damage randomly split among\nall enemy minions. Repeatable this turn.",
+      "flavor": "This isn\u2019t your average, everyday evil.\nThis is ADVANCED evil.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1500fc1edd512444cd435b3c761f55cd44270804fc1a010080e11e431457577.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_321",
+      "dbfId": 68244,
+      "name": "Glory Chaser",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "After you play a <b>Taunt</b> minion, draw a card.",
+      "flavor": "When you've reached the peak of competition twice, how hard can winning one valley be?",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dbd8d63124dacff2febadf72b4c56d1854de45739466c62aeb27917f4c8d346.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_138",
+      "dbfId": 70243,
+      "name": "Grimtotem Bounty Hunter",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 4,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Destroy an enemy <b>Legendary</b> minion.",
+      "flavor": "He\u2019ll take a big weight off your shoulders.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"1600 Dust Bounty\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a35e9c76c1322fcfcd0d0ff531b4d0a5ef42f792f7979631398f8a565a63c83.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_292",
+      "dbfId": 70249,
+      "name": "Heart of the Wild",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Give a minion +2/+2, then give your Beasts +1/+1.",
+      "flavor": "In each of us beats a wild heart. Except the Forsaken.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5825fe5f83dbc7568cb2cd39149b2dc019f79f89d35170bf54e4cb6b51e3a97.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_338",
+      "dbfId": 70260,
+      "name": "Hold the Bridge",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "[x]Give a minion +2/+1\nand <b>Divine Shield</b>.\nIt gains <b>Lifesteal</b> until\nend of turn.",
+      "flavor": "You! Shall not! Pass!",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8ab80be7a7e20d72fe7954f7c249080158a79ff6389127fadd470a1ee1e3522.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_017",
+      "dbfId": 71240,
+      "name": "Horn of Wrathion",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Draw a minion. If it's\na Dragon, summon two 2/1 Whelps with <b>Rush</b>.",
+      "flavor": "You can count the rings and find out Wrathion's true age.",
+      "artist": "Samche Chen",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a6fe3a2fcd1ad0e199237723dc90663482057689e289c0da5936d4a200801ae.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_136",
+      "dbfId": 70240,
+      "name": "Kobold Taskmaster",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Add 2\nArmor Scraps to your hand\nthat give +2 Health to\na minion.",
+      "flavor": "Fabled questgiver of the \u201cGet me candle\u201d, \u201cGet me another candle\u201d, and \u201cGet me 11 more candle\u201d questline.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0862f61c6eb1de8834c5c712c5518138e74607e379b195af4cbba1dd3ca48ebd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_210",
+      "dbfId": 67207,
+      "name": "Pathmaker",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Cast the other\nchoice from the last <b>Choose\nOne</b> spell you've cast. @<b>Battlecry:</b> {0}",
+      "flavor": "You can never choose the wrong path if you make your own.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2f4c8d6fd3540c9741d9f8d2d08760208ef5f1df949d766f57e61ed06fd12aa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_309",
+      "dbfId": 67753,
+      "name": "Piggyback Imp",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Summon a 4/1 Imp.",
+      "flavor": "Imp my ride.",
+      "artist": "Todd Harris",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5777ca24aceb4c92f5353de9eb50e87fb6f10f7a96a2fe2bca2c5d6e7b6b01d0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_102",
+      "dbfId": 66887,
+      "name": "Popsicooler",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Deathrattle:</b> <b>Freeze</b> two\nrandom enemy minions.",
+      "flavor": "Just passing through Alterac on its way to apply for a job at the Ice Cream Citadel.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c27384ded347005dbf3a94b94da05d7b2e7be872a4470be0563b69348277075b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_296",
+      "dbfId": 70333,
+      "name": "Pride Seeker",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Your next\n<b>Choose One</b> card costs\n(2) less.",
+      "flavor": "When you're putting your head in the lion's mouth, you may as well dress the part.",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc3f47185e71bb8b7c9618a9fee45647617afcc6155c492a21715f10fd73d62b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_335",
+      "dbfId": 70105,
+      "name": "Ram Tamer",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If you control a\n<b>Secret</b>, gain +1/+1\nand <b>Stealth</b>.",
+      "flavor": "Pump up the ram, pump it up. While your hooves are stompin\u2019.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0c00bd0bd198d658142c0b2b1aa8e3d42e0b599230fc975ea60bc9c1ce495aa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_256",
+      "dbfId": 79979,
+      "name": "Reflecto Engineer",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Swap the Attack and Health of all minions in both players' hands.",
+      "flavor": "The whole thing's based on the Rubber-Glue Phenomenon.",
+      "artist": "Martin Sickree",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc4428a8483fe365a068770aa7d2230315415cc55aaf31392a596fc9ff9a3342.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_333",
+      "dbfId": 70103,
+      "name": "Revive Pet",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "<b>Discover</b> a friendly Beast that died this game. Summon it.",
+      "flavor": "Best friends never really leave.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0dec57757f73797ac4eaa86ddee41e5fb9690a2e61ecd4d0a7f8158f3c65eb4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_312",
+      "dbfId": 67756,
+      "name": "Sacrificial Summoner",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Destroy a friendly minion. Summon a minion from your deck that costs (1) more.",
+      "flavor": "Summoning will cost you an arm and a brother.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b54e68b3729944061e18a3778f9ecea6d226e77bd9187e0fa2a2ab952b9ca432.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_345",
+      "dbfId": 72810,
+      "name": "Saidan the Scarlet",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Rush.</b> Whenever this minion gains Attack or Health, double that amount <i>(wherever this is)</i>.",
+      "flavor": "An orc mage accidentally kited him all the way from Stratholme.",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf4110f8cdb624fdc33b38a41a4dc40e0bc63e4890d3f5582e407f7400eb064c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_323",
+      "dbfId": 68255,
+      "name": "Scrapsmith",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Add two 2/4 Grunts with <b>Taunt</b> to your hand.",
+      "flavor": "Takes the ugly scraps of armor from dead players and combines them into ridiculous looking PVP armor sets.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e83e02b5335f687e53d32cfe03cd93b793b317b53f23ae2ed78b7c401eac10b2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_030",
+      "dbfId": 71294,
+      "name": "SI:7 Smuggler",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Summon a random\n@-Cost minion. <i>(Upgraded\nfor each other SI:7 card you\n_have played this game.)</i>",
+      "flavor": "After a while, Onyxia's regurgitated rats start to taste pretty good.",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8c7500e4448801282748f11cce8fb4c50dc94bcaf53888fa2194fe29104f53f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_250",
+      "dbfId": 67751,
+      "name": "Snowball Fight!",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Deal $1 damage to a minion and <b>Freeze</b> it.\nIf it survives, repeat this on another minion!",
+      "flavor": "Woahwoahwoah, we said no friendly fire!",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3757f22a856bd8dfe3ca51fce76f2ce8a5a7e7c89c5d4e850a7340d3903c4cfa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_112",
+      "dbfId": 67352,
+      "name": "Snowblind Harpy",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you're holding\na Frost spell, gain 5 Armor.",
+      "flavor": "Not snowblind; she can spot a level 51 noob over 40 yards away.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Snowblind? Sno Problem!\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1037269e3f7c3b8548da5a167d49ac87413d9ae9bd235bfd0928543c02b88bb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_322",
+      "dbfId": 68246,
+      "name": "Snowed In",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Destroy a damaged minion. <b>Freeze</b> all other minions.",
+      "flavor": "\u201cWhat do you mean school isn\u2019t cancelled?! It\u2019s a snow day!\u201d",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/851ec5ce819ba964641bfd8c81d4fcd2572f4308daa8a0bbc67603063b64b578.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_400",
+      "dbfId": 70396,
+      "name": "Snowfall Graveyard",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]Your <b>Deathrattles</b>\ntrigger twice.\nLasts 3 turns.",
+      "flavor": "Live fast, die twice.",
+      "artist": "J. Paick & K. Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eeba00f4be1fe2d72df6862d417c59c15d5a0f471ca46826b09623ec89f9bc32.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_343",
+      "dbfId": 70265,
+      "name": "Stonehearth Vindicator",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> Draw a spell\nthat costs (3) or less.\nIt costs (0) this turn.",
+      "flavor": "\u201cTrue strength comes from within your deck\u201d is a whole lot less inspiring.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ffe090ac3413cc73811e9bd67f303dfdf06a2bbfe7a95e6b71664babb273e01.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_664",
+      "dbfId": 72563,
+      "name": "Stormpike Aid Station",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]At the end of your turn,\ngive your minions +2\nHealth. Lasts 3 turns.",
+      "flavor": "Known by some as the \u201cStormpike Naptime Lounge.\u201d",
+      "artist": "J. Paick & K. Turovec",
+      "collectible": true,
+      "playerClass": "Priest",
+      "howToGetGold": "Obtained by gaining Honor in Fractured in Alterac Valley.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88aa10703d4a0cd902ee3cb0af5171aeb861a10dab190abf6c1bf5d32933a1e6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ONY_020",
+      "dbfId": 71244,
+      "name": "Stormwind Avenger",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "text": "After you cast a spell on this minion, it gains +2 Attack.",
+      "flavor": "\"I swear if you heal me I will DPS.\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a17b01fc37b8d313e8c06fd9b13a8f0d5e17951ccd78cb2aaa5949a57e8822dc.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ONY_003",
+      "dbfId": 71228,
+      "name": "Whelp Bonker",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "text": "<b>Frenzy and Honorable Kill:</b> Draw a card.",
+      "flavor": "Bonk!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5339b0825e2e9f7693352e8269ef0f890b95d802ffc09af86f7e4aaaeb041b53.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        },
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_116",
+      "dbfId": 67874,
+      "name": "Arcane Brilliance",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Add a copy of a 7, 8, 9, and 10-Cost spell in your deck to your hand.",
+      "flavor": "They could probably do with a dash of Arcane Humility.",
+      "artist": "Aaron Su",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10e4252302cedde8b6d7792ef5e4b90a22c353a9c3e5ff06b8effc38fa31d51f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_565",
+      "dbfId": 73459,
+      "name": "Axe Berserker",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Rush</b>. <b>Honorable Kill:</b>\nDraw a weapon.",
+      "flavor": "All the body spray went to her head.",
+      "artist": "Sergey Tsvelykh",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd11bfdaa08f1756b730047c349e3a9e15bcbd1978cbb846a1b98089c3851a5e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_211",
+      "dbfId": 67209,
+      "name": "Dire Frostwolf",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Stealth</b>\n<b>Deathrattle:</b> Summon a 2/2 Wolf with <b>Stealth</b>.",
+      "flavor": "Tips to survive a frostwolf attack:\n-Stay calm\n-Lay down\n-Drizzle steak sauce over your body\nBrought to you by the Frostwolf Council for Alliance Safety.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8873e1490fdb39bfef61b9b0564b9d0a22e31c2dffbd9cf550e8589430a8ed2f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_100",
+      "dbfId": 66875,
+      "name": "Drek'Thar",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry</b>: If this costs\nmore than every minion in\nyour deck, summon one\nof those minions.",
+      "flavor": "Inside your deck there are two wolves.\nOne is a frostwolf. The other is a frostwolf.\nYou are a Frostwolf.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"For the Stormpike!\" Achievement.",
+      "howToGetDiamond": "Obtained by purchasing the Diamond Drek'Thar Card.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3d62e04e49fbe6d888abd730348d36384909d7a26004aa1c0b6ac0176fc23ae.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_344",
+      "dbfId": 72807,
+      "name": "Dun Baldar Bridge",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "[x]After you summon a\nminion, give it +2/+2.\nLasts 3 turns.",
+      "flavor": "At least there's no fall damage in Hearthstone.",
+      "artist": "J. Paick & K. Turovec",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "howToGetGold": "Obtained by gaining Honor in Fractured in Alterac Valley.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c4622aee3f2c3dbeae876a214423002dd2c612db31716f6d72b46922b0a0e9f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_269",
+      "dbfId": 68216,
+      "name": "Flanking Maneuver",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Summon a 4/2 Demon with <b>Rush</b>. If it dies this turn, summon another.",
+      "flavor": "So, do we have advantage? Can I sneak attack?",
+      "artist": "L. Lullabi & A. Zemskov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b423b4c309d3538228f329daa6450f1a76836d48fd020d828ba51beb06c2cc17.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_134",
+      "dbfId": 70238,
+      "name": "Frostwolf Warmaster",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "Costs (1) less for each card you've played this turn.",
+      "flavor": "\u201cThe spoils of war ain\u2019t free\u2026 Unless you\u2019re me!\u201d",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Harder, Better, Warmaster, Stronger\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9d9ba128b0a66d14bae0b4d9b891717e877d2cc35afb0a15ee610b7b376b3b5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_128",
+      "dbfId": 70228,
+      "name": "Frozen Mammoth",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 6,
+      "health": 7,
+      "text": "This is <b>Frozen</b> until you\ncast a Fire spell.",
+      "flavor": "<i><b>*record scratch*</b></i> \"So, you may be wondering how I got here.\"",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3509c8b1d16e53b49276406ed442a2bdc5dbd1607211636cca12c841ead64703.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ONY_002",
+      "dbfId": 71227,
+      "name": "Gear Grubber",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Taunt</b>. If you end your turn with any unspent Mana, reduce this card's Cost by (1).",
+      "flavor": "Yeah, \u201cfor off-spec,\u201d suuuuure.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/209a0b010abc3bca381299fbe25af118424ba6dc7efd17c47de7e198ec04a896.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_101",
+      "dbfId": 66880,
+      "name": "Herald of Lokholar",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Draw a\nFrost spell.",
+      "flavor": "\u201cI don\u2019t care how hot it is. I am not going over there to be your air conditioning.\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Look! Holar!\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0c442f87604cc65874ffa7f79843addd3c463f1be9a77a4b0b0bfd886148bac.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_127",
+      "dbfId": 70227,
+      "name": "Ice Revenant",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "Whenever you cast a Frost spell, gain +2/+2.",
+      "flavor": "There must have been some magic in that old ice mace we found.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cec5fcffdd033b5da89e950ae74f4b794cb788cac183021e19aeb9c73170f291.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_143",
+      "dbfId": 70258,
+      "name": "Korrak the Bloodrager",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]<b>Deathrattle:</b> If this\nwasn't <b>Honorably Killed</b>,\nresummon Korrak.",
+      "flavor": "\u201cI live, I love, I slay, and I am undying.\u201d",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGetDiamond": "Unlockable after purchasing the Fractured in Alterac Valley Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b19d7b852d5c5ae7d0a55344c6a1e8b70bcbc94e37bec49ee8aa338c20ffe1a9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_026",
+      "dbfId": 71252,
+      "name": "Lightmaw Netherdrake",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you're holding\na Holy and a Shadow spell, deal 3 damage to all other minions.",
+      "flavor": "Do you think it's a glass half full kind of Netherdrake, or a glass half empty, inescapable void kind of Netherdrake?",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3f0fae0428e86a11671c30dab9f16042583378fe3e5b46d64fdb17503b88e1c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_331",
+      "dbfId": 70027,
+      "name": "Najak Hexxen",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 1,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Take control of\nan enemy minion.\n<b>Deathrattle:</b> Give the\nminion back.",
+      "flavor": "\"I've got friends on the other side... of the battlefield.\"",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/624485d06d20eb0585d8c65c1f197eb12616b646427c343a591d34be254d9461.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_024",
+      "dbfId": 71250,
+      "name": "Onyxian Drake",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\n <b>Battlecry:</b> Deal damage\nequal to your Armor to\nan enemy minion.",
+      "flavor": "The best offense is a great defense.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09fd60eb76a85da85d0ed946a9f1421aa6d743a62c793cf0af72f95fa16413ff.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_019",
+      "dbfId": 71242,
+      "name": "Raid Negotiator",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Choose One</b> card. It has\nboth effects combined.",
+      "flavor": "\"What do you mean by aggressive negotiation tactics?\"\n\"Negotiations in bear form.\"",
+      "artist": "Moon Colony",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79541c0438dde3362f7ad7a46b3b1146c8cc52086daa380a9d76c30c30af0f96.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_036",
+      "dbfId": 68262,
+      "name": "Razorglaive Sentinel",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "After you play the left or right-most card in your hand, draw a card.",
+      "flavor": "For the worgen that has everything: more claws.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1dda97f2bf17556c86ba973a814d54c605a94c6627fc5a6d149c415a7890bc8e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_224",
+      "dbfId": 67241,
+      "name": "Spring the Trap",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "Deal $3 damage to a minion and cast a <b>Secret</b> from your deck. <b>Honorable Kill:</b> Cast 2.",
+      "flavor": "Talk about starting off on the wrong foot.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccbb5b45f915a9f9bcadf9a900b2aa6612e4790887dc33a3a8b96ee149d0b664.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_334",
+      "dbfId": 70104,
+      "name": "Stormpike Battle Ram",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]<b>Rush</b>\n<b>Deathrattle:</b> Your next\nBeast costs (2) less.",
+      "flavor": "Baa ram ewe! To your dwarves, your beard, Stormpike clan be true!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/924b78d155f7a4104aaf7ad5233d304e48a4b0935edcfa5097c19249449a01a4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_135",
+      "dbfId": 70239,
+      "name": "Stormpike Marshal",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\nIf you took 5 or more damage\non your opponent's turn,\nthis costs (1).",
+      "flavor": "The Stormpike have a very direct take on life insurance.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"One For All, Marshall For 1!\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1089961e381b1e63b43f44c00ffaaaf87535c37486d1c4b8df4726b1a25369cb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_317",
+      "dbfId": 67825,
+      "name": "Tamsin's Phylactery",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 4,
+      "text": "<b>Discover</b> a friendly <b>Deathrattle</b> minion that died this game. Give your minions its <b>Deathrattle</b>.",
+      "flavor": "<i>Eau de Morte.</i> Guaranteed to take your date\u2019s breath away",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6565c9538e743fd78aaa7fca3c5109461408946dd4ab4b193deca910c3919f22.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_125",
+      "dbfId": 70225,
+      "name": "Tower Sergeant",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you control at_least 2 other minions, gain +2/+2.",
+      "flavor": "Best helmet in the valley.",
+      "artist": "Juyoung Oh",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a872029ba741d9c58a75396764952edc72480f0b7daf2c36633829a683329033.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_223",
+      "dbfId": 67239,
+      "name": "Vanndar Stormpike",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry</b>: If this costs\nless than every minion\nin your deck, reduce\ntheir Cost by (3).",
+      "flavor": "His favorite modes of transportation? Van, car, board, bike.",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"For the Frostwolves!\" Achievement.",
+      "howToGetDiamond": "Obtained from the Alliance winning the Battle for Alterac Valley event.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf123f9e17eed80db0f1572b98a55864ded296bcae81aaffedc626ffe1e80aaf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_262",
+      "dbfId": 67887,
+      "name": "Warden of Chains",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> If you're holding\na Demon that costs (5) or\nmore, gain +1/+2.",
+      "flavor": "Can\u2019t stay out too late. I gotta head back home to the ol\u2019 ball and chained demon.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09beec71c041f59c94dc9c61a372afb1349d62ea6dcb6ace7b1b35d63cd856de.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_268",
+      "dbfId": 68187,
+      "name": "Wildpaw Cavern",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "[x]At the end of your\nturn, summon a 3/4\nElemental that <b>Freezes</b>.\nLasts 3 turns.",
+      "flavor": "Adventurers were quite confused when they saw how many boots were frozen to the ceiling.",
+      "artist": "J. Paick & K. Turovec",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a65b080fbc98d81ca310487ee001b79fa98a773558b8629dc5222adba9d6a09.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_293",
+      "dbfId": 70292,
+      "name": "Wing Commander Mulverick",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "[x]<b>Rush</b>. Your minions have\n\"<b>Honorable Kill:</b> Summon a_\n2/2 Wyvern with <b>Rush</b>.\"",
+      "flavor": "\u201cA board full of 2-Health minions? This is what I call a target rich environment.\u201d",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a21279ba194b30cb997ee1baf67a4519ca371209a3a2cda28b4427920e6d44f5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_129",
+      "dbfId": 70231,
+      "name": "Blood Guard",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "text": "Whenever this minion takes damage, give your minions +1 Attack.",
+      "flavor": "Has never donated blood and doesn\u2019t plan on ever doing so.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f603360e713585ab0fd2ea3db744112a2a465e8da98f682e020348093e8c6c42.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ONY_018",
+      "dbfId": 71241,
+      "name": "Boomkin",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Choose One - </b>Restore\n8 Health to your hero; or Deal 4 damage.",
+      "flavor": "Some Druids consider balance to be a state of harmony between the Natural and the Arcane. Others are more focused on the balance of the opponent\u2019s life total versus their own.",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f163ace21e56e5430eea36a94cea2fa5eb077ad4d15556d37b17dd6a48bf76bb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_341",
+      "dbfId": 70264,
+      "name": "Cavalry Horn",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "durability": 2,
+      "text": "<b>Deathrattle:</b> Summon the lowest Cost minion in your hand.",
+      "flavor": "The clarion call of the Alliance skipping every objective and going straight to Drek\u2019Thar.",
+      "artist": "Michaela Nienaber",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2092db87796d07c94f38de547b36bdf58b104e56f18b7aac90aa5a4cf5fcbcd9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_403",
+      "dbfId": 70523,
+      "name": "Cera'thine Fleetrunner",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Replace your\nminions in hand and deck\n with ones from other classes.\nThey cost (2) less.",
+      "flavor": "World Record CTF Champion 16 years running.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32fc0e188a248b3a1eed45f117f2eccff8399557d8bb3b01b43d2918234e0dd6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_405",
+      "dbfId": 70636,
+      "name": "Contraband Stash",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Replay 5 cards from other classes you've played this game.",
+      "flavor": "\u201cCoggsprocket! We happy?\"\n\"Yeah, we happy.\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da47c51f765950e096e0512a6f8d6c6f80acd57d7df0699f67396640adab45a7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ONY_006",
+      "dbfId": 71229,
+      "name": "Deep Breath",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "[x]Deal $@ damage to a\nminion and its neighbors.\n<i>(Improved by number of_\nother spells in your hand.)</i>",
+      "flavor": "I SAID \"RELAX!\"",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/252ea671d3032cad0ea89d4759ec91cd94154a461a193d168d99e82668b6042f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ONY_011",
+      "dbfId": 71234,
+      "name": "Don't Stand in the Fire!",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Deal $10 damage randomly split among all enemy minions. <b>Overload:</b> (1)",
+      "flavor": "Apparently the \u201cCaution: Hot Surface\u201d sign had burned up.",
+      "artist": "L. Lullabi & A. Zemskov",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1492172e9d4b3a48fb37f6748b75c6473db53244bb458bc70d6b2b413966f3b4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_281",
+      "dbfId": 70003,
+      "name": "Felfire in the Hole!",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Draw a spell and deal $2 damage to all enemies. If it's a Fel spell, deal $1 more.",
+      "flavor": "Fear not, feebleminded friends, for failure to fell your foes with felfire is fundamentally farfetched!",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/225c5e8505a71a72dea371f57fc328fabc4ee439596ca8effef9189bd0002f9b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_215",
+      "dbfId": 67217,
+      "name": "Frantic Hippogryph",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "text": "<b>Rush</b>. <b>Honorable Kill</b>:\n_Gain <b>Windfury</b>._",
+      "flavor": "It's killed and it'll kill again!",
+      "artist": "Martin Sickree",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Flappy Bird\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3c83cd04c7a84c57b80496ef401a70f936a3ca07d73d5f94cdea7e1f408d062.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        },
+        {
+          "name": "Windfury"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_313",
+      "dbfId": 67757,
+      "name": "Hollow Abomination",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 2,
+      "health": 8,
+      "text": "[x]<b>Battlecry:</b> Deal 1 damage to\nall enemy minions.\n<b>Honorable Kill:</b> Gain the\nminion's Attack.",
+      "flavor": "As soon as you land your first Honorable Kill, trust me, you'll be hooked!",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2afeae75aea89a7657d998b712d2f3c91129bce0717dfbbb810595cffb9f00ee.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_131",
+      "dbfId": 70234,
+      "name": "Knight-Captain",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Deal 3 damage.\n<b>Honorable Kill:</b> Gain +3/+3.",
+      "flavor": "Very dangerous shoulder-to-ears situation here.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d739ea5a8f8f0b133078a12153122d7cd578d7aa0699e445f420e8666d615864.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_001",
+      "dbfId": 71226,
+      "name": "Onyxian Warder",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> If you're holding\na Dragon, summon two\n2/1 Whelps with <b>Rush</b>.",
+      "flavor": "Throwing more whelps at the problem might not help, but they certainly will hurt.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50d88f694402851397cc8763a353bd2e7e80ec0b87fa69f7874c24a6419f2c15.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_009",
+      "dbfId": 71232,
+      "name": "Pet Collector",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Summon a Beast from your deck that costs (5) or less.",
+      "flavor": "\"And I'll call you Mrs. Snugglepants, and you Bubblecuddle, and you Cutie Cakes, and you ...\"",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c840fc2498af7f204c0cdb1547650ab02c764b97f835b893879058057ba07c73.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_342",
+      "dbfId": 70263,
+      "name": "Protect the Innocent",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Summon a 5/5 Defender with <b>Taunt</b>. If your hero was healed this turn, summon another.",
+      "flavor": "\"Quick, strike a super hero pose!\"",
+      "artist": "L. Lullabi & A. Bozonnet",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34dd862bcb090f2ad832cef7ea33cb30cd0a6d52c41f17899f68811ad9d14537.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_264",
+      "dbfId": 67892,
+      "name": "Sigil of Reckoning",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "At the start of your next turn, summon a random Demon from your hand.",
+      "flavor": "\u201cIt\u2019s dangerous \u2018round these parts, I reckon.\u201d",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85739a83d7db53269ee501448e3a5de1224875dccb974e8e714c44a8496846b7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_222",
+      "dbfId": 67237,
+      "name": "Spammy Arcanist",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Deal 1 damage\nto all other minions.\nIf any die, repeat this.",
+      "flavor": "You don't <i>have</i> to jump while spamming, but it\u2019s more fun that way.",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ffd589fe37ee9eff1e246f606b728486a56fed6a2379dd1398631fc473d08c0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_035",
+      "dbfId": 71295,
+      "name": "Spawn of Deathwing",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Destroy a random enemy minion. Discard a random card.",
+      "flavor": "Aww, who\u2019s the most dangerous threat to the world? You are!",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9179f2f91eec6cfc589a9ac454afbedcd1323f51fa02bbd6e3495750a5f71b06.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_328",
+      "dbfId": 70024,
+      "name": "Spirit Guide",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Draw a\nHoly spell and a\nShadow spell.",
+      "flavor": "\"Hey Jake.\"\n\"Back again?\"\n\"Yup.\"\n\"See you in 2 minutes.\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6bbf09809c4d6d46c2a04af08310137191c43121a108a405b36a95b633750fba.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_205",
+      "dbfId": 66953,
+      "name": "Wildheart Guff",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 5,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Set your\nmaximum Mana to 20.\nGain an empty Mana\nCrystal. Draw a card.",
+      "flavor": "Guff faced his biggest challenge yet: making friends on a battlefield.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a17b07ac17e361985c2a376e6a21383fed1dd1ff0077ebe91f2141adae5c5fca.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_298",
+      "dbfId": 70395,
+      "name": "Wildpaw Gnoll",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]<b>Rush</b>\nCosts (1) less for each\nnon-Rogue Class card added\nto your hand this game.",
+      "flavor": "A big fan of four-claw discounts.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd140a02fd6ed0480ed7794a04878fccd85faf76aa21e32d14de0bc8181176db.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_284",
+      "dbfId": 70015,
+      "name": "Balinda Stonehearth",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Draw 2 spells. Swap their Costs with this minion's stats. ",
+      "flavor": "Imagine her surprise, ending up in a game called Hearthstone.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "howToGetDiamond": "Obtained by owning 25 Fractured in Alterac Valley Legendary cards.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83983b2c2d9bde21c413c91c77b48baf29e2923915abfd7ff7b56702a04eaa4d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_113",
+      "dbfId": 67803,
+      "name": "Beaststalker Tavish",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 6,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b>\nand cast 2 Improved\n<b>Secrets</b>.",
+      "flavor": "Tavish left home to forge his own path. But it still led him back to Alterac to kick some Frostwolf butt.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad617a57d678a1d9d5ae1125c5f69d929c00704d5802a4f4f228eeb98255c783.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_145",
+      "dbfId": 70282,
+      "name": "Captain Galvangar",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> If you have\ngained 15 or more Armor\nthis game, gain +3/+3\nand <b>Charge</b>.@ <i>({0} left!)</i>@ <i>(Ready!)</i>",
+      "flavor": "It wasn't the ravages of war that took Galvangar, it was hypothermia.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b9788bf50e5c68a465a9bce738ec97d8e30304b94381ad40fc1dcbcd6ef59ef.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Charge"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_267",
+      "dbfId": 68061,
+      "name": "Caria Felsoul",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Transform into a 6/6 copy of a Demon in your deck.",
+      "flavor": "This is what happens when you keep taking the advice of the little demon on your shoulder.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/210d2f17fb76fca85a074f1a7db1bd3e61aeec30aca12769cc167b27b5c90c2d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_316",
+      "dbfId": 67760,
+      "name": "Dreadlich Tamsin",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 6,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Deal 3 damage\nto all minions. Shuffle 3\nRifts into your deck.\nDraw 3 cards.",
+      "flavor": "At a certain point, you stop mocking death and start becoming it.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed8dbb1529a06b84a3521714a192620f340bcf52b4a1c5a0f7f337734c9a06cb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_286",
+      "dbfId": 70118,
+      "name": "Felwalker",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 3,
+      "health": 7,
+      "text": "<b>Taunt</b>. <b>Battlecry</b>: Cast the highest Cost Fel spell from your hand.",
+      "flavor": "How it feels to chew Fel Gum.",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8487a0f9f820925f5df406541194235133a2045870430ef1416693c9caeed5f7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_107",
+      "dbfId": 67192,
+      "name": "Glaciate",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "<b>Discover</b> an 8-Cost minion. Summon and <b>Freeze</b> it.",
+      "flavor": "We now have a more accurate answer to the age-old question \"What's cooler than being cool?\"",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/211c1554b538da380e9d004459e58ccf39eef75cb30fa0b9b9d41f20aec9c741.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_133",
+      "dbfId": 70236,
+      "name": "Icehoof Protector",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 2,
+      "health": 10,
+      "text": "<b>Taunt</b>\n<b>Freeze</b> any character damaged by this minion.",
+      "flavor": "I can't feel my axe!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9237ff7c8dc85f9685da690b32357fffb9f4c666242dd96d7069ecb41cf2f129.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_033",
+      "dbfId": 67758,
+      "name": "Impfestation",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Summon a 3/3\nDread Imp to attack each enemy minion.",
+      "flavor": "Call the imp-sterminator!",
+      "artist": "L. Lullabi & A. Zemskov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52d0370abca2e7551d1b5f67eefc4b63ad7a521ce681450883e8852b4341cd99.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_204",
+      "dbfId": 66951,
+      "name": "Kurtrus, Demon-Render",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 6,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Summon two\n@/4 Demons with <b>Rush</b>.\n<i>(Improved by your hero\nattacks this game.)</i>",
+      "flavor": "\"I dedicated my life to vanquishing demons, but I never thought to face the demons in me. Maybe, in time, I can help quell the demons in you.\" -Kurtrus, to Cariel",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c0ed0dbc0123caf262ee9194b4d7f2aa241943d35050c7962d6bda9c57b2a46.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_130",
+      "dbfId": 70232,
+      "name": "Legionnaire",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 9,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Give all minions in your hand +2/+2.",
+      "flavor": "<i>*not related to the Burning Legion</i>",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36cf4b5489f8bfbbabe2a8b91dda2f29b5eed76b1d5a738b3fe88372789ba213.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_028",
+      "dbfId": 71254,
+      "name": "Mi'da, Pure Light",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "text": "[x]<b>Divine Shield</b>, <b>Lifesteal</b>\n<b>Deathrattle:</b> Shuffle a Fragment\ninto your deck that resummons\nMi'da when drawn.",
+      "flavor": "Unfortunately, Mi\u2019da\u2019s touch will not turn things to gold.",
+      "artist": "Wayne Wu",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d48fbf3286446ece0f11113586760692a30fc66695ee66fbd61269de7dac2a16.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_255",
+      "dbfId": 67769,
+      "name": "Snowfall Guardian",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> <b>Freeze</b> all\nother minions.",
+      "flavor": "You\u2019re finally awake! That fall looked really bad. Demon Hunters? Mercenaries? What are you talking about? Come on, I just unpacked a Golden Moorabi, let\u2019s go build a Freeze Shaman deck.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/168038697ab28bf9e6d1a1e310d9e617285da0401f99d3ccac8be0035dce5363.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_325",
+      "dbfId": 70021,
+      "name": "Undying Disciple",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 3,
+      "health": 7,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Deal damage\nequal to this minion's Attack\nto all enemy minions.",
+      "flavor": "We get it, you're undead. But jumping out of a grave? That's a bit much.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/508a2465b507a6e36f9b740ef0cec828e4618afa95eeb5e3cc7729149b45be16.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_257",
+      "dbfId": 67778,
+      "name": "Bearon Gla'shear",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> For each Frost\nspell you've cast this game,\nsummon a 3/4 Elemental\nthat <b>Freezes</b>.@ <i>(@)</i>",
+      "flavor": "When you get hit by a royally bad pun, you just have to grin and bear it.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03deb3f7f818ce5d6a7a0863fde453b1e3aef678b5fba533694240313296577b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_291",
+      "dbfId": 70247,
+      "name": "Frostsaber Matriarch",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>. Costs (1) less\n for each Beast you've\n_summoned this game.",
+      "flavor": "They say \u201cdon\u2019t poke the bear\u201d, but they NEVER said \u201cdon\u2019t poke the frostsaber or her cubs\u201d.",
+      "artist": "Cheng Hao",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29f91eb60543c827e67d505fed445e9eeba065ffc5d8c59eec8b13317f090c00.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_704",
+      "dbfId": 67927,
+      "name": "Humongous Owl",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 8,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Deal 8 damage to a random enemy.",
+      "flavor": "\"Humongous what?\" -Torug's last words.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e79d91ea28b51d0105f186c672148c87be8550097bce8593bf7dd15dd4490214.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_200",
+      "dbfId": 66848,
+      "name": "Magister Dawngrasp",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 7,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Recast a\nspell from each spell\nschool you've cast\n this game.",
+      "flavor": "Magister is a humble title for one who united warring armies against the greatest threat to Azeroth.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed6537d196c0648ad03261a1e23e579b02d8aa392db7239b42e1debc86135433.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_218",
+      "dbfId": 67224,
+      "name": "Mass Polymorph",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 7,
+      "text": "Transform all minions into 1/1 Sheep. ",
+      "flavor": "Sheep in Frostwolves' clothing.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67c6206e1b3a272949f8c503129fbe4c7bf10b90e5a20dce2fb2920e62e2ad14.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_337",
+      "dbfId": 70245,
+      "name": "Mountain Bear",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 5,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Summon two\n2/4 Cubs with <b>Taunt</b>.",
+      "flavor": "If they want your picnic basket, I recommend giving it to them.",
+      "artist": "Todd Harris",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b59d61a3228e72ab8a29eabadc55dee85fc0052fa538929d0510bdd13e09fe43.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_202",
+      "dbfId": 66876,
+      "name": "Rokara, the Valorous",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 7,
+      "health": 30,
+      "armor": "10",
+      "text": "<b>Battlecry:</b> Equip a 5/2 Unstoppable Force.",
+      "flavor": "As strong-willed and stubborn as her first day in the Horde, Rokara now wielded a weapon that rivaled even her tenacity.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17a0fd9cd30a964b9fad7a8b0ec6ce9eb21cd2ba261edd79549deb6bbacf740a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_021",
+      "dbfId": 71247,
+      "name": "Scale of Onyxia",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 7,
+      "text": "Fill your board with 2/1 Whelps with <b>Rush</b>.",
+      "flavor": "Whelp for scale.",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/842f8454646e476a5a9ea268669deea1929be366fca47e67d15b42c27694de85.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_139",
+      "dbfId": 70244,
+      "name": "Abominable Lieutenant",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 3,
+      "health": 5,
+      "text": "At the end of your turn,\neat a random enemy minion and gain its stats.",
+      "flavor": "If you can't join 'em, eat 'em.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f0744ce4ef526643b437a3ffe5bcbea2b462eca83b7526a5b6a28eb92f4b604.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_340",
+      "dbfId": 70261,
+      "name": "Brasswing",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 9,
+      "health": 7,
+      "text": "[x]At the end of your turn, deal\n2 damage to all enemies.\n<b>Honorable Kill:</b> Restore 4\nHealth to your hero.",
+      "flavor": "I\u2019ve seen this before. You just have to time it right to avoid the dragon.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/311f81047c987e35f3cfdeb46cb73273fca437d087289256ff0788728da2d2f3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_258",
+      "dbfId": 67779,
+      "name": "Bru'kan of the Elements",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 8,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Call upon the\npower of two Elements!",
+      "flavor": "The elements crackled through Bru'kan's veins and his life flashed before his eyes. He knew this moment would come, but he wondered, had he given them enough?",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcd7bc2cf495be9fc4b6710ec71ca38f8302b8955887f7ad4e9a123b06c64e1f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_007",
+      "dbfId": 71230,
+      "name": "Haleh, Matron Protectorate",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 4,
+      "health": 12,
+      "text": "After you cast a spell, deal 4 damage randomly split among all enemies.",
+      "flavor": "Oh, how do you solve a problem like Onyxia?",
+      "artist": "Mark Zug",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1105ff613004443d079b4d6237f75b73f090c6e05a6c327b1a2c5fdb3bc23801.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ONY_005",
+      "dbfId": 71684,
+      "name": "Kazakusan",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Battlecry:</b> If you played 4\nother Dragons this game,\ncraft a custom deck\nof Treasures.@ <i>({0} left!)</i>@ <i>(Ready!)</i>",
+      "flavor": "Kazakus had always seemed too clever a sort to bottle a brew that could do him any harm. Perhaps it should come as no surprise, then, that the originator of the Dragonfire Potion was a dragon himself.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05966b3a48e6656f9bc2f3db0e1dc536a57c3707b22b807389a66456f1120bf4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_206",
+      "dbfId": 67040,
+      "name": "Lightforged Cariel",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 8,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Deal 2\ndamage to all enemies.\nEquip a 2/5\nImmovable Object.",
+      "flavor": "Her faith, unshakable.\nHer shield, immovable.\nHer enemies, irredeemable.",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e4edb4ccb4d903b7dc7b537e1d0656ee5409e0bc49f6249066992bedabfa214.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_203",
+      "dbfId": 66939,
+      "name": "Shadowcrafter Scabbs",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 8,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Return all\nminions to their owner's \nhands. Summon two 4/2\nShadows with <b>Stealth</b>.",
+      "flavor": "Sneaking behind enemy lines isn't so different from being a line cook. People are hostile, something's on fire, and your only hope is to get out of there with all your fingers.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dbff87addbc04cf1a85aace8626e79dd9a230aece8d047968b344b72b43c5199.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_031",
+      "dbfId": 71293,
+      "name": "Smokescreen",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 8,
+      "text": "[x]Draw 5 cards. Trigger\nany <b>Deathrattles</b> drawn.",
+      "flavor": "Pocket smoke!",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c371e74a3fac688782495b97966399fd12bd82072aedf6573520e63e9f6cefe.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_339",
+      "dbfId": 70262,
+      "name": "Templar Captain",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Rush</b>. After this attacks\na minion, summon a 5/5\nDefender with <b>Taunt</b>.",
+      "flavor": "You can combine two of these into a Captain Archon.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d96f0e947ab2f69386490e4d9cec1c25ecba6452f80a933af2a8a569e2af913.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_132",
+      "dbfId": 70235,
+      "name": "Troll Centurion",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Rush</b>. <b>Honorable Kill:</b>\nDeal 8 damage to the\nenemy hero.",
+      "flavor": "Centurion? Ha, come back when you\u2019re a millennion.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/770a49ca66d3ae8c806450500ccd5c54b87c0f7647cb477fa9ec637fa8346a1f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Honorable Kill"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_207",
+      "dbfId": 67048,
+      "name": "Xyrella, the Devout",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 8,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Trigger the\n<b>Deathrattle</b> of every\nfriendly minion that\ndied this game.",
+      "flavor": "Xyrella thought she was only saving her daughter. Her actions may very well have saved the entire world.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f059b78718abf6f7e996938625fe26fbf207d362b97051737585a8e3bdd3ed1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_283",
+      "dbfId": 70011,
+      "name": "Rune of the Archmage",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 9,
+      "text": "[x]Cast 20 Mana worth of\nMage spells at enemies.",
+      "flavor": "\u201cIt\u2019s not a slot machine! It took YEARS of rigorous studying the intricacies of the universe to unravel the strands of reality. The arcane knowledge alone would enfeeble even the most brilliant of minds. Give it the credence it deserves. It\u2019s a <i>magic</",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b21b82c73f3d92b07ec423d76f20c27ef40e6770c3f34d6bed4b99309c9a616.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_336",
+      "dbfId": 70106,
+      "name": "Wing Commander Ichman",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 5,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Summon a Beast\nfrom your deck and give it\n<b>Rush</b>. If it kills a minion\nthis turn, repeat.",
+      "flavor": "\u201cMulverick, it\u2019s not your flying, it\u2019s your faction.\u201d",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0918ac137c752acc7217fa5313994321cd904d20969ee63c3f64f5d5e8101ad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_029",
+      "dbfId": 71290,
+      "name": "Drakefire Amulet",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 10,
+      "text": "<b>Tradeable</b>\n<b>Discover</b> 2 Dragons. Summon them.",
+      "flavor": "\"...and I only had to climb up the mountains in Winterspring 50 times!\"",
+      "artist": "Mark Zug",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d3c66355928deee0afbcdcef3b2b3898367bfdeca7b4c9c66d38d5bceaffa0b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Tradeable"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_290",
+      "dbfId": 70204,
+      "name": "Iceblood Tower",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 10,
+      "text": "[x]At the end of your turn,\ncast another spell from\nyour deck. Lasts 3 turns.",
+      "flavor": "\u201cWhy is it called Iceblood Tower?\u201d\n\u201cNot really sure. Anyways, try not to lose your footing on any of the frozen bodies as you make your way in.\u201d",
+      "artist": "J. Paick & K. Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "howToGetGold": "Obtained by gaining Honor in Fractured in Alterac Valley.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed47bde95b51fc4df25ecef09e4752d4a51be9945d761d507116a391b1e34afa.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_141t",
+      "dbfId": 70255,
+      "name": "Lokholar the Ice Lord",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Rush</b>, <b>Windfury</b>\n Costs (5) less if you have 15 Health or less.",
+      "flavor": "Suddenly the names of Iceblood Tower and Iceblood Garrison make a lot more sense.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked with \"Congealing Essence\" Achievement.",
+      "howToGetGold": "Earnable on the Fractured in Alterac Valley Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/897ae16e0c30d7f4d9632814761b893c6ab2e535289a11d6bfdaa11d65bc00c3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "ONY_004",
+      "dbfId": 71333,
+      "name": "Raid Boss Onyxia",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Rush</b>. <b>Immune</b> while\nyou control a Whelp.\n<b>Battlecry:</b> Summon six\n_2/1 Whelps with <b>Rush</b>.",
+      "flavor": "Onyxia chose her guises to manipulate mortals, but her true form? That was reserved for ending them.",
+      "artist": "Alex Stone",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f718645fad8e2039f8f76ac36f5699e1444055404b48625be27b063df00b6363.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "AV_108",
+      "dbfId": 67193,
+      "name": "Shield Shatter",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 10,
+      "text": "[x]Deal $5 damage to all\nminions. Costs (1) less\nfor each Armor you have.",
+      "flavor": "\"Is the shield being shattered or doing the shattering?\"\n\"Yes.\"",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab93cdcaf43df3f2224cfa1c2e06e231fe75b2304c260d024ed47c005e439330.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "AV_265",
+      "dbfId": 67894,
+      "name": "Ur'zul Giant",
+      "cardSet": "Fractured in Alterac Valley",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 13,
+      "attack": 8,
+      "health": 8,
+      "text": "Costs (1) less for each friendly minion that died this game.",
+      "flavor": "Nothing personal, tiny human. I have many mouths to feed.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45e15fa6d677aa9594c26b5bff527f64b32cd4dfb824a3b759c0681b7d32e04d.png",
+      "locale": "enUS"
+    }
+  ]
+}

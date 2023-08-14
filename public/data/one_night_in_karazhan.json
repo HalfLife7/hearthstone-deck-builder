@@ -1,0 +1,1095 @@
+{
+  "One Night in Karazhan": [
+    {
+      "cardId": "KAR_036",
+      "dbfId": 39215,
+      "name": "Arcane Anomaly",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "After you cast a spell, give this minion +1 Health.",
+      "flavor": "He used to get work as a Spatial Anomaly, but he got tired of having his polarity reversed.",
+      "artist": "Alex Alexandrov",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Parlor, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Parlor, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30dfca1a58ce34928aed4f3c1eec57aa5d92a6c331bd6506e5c4c15f291e740c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_009",
+      "dbfId": 39169,
+      "name": "Babbling Book",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Add a random Mage spell to your hand.",
+      "flavor": "His idol is the Green Hills of Stranglethorn, and he won't shut up about it.",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Mage",
+      "howToGet": "Unlocked in the Menagerie, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Menagerie, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f37d46c1a0e83c19ddc271750d8c00ea08d8789ebed082206d92ac82735d5239.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_300",
+      "dbfId": 39350,
+      "name": "Enchanted Raven",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 2,
+      "flavor": "Once upon a midnight restive, Medivh pondered, feeling festive!",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "howToGet": "Unlocked in the Prologue, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Prologue, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf5857c2ab2646a6d85bd82eed4889e6b88f2d97bf5c65edd775bbe8e32761f8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_089",
+      "dbfId": 39740,
+      "name": "Malchezaar's Imp",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "Whenever you discard a card, draw a card.",
+      "flavor": "Malchezaar used to have an imp named Dobby working for him, but there was a tragic accident.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "howToGet": "Unlocked in the Spire, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Spire, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3286f130bd3072de690ad7d279b17bc9b07087730222f6b69813ad3e1d8650db.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_029",
+      "dbfId": 39433,
+      "name": "Runic Egg",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 0,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Draw a card.",
+      "flavor": "Oh man! Runic omelettes are the best!",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Menagerie, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Menagerie, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9053d3eda4d3d76c56817eea7d786061727e803dc9d7648f59c894c5a3d9191.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_063",
+      "dbfId": 39694,
+      "name": "Spirit Claws",
+      "cardSet": "One Night in Karazhan",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "durability": 3,
+      "text": "[x]Has +2 Attack while you\nhave <b>Spell Damage</b>.",
+      "flavor": "They'll be MUCH easier to use once they add the spirit<i>thumb</i>.",
+      "artist": "Ralph Horsley",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "howToGet": "Unlocked in the Spire, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Spire, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/888a6330aef4d1a8fb77bec7f21b04394a497fa716d11d7644e4a8e67390250b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_069",
+      "dbfId": 39698,
+      "name": "Swashburglar",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Add a random card from another class to_your hand.",
+      "flavor": "Was almost named \"Swashb-AAAARRHHH-gler\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Rogue",
+      "howToGet": "Unlocked in the Opera, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Opera, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f3462bf823e8e820fe955b0727ac0ff3c0c206bac24eab92ae7647ebbddfb2a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_004",
+      "dbfId": 39160,
+      "name": "Cat Trick",
+      "cardSet": "One Night in Karazhan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Secret:</b> After your opponent casts a spell, summon a 4/2 Panther with <b>Stealth</b>.",
+      "flavor": "\"I know some new tricks, a lot of good tricks. I will show them to you. Medivh will not mind at all if I do.\"",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "howToGet": "Unlocked in the Menagerie, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Menagerie, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ea41a3fb31a15f39f89d577600371bcc253f49d91f72f9128f29c3958839a8f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_005",
+      "dbfId": 39481,
+      "name": "Kindly Grandmother",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Summon a 3/2 Big Bad Wolf.",
+      "flavor": "\"Goodness! What\u2026 abundant drool you have.\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "howToGet": "Unlocked in the Opera, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Opera, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77ea22b90f151f7eeb84b760a27c505d2332ab882b1283f807b555bb727199c5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0e33e39922e2e450d03f923c7b5b327ec0e760ad7b820df81a6381988a928fc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_073",
+      "dbfId": 39712,
+      "name": "Maelstrom Portal",
+      "cardSet": "One Night in Karazhan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Deal_$1_damage to_all_enemy_minions. Summon_a_random\n1-Cost minion.",
+      "flavor": "They bill this as a popular resort attraction, but they try and get your money up front.",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "howToGet": "Unlocked in the Parlor, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Parlor, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8acab443e52fcaa40a4f0c0fe28f606755e0a4b166bf5cbd13b7958905234e4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_092",
+      "dbfId": 39767,
+      "name": "Medivh's Valet",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you control a <b>Secret</b>, deal 3 damage.",
+      "flavor": "\"Magus Medivh sir, I've brought the flaming balloons, as you requested.\"",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Mage",
+      "howToGet": "Unlocked in the Spire, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Spire, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c34bd9cb0dcdc04695fe50f1ecefb56b2f818d31ef0723b99336fad98d025a63.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_062",
+      "dbfId": 39554,
+      "name": "Netherspite Historian",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, <b>Discover</b>\na Dragon.",
+      "flavor": "She can tell you all about the history of people not STANDING IN THE GREEN BEAM!",
+      "artist": "Ralph Horsley",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Spire, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Spire, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a70791a11455ee088012f7d40228d0bf9241c047778d687b1427755e19ed86e7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_011",
+      "dbfId": 39476,
+      "name": "Pompous Thespian",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Taunt</b>",
+      "flavor": "Alas poor Annoy-o-Tron! A fellow of infinite jest, of most excellent fancy!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Opera, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Opera, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e79aa46d3c049939a0d683053d8436a56b1ceb04b597f8c8bae7c0043e7d19f8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_013",
+      "dbfId": 39468,
+      "name": "Purify",
+      "cardSet": "One Night in Karazhan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Silence</b> a friendly minion. Draw a card.",
+      "flavor": "Even better than a hot shower with vigorous scrubbing!",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "howToGet": "Unlocked in the Menagerie, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Menagerie, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c12088c74d209b759c700967ee43148e723ab91fac9b0a68a480e9f210cfe9c3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_006",
+      "dbfId": 39492,
+      "name": "Cloaked Huntress",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "Your <b>Secrets</b> cost (0).",
+      "flavor": "She's practically GIVING your secrets away!",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "howToGet": "Unlocked in the Parlor, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Parlor, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a74391f5892e2cb47b9e5d75e8e2a8138e5feef235944b4c7b7dea5f8869b85.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_094",
+      "dbfId": 39822,
+      "name": "Deadly Fork",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Add a 3/2 weapon to your hand.",
+      "flavor": "For a proper setting, place the deadly fork <i>after</i> the salad fork, but <i>before</i> the dinner fork.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "howToGet": "Unlocked in the Parlor, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Parlor, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/943e0b669c5e775c7678de77ca871660f91de08eb2ddfd0e898f75ab5fb3eed2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_044",
+      "dbfId": 39453,
+      "name": "Moroes",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Stealth</b>\nAt the end of your turn, summon a 1/1 Steward.",
+      "flavor": "Moroes runs an army of stewards, but still ends up inflating the balloons himself.",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Parlor, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Parlor, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a38878491b813fe754f2e7e9e1ff28d8fe7b7f4c68f1a31567e1a6051e46a01.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_010",
+      "dbfId": 39477,
+      "name": "Nightbane Templar",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, summon two 1/1 Whelps.",
+      "flavor": "Originally joined to be Arcanagos\u2019 Templar, but has to admit that ordering pizza has become waaaay easier.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "howToGet": "Unlocked in the Menagerie, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Menagerie, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53ea95564ef0285da4ac6c7001140f113d2570df32f7ed6e5154674b4efa2f69.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_030a",
+      "dbfId": 39207,
+      "name": "Pantry Spider",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Summon a\n1/3 Spider.",
+      "flavor": "You have to admit, they make a cute couple.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Parlor, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Parlor, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65ecc00ff572617ac1249ce8e295cbfbc7e4088013ca57763de33fd9f4cdbc30.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_026",
+      "dbfId": 39495,
+      "name": "Protect the King!",
+      "cardSet": "One Night in Karazhan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "For each enemy minion, summon a 1/1 Pawn with <b>Taunt</b>.",
+      "flavor": "Form ranks! Everyone into the King's Tuskarr Defense!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "howToGet": "Unlocked in the Parlor, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Parlor, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b62d65d063e943ac951fb05c5456c18d239bbf6d17e412b0a2c445867c29b9f4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_205",
+      "dbfId": 39380,
+      "name": "Silverware Golem",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "If you discard this minion, summon it.",
+      "flavor": "From the secret research labs of the Swiss Army.",
+      "artist": "Daren Bader",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "howToGet": "Unlocked in the Parlor, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Parlor, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acf682a8f96ea07bed68c31d68a9508bd47cee9e269d142c4deaeece4923f1ca.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "InvisibleDeathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_712",
+      "dbfId": 39313,
+      "name": "Violet Illusionist",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "During your turn, your hero is <b>Immune</b>.",
+      "flavor": "She\u2019s much more cheerful after losing the \u2018n\u2019 in her name.",
+      "artist": "Eric Braddock",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Spire, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Spire, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/529cc08766846279e9c3a5e5df345f158176ac6af25fbd054f47e4000d9eff5e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_095",
+      "dbfId": 39839,
+      "name": "Zoobot",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give a random friendly Beast, Dragon, and Murloc +1/+1.",
+      "flavor": "The Murloc is taking the picture.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Menagerie, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Menagerie, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78a1d0c5c5608a06dcb052a66bf7b41f3366e2a5b4427ca762aaecc3d1da78a0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcece65c338c2b6ee64cf7fe5873fa0580dcdd0bdbdd9eaa9b159b6fd0b73dad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_710",
+      "dbfId": 39491,
+      "name": "Arcanosmith",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Summon a 0/5 minion with <b>Taunt</b>.",
+      "flavor": "He\u2019s really just a Blacksmith, but he thought the fancy title would bring in more business.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Parlor, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Parlor, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3296bcbb3c125b2cf14994ec497ded94a9994c10c103805c14eceae11f23092b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_035",
+      "dbfId": 39442,
+      "name": "Priest of the Feast",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "Whenever you cast a spell, restore #3 Health to\nyour hero.",
+      "flavor": "Now that's a world champion cheesecake!",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Priest",
+      "howToGet": "Unlocked in the Parlor, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Parlor, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1060f3df3b75e26ee507eba7f73eec25e49433b6d938f1854904750eae54c487.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_077",
+      "dbfId": 39716,
+      "name": "Silvermoon Portal",
+      "cardSet": "One Night in Karazhan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Give a minion +2/+2. Summon a random\n2-Cost minion.",
+      "flavor": "What's Millhouse Manastorm doing in Silvermoon?",
+      "artist": "Jimmy Lo",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "howToGet": "Unlocked in the Opera, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Opera, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/760d9a0f76b7bde3ec777d7b3d848328445bbd4321c61ad0124e411c6bbd89bf.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_021",
+      "dbfId": 39190,
+      "name": "Wicked Witchdoctor",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "Whenever you cast a spell, summon a random basic_Totem.",
+      "flavor": "You can easily defeat her by either dealing 4 damage, or dropping a house on her.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "howToGet": "Unlocked in the Opera, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Opera, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a331246518f2ea9cba7f7e1b0deed6b93fdd4a757efeb5fcbc3b056fc5437ee7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_037",
+      "dbfId": 39489,
+      "name": "Avian Watcher",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If you control a <b>Secret</b>, gain +1/+1\nand <b>Taunt</b>.",
+      "flavor": "He mostly watches light romantic comedies.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Menagerie, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Menagerie, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a46e0d31bc12b44bebed7cc29ffb550ca44a00ac77a423adcb06ea748bc4f89.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_114",
+      "dbfId": 39941,
+      "name": "Barnes",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Summon a 1/1 copy of a random minion in your deck.",
+      "flavor": "He used to play every part, until Moroes confiscated his Orb of Deception.",
+      "artist": "Garrett Hanna",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Opera, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Opera, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56cd06965e5e6e3321c17a49b143ce591b8bb512834b531c5eff7ed12eff23c7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_070",
+      "dbfId": 39700,
+      "name": "Ethereal Peddler",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If you're holding any cards from another class, reduce their Cost by (2).",
+      "flavor": "Yeah, sure. That Ragnaros \"fell off the back of a truck\".",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "howToGet": "Unlocked in the Spire, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Spire, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a32b3995ea8a4c5da3f5d4e0df15b3d60ee4959ce725a6285bb95b96ecb13fc0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_028",
+      "dbfId": 39417,
+      "name": "Fool's Bane",
+      "cardSet": "One Night in Karazhan",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "durability": 4,
+      "text": "Unlimited attacks each turn. Can't attack heroes.",
+      "flavor": "A fool and his bane are soon parted.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "howToGet": "Unlocked in the Menagerie, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Menagerie, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/064dc5c20b1141ec90aa483105de012639d16ada84e6a0b1e604572a4bfdd621.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_091",
+      "dbfId": 39747,
+      "name": "Ironforge Portal",
+      "cardSet": "One Night in Karazhan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "Gain 4 Armor.\nSummon a random\n4-Cost minion.",
+      "flavor": "Come to beautiful Ironforge! Where irons are forged and the forges are iron!",
+      "artist": "Nate Bowden",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "spellSchool": "Fire",
+      "howToGet": "Unlocked in the Spire, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Spire, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3f41a1d0a32d09519200a74194028ddcae2a724ffcbee484559c5cda72daf7e8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_025",
+      "dbfId": 39197,
+      "name": "Kara Kazham!",
+      "cardSet": "One Night in Karazhan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "Summon a 1/1 Candle, 2/2 Broom, and 3/3 Teapot.",
+      "flavor": "This is what happens when you tell Khadgar to set the table.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "howToGet": "Unlocked in the Opera, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Opera, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/560038c5bdbd3517ae5c4d9ad4385439b393e65e23ba744be1dab1aa37bfdccc.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_702",
+      "dbfId": 39269,
+      "name": "Menagerie Magician",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give a random friendly Beast, Dragon, and Murloc +2/+2.",
+      "flavor": "Just between us, if things get tight the Menagerie Magician position will probably be the first to go.",
+      "artist": "Garrett Hanna",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Menagerie, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Menagerie, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a752cd42539e7e8825f0491b71700a92c2ea641f353cf2d14a10b5804c4b9ea7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dcb87a86e07faa74a3b6465588f306442d259f49d28ab9a6c566910773b287fb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_065",
+      "dbfId": 39696,
+      "name": "Menagerie Warden",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Choose a friendly Beast. Summon a_copy of it.",
+      "flavor": "Please? Can I keep him? I promise to clean his cage <i>every day</i>.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Druid",
+      "howToGet": "Unlocked in the Menagerie, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Menagerie, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd018bfae401132cb4b162f37ba053e4c76f667ebe014c386b70ca3cc6a290e0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_204",
+      "dbfId": 39374,
+      "name": "Onyx Bishop",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Summon a friendly minion that died this game.",
+      "flavor": "B4 is a nice place to visit, but he wouldn't want to live there.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "howToGet": "Unlocked in the Opera, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Opera, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef1f0547826684c72ad625c21294a17dea1b5c1f1cfd46c01cceff62077963c0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_096",
+      "dbfId": 39840,
+      "name": "Prince Malchezaar",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 6,
+      "text": "[x]<b>Start of Game:</b>\nAdd 5 extra <b>Legendary</b>\nminions to your deck.",
+      "flavor": "He was super excited to acquire Gorehowl at a garage sale!  Then super disappointed to find out it was a foam reproduction.",
+      "artist": "Joe Madureira & Grace Liu",
+      "collectible": true,
+      "elite": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Spire, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Spire, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a5518efddbfc498be5f7fa1d84e1197b1c1a806c9e5b2aa76ae35dee32f7217.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_033",
+      "dbfId": 39210,
+      "name": "Book Wyrm",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 3,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, destroy an enemy minion with 3 or less Attack.",
+      "flavor": "His favorites are classic tragedies like \"The Hobbit\" and \"Grendel\".",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Spire, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Spire, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3999ea72746165fdaf0b395eaac42c0cf9afaedcac18a5065d9fe72b315aae3f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_057",
+      "dbfId": 39439,
+      "name": "Ivory Knight",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> a spell.\nRestore Health to your hero\nequal to its Cost.",
+      "flavor": "Do <i>NOT</i> call it a \"horse\".",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "howToGet": "Unlocked in the Parlor, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Parlor, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85be90bfd0b14eb794d692c44e2230a3243b2c73d5d8b4ae4c2f68c550de8b5a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_041",
+      "dbfId": 39465,
+      "name": "Moat Lurker",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Destroy a minion. <b>Deathrattle:</b> Resummon it.",
+      "flavor": "He really enjoys lurking and gets a lot of job satisfaction out of it.",
+      "artist": "Jerry Mascho",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Opera, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Opera, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d8be7ed125046030ca2780be35ecb08b745fafff176ab83005d4cc5d58d87eb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_075",
+      "dbfId": 39714,
+      "name": "Moonglade Portal",
+      "cardSet": "One Night in Karazhan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Restore #6 Health. Summon a random\n6-Cost minion.",
+      "flavor": "Ain't no party like a Moonglade party \u2018cause a Moonglade party got bears.",
+      "artist": "Evgeniy Zaqumyennyy",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "howToGet": "Unlocked in the Spire, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Spire, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ed73ca30a9a678cbf2cb2f34be30055c731c980c5f8d174466ff80ba328ab45.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_076",
+      "dbfId": 39715,
+      "name": "Firelands Portal",
+      "cardSet": "One Night in Karazhan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 7,
+      "text": "Deal $5 damage. Summon a random\n5-Cost minion.",
+      "flavor": "Come to beautiful Firelands! Where it's <i>\"Way nicer than the Abyssal Maw!\"</i>",
+      "artist": "Gustav Schmidt",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "howToGet": "Unlocked in the Prologue, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Prologue, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18ae24c5a94c780ee1946386fac2e09df17510f929d2ff9a2b02ec3bdd5687ae.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "KAR_061",
+      "dbfId": 39225,
+      "name": "The Curator",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Draw a Beast, Dragon, and Murloc from your deck.",
+      "flavor": "The Curator guards Azeroth\u2019s deadliest creatures, but it\u2019s secretly terrified of squirrels.",
+      "artist": "Wei Wang",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Menagerie, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Menagerie, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88c31eb8ec7d564884c901675d12e60975d5f32eacee1eba9698d32c35e65a4d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_097",
+      "dbfId": 39841,
+      "name": "Medivh, the Guardian",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Battlecry:</b> Equip Atiesh, Greatstaff of the Guardian.",
+      "flavor": "If you think the party's great now, just wait 'til he invites the orcs over!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Spire, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Spire, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7de5febc881472117546733c45cf307ea9f3f6d3e0f77b0985dda82806523978.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "KAR_711",
+      "dbfId": 39426,
+      "name": "Arcane Giant",
+      "cardSet": "One Night in Karazhan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 12,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]Costs (1) less for each spell\nyou've cast this game.",
+      "flavor": "Claims to be drawn to Karazhan because of the ley lines. Actually, just loves Moroes\u2019 cooking.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in the Opera, in One Night in Karazhan.",
+      "howToGetGold": "Crafting unlocked in the Opera, in One Night in Karazhan.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f84e948d20a153833ef51b2b5c924712647a7aaf9798d05e2936df1f93f72d5.png",
+      "locale": "enUS"
+    }
+  ]
+}

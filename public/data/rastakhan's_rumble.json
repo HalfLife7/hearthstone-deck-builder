@@ -1,0 +1,3221 @@
+{
+  "Rastakhan's Rumble": [
+    {
+      "cardId": "TRL_310",
+      "dbfId": 50120,
+      "name": "Elemental Evocation",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "The next Elemental you_play this turn costs (2) less.",
+      "flavor": "It's just lighter fluid.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a5e46c05f7ed16ceb93091d7e8c049a1c2b23d0b62420909bf73c6e1f6f1546.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3878aeb81ce011f77d531bcce0ebc02277d77de4db48df658b9783ee5ab5ea34.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_243",
+      "dbfId": 49990,
+      "name": "Pounce",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Give your hero +2_Attack this turn.",
+      "flavor": "Comes with an overwhelming urge to jump into the nearest open box.",
+      "artist": "Rudy Siswanto",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d86c6b9dc502ddde05074d5c6efa1ac40c79509920ff8f12d66b9d05607536c2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/228ccdb9a10b3cbba65f12bb1c316999fd60e9ec9587b9fd51eb6d49cd25867c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_128",
+      "dbfId": 50794,
+      "name": "Regenerate",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Restore #3 Health.",
+      "flavor": "Finally a cure for degenerates.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50ac81025ef443c0b27d5cb09578de2a1e32f1d01fe1731e3149de5a63610d80.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c378ddbcc3ffecdf6b609bae97d2d35e9feee60cb278ec59c1b0806c6f79a7d2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_543",
+      "dbfId": 50512,
+      "name": "Bloodclaw",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> Deal 5 damage to your hero.",
+      "flavor": "This weapon \u2013 ow! Requires a little \u2013 OWW! Finesse.",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74752f438d22a6fc7c26c47d196e7e64450da30387b54c56b2b40f3b5cc318a1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b0e81f248ba687aa745588fdac2c232ee019ac7c3b1ac64c41b96b90fff2fc3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_390",
+      "dbfId": 50381,
+      "name": "Daring Fire-Eater",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Your next Hero Power this turn deals 2_more damage.",
+      "flavor": "A few hours later he DESTROYED the arena bathrooms.",
+      "artist": "Jesper Ejsing",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cdbc185224e9e7ba4bd9ede19a4148bca89e0776b6237866abba2cc7ff7fb7fe.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1126f7ae0bde0a5692c1f542e3a869b9fe159fe43ab34fe336e7c329e45a105b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_321",
+      "dbfId": 50040,
+      "name": "Devastate",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Deal $4 damage to a damaged minion.",
+      "flavor": "No thanks, I already devast-ate.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/421b099c8600ada26516820068e2b7e3300f47ee8f640fb13c75283b72638058.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bae3fddb00d64a5b15f8c4cc369893311ae47fa0528e8d5ba1f69cffdffc5112.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_249",
+      "dbfId": 50012,
+      "name": "Grim Rally",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Destroy a friendly minion. Give your minions +1/+1.",
+      "flavor": "There\u2019s no \u201cAiiiieeee\u201d in \u201cTeam.\u201d",
+      "artist": "Skan Srisuwan",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8206e0b8b2e1b95f365e33c98b8c525d84675aece4ced1cbed0d5924527159c8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/578e64e7120d9f371df89af5291369e69d6e2cef35626e1a8d66d173db8bf759.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_506",
+      "dbfId": 50380,
+      "name": "Gurubashi Chicken",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Overkill:</b> Gain +5 Attack.",
+      "flavor": "\u201cYa hold it by da feet, mon. Den ya THROW.\u201d",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abb35dcd6a13964101773e00894f1426b1acfe626050c133b38feeda4f21d2f3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b17c48386009886356862a5bdd8e98babb993aa7581c2bb978a35799a20d9ac8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overkill"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_516",
+      "dbfId": 50396,
+      "name": "Gurubashi Offering",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 1,
+      "attack": 0,
+      "health": 2,
+      "text": "At the start of your turn, destroy this and gain 8_Armor.",
+      "flavor": "For a limited time, loa blessings are on a pray-one-get-two deal (on selected sacrifices only).",
+      "artist": "Izzy Hoover",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e03a25b816c783d7ff7418f41969128694b09355b0fd6b5993e44258d8bcb7d1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6314437801e57d86580c4a51cc6185a99457af71e776de0c10e23d1a4049d8a8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_505",
+      "dbfId": 50377,
+      "name": "Helpless Hatchling",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Reduce the Cost of a Beast in your hand by (1).",
+      "flavor": "It can\u2019t be all that helpful. Not wif dose widdle wings!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33d34127048d8c77bfbc7df2642f695ec4a877812aa3384548956ef99385d10d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15b38a8882083935a4dd57532f4739d8b07638aea5e396aed4cf1d6d66b5897f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_363",
+      "dbfId": 50796,
+      "name": "Saronite Taskmaster",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Summon a 0/3 Free Agent with <b>Taunt</b> for_your opponent.",
+      "flavor": "Don't even think of asking for time off.",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93f4d2f4f42482ce821b921b652b7819c44c52a10c77e906b7554c3d890d4655.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51979cb468d7462bdaf9c30dcdc5a6e872f1f0da5f17f7b81dcc07f4e08c0882.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_074",
+      "dbfId": 49843,
+      "name": "Serrated Tooth",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "durability": 3,
+      "text": "<b>Deathrattle:</b> Give your minions <b>Rush</b>.",
+      "flavor": "The tooth hurts, don\u2019t it?",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b3496a7ac2b72141c3d1ba0c21377877f12a4be31a8775fd2e1eace3e46f589.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a76352e17119eec285911e226bcc7f81f7590445fc201ef549528d166e10010.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_245",
+      "dbfId": 50002,
+      "name": "Shriek",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Discard your lowest Cost card. Deal $2 damage to all minions.",
+      "flavor": "The first warning sign of an oncoming warlock temper tantrum.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c63c161d0ab5f4894000ec72476b93b5e3e8b5a4f22cb354ca6112956662efd6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29b78abda6a0bba8c1934cb3ff64f9bfb33f1b8bc6ed244a778bc11cdc4f221f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_502",
+      "dbfId": 50352,
+      "name": "Spirit of the Dead",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 0,
+      "health": 3,
+      "text": "[x]<b>Stealth</b> for 1 turn.\nAfter a friendly minion dies,\nshuffle a 1-Cost copy of it\ninto your deck.",
+      "flavor": "Just because you\u2019re dead doesn\u2019t mean you\u2019re off the team.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0dbe5cbeb071829b6d6c7763896b3df12d833eb18ce6307d2a1904daeb6363b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/735acae243c959f0b877240875bdced69065694a8d79196b8baf2427b2786610.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_223",
+      "dbfId": 49944,
+      "name": "Spirit of the Raptor",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 0,
+      "health": 3,
+      "text": "[x]<b>Stealth</b> for 1 turn.\nAfter your hero attacks and\n__kills a minion, draw a card.__",
+      "flavor": "\u201cLoti! LOTI! Drop it. Drop it Loti! Down! Down Loti!\u201d",
+      "artist": "Christopher Hayes",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ec03a5d63c02b660020a0a5e30c83e6dd98e2c6f846a1f7f707a22ff25aea32.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/795b4467ee746b10cc562cb671a37865a6fd5711f00006d001b8b2fe0f7d0764.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_327",
+      "dbfId": 52242,
+      "name": "Spirit of the Rhino",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 0,
+      "health": 3,
+      "text": "<b>Stealth</b> for 1 turn.\nYour <b>Rush</b> minions are <b>Immune</b> the turn they're summoned.",
+      "flavor": "Where did they get this preposterous hypothesis?",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55fe493bb37ad800b1e542830cf1332903a2d9b7c36d4f543436597d378a53b6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/895b1076a1e4bcc7e1bfba285957847ae3a779cee5cecc66d8a85479d146756b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        },
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_348",
+      "dbfId": 49824,
+      "name": "Springpaw",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "[x]<b>Rush</b>\n<b>Battlecry:</b> Add a 1/1 Lynx\nwith <b>Rush</b> to your hand.",
+      "flavor": "The terrible thing about lynxes is lynxes are terrible things. Their teeth are made out of biting, their paws are made out of springs!",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39e65495f0e6229011918da74fbf6882827d07b59091707b9fe05157233a1d94.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1187a141479d8d552fd26d0e0936fabf6c1062b7ba7de8ad51127b577d9a35c3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_119",
+      "dbfId": 50644,
+      "name": "The Beast Within",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "Give a friendly Beast +1/+1, then it attacks a random enemy minion.",
+      "flavor": "Undoes years of obedience school training.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66328b089ce6d55a3243b75dcc0afe258707a229ac9150940f31bd17f3170c83.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8cf0da5c8f6b6ddf2c40e4cde263999de788a0699c821e81a4b28d3092919240.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_012",
+      "dbfId": 49051,
+      "name": "Totemic Smash",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Deal $2 damage. <b>Overkill</b>: Summon a basic Totem.",
+      "flavor": "Trolls are the first group to have a totem survive atmospheric re-entry.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/057f2225b90b9827f5fd6bf7a01e0984828c08f57a4e6937bda38b2dcac139eb.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94fee6bf79112076662c600d15aa4f984a5ccb16030c2625d10a4c8037ec1a48.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overkill"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_522",
+      "dbfId": 50405,
+      "name": "Wartbringer",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> If you played 2_spells this turn, deal 2_damage.",
+      "flavor": "\u201cDoes she cause them with magic, or just\u2026like have a bucket she brings with her?\u201d",
+      "artist": "J. Axer",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/179d66460f7d7f892cb316bd9a54bfb9820a371591a5703b81e2a5de34227e81.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1309ddd67bfebd2c9186467f8d4bf403b6a98445c98041bb4aa99f0d1dfe5d3b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_501",
+      "dbfId": 50283,
+      "name": "Auchenai Phantasm",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> This turn, your healing effects deal damage instead.",
+      "flavor": "\u201cOkay kids did everyone remember to heal before we left?\u201d",
+      "artist": "Lemon Sky",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6dcc81b053267d804f5e91fa3b8f44b0a356c0435ebfd25717d7ff6c6c707ceb.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17e31f3a79556a507b6cb4c77fef830f84519452cd41fd355ba47c8eaa69099a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_514",
+      "dbfId": 50393,
+      "name": "Belligerent Gnome",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> If your opponent\nhas 2 or more minions,\ngain +1 Attack.",
+      "flavor": "Maybe don't put this one in your garden.",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53be00e951e14481c528fa02aff46cb1cfb519a4829e6b58fd36cd25b6237245.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a73b602448b01d48bd4a48e94fd781a534dd326492a440d78f5c541ad3e97789.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_082",
+      "dbfId": 49853,
+      "name": "Big Bad Voodoo",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 0,
+      "health": 0,
+      "text": "Give a friendly minion \"<b>Deathrattle:</b> Summon a random minion that costs (1) more.\"",
+      "flavor": "Murlocs practice Small Nice Voodoo.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f225ad546ada9d7953ca8820a8ebd0bce94851caddff56f74756616cfb8a5121.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b13c1d60b40b2b3cfa4a6a4b770ad2c2e177ebbbf115fac460eb70129491e324.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_071",
+      "dbfId": 49838,
+      "name": "Bloodsail Howler",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "durability": 0,
+      "text": "[x]<b>Rush</b>\n<b>Battlecry:</b> Gain +1/+1\nfor each other Pirate\nyou control.",
+      "flavor": "They saw their fate a closin'\nAboard a pirate ship\nOn deck: The Howlin' Hozen\nAbout to let one rip.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b70dc0627caa5949ef6a17736b111c3ed9d0796917c8aaca2d943b5522fecfc.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc41d7e13efb2f894ec3c72b3eb95ddbd1b80e95586b4c23b5331755f9d715cc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_504",
+      "dbfId": 50374,
+      "name": "Booty Bay Bookie",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give your opponent a Coin.",
+      "flavor": "Also makes a great librarian. She's really good at fixing books!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/006edd84dac844be14a2aea3b63f85c88e5eea84effcc2519be8f1ac688650c0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_512",
+      "dbfId": 50391,
+      "name": "Cheaty Anklebiter",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Lifesteal</b>\n<b>Battlecry:</b> Deal 1 damage.",
+      "flavor": "Famed hunter of the deadly Achilliosaur.",
+      "artist": "Ekaterina Shapovalova",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ae9a7a17bab363ed8a6ab13b059317ed3fab807065977283c2667cf8da60b32.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03de858a4eeaa587d3b47bcb723b9e10e65b1442bc8ebd688c08737ba57f2846.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_406",
+      "dbfId": 50493,
+      "name": "Dozing Marksman",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 0,
+      "health": 4,
+      "text": "Has +4 Attack while damaged.",
+      "flavor": "It's the sleeper of the set.",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30c2795eca111ffbebb5a41fa522fd3b617bd7e665b215da2c3981f1ff0bb2d5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b753d0484fe56d20efb487e90bf9474123676bcd3de3c1db919cf78d22b1705.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_362",
+      "dbfId": 50602,
+      "name": "Dragon Roar",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Add 2 random Dragons to your hand.",
+      "flavor": "Not to be confused with Dragon Yodel.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/643f45d08b9b61ba0b1370b2c93a2130a9a5eca98831731b009f38ee4d8e2210.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f686580d30d2baa174b03274e0ba799b70ec620b8340f6049957de7421d4dbdf.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_523",
+      "dbfId": 50408,
+      "name": "Firetree Witchdoctor",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> If you're holding\na Dragon, <b>Discover</b> a spell.",
+      "flavor": "If your tree is on fire - stop, drop, and troll.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7b05ce0342ba607be35fbf7c73d0360c57dacd26a9d8221edb07469aab5d8b1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17d887454876a80017bece38e39c5d2da32f7fb015f0e29c550f1f87353e9f50.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_307",
+      "dbfId": 50028,
+      "name": "Flash of Light",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Restore #4 Health.\nDraw a card.",
+      "flavor": "Hey! No cameras allowed!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcd9796d2432b1d3cb9ea6910e182ecdd98cdae5c6218677a9366e4fb30c3d80.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e558c1b5c443689efd56e4fcd441104bba766c7b426d2c05c52cf10de7a89cc8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_111",
+      "dbfId": 50608,
+      "name": "Headhunter's Hatchet",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "durability": 2,
+      "text": "[x]<b>Battlecry:</b> If you\ncontrol a Beast, gain\n+1 Durability.",
+      "flavor": "Zul'jin's primary recruiting tool.",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e02b77ff1a74a55282061d5cea316521e03de11d573a732f9e13f0bc01f4886.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/703892fa67bd6f25ef80bd6aafd4299ce071b1dfa8ee4a840fdb5bd0c8a9eee5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_306",
+      "dbfId": 50022,
+      "name": "Immortal Prelate",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Shuffle this into your deck. It keeps any enchantments.",
+      "flavor": "She protec.\nShe attac.\nBut most importantly,\nshe come bac.",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4839018f8a553965ba289382ab0f226c623f7475680f9b5f3b0023d8d7d14229.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0c6b27ed89e8a5a17508e4abee28bcfd51e95ef72e7de413ccfb1e4f2412de8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_352",
+      "dbfId": 50550,
+      "name": "Likkim",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "durability": 3,
+      "text": "Has +2 Attack while you have <b>Overloaded</b> Mana Crystals.",
+      "flavor": "\"I double frog dare you!\"",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb50e44339be3a77ac56c7576b974aa34e38f52e91fb69ca85b12d175c3bf7e1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31c39fe456a9a6bf42bd1989497dd4ccb92457f114d70480f7e94d75a495e095.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_566",
+      "dbfId": 51159,
+      "name": "Revenge of the Wild",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Summon your Beasts that died this turn.",
+      "flavor": "My roommates only use Revenge of the Passive Aggressive.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26f5207a7c65a3d64174b1cedbeb1a9a5b3c43d8b7a367d41d7014acc8197afe.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b031c2c78e5fc90f6ceea71527b791cec4453bbd5f9cfc874d43a5dcd9de5330.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_240",
+      "dbfId": 49984,
+      "name": "Savage Striker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Deal damage to an enemy minion equal to your hero's Attack.",
+      "flavor": "Ruthless at tribal roasts.",
+      "artist": "Jesper Ejsing",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/599a72011e71642eda8e531212860d6bcaea1f61a86a7b92bc25229846ab5321.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6aea16926d25a264f84fced71c85260ad73bb62135a17816a5500e85d7d6e221.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_503",
+      "dbfId": 50372,
+      "name": "Scarab Egg",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 0,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Summon three 1/1 Scarabs.",
+      "flavor": "They say you can\u2019t make an omelet without AHHH THEY\u2019RE EATING MY FACE!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f101a9e6b710edd309321f85e841d036e5baf994decdca73fa0d9369d2508244.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e277771c991899f5dbed8c62d12c219be386a2565edbd1719d08c92daddff577.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_097",
+      "dbfId": 50278,
+      "name": "Seance",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Choose a minion. Add_a copy of it to your hand.",
+      "flavor": "\u201cThe spirits spoke to me.\u201d\n\"What did they say?\"\n\"You had lethal two turns ago.\"",
+      "artist": "Skan Srisuwan",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79ea56e81292eda1445f758c79151282d4e5a53d43392bbe650432c24a7f9cc5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fd0ea55b3ed6a37325ebfe314bc86e01efe269db639568e380111bc0ac9be38.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_057",
+      "dbfId": 49800,
+      "name": "Serpent Ward",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 0,
+      "health": 2,
+      "text": "At the end of your turn,\ndeal 2 damage to the enemy hero.",
+      "flavor": "When snakes get sick, they get sent to the Serpent Ward.",
+      "artist": "Cicily He",
+      "collectible": true,
+      "race": "Totem",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5e196926c2b19e2d76d7d493655eba4c0ff988d197fe0d77c3b9df01b3e4903.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1043f0bbbccae94df9b205ddc1c1d4c1491088dcdca5eebb5cdbe6f3c6e46c4f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_507",
+      "dbfId": 50383,
+      "name": "Sharkfin Fan",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "After your hero attacks, summon a 1/1 Pirate.",
+      "flavor": "His taste in soup is criminal.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e9ecc19881a6d56ef11b2f55351b46355ecc033d83f6a0371a80d483271d347.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6858bc07f68e386781d7408e5fd2e5bfe4e070522572a9f2c57e93a12dea7e96.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_524",
+      "dbfId": 50410,
+      "name": "Shieldbreaker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> <b>Silence</b> an enemy minion with <b>Taunt</b>.",
+      "flavor": "Can also break up fights, relationships, and unions.",
+      "artist": "David Devries",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59121c56eb5f77d1bf598a709a95e579cf7c58be0e8951d21228c44aff41e5ce.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d11c683f459b2a6d1f9adb4ead9028efe3b483df1d36a056ceac3f3b5a02fffb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_570",
+      "dbfId": 52931,
+      "name": "Soup Vendor",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "Whenever you restore 3 or more Health to your hero, draw a card.",
+      "flavor": "Fresh from the floor of the arena!",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3158e1a365b6ab4eb1feb3f6c74b57429fb4aeb9ee1f33e9423373d4386278da.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9ce508cffe3326811ab007cf82aacb49cafab4a8ef08ede0b161215a48354d8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_312",
+      "dbfId": 50083,
+      "name": "Spellzerker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "Has <b>Spell Damage +2</b> while damaged.",
+      "flavor": "But don\u2019t ask her to use it in a sentence.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f15658d08be8f03ffc6327519318c6282608cbfab269eff5f421dbc37f6969f0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc6ad742478deb12e5f531579b74dcaeca0600b1420a84595a176fd70a384663.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_251",
+      "dbfId": 50025,
+      "name": "Spirit of the Bat",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 0,
+      "health": 3,
+      "text": "<b>Stealth</b> for 1 turn.\nAfter a friendly minion dies, give a minion in your hand +1/+1.",
+      "flavor": "Nah nah nah nah, nah nah nah nah, nah nah nah nah, nah nah nah nah",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d670d2bd85040785b63427180a9d7ee9c4d3f59d0be78e4d3d68aa5dafc5556.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ef9b288027c86bfed7089f487bade79c5fc240344d8f865377f799751602f75.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_319",
+      "dbfId": 50093,
+      "name": "Spirit of the Dragonhawk",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 0,
+      "health": 3,
+      "text": "[x]<b>Stealth</b> for 1 turn.\nYour Hero Power also targets\n adjacent minions.",
+      "flavor": "Dragonhawks aren\u2019t known for their accuracy.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a76cbf61bc31950b1fff143cda8c62970fc21cdc3af692c9e19d630f7d68400.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33f321b90ab299a667627983ff4afe2c11cedc2d76175338ca075cb511285aff.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_156",
+      "dbfId": 50749,
+      "name": "Stolen Steel",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Discover</b> a weapon <i>(from another class)</i>.",
+      "flavor": "Because Thrall wouldn't <i>lend</i> me Doomhammer.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd63203bf13f6f282ca5f13a4c5fbe133d2152fbb138a8d6d82829e70c92eed8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f28b12fc38cc06d0c76232063d6d1f57f1ba4ed46f72f35465740d34db21569.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_407",
+      "dbfId": 50497,
+      "name": "Waterboy",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Your next Hero Power this turn costs (0).",
+      "flavor": "100% organic troll sweat.",
+      "artist": "Ekaterina Shapovalova",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da406403c1a66ecc23dcc33c475904d53709b2fe6aefc829fec18f0a527bee83.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9370726747eb932119a4fd6f8a0f0af3dcd2f6b27748953becee1897a4e1224.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_509",
+      "dbfId": 50386,
+      "name": "Banana Buffoon",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Add 2 Bananas to your hand.",
+      "flavor": "You could say he has a certain appeal.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/302848e779a33858faea1ef73a329d6ecfd32bf05aa7aafc3c04a953a8a69f73.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/464bf2f82f9a9f0d17d457e2bb26ce98c522fdc5130e8b7090dc1d71f89355a9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_349",
+      "dbfId": 50471,
+      "name": "Bloodscalp Strategist",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you have a weapon equipped, <b>Discover</b> a spell.",
+      "flavor": "\u201cShoot them in the face\u201d is more of a <i>tactic</i> than a <i>strategy</i>.",
+      "artist": "Gonzalo Ordonez",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7a734775b3f888641c3f7b1324aaef6c0a8bfdeebc3baae8ee57ff8c2d2e2a1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76f11590914523465f112ed891b1b9e7e3fb29147e8fd0ff15db2f16fdf2e5b4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_059",
+      "dbfId": 49803,
+      "name": "Bog Slosher",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Return a friendly minion to your hand and give it +2/+2.",
+      "flavor": "It's the bane of freshly mopped floors everywhere.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fec6be8d09331229d380a782df350aa02c654bb403c9d47c19f8d0fcc86c20e0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad052947bed4d68d46abeea24267f9ee3aca1b5c7d6e6b1979f3ad0f5109d50b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_527",
+      "dbfId": 50414,
+      "name": "Drakkari Trickster",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Give each player a\ncopy of a random card from\ntheir opponent's deck.",
+      "flavor": "\u201cIt\u2019s an <i>illusion</i>, Malacrass!\u201d",
+      "artist": "Cicily He",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42bce2fccb2a5868d3bbe04b2e11243db5b953c3de1cd40a7ff924c7e18bfab3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fc3a0363058d7f2f1718cad572e9286e37d41cd95d496f096e7e1a55ccc15f8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_058",
+      "dbfId": 49802,
+      "name": "Haunting Visions",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 0,
+      "health": 0,
+      "text": "The next spell you cast this turn costs (3) less. <b>Discover</b> a spell.",
+      "flavor": "When you're awake at 3 AM and can't stop thinking about that time you called your teacher \"mom.\"",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3611e58d0852c14192bfbcd181819fe9c70d9b96aeee03210a7b3a3be58306ca.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05ac0d6880c405cf64f5b4c8d08c89ec0dd234e5d81710c6679b44bbbd763352.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_308",
+      "dbfId": 50126,
+      "name": "High Priest Thekal",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Convert all but 1_of your Hero's Health into Armor.",
+      "flavor": "\"\u2026and then I beat him with 1 Health!\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3406e79f41d9cec5e6aab2ecf63f28aad815cfd319dd1b80060f6bbb0917e5ec.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba25f9c672ad8015e3b26aec4dcabc570c03e3c0abacc2a2cb1474b2fb286908.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_530",
+      "dbfId": 50421,
+      "name": "Masked Contender",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you control a_<b>Secret</b>, cast a <b>Secret</b> from_your deck.",
+      "flavor": "Knew Mysterious Challenger back when he was a Mysterious Squire.",
+      "artist": "Alex Horley Ormandelli",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80b69f719f8cc87929dcc14f7ffb65990ef2a5947b7a00a07643b6da8b99d6b3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efa4cb0b414a22d4b41d5168c22e01aac19550b5a279cff3aa920d8f5b72a0a9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_339",
+      "dbfId": 50212,
+      "name": "Master's Call",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "<b>Discover</b> a minion in your deck.\nIf all 3 are Beasts,\ndraw them all.",
+      "flavor": "\"Hello? Yes, this is Huffer.\"",
+      "artist": "Rudy Siswanto",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/913e0f0b30f14e774abc279b36a0abf2b3639978da864f2ebc926f8e3eb54bda.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e94578c8b2cbe5b6eb26a3332410f6e8a33aea5623d84eae0898693c6edbe723.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_546",
+      "dbfId": 50532,
+      "name": "Ornery Tortoise",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Deal 5 damage to your hero.",
+      "flavor": "\"Dude, where's my pizza?!\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/768ecc7eb6268b8686ca72be7c4d6886fc4969a6a8815aaa361c79feeef2b9ba.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c724b9406f626683c445cba4005c57269af3b1d2999c038c2cdbc068c2e99f77.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_360",
+      "dbfId": 50595,
+      "name": "Overlord's Whip",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "durability": 4,
+      "text": "After you play a minion, deal 1 damage to it.",
+      "flavor": "\"This merit badge is for cruelty. This one's for whipping. And this one is for embroidery...\"",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fda768aa0b326600e1411e916052022c9ca85d63ab883f8be9443ce814f55f1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31920ad8bd6b22de714bc881dc4e83265ed06efd98b653e3a1d9f2039afdf2f4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_315",
+      "dbfId": 50084,
+      "name": "Pyromaniac",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "Whenever your Hero Power_kills a minion, draw a card.",
+      "flavor": "She prefers \u201cFlammably Inclined.\u201d",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0104f095fb1c9e8b4972fef4c7efcc4f97e9556c96a25a605d13c7dd6ac8eba.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d28880d638feef9afbd6df35c10de73912901f66c8684f083f0e53a640f294d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_124",
+      "dbfId": 50773,
+      "name": "Raiding Party",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Draw 2 Pirates from_your deck.\n<b>Combo:</b> And a weapon.",
+      "flavor": "And a bowl of chips. And some of those little cocktail weenies!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01d62fe508bf592ca2fcaafcae60b60326e70837b6223cf35c6c7415e51426d1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80603799717da2b29a29e84899973164ffd4362cd1752e025ad8d9756b8b5a7e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_551",
+      "dbfId": 50863,
+      "name": "Reckless Diretroll",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Discard your lowest Cost card.",
+      "flavor": "\"Reck less!? ME WRECK MOAR!\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/082353315d7e3faae872ecd570c7aee1debce8e7594eaf7c6c5f18c6cc5a6b02.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60794ec7b6485f68d01c3440d26cfe8705512214a9fd0071915b349f3eecea3a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_131",
+      "dbfId": 50315,
+      "name": "Sand Drudge",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "Whenever you cast a spell, summon a 1/1 Zombie with <b>Taunt</b>.",
+      "flavor": "Loves long walks on the beach, raising the dead, and chocolates.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d45c3227dd12ed65fe93590917b5da82506f8968e8e69eb785dd8a19da3e315a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ee5b0252af71b678f9d38c9e008e322df42b0329f6ce44fe8082f29c0c24040.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_326",
+      "dbfId": 50059,
+      "name": "Smolderthorn Lancer",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, destroy a damaged enemy minion.",
+      "flavor": "Here comes \u201cThe Smolder.\u201d",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c98d8a7e05d7d5031d0ec973a03bfaa505b8cf216a8b74fbb06c9a3a478e99c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0b7a7f2a0b5fe5af6f86f4df6ae32830ae5284d82e3104341f6ebf697c7f97f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_060",
+      "dbfId": 49804,
+      "name": "Spirit of the Frog",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 0,
+      "health": 3,
+      "text": "[x]<b>Stealth</b> for 1 turn.\nWhenever you cast a spell,\ndraw a spell from your deck\nthat costs (1) more.",
+      "flavor": "It is Wednesday, my dudes.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76bc458656ef323051e3937d1f9ce1a6257973db32d9154f9bd283d8870cf386.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d425230bacf3f12bed22328ef4a58c11ff79add8029e981b6c65554baa054c4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_901",
+      "dbfId": 50660,
+      "name": "Spirit of the Lynx",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 0,
+      "health": 3,
+      "text": "[x]<b>Stealth</b> for 1 turn.\nWhenever you summon a \nBeast, give it +1/+1.",
+      "flavor": "Much of this shrine\u2019s power lies in the can-opener noise it makes.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b87e069eb01b1fc4541383ab234882609178a1a31218b28d7e1f0a54733c953.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1435fae8b53f559f2ea029c519f2a6fd2aee791f29e38c63476682cc6c691b9e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_400",
+      "dbfId": 50230,
+      "name": "Splitting Image",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "<b>Secret:</b> When one of your minions is attacked, summon a copy of it.",
+      "flavor": "Sometimes you get punched so hard <i>they</i> see double.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8539b8a78d294ff4349437880f96f161de3f620b939277092c21ba98e80a4cf2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_500",
+      "dbfId": 50282,
+      "name": "Surrender to Madness",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "[x]Destroy 3 of your Mana\nCrystals. Give all minions\nin your deck +2/+2.",
+      "flavor": "Never give up, always surrender!",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b9311c59951192bb20ab856f4ebf81d0205b5849fd09877452d6f6323d54dce.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/725bd9ec8fd98581f0fd6f84a4c130273b8066be28c69deef370714bf4d8280f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_302",
+      "dbfId": 49999,
+      "name": "Time Out!",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Your hero is <b>Immune</b> until your next turn.",
+      "flavor": "Highly effective against 3 year olds.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6e6d6bef412c7b8f9188bf9e9b56928c0cdf24a3dc72576782c46921a59409f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/082f9f5b7ba2d71f66f2582fab6673a7f3134ad6d411ff790631bdc2d8a760d0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_405",
+      "dbfId": 50491,
+      "name": "Untamed Beastmaster",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "Whenever you draw a Beast, give it +2/+2.",
+      "flavor": "All it takes is a tummy rub.",
+      "artist": "E. Kenji & M. Azevedo",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea08552e86a43d3c56b524faf68504aaf67f70645f5f684ef1b359ab6f5bedb5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/143c79e74c8f576b4af5147d4ba8e60930a8fda1fc12e517d51a128ed7bb56da.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_343",
+      "dbfId": 43310,
+      "name": "Wardruid Loti",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Choose One - </b>Transform into one of Loti's four dinosaur forms.",
+      "flavor": "\u201cRavasaur!\u201d\n\u201cPretty scary\u201d\n\u201c\u2026Blammodax!\u201d\n\u201cIs that a thing?\u201d\n\u201cSMAXODON!\u201d\n\u201c\u2026.now you\u2019re just making those up.\u201d",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dddf2e4d0801bd0f50642e4a54ad15b9718518c8b081c7e86b1f919979cd275.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e58b693e27b9a6a71d3e7b61f5bb33501123955b76b3520250b0aab642456280.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_085",
+      "dbfId": 49867,
+      "name": "Zentimo",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]Whenever you target a\nminion with a spell, cast it\nagain on its neighbors.",
+      "flavor": "Serenity. Peace. Many frogs.",
+      "artist": "Evgeniy Zagumyennyy",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b730710d51e39e9b300604912af5d6ad9087810b8d8c7ea5447544f492758bbf.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd5fd4080284097d026f6d34b4ec276b9b4c9d336ab919e776051036e85c5b29.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_517",
+      "dbfId": 50397,
+      "name": "Arena Fanatic",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give all minions in your hand +1/+1.",
+      "flavor": "Her fantasy Rumble league gives double points for dismemberment.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1725124f43cc852e9364f25670986c696b4ff42343ce1b348183f06074f07d54.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31b401db3af78304b93b9d79cca3cbfc0703d85d34a7688c5240e0d69bcefb1c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_525",
+      "dbfId": 50411,
+      "name": "Arena Treasure Chest",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 0,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Draw 2 cards.",
+      "flavor": "Yeah it's great, but did you see the Arena Treasure Arms?!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/599ecc44768894b8edfa415122f824c2eb72113e43f8d1b9680a5ec52628972b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1ffb412c939a062a4dd23d602a279cc44301c446cccbb57670d7453da378130.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_096",
+      "dbfId": 50009,
+      "name": "Griftah",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> two\ncards. Give one to your\nopponent at random.",
+      "flavor": "With Griftah in your deck, sometimes you start the game with The Coin!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c32dfdf3b9afa24d172060e8bd8aceddcecfc955ae842c57cd2ece55c5f5546.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1a9433157426d6940e074ed433eca0620809014579eb28f98a9f04990c96bb8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_010",
+      "dbfId": 49049,
+      "name": "Half-Time Scavenger",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Stealth</b>\n<b>Overkill</b>: Gain 3 Armor.",
+      "flavor": "One player's trash is another's \u201cBest In Slot\u201d.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08cc337b33fd4f0bb0e974271083041aeda43871ff45ed3116a41e327100b657.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33f0a45fa1dc1406acb516c974a716a303b7353c73b59070766c04f2acde29c2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overkill"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_252",
+      "dbfId": 50032,
+      "name": "High Priestess Jeklik",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>, <b>Lifesteal</b>\nWhen you discard this,\nadd 2 copies of it to\nyour hand.",
+      "flavor": "If you love Jeklik, set her free. YOU CAN'T GET RID OF HER.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f548c78573a075c508617dd255667cc8c178a321b98184fb751e75d5d5775e4d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6399bd9e2cc0e23bd9f9b14381e7bb35e1dfb7a1be393a48e5aaa7df2d8b6c5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "InvisibleDeathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_533",
+      "dbfId": 50434,
+      "name": "Ice Cream Peddler",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If you control a_<b>Frozen</b> minion, gain 8_Armor.",
+      "flavor": "I scream, you scream, we all scream when we see a Freeze Mage.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab893edbb14b7605172a9adfc3da1c4817fa6faadaba837817e216293080d094.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7391ca7f87e7b65869f5e0d3a1290c878db0f9d16127f18842bab642a2397adf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_254",
+      "dbfId": 50042,
+      "name": "Mark of the Loa",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "<b>Choose One</b> -\nGive a minion +2/+4\nand <b>Taunt</b>; or Summon\ntwo 3/2 Raptors.",
+      "flavor": "Ah, yes. Mark. The mightiest Loa.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e170bdba5ca5d0dcc10d9b0dcbe13064fdeedae5ca3054102ac278ac9f6942e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34c62371f269e5bc9d0617173f03e7aa3ae3fb8634bcffb4adb951858426e624.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_520",
+      "dbfId": 50402,
+      "name": "Murloc Tastyfin",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Deathrattle:</b> Draw 2 Murlocs\nfrom your deck.",
+      "flavor": "He was destined for the soup. One way or another\u2026",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74ae71161a434a59af68990b1a9f5710613baf426041351cde8a8e23a971940f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48d159da50826414105c77931eea935f7d27a4a511f37244c2bea4e61b260da0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_244",
+      "dbfId": 49994,
+      "name": "Predatory Instincts",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "[x]Draw a Beast from your\ndeck. Double its Health.",
+      "flavor": "Somebody\u2019s been eating their funnel cakes.",
+      "artist": "Clint Langley",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/807d78afcc1bc201dc6be69d39fcc2aa001f4c747a2618dd21ee718015cad596.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8a5aa155304b86ea217f2abed4bc46af85328ed512540f295e21104d0ccbdf5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_508",
+      "dbfId": 50385,
+      "name": "Regeneratin' Thug",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "At the start of your turn, restore #2 Health to this_minion.",
+      "flavor": "Regenerates any injury except heartbreak.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e94792d2a3b14745949a2ae76b9ca8437be21ac57b3b047ee658f8bc0718c3b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc2984840d0c903cfde9731d6e30cdf944686c7189cf8a5b00cfe39b27b0a20e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_531",
+      "dbfId": 50427,
+      "name": "Rumbletusk Shaker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Summon a 3/2 Rumbletusk Breaker.",
+      "flavor": "Rub a dub dub, three trolls in a tub.\nAnd who do you think dey be?\nDa Shaker, Da Breaker, and Da Undatakah.\nAnd all of dem comin' for me.",
+      "artist": "Sam Nielson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef25086f3839b1ac061a880a99d09c50b3cfeecaf73cbc20db6ec5caa5d920e3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/919be89502965a887088ffb1acaeb4cbc534d488d5c69e9cf00c394044bef3ef.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_313",
+      "dbfId": 50122,
+      "name": "Scorch",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "[x]Deal $4 damage to a\nminion. Costs (1) if you\nplayed an Elemental\nlast turn.",
+      "flavor": "The hoof.\nThe hoof.\nThe hoof is on fire.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f981563f6ac33ace05eabadd8efeab8f1196b93dd68a10c100e0dc4cab6e1b0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f72247478e3ff371cca05dbd50811d2c70ab3ecd6410278ccf132ef2a03985af.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_092",
+      "dbfId": 49972,
+      "name": "Spirit of the Shark",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 0,
+      "health": 3,
+      "text": "[x]<b>Stealth</b> for 1 turn.\nYour minions' <b>Battlecries</b>\n__and <b>Combos</b> trigger twice._",
+      "flavor": "It has Stealth, but its ominous theme music keeps giving it away.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2611309659e970eb049a37c7b0f4b1a5bab91ba5073414db4b581716ff03614.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce305d2f85bde0f376baaa22b1ebb5300f97c3c57df0c638b082cd5272f6548d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_309",
+      "dbfId": 50031,
+      "name": "Spirit of the Tiger",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 0,
+      "health": 3,
+      "text": "[x]<b>Stealth</b> for 1 turn.\nAfter you cast a spell,\nsummon a Tiger with stats\nequal to its Cost.",
+      "flavor": "Less of a cantrip and more of a cat-nip.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47157cf57f5f210c982aadc20f1575b780da2c05c9ae3cae8c57f2689835580d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99035af33abb3c473c38870ded82958132deacc405cab1b35694f476de63cc6c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_015",
+      "dbfId": 49066,
+      "name": "Ticket Scalper",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 3,
+      "text": "<b>Overkill</b>: Draw 2 cards.",
+      "flavor": "Takes ten percent off the top.",
+      "artist": "David Kegg",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/269aeaa4e308e71ba0d14318f9e7fefed611bdf75f0f57b28713147514f65c4a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75e37009cc2c8cb6f8eae7116e2f11e3015377fc108b6ec629874f5f9d708fde.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overkill"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_157",
+      "dbfId": 50766,
+      "name": "Walk the Plank",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Destroy an undamaged minion.",
+      "flavor": "Pirates will fall for anything.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ca451e7cd4cc0413ac652a2b6609e70a3eafac11bc54441cafa031c53be3aa9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b86d2c376bff9421481c6375466b0c5a34af7d0440f623301e3f2917c5720a1.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_328",
+      "dbfId": 50066,
+      "name": "War Master Voone",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Copy all\nDragons in your hand.",
+      "flavor": "War Master sounds cooler than Dragon Sitter.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3032c6064e7b98968053427d9f990476a55099d624f47b0333b7fd6da54d2f4e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f4100c528dee201acc5634c2fd87036ea712f44ef90f74919117c864258f1bd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_545",
+      "dbfId": 50514,
+      "name": "Zandalari Templar",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> If you've restored\n10 Health this game, gain\n+4/+4 and <b>Taunt</b>.@ <i>({0} left!)</i>@ <i>(Ready!)</i>",
+      "flavor": "YOU WERE A TEMPLAR, JONDAR!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3bda1209629c41444b3f78503b78ff7d23b021f461dc089f082c5771e79ec68.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ffe75122eca137f7ff05d5ffe266f7b02c79adf6a064b516993509cf16c52a5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_521",
+      "dbfId": 50403,
+      "name": "Arena Patron",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Overkill:</b> Summon another Arena Patron.",
+      "flavor": "Everybody with a ticket get in here!",
+      "artist": "Eric Braddock",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb8362eee42712614e07c32c9c86c399a1cc7994fce45ad3c138c5e2a753afb3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overkill"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_347",
+      "dbfId": 50466,
+      "name": "Baited Arrow",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "Deal $3 damage. <b>Overkill:</b> Summon a 5/5 Devilsaur.",
+      "flavor": "The card is common, but the steak is rare.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd68ec414ef45aa094f49f33dacbc9d2381aa618c0298d12635ccff8a6241ba6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28e4bd1a66756e2003784c882d7107d92e1565f5db908a9766c70a17111c9569.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overkill"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_317",
+      "dbfId": 50086,
+      "name": "Blast Wave",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Deal $2 damage to_all minions.\n<b>Overkill</b>: Add a random Mage spell to your hand.",
+      "flavor": "If you\u2019re burning and you know it, wave your hands!",
+      "artist": "J. Axer",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2726017711419ec1c7fa998d8a562d362bedc94b66f28c5c04859b1d101876aa.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84f36d0a8603633e5418bc56a4f91bdc0a14d2ad2940f371d08857a7bdab441b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overkill"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_526",
+      "dbfId": 50412,
+      "name": "Dragonmaw Scorcher",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Deal 1 damage to all other minions.",
+      "flavor": "Caution: Contains Flammable Material",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e167b31c3c89a6665459dd4193ae3787170fb696986ba3aa0e5c7a9fe1f4102.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dae546fe9e480b84f1a2e22ec402eb51c6b75e914d9441a1ae688971451c6071.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_323",
+      "dbfId": 50049,
+      "name": "Emberscale Drake",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, gain 5 Armor.",
+      "flavor": "The third little dragon made his armor out of adamantite.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/455583b6a707620f066368b65f9ef9e570a115c0ce894ecdcb4b28b1b391ff80.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4063ab454feb8d860f52af1fc160e9a77f85e44504c0b0d77850d6c64892da36.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_304",
+      "dbfId": 50014,
+      "name": "Farraki Battleaxe",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "durability": 3,
+      "text": "<b>Overkill:</b> Give a minion in your hand +2/+2.",
+      "flavor": "Only two things in life are certain: death and axes.",
+      "artist": "M. Alvares & M. Azevedo",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ebcb23735d94e1e7266230fb37846de4afe601c28f0ae85aafde6c36c773752.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/582a95901ad448735142a2b969b4de834767e39f310d6eebb047a076878da8d0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overkill"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_151",
+      "dbfId": 50731,
+      "name": "Former Champ",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Summon a 5/5_Hotshot.",
+      "flavor": "The last time he saw action, Undertaker ruled the meta.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0617bf82c6154e449f1330d6254dd59d6d1adf65ca1285fd66439e6c79d57417.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e47dcca237a322daa433c64f0d1ab071428c0781f96ddb38c7b2856a4b1cceac.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_409",
+      "dbfId": 50775,
+      "name": "Gral, the Shark",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Eat a minion in\nyour deck and gain its stats.\n<b>Deathrattle:</b> Add it to\nyour hand.",
+      "flavor": "\u201c\u2026 We\u2019re gonna need a bigger board.\u201d",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f652a6a462fd0e5d68258729fa5d23db6182e14187292e7bd1fff08e09e0f5f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ee511251715b9d9823bb7c1b273de6a761df844aec39d5bcdb3badf0302f9ca.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_900",
+      "dbfId": 50659,
+      "name": "Halazzi, the Lynx",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Fill your hand with 1/1 Lynxes that have_<b>Rush</b>.",
+      "flavor": "Remember, you\u2019re only as strong as your weakest lynx.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/906a46eb1540e973adcd631f15f109667c9352009268f8b5c46e886bcf6ea617.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8de883cd73106a6ec406cd5f0f361bd1efb438dd088d787546ed5d9220f08140.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_258",
+      "dbfId": 50071,
+      "name": "Mass Hysteria",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Force each minion to_attack another random minion.",
+      "flavor": "Black Friday gets worse every year.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2b31a7b0e041502de839cbda46bb5ba0def96f99236fd9f88bd8cc72cbfcfaa.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4055b2af70c91e38d6b0e8785950e20afda4474d2b44819722e68c32f61046b8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_532",
+      "dbfId": 50430,
+      "name": "Mosh'Ogg Announcer",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 6,
+      "health": 5,
+      "text": "[x]Enemies attacking this\nhave a 50% chance to\nattack someone else.",
+      "flavor": "One's play-by-play. The other is off-color.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3134cfcef1b108bde628d9ca7952040482a4d893e9970632c209db842c530af2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f33fc425d9a512c5a63c2316ea44f57ccecedf8458f8450e0f5d26512e86a12c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_020",
+      "dbfId": 49088,
+      "name": "Sightless Ranger",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Rush</b>\n<b>Overkill</b>: Summon two 1/1_Bats.",
+      "flavor": "An eye for sore sights.",
+      "artist": "Jiajun Tian",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84e2f58229cf96fe7c90345640d14cae7f115a2c2a66cf13c6cb11f39d37999e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1db5b10824c1a18126699cabb74590d96375caabf7cc15ccc5f034b3a3045779.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overkill"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_535",
+      "dbfId": 50437,
+      "name": "Snapjaw Shellfighter",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 3,
+      "health": 8,
+      "text": "[x]Whenever an adjacent\nminion takes damage, this\n_minion takes it instead.",
+      "flavor": "Nonono, the <i>turtle</i> is the Shellfighter.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6e7ab47530dcade8e2f8b943686f115ff97e86ee89d492c402e573501f1dcac.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cf14925a9f5ca19e4653fac9a75786baa5d389586684a64c4b83658bbe55018.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "AdjacentBuff"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_341",
+      "dbfId": 50356,
+      "name": "Treespeaker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Transform your Treants into 5/5 Ancients.",
+      "flavor": "Honestly, his delivery is a little wooden.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1927c4a19961f84ba1a4d3db1c5f40899a5df19884e45276685c42c932489c8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d435c8e9a22701363c7d0f47cd283d27da574da89b2847a1f421b28a0c45dcf5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_311",
+      "dbfId": 50121,
+      "name": "Arcanosaur",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you played an_Elemental last turn, deal_3_damage_to_all other minions.",
+      "flavor": "Arcane energy\u2026 finds a way.",
+      "artist": "Ware Lee",
+      "collectible": true,
+      "race": "Elemental",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8154216ada9273dcea6509a3948d819f47a53782b0e1ba66b51dd44fb6cdc113.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63b94ba5d48da45a4d5920f139b13cad20b246f08c94aa0501d536db39ae6e8f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_127",
+      "dbfId": 50779,
+      "name": "Cannon Barrage",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "[x]Deal $3 damage to a\nrandom enemy. Repeat\nfor each of your Pirates.",
+      "flavor": "Why fire your cannons strategically when you can fire them all at once?",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd76168c604134d4c31401c27e8b099f741f783cefe31c472ef9999a5c661dde.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89065419c61101a96966fbb55c9aa970736c728d9745a5d5b440e1a16ed8c917.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_324",
+      "dbfId": 50054,
+      "name": "Heavy Metal!",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "[x]Summon a random\nminion with Cost equal\nto your Armor <i>(up to 10).</i>",
+      "flavor": "This metal is so heavy it will satisfy your iron requirements for the next year.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5c30cc31d2ebd9fbc8fc12ce2978b6b761cac023e928689eca4f0f27e5d7e7c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a69bce9c315b31ed2bc1f09c8f8146bb6b0ed7f00bb614f70bbaeb3f118a3549.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_345",
+      "dbfId": 50369,
+      "name": "Krag'wa, the Frog",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Return all spells you played last turn to_your hand.",
+      "flavor": "Krag'wa has a ritual to honor his friends and a ritual to devour his enemies. No one can tell them apart.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9dbfb1d96f6998c82ad488c8767f6abba66f5699371f155f8549734c2503484.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8cd622f4075d10dc40b69359cf9917341a51d05fe7c63f9757fb4f7fbdb57974.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_564",
+      "dbfId": 51136,
+      "name": "Mojomaster Zihi",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Set each player to 5 Mana Crystals.",
+      "flavor": "Sadly, she was still two credits short of her Witch Doctorate.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6882b76e47ee005981377118406fc2a4d915939ff7788b171ab99d32550ff933.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9b57de03c65542cf68bb552dab33ef0e15c1586d76b991be8ced1d84fcb093b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_351",
+      "dbfId": 50547,
+      "name": "Rain of Toads",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 6,
+      "text": "Summon three 2/4 Toads with <b>Taunt</b>. <b>Overload:</b> (3)",
+      "flavor": "\"Oh, THAT'S how she brings the warts!\"",
+      "artist": "Cicily He",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7afc6c1abd0d1cd608ce304d1cf8630b34528b0a6ee18db64fd83d79f51663bc.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8ec98734c313a10d3a6c8ffd405d973a21f86ac4eb3cf469b6ce760c2c2bbe9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_247",
+      "dbfId": 50006,
+      "name": "Soulwarden",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Add 3 random cards you discarded this game to your hand.",
+      "flavor": "Reduce, reuse, resoul.",
+      "artist": "Alex Garner",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35a4dce57c176f192935834f67e4607170d9e1e184e2428178bf0f1d6debf570.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07ff947d36806734d6bc9af7495105de239682c83a52021d3aa951863e930895.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_255",
+      "dbfId": 50044,
+      "name": "Stampeding Roar",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "Summon a random Beast from your hand and give it <b>Rush</b>.",
+      "flavor": "[x]The Gurubashi Arena has an\nextremely permissive policy on\npets in the workplace.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d44d1e1f61f9ebe8833592fb9eb63281e8a273cff6f5234d04e8e89c9e278252.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/278f05df163c97a602b41391e44bc8e14ff3a628343f13c833abaca6f2a10b01.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_325",
+      "dbfId": 50056,
+      "name": "Sul'thraze",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 4,
+      "durability": 4,
+      "text": "<b>Overkill</b>: You may attack again. ",
+      "flavor": "\u201cGriftah here with de Sul\u2019chop. One chop, you get four damage. Two chops, eight damage - you gonna change de way you fight.\"",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75a9aa093613a1685ca15bb509cfd2d685ef702e27477f31bc31fdeb653fc8a7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f121f5e44d1620703df4db04d0dfff5430f02c8c768aa0937cb28fb102f3db94.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overkill"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_305",
+      "dbfId": 50019,
+      "name": "A New Challenger...",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 7,
+      "text": "<b>Discover</b> a 6-Cost minion. Summon it with <b>Taunt</b> and <b>Divine Shield</b>.",
+      "flavor": "\u2026 Arrives? Approaches? TELL US ALREADY!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd8521e4b251f81882c031c2f2620c0d9791309b490349269a6c8b783fab9de5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a76dd7384eb97550f52418c72a8aea5c9ce5a780826f417e006d17db7228fb8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_550",
+      "dbfId": 50776,
+      "name": "Amani War Bear",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 5,
+      "health": 7,
+      "text": "<b>Rush</b>\n<b>Taunt</b>",
+      "flavor": "\"I used to farm for hours! Now they just come in packs?\"",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7459ae0cbebbe91b8c58dddd860eca22c7ce09452cbd80b380dec03ef257bca.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_257",
+      "dbfId": 50070,
+      "name": "Blood Troll Sapper",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 5,
+      "health": 8,
+      "text": "After a friendly minion dies, deal 2 damage to the enemy hero.",
+      "flavor": "Main supplier of Blood Troll Syrup to the Intercontinental Hut of Funnel Cakes.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c73530dca96355aa5e8add456ad25b76140391df58cadb82096f01312fdf2048.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11e7a891018dbe19b88125abed002be09c93094ed60d59f552eeeb3de839e63c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_260",
+      "dbfId": 50087,
+      "name": "Bwonsamdi, the Dead",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 7,
+      "health": 7,
+      "text": "[x]<b>Battlecry:</b> Draw 1-Cost\nminions from your deck\nuntil your hand is full.",
+      "flavor": "Everyone's dying to meet him.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f20fc912965c0a3f179e6b2ae63c6689dbe887df1076ab1ea99b317987efb74c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cfd2c386108792277eae111c19cb4b2fbf90cecf66fd22294651ef50dd4d676.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_569",
+      "dbfId": 51816,
+      "name": "Crowd Roaster",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 7,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> If you're holding\na Dragon, deal 7 damage\nto an enemy minion.",
+      "flavor": "Every major show has an opening act to warm up the crowd.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3107badbe0e3d26071c2eb3c437300e0c0676e123b3729d93f5b211bffafed6d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0425a4e1da312533e63f7aabc67e2ede3d25e6160961928975c02ac6a63473f2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_241",
+      "dbfId": 49985,
+      "name": "Gonk, the Raptor",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 9,
+      "text": "After your hero attacks and_kills a minion, it may_attack again.",
+      "flavor": "There\u2019s a word for Zandalari druids who refuse to pledge loyalty to Gonk: \u201cDelicious.\u201d",
+      "artist": "Christopher Hayes",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23778a88ea915ba70dbfe69181ee9eb32cc5c81f827d17134800722abdd92839.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29980a1582b131ad2a2a9daaf562961ca3968b1530609ea99eb5b14b5ad2c4c2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_077",
+      "dbfId": 49847,
+      "name": "Gurubashi Hypemon",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 5,
+      "health": 7,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a 1/1 copy of a <b>Battlecry</b> minion. It costs (1).",
+      "flavor": "Throw your hands in the air!\nThey cost (1).",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba08072317b5418d67132cb214e081553cc0de61a656049906581840ca3617c9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b75abd2dadf3f9f3bc54e8b13da33fad260f7acf84f8a48b89eb2d1aaabbb9a3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_232",
+      "dbfId": 49973,
+      "name": "Ironhide Direhorn",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Overkill:</b> Summon a 5/5_Ironhide Runt.",
+      "flavor": "\"Boy! Bring me my masks and skull rams.\"",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69e60802ada9e364b2dc70980c93db6bb50018ce3056ea83e90d0341eacc0cc8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5acef39e77ecd46d6ae6c55452aaa3f9e71b7a11aa4c8cb8936ad60e97eba7b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overkill"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_316",
+      "dbfId": 50088,
+      "name": "Jan'alai, the Dragonhawk",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> If your Hero Power\ndealt 8 damage this game,\nsummon Ragnaros the\nFirelord.@ <i>({0} left!)</i>@ <i>(Ready!)</i>",
+      "flavor": "You mess with the Bird, you get the Firelord.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43ffdbf1abd5273b1e378948a4bdedea45339762970db3a5e18ad286d8d3df78.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9152b5b86cfaa3af155e56c746de988b6388d19a0fa687f93f065b209cb32d2f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_528",
+      "dbfId": 50416,
+      "name": "Linecracker",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 5,
+      "health": 10,
+      "text": "<b>Overkill:</b> Double this minion's Attack.",
+      "flavor": "\"Tell me if you\u2019ve heard this one!\"",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d427e9f21d1b394e372ee142b3339221b03c2edb3af2e3caace08bacdcde2b2b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acb722ee8051686da0251a3e4c3eb509563ebe69f9d7f4b6556a6707101e9dbc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overkill"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_515",
+      "dbfId": 50395,
+      "name": "Rabble Bouncer",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 2,
+      "health": 7,
+      "text": "<b>Taunt</b>\nCosts (1) less for each enemy minion.",
+      "flavor": "\"Shirt? Shoes!? No service!\"",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ce581c6b35d8b49d1c9ab2cafd202a68c71ea0c793fb4e9eb4afd24fbd44916.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acf46a86b59be58af5ca0008850f4c8943a7cceb8b34d5b547c89facbfe8b367.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_329",
+      "dbfId": 50074,
+      "name": "Akali, the Rhino",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Rush</b>\n<b>Overkill:</b> Draw a <b>Rush</b> minion from your deck. Give it +5/+5.",
+      "flavor": "Most trolls only get to \u201cAAAAHHH!\u201d and don\u2019t make it to the \u201ckali\u201d part.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f2d514bec2e2dc2488a9a05a9f82de01172f96a16d0e7bb85b6091dcd972fc9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b35b0206bb0c99cf0c42a0f1198d1ddf7c55d5c3610dbe41c08dd4bcf8806de2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Overkill"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_126",
+      "dbfId": 50774,
+      "name": "Captain Hooktusk",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 6,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Summon 3 Pirates from your deck. Give them <b>Rush</b>.",
+      "flavor": "\"You three! Get in the cannon!\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "race": "Pirate",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/661429baa428c5a2a94dddacc2eece2f022d1bc22a01ee2903ba7b8423f959f9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af99c866b9090313ba61cf5f524394320d8cc9fb532accad2a364a7e2faf7f1f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_537",
+      "dbfId": 50443,
+      "name": "Da Undatakah",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Gain the\n<b>Deathrattle</b> effects of\n3 friendly minions that\ndied this game.",
+      "flavor": "First Deathrattle: Draw a card.\nSecond: Draw 2 cards.\nThird: Throw Mon'kind off a steel cage and plummet sixteen feet through an announcer\u2019s table.",
+      "artist": "Clint Langley",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ec6998c354084c794369f817e3ff4542f4250004461b62cd1a278bc9db37b97.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbc26a1f23d76370f899b29bd590a1413d35cdfbf129b70d79f79db281047897.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_555",
+      "dbfId": 50991,
+      "name": "Demonbolt",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 8,
+      "text": "Destroy a minion. Costs (1) less for each minion you control.",
+      "flavor": "Or as it\u2019s known in troll, \u201cDe bolt, mon.\u201d",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e33ef966d891bcea505713dd966deddb522a442d082ecf59ef7c36678fdfa919.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf2a44927e875f6f0382ecf1232dceabd1fcc023df14deec6f7a196f85dc61ef.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_318",
+      "dbfId": 50095,
+      "name": "Hex Lord Malacrass",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry</b>: Add a copy of your opening hand to your hand <i>(except this card)</i>.",
+      "flavor": "Extremely awkward cousin of Hex Lord Malaclass.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c91d52295e7286cf92fcf3407357b925cce99015826546838a8495eee758d074.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/423e4ebbf8f71671de0f82f549cd528ff99f7b1db564a4c76584135529d26089.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_253",
+      "dbfId": 50034,
+      "name": "Hir'eek, the Bat",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Fill your board with copies of this minion.",
+      "flavor": "REPEL\u2019S EFFECT WORE OFF.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3851420a70dbedcf71c5fd2132e8ce764d2fd491053805d6ff085bd19147482.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ad265e7326453ecf7390e19f086e4075060fad22456e7a95b3a5d8992a53a01.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_513",
+      "dbfId": 50392,
+      "name": "Mosh'Ogg Enforcer",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 2,
+      "health": 14,
+      "text": "<b>Taunt</b>\n<b>Divine Shield</b>",
+      "flavor": "Can\u2019t break the rules if you can\u2019t read \u2018em.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72c182840d3343a9d06332d68e4f87e21bd990e0629f23a77b3c5342f4cbc513.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_259",
+      "dbfId": 50082,
+      "name": "Princess Talanji",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 7,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Summon all minions from your hand that_didn't start in your_deck.",
+      "flavor": "Everyone wants to be a princess, but nobody ever considers the size of the hat.",
+      "artist": "Alex Horley Ormandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/228270496c1fb8b29f046c7ac4e13385aa70e0d90c6d877d70c634c6a236fe8d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3510963718c43cffae4a5f988f6bc4f29b0a73886005af2d96c6c7a62b79dcd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_246",
+      "dbfId": 50004,
+      "name": "Void Contract",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 8,
+      "text": "Destroy half of each player's deck.",
+      "flavor": "\u201cYOU SIGNED WHAT?!\u201d",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55766a5a2f46ddd91dbfa1aac50a384f4f93e93196a85cadbd21d05f30ea866a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52bf316639ad313eb1a8fec2e38588314ce856983d49bbfc9dbbefd23fa4ca51.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "TRL_542",
+      "dbfId": 50459,
+      "name": "Oondasta",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Rush</b>\n<b>Overkill:</b> Summon a Beast from your hand.",
+      "flavor": "Adorning devilsaurs with armor and feathers is a respected job in troll culture, although it has a high turnover rate.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52c0d1354b4d7b63647713fb7bcf19edacf6a1bff32d14c25f4b134fc95447df.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc33fab8e7f5129ffff05bd25515b84b5aa73ca92eb33c5aef22a41d36589032.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Overkill"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_541",
+      "dbfId": 50454,
+      "name": "Hakkar, the Soulflayer",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 9,
+      "health": 6,
+      "text": "<b>Deathrattle:</b> Shuffle a Corrupted Blood into each player's deck.",
+      "flavor": "ATTENTION: Do not enter any major city while infected with the Corrupted Blood!",
+      "artist": "Izzy Hoover",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9088d56c377a129ed79486eb06a8439f3c503254592e01ac4a32cbcb0cb5339b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c10ef06c92423b908bef0faad279e00d251e785af2a712f86b8a40f78c31eee.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_065",
+      "dbfId": 49819,
+      "name": "Zul'jin",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 10,
+      "health": 30,
+      "armor": "5",
+      "text": "[x]<b>Battlecry:</b> Cast all spells\nyou've played this game\n<i>(targets chosen randomly)</i>.",
+      "flavor": "If you can dodge an axe, you can dodge a ball.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44e2b7f3966ac9d9e0b71407027669b3fc6a316c3ab96666ad17d38cff3605af.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e24763ec1050cac561a54b70157b3fa69626a930922a3f44188d782d5031f1e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_408",
+      "dbfId": 50539,
+      "name": "Grave Horror",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 12,
+      "attack": 7,
+      "health": 8,
+      "text": "[x]<b>Taunt</b>\nCosts (1) less for each spell\nyou've cast this game.",
+      "flavor": "Trolls can regenerate lost limbs, but this is what they do with the leftovers.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/425211608ff14a4be91932273b90d2a9caafba6bfcd8925ae83aeb02f4060171.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c00629d46a29ca4a6470848ee7c5c4c8eabf806f30507664b6c29a220a75de42.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "TRL_300",
+      "dbfId": 49981,
+      "name": "Shirvallah, the Tiger",
+      "cardSet": "Rastakhan's Rumble",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 25,
+      "attack": 7,
+      "health": 5,
+      "text": "[x]<b>Divine Shield</b>, <b>Rush</b>, <b>Lifesteal</b>\nCosts (1) less for each Mana\nyou've spent on spells.",
+      "flavor": "On bended knee Thekal placed his weapon upon Shirvallah\u2019s altar, whereupon she slowly knocked it off with her paw.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db7af18f5541308fcf6eda95604b4ed097e4f1c4fc145e3509c41cd94275d45d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11343cccf0d040e96f8dc3700f974e221b59302a4942216f9952363bf61d5b51.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    }
+  ]
+}

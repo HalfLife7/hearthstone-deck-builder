@@ -1,0 +1,3867 @@
+{
+  "Forged in the Barrens": [
+    {
+      "cardId": "BAR_309",
+      "dbfId": 62873,
+      "name": "Desperate Prayer",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Restore #5 Health to each hero.",
+      "flavor": "Woah, we're halfway there, woah oh...",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1810ec6aa73043bc1416a712f30bbb16c8bb771036e6ee2c28043799dd4ddca.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_305",
+      "dbfId": 62804,
+      "name": "Flurry (Rank 1)",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 0,
+      "text": "<b>Freeze</b> a random enemy minion. <i>(Upgrades when you have 5 Mana.)</i>",
+      "flavor": "Flurry, Flurrier, Flurriest.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cd2a017358ccfbd537cc7af8cc59ce7cf5eca59d6d2834814bf5561111c9b83.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_007",
+      "dbfId": 63334,
+      "name": "Serpentbloom",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Give a friendly\nBeast <b>Poisonous</b>.",
+      "flavor": "\"Awww, it's so cute!\" \u2014Famous last words",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4dbc0f5be4ad4a7f2e7df58780a71b5d2087814ee1d6fa997918a9b266e49f0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_705",
+      "dbfId": 63467,
+      "name": "Sigil of Silence",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 0,
+      "text": "At the start of your\nnext turn, <b>Silence</b> all\nenemy minions.",
+      "flavor": "A little heard-of spell.",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e8832c4f1cdd943fa9a91842a0a962f077a29f1c0df7c8a582d49c988428f9a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_913",
+      "dbfId": 63211,
+      "name": "Altar of Fire",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "Destroy the top 3 cards of each deck.",
+      "flavor": "\"I now pronounce you, Crispy and Fried.\"",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3442cf71ee4be65f9158cd97cb03f085506ce0ebffaae3efc526604369cdbce4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "WC_803",
+      "dbfId": 63464,
+      "name": "Cleric of An'she",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If you've restored Health this turn, <b>Discover</b> a spell from your deck.",
+      "flavor": "When it's her turn to cook, she'll always go for a Light sear.",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5876e9adc56bc4424fc0868c1a7ca39a036ffac5df52fa38c759c5b78b4c9214.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_880",
+      "dbfId": 62947,
+      "name": "Conviction (Rank 1)",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "[x]Give a random friendly\nminion +3 Attack.\n<i>(Upgrades when you\nhave 5 Mana.)</i>",
+      "flavor": "It was the strength of Cariel's faith that emboldened the defenders of Northwatch that day. Although the strength of her giant hammer didn\u2019t exactly hurt either.",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2c49e7971d0b19df8872263a85e0765ff7a89486439ba4a8060823690c40ca4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "WC_022",
+      "dbfId": 63369,
+      "name": "Final Gasp",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "[x]Deal $1 damage to a\nminion. If it dies, summon\na 2/2 Adventurer with a\nrandom bonus effect.",
+      "flavor": "And with a raspy whisper, he uttered his final words, \"rez plz.\"",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20350d26bceee78bd3d3abad781aa72e34f463fa8ef56eda2aafe0dbb2bf2a48.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_891",
+      "dbfId": 63682,
+      "name": "Fury (Rank 1)",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Give your hero +2 Attack this turn. <i>(Upgrades when you have 5 Mana.)</i>",
+      "flavor": "Rank 3 is when your mom uses your middle name.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/767deeb62b953f69976c018697f4da81ecc10e319d0bcfe9a2da61ee8f5fcc37.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_550",
+      "dbfId": 63323,
+      "name": "Galloping Savior",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "[x]<b>Secret:</b> After your\nopponent plays three\ncards in a turn, summon a\n3/4 Steed with <b>Taunt</b>.",
+      "flavor": "\"Look to my coming on the first light of the third card.\"",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0b76b965c0b20000d641f98c671fca44ecc4dd5f4eae6523999f403cb7842ed.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_910",
+      "dbfId": 63191,
+      "name": "Grimoire of Sacrifice",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Destroy a friendly minion. Deal $2 damage to all enemy minions.",
+      "flavor": "\"What kind of bedtime story is this?\"",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c64421b3317f9d09c8d76e43420a12ab36ad3ef224cb0f80a27b9d6a0a60e7e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "WC_033",
+      "dbfId": 62921,
+      "name": "Judgment of Justice",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Secret:</b> When an enemy minion attacks, set its Attack and Health to 1.",
+      "flavor": "Look, we don't need a jury. We've got a paladin right here!",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d6f3b87aa3878266c6aa5069170584dcbbe958942c1ed1a35dfbdaa1d42084b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_854",
+      "dbfId": 63277,
+      "name": "Kindling Elemental",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> The next\n Elemental you play\ncosts (1) less.",
+      "flavor": "Burn baby burn. Little inferno!",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0d1952f132c5146561db45fdd647af9b411e839a421fb61d074f8fb1f299ed7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_873",
+      "dbfId": 62924,
+      "name": "Knight of Anointment",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Draw a\nHoly spell.",
+      "flavor": "\"I dub thee... injured.\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58a382faa4abee422c4e2c75be4dfb7c992c46be57a678a2c6a248d2a0bcf850.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_028",
+      "dbfId": 63396,
+      "name": "Meeting Stone",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 0,
+      "health": 2,
+      "text": "[x]At the end of your turn,\nadd a 2/2 Adventurer\nwith a random bonus effect\nto your hand.",
+      "flavor": "\"I'm clicking on it, but nothing's happening.\"",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eea9edbf96798fc9264ff78b35a665cb261f10c1a77f981460a73a8522762b13.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_321",
+      "dbfId": 62892,
+      "name": "Paralytic Poison",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "[x]Give your weapon +1\nAttack and \"Your hero is\n<b>Immune</b> while attacking.\"",
+      "flavor": "The hammer is overkill.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb73327ea9feb923eb50b7dd57cc62abf6070c552f3c5283cb699f14894e5908.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "WC_017",
+      "dbfId": 63359,
+      "name": "Savory Deviate Delight",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "[x]Transform a minion in\nboth players' hands into a\nPirate or <b>Stealth</b> minion.",
+      "flavor": "\"Savory\" is a creative way to put it.",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7900f4f45b7454ea61c195f1e00938e52fc82fb5394a9c9e20a7ffa7a64de19e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_318",
+      "dbfId": 62889,
+      "name": "Silverleaf Poison",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "[x]Give your weapon\n\"After your hero attacks,\ndraw a card.\"",
+      "flavor": "Kazakus has taken to a more direct approach in recent times.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d882168c93abe0b58ac59759e42e635defda2e103d99a2ffcd2455d9b2f32134.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_751",
+      "dbfId": 63509,
+      "name": "Spawnpool Forager",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Summon a 1/1 Tinyfin.",
+      "flavor": "Putting food on the table requires persistence, enthusiasm, and the finest murloc Gloves of Foraging. ",
+      "artist": "Cheng Hao",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70aa4aa23d23f7f852782ebf033ba5db38029635f08837a4c70b10c90435a5d3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_031",
+      "dbfId": 62811,
+      "name": "Sunscale Raptor",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Frenzy:</b> Shuffle a Sunscale Raptor into your deck with permanent +2/+1.",
+      "flavor": "And they don't stop coming and they don't stop coming and they don't stop coming and they don't stop coming and they don't stop coming and they don't stop coming and they\u2014",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbf427ee7558cc17a847ed9be56f1d7deb59c126485d9fcc2a6206615afb2113.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_330",
+      "dbfId": 63229,
+      "name": "Tuskpiercer",
+      "cardSet": "Forged in the Barrens",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "durability": 2,
+      "text": "[x]<b>Deathrattle:</b> Draw a\n<b>Deathrattle</b> minion.",
+      "flavor": "It's the Barrens, everything has tusks! The Quilboar have tusks, the boars have tusks, the tusks have tusks.",
+      "artist": "Kagi ",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ca8f275124e943643489238fb4a1c4058acd244f45fa8610cce0986d98fc71b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_042",
+      "dbfId": 63073,
+      "name": "Wailing Vapor",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]After you play an Elemental,\ngain +1 Attack.",
+      "flavor": "If you have The Vapors, your Humors might be imbalanced.",
+      "artist": "Samche Chen",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdf481be76b25a21b6eeb860b440fe26c575fefa8859cd109dac5363ab5e2d4f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_843",
+      "dbfId": 63117,
+      "name": "Warsong Envoy",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]<b>Frenzy:</b> Gain +1 Attack\nfor each damaged\ncharacter.",
+      "flavor": "\"What do you mean we didn\u2019t give the flag to the Druid?\"",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83b181e27720d7f79b4725a3459b09e4e1ea220408c3a9717fa5abf026f69672.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_025",
+      "dbfId": 63374,
+      "name": "Whetstone Hatchet",
+      "cardSet": "Forged in the Barrens",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "durability": 4,
+      "text": "After your hero attacks, give a minion in your hand +1 Attack.",
+      "flavor": "A bad hatchet can make a good spear better.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9a83190455369908595cf241b225a406a606d0e8cf44077ea05faf28f1b2cd3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_546",
+      "dbfId": 63062,
+      "name": "Wildfire",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "[x]Your Hero Power\ndeals 1 more damage\nthis game.",
+      "flavor": "The Barrens were a lush jungle. Then this happened.",
+      "artist": "David Kegg",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e553f338efa09d39755b47fbf3978541a0f87f701fa20992b5b2010389a9478b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_801",
+      "dbfId": 63195,
+      "name": "Wound Prey",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Deal $1 damage. Summon a 1/1 Hyena with <b>Rush</b>.",
+      "flavor": "You steal the cranberry juice, you pay the price.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8dbc744dfeca0eaa782b682d93b43a2adfe2cd4ed48d2153722ab3d6fdf81a9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_323",
+      "dbfId": 62894,
+      "name": "Yoink!",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "<b>Discover</b> a Hero Power and set its Cost to (0). Swap back after 2 uses.",
+      "flavor": "Saying the spell\u2019s name makes it work better.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/014224d26a106661b820c4a4ad7bc453e051e65d72fd79264d4702fc2ce503e7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_912",
+      "dbfId": 63193,
+      "name": "Apothecary's Caravan",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]At the start of your turn,\nsummon a 1-Cost minion\nfrom your deck.",
+      "flavor": "If you won't bring out your dead, we'll bring the dead to you.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ce663f3d091c0862c5c0a18b8fb4e86079d3ced36556036c4c356f278851d97.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_841",
+      "dbfId": 63130,
+      "name": "Bulk Up",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Give a random <b>Taunt</b> minion in your hand +1/+1 and copy it.",
+      "flavor": "\"For breakfast I usually go for a couple of kodo steaks, 5 Plainstrider eggs and an ice-cold milk to wash it down\u2026 all raw.\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e02d33f116b60b697b3a92048ca720f899200193d4fa0dae5b48a90ff9a9a6be.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_044",
+      "dbfId": 63065,
+      "name": "Chain Lightning (Rank 1)",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Deal $2 damage to a minion and a random adjacent one. <i>(Upgrades when you have 5 Mana.)</i>",
+      "flavor": "Still better than receiving a chain letter.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d045db2d460ceb2b9b64c64f1d23118b68b47373bf5c2ec3a49e2aaabf7223ae.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_314",
+      "dbfId": 62878,
+      "name": "Condemn (Rank 1)",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "[x]Deal $1 damage to\nall enemy minions.\n<i>(Upgrades when you\nhave 5 Mana.)</i>",
+      "flavor": "\"I wished you no harm, but for your cruelty, by the light, I condemn you all!\" Xyrella shouted, unaware that irony was not her strong suit.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c9cea86da02832a1d302f9220ebbe4957df212932464976005741debd094aca.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_842",
+      "dbfId": 63128,
+      "name": "Conditioning (Rank 1)",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Give minions in your hand +1/+1. <i>(Upgrades when you have 5 Mana.)</i>",
+      "flavor": "Now drop and give me 5 Mana. ",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c988030f5c22a441ab1775e74741b0e551c9976065368a8ab356303a4aaecb2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_074",
+      "dbfId": 62583,
+      "name": "Far Watch Post",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]Can't attack. After your\nopponent draws a card, it\n___costs (1) more <i>(up to 10)</i>.__",
+      "flavor": "Dabu, man. Like, far out.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54b5f727484389542b2689775e49caa6092921d0c7f5fbddf50ddd83caa16530.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_860",
+      "dbfId": 63272,
+      "name": "Firemancer Flurgl",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]After you play a Murloc,\ndeal 1 damage to\nall enemies.",
+      "flavor": "Diss tracks spitting straight fire.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "elite": true,
+      "race": "Murloc",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aec646320dc0417ab2957e09c7ac93150e0522dad95755f1fa3cf92a8c63529a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_745",
+      "dbfId": 63252,
+      "name": "Hecklefang Hyena",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Deal 3 damage to your hero.",
+      "flavor": "Even their teeth are laughing at you.",
+      "artist": "Jeremy Cranford",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7fbec0a47e59d401848d4d20540c4a4707f554e0c63c6346feedef98959b7fcc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_914",
+      "dbfId": 63220,
+      "name": "Imp Swarm (Rank 1)",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Summon a 3/2 Imp. <i>(Upgrades when you have 5 Mana.)</i>",
+      "flavor": "Not a cauldron, or a mischief, or a cackle, but a swarm.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c7c7030f3ed0b8aa230d34e691d7c4b1c92205fbc66c2eab4ac8b0be8b8cc60.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_035",
+      "dbfId": 63007,
+      "name": "Kolkar Pack Runner",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]After you cast a spell,\nsummon a 1/1 Hyena\nwith <b>Rush</b>.",
+      "flavor": "Is he running or galloping?",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dc49cd2f16d2af854c94810bcbdce229893583fa93953300519801c486a46ea.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_536",
+      "dbfId": 63030,
+      "name": "Living Seed (Rank 1)",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Draw a Beast. Reduce its Cost by (1). <i>(Upgrades when you\nhave 5 Mana.)</i>",
+      "flavor": "Every desert needs an oasis. And it's Guff's duty to make it happen.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/797baec3bae53a70b28738350fb4e91dc816514a760760460a67d7948804ea02.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_062",
+      "dbfId": 62483,
+      "name": "Lushwater Murcenary",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If you control a Murloc, gain +1/+1.",
+      "flavor": "You can't just switch sides because they have more fish!",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd253e6912109cc6284ed32ef5482b877fd36b172f6ef0cb3f361dd0eb49fcc4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_063",
+      "dbfId": 62484,
+      "name": "Lushwater Scout",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "After you summon a Murloc, give it +1 Attack and <b>Rush</b>.",
+      "flavor": "Only knows how to play \"Careless Murgl\" and \"Mrgl Mrgl Little Star.\"",
+      "artist": "Ishmael Hoover",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/277f5317b0c8ff75c3b35e1a24e56dc53cb6e8e0b8024e7fbb8e7b771e21875b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_024",
+      "dbfId": 63373,
+      "name": "Man-at-Arms",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you have a weapon equipped, gain +1/+1.",
+      "flavor": "Arch nemesis of the Man-at-Legs.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63a343828c7de46d8479478e6282094240a7e83158164d9a1180e6613166e262.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_549",
+      "dbfId": 63114,
+      "name": "Mark of the Spikeshell",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Give a minion +2/+2.\nIf it has <b>Taunt</b>, add a copy of it to your hand.",
+      "flavor": "\"I'm DEFINITELY turtle-y enough for the turtle club.\"",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80cb144d0dc3078336b657339959d06736c84429eca72b9bd37aed9cf29d9cb8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_024",
+      "dbfId": 62705,
+      "name": "Oasis Thrasher",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Frenzy:</b> Deal 3 damage to the enemy hero.",
+      "flavor": "Didn't get tickets for E.T.C.'s show.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e6a158073e281348a17288bc8bfba26ee9fe57a31d08b4b57761a055a635cd9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_022",
+      "dbfId": 62703,
+      "name": "Peon",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Frenzy:</b> Add a random\nspell from your class\nto your hand.",
+      "flavor": "Joke's on the peon: the job's never done.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Frenzy Friends\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/853efec01435df332c0f90d9ec0d74054c1211304af1794080650a7a63b958a8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_020",
+      "dbfId": 63098,
+      "name": "Perpetual Flame",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Deal $3 damage to a random enemy minion. If it dies, recast this. <b>Overload:</b> (1)",
+      "flavor": "Flame is perpetual.*\n\n *<i>Perpetual only applies to current turn.</i>",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/597c10740742905814df71ebfcb6cb82ebc1fd0a88ab128fa1abcd53f9eb2608.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_033",
+      "dbfId": 62813,
+      "name": "Prospector's Caravan",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "At the start of your turn, give all minions in your hand +1/+1.",
+      "flavor": "Prospectors came from all around in the Golden Legendary Rush of '49.",
+      "artist": "Tiffany Chiu",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4595fe0f6887201b32d819d7ba0bebd11d3699eee8ab3e298d2657c248a74609.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_325",
+      "dbfId": 63163,
+      "name": "Razorboar",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Summon a <b>Deathrattle</b> minion that costs (3) or less from your hand.",
+      "flavor": "And this little pig built his house out of VENGEANCE.",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb4fbb18008001e85db71b93091cd46461536a64029d33d77711824caa69e7ad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_537",
+      "dbfId": 63033,
+      "name": "Razormane Battleguard",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "The first <b>Taunt</b> minion you_play each turn costs_(2) less.",
+      "flavor": "Where there's a quill, there's a way.",
+      "artist": "Daniil Kudriavtsev",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b8c6e4df3181bf761fad9751884eb71e5baac02e10504e2c52c811b988efce1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_541",
+      "dbfId": 63056,
+      "name": "Runed Orb",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $2 damage. <b>Discover</b> a spell.",
+      "flavor": "The most dangerous Winter Veil ornament.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e073d1cc6f778e7216587f7fdb7b8e08424a90bc696172648e0fc03fb45b7500.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_315",
+      "dbfId": 62879,
+      "name": "Serena Bloodfeather",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Choose an enemy minion. Steal Attack and Health from it until this has more.",
+      "flavor": "She\u2019s really into networking! After all, she\u2019s introduced countless low-level Horde players to the Spirit Healer.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8978506d46145a500c6836d96f8d95608efe9cf3647d70c3f4f61df86afa5ad9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_306",
+      "dbfId": 62845,
+      "name": "Sigil of Flame",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "At the start of your next turn, deal $3 damage\nto all minions.",
+      "flavor": "\"Huh, it reads F-I-R-E. Wonder what that means?\"",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d6592c3b92d6ecdcc4918d8ddd0c45a315a73e2dc637a1ec764ab5e996162aa.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "WC_003",
+      "dbfId": 63264,
+      "name": "Sigil of Summoning",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "At the start of your next turn, summon two 2/2 Demons with <b>Taunt</b>.",
+      "flavor": "Look, summoning ain\u2019t exactly a science. Sometimes it takes a turn.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08123286c4518c754f273be051c6ed186ac1b84b3bafc01dc22a39055c2d11c7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_871",
+      "dbfId": 63690,
+      "name": "Soldier's Caravan",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]At the start of your turn,\nsummon two 1/1\nSilver Hand Recruits.",
+      "flavor": "It\u2019s a clown car\u2026 for JUSTICE!",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc56521c99fa06caca6ec854569ad14675f89eb92e31ef2ad4d94936443a2b24.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_312",
+      "dbfId": 62876,
+      "name": "Soothsayer's Caravan",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "At the start of your turn, copy a spell from your opponent's deck to your hand.",
+      "flavor": "With tusks like those, you might call her a \"Toothsayer.\"",
+      "artist": "Kai Zhong",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e82dc03bd845c7134db953a33af069c91d629b9a5ec86a64a0a67cdd9b255673.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_040",
+      "dbfId": 62515,
+      "name": "South Coast Chieftain",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If you control another Murloc, deal 2_damage.",
+      "flavor": "It got the conch. You let it speak!",
+      "artist": "Kagi ",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11c0b175ef14f7dfb3df13500fe972e3df0d1efc84982d3a7378a810db7fbd42.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_875",
+      "dbfId": 62926,
+      "name": "Sword of the Fallen",
+      "cardSet": "Forged in the Barrens",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "durability": 2,
+      "text": "[x]After your hero attacks,\ncast a <b>Secret</b> from\nyour deck.",
+      "flavor": "Hoarding secrets is no fun, so play each and every one.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51ae1b63e5cf0fe180032b8575a6f5d07a263be0a9be388c2656d93a00cc3b53.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_064",
+      "dbfId": 62485,
+      "name": "Talented Arcanist",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Your next spell_this turn has <b>Spell_Damage +2</b>.",
+      "flavor": "\"Ey mon, you don't get this good just on raw talent ... but it helps.\"",
+      "artist": "Yunle Tu",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b10efa753f65c95677e39875cf9f4f7d4f7b2d1e5f1cb17592a909a2cdace084.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_034",
+      "dbfId": 63002,
+      "name": "Tame Beast (Rank 1)",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Summon a 2/2 Beast with <b>Rush</b>. <i>(Upgrades when you\nhave 5 Mana.)</i>",
+      "flavor": "\"Trust me laddie, I never eat seafood!\"",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6755fa5f7c7e80f87e7f2a6ac86605b0e2b7585ed4b57812ea1bfa3aa5deff61.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_533",
+      "dbfId": 63021,
+      "name": "Thorngrowth Sentries",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Summon two 1/2 Turtles with <b>Taunt</b>.",
+      "flavor": "Maybe we shouldn't drink from this Oasis\u2026",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1a28404c8410ae22715b03ed237287fef664edcf435759fc388cef7551416a7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_043",
+      "dbfId": 63071,
+      "name": "Tinyfin's Caravan",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "At the start of your turn, draw a Murloc.",
+      "flavor": "Movin' right along, mrgl mrg mrgl mrg.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdb3c023b3d4b5fc25be8c4afa113ec385f5651d791d6a75e65eb7ddbf51c2ae.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_743",
+      "dbfId": 63250,
+      "name": "Toad of the Wilds",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> If you're holding\na Nature spell, gain\n+2 Health.",
+      "flavor": "\"Someday we'll find it. The Oasis Connection. The peons, the caravans, and me.\"",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dca85068e9dbcbeef24a4c541768ebb67c13c39683e89bf0fd817c93347e4f82.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_021",
+      "dbfId": 63368,
+      "name": "Unstable Shadow Blast",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "[x]Deal $6 damage to a\nminion. Excess damage\nhits your hero.",
+      "flavor": "\"Unstable\" usually means \"awesome!\"",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4fce93b1fe24580021eaa0b52dfe209912710cf4e4207135d15aeab5fd1cd8eb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_319",
+      "dbfId": 62890,
+      "name": "Wicked Stab (Rank 1)",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $2 damage. <i>(Upgrades when you have 5 Mana.)</i>",
+      "flavor": "Always go for the glowing weak point.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/019b26f6471ccb14156aa58ffbf5c6696a6b589fd48644cb0c3029bc7789ca5d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_545",
+      "dbfId": 63060,
+      "name": "Arcane Luminary",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]Cards that didn't start in\nyour deck cost (2) less\n<i>(but not less than 1)</i>.",
+      "flavor": "They say true value is the cards you find along the way.",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d55ee0d1adae3ede2d4d68297774491c4a898c3050e02594e43e4b83d2bac050.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_035",
+      "dbfId": 63432,
+      "name": "Archdruid Naralex",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Dormant</b> for 2 turns.\nWhile <b>Dormant</b>, add a\nDream card to your hand\n__at the end of your turn.",
+      "flavor": "\"Dormant? I think you mean naptime.\"",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9213fa11904ef7d361086194a1aa6de4d83623fd27b8496692392559f6c08d6b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_045",
+      "dbfId": 63072,
+      "name": "Arid Stormer",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If you played an Elemental last turn, gain <b>Rush</b> and <b>Windfury</b>.",
+      "flavor": "Some people chase storms, some storms chase elementals.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/160442e2dee6a4ee069e96452c817f6fe437644413426bb974d16939250ef9ea.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_082",
+      "dbfId": 63381,
+      "name": "Barrens Trapper",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "Your <b>Deathrattle</b> cards\ncost (1) less.",
+      "flavor": "Just add a bit of murloc meat for bait. Beasts can\u2019t resist that special seasoning\u2026",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1ae3e56751184ea865a3bf39f6394ebbd649a851d8fbdf5f4ad088d45c2ac7f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_916",
+      "dbfId": 63216,
+      "name": "Blood Shard Bristleback",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Lifesteal</b>. <b>Battlecry:</b> If your\ndeck contains 10 or fewer\ncards, deal 6 damage\nto a minion.",
+      "flavor": "I'm bringin' bristle back (Yeah)\nThose other minions don't know how to act (Yeah)\nI think it's special how these crystals crack (Yeah)\nSo turn around and I'll give you a smack (Yeah)\n(Take 'em to the Barrens)",
+      "artist": "David Kegg",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41af70df5e57a27cecd624e9d89fcbdd30f70221b44230a7419b5573faeebf92.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_890",
+      "dbfId": 63019,
+      "name": "Crossroads Gossiper",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "After a friendly <b>Secret</b> is revealed, gain +2/+2.",
+      "flavor": "Not afraid to spill the tea.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed88cd6afa6666df0f4c3c7a86efb615658f5a3a82a40edef56254a102e2ef01.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_026",
+      "dbfId": 62744,
+      "name": "Death's Head Cultist",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Taunt</b>\n<b>Deathrattle:</b> Restore 4 Health to your hero.",
+      "flavor": "Nothing can stop death. Except a Taunt. With Healing.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2da9426218abc461d2c5f0c29af137b8963b26dc22e88f2bb4d4e2ea045a08b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_027",
+      "dbfId": 63400,
+      "name": "Devouring Ectoplasm",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Deathrattle:</b> Summon a\n2/2 Adventurer with\n_a random bonus effect.",
+      "flavor": "When it's on keto, it only devours tauren.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e5cc0fdf170405a52a200902b096df9c33689c37ecc9b375b1003e6c3641a9b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_311",
+      "dbfId": 62875,
+      "name": "Devouring Plague",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "[x]<b>Lifesteal</b>. Deal $4 damage\nrandomly split among\nall enemy minions.",
+      "flavor": "\"How\u2019d we miss this one in Uldum?\" \u2014Rafaam",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93a323c90376f2a5de43f02d5f9241a161d06f2055bf6a2e174433510edd0973.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_013",
+      "dbfId": 63346,
+      "name": "Devout Dungeoneer",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Draw a spell.\nIf it's a Holy spell,\nreduce its Cost by (2).",
+      "flavor": "\"Please do smaller pulls, this is my first time healing.\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/569265fd58447efff7c10cb0215910420411f5a13380efff24dc033d5beb8882.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_320",
+      "dbfId": 62891,
+      "name": "Efficient Octo-bot",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 4,
+      "text": "<b>Frenzy:</b> Reduce the Cost of cards in your hand by (1).",
+      "flavor": "Pull the lever, Octo-bot... Wrong leverrrrr!",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62dad42f69d28040561fd4b723f6cc479918380304398c2bdee415c632cb9b48.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_004",
+      "dbfId": 63329,
+      "name": "Fangbound Druid",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Taunt</b>\n<b>Deathrattle:</b> Reduce the Cost of a Beast in your hand by (2).",
+      "flavor": "Bound by the law of the fang, these druid floss their teeth twice a day.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3efba0befa5ecad9932554c9ea9744bf1091493400434f6246f72b9c065865da.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_701",
+      "dbfId": 63407,
+      "name": "Felrattler",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Rush</b>\n<b>Deathrattle:</b> Deal 1 damage\nto all enemy minions.",
+      "flavor": "It only rattles when YOU'RE in danger.",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/954f30b02e7eca89f01456d71d5fc1d4690023c5f53c4e43f7d1c6aa2c0ffbbb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_317",
+      "dbfId": 62888,
+      "name": "Field Contact",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]After you play a <b>Battlecry</b>\nor <b>Combo</b> card, draw a card.",
+      "flavor": "That's not a knife... THIS is a knife!",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51a43aa65f1bc502410ef4ac1cbd8ffe80636a1411c6bfaa35e9f4606b672681.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_805",
+      "dbfId": 63058,
+      "name": "Frostweave Dungeoneer",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Draw a spell.\nIf it's a Frost spell,\nsummon two 1/1\n___Elementals that <b>Freeze</b>.",
+      "flavor": "It's a woven blanket of ice but surprisingly comforting.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/673a422dd8f687dd5040ad62f98ec98228fde256e46a1cefe6a804fcf7ac1b9a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_720",
+      "dbfId": 63227,
+      "name": "Guff Runetotem",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "After you cast a Nature spell, give another friendly minion +2/+2.",
+      "flavor": "\"By the twins above and twins below, our companions will lead us through.\" \u2014Guff Runetotem",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21c289d4e2fd58d8703865ccea6e8e152a34689306f51c14d0cd70a6bf3c06c3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_060",
+      "dbfId": 62481,
+      "name": "Hog Rancher",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Summon a\n2/1 Hog with <b>Rush</b>.",
+      "flavor": "Suspiciously close to a Quilboar village.",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Hog Wild\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3d65548601539d4c97958502fe3f97d41fe517cd6e1b2b6660896fd3e84eaac.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_430",
+      "dbfId": 63726,
+      "name": "Horde Operative",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Copy your opponent's <b>Secrets</b> and put them into play.",
+      "flavor": "\"We all have our secrets. I mean, your secrets.\"",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Top Secret Snoop\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3988655a6e782e2d5b901a93119e5a05a03da206232650cf26b570d61556492.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_915",
+      "dbfId": 63215,
+      "name": "Kabal Outfitter",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry and Deathrattle:</b>\nGive another random\n_friendly minion +1/+1.",
+      "flavor": "Don\u2019t ask her for feathers on your necklace though.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/904baec43598305b38925662c6d6c7be52eacb2d484408e814ccb75392237f17.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_721",
+      "dbfId": 63591,
+      "name": "Mankrik",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Help Mankrik find\nhis wife! She was last seen\nsomewhere in your deck.",
+      "flavor": "Relives his nightmare every day a new Horde player is created.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked when opening a Forged in the Barrens pack.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d274753851d71b421f1763944097846d8738f66b8b85a818fdb1c86a8d9791da.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_076",
+      "dbfId": 62585,
+      "name": "Mor'shan Watch Post",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]Can't attack. After your\nopponent plays a minion,\n_summon a 2/2 Grunt.",
+      "flavor": "Pushing into Ashenvale made this post uneventful.",
+      "artist": "Forrest Imel",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Maximum Security\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24d8bcc54347620168aa376094e213479da28c63927b86ffd5ca5bb2976c81d8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_041",
+      "dbfId": 63069,
+      "name": "Nofin Can Stop Us",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]Give your minions\n+1/+1. Give your\nMurlocs an extra +1/+1.",
+      "flavor": "\"I'm having a good time! I don't want to stop at all!\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4066d7e9e458bf808f87aa4e06ed48b8c6666827e6e11049841a98cf3ae6781d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_876",
+      "dbfId": 62927,
+      "name": "Northwatch Commander",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you control a <b>Secret</b>, draw a minion.",
+      "flavor": "It was all going well until some Horde had the cunning idea of attacking from the south.",
+      "artist": "Leonardo Santanna",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e5bacaac1d18eec31c21b46306ab9ad94fab1a12ce094e7e0794432536d33f6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_812",
+      "dbfId": 63553,
+      "name": "Oasis Ally",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "[x]<b>Secret:</b> When a\nfriendly minion is\nattacked, summon a\n3/6 Water Elemental.",
+      "flavor": "As gentle as a bellyflop.",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1181ddd6e938083a8fc0eb903e41fbc1706f1636c1ef157ed715d07b2bfa1d3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_030",
+      "dbfId": 62750,
+      "name": "Pack Kodo",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a Beast, <b>Secret</b>, or weapon.",
+      "flavor": "He looks simple, but there\u2019s a lot to unpack.",
+      "artist": "Ware Lee",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f50c37cde1307675525bc0395e51e98ff102307bcb9fba9e300d6655d0e0e232.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_005",
+      "dbfId": 63331,
+      "name": "Primal Dungeoneer",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Draw a spell.\nIf it's a Nature spell, also\ndraw an Elemental.",
+      "flavor": "They wanted a Mature Dungeoneer. Instead they got this.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35aa778499d645132b41433880c176b26f6ab37e0bb479cc42540788653d9ef0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_061",
+      "dbfId": 62482,
+      "name": "Ratchet Privateer",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give your weapon +1 Attack.",
+      "flavor": "There's a fine line between privateering and pirating. It comes down to tax breaks.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79bbe90ef522a9e6a759f4752c72c73480de670ef08c459303be2b833b3577e1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_326",
+      "dbfId": 63164,
+      "name": "Razorfen Beastmaster",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Summon a <b>Deathrattle</b> minion that costs (4) or less from your hand.",
+      "flavor": "It's a homebrew variant on my favorite role-playing game.",
+      "artist": "Akkapoj T.",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a49b427a4bd4a6323d5b68215804fee2889345a94cb00c79da5eb090e50620e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_888",
+      "dbfId": 63112,
+      "name": "Rimetongue",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "After you cast a Frost spell, summon a 1/1 Elemental that <b><b>Freeze</b>s</b>.",
+      "flavor": "Warriors are red,\nFrost spells are blue,\nIf you're being hit by a weapon,\nRimetongue's got you.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6cf727b8e0485a5214f41566ef4d5855c9554f00d1f8ecf83e1acd5c1aa99ab2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_847",
+      "dbfId": 63125,
+      "name": "Rokara",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Rush</b>\nAfter a friendly minion\nattacks and survives,\ngive it +1/+1.",
+      "flavor": "\"Tread carefully, but stand tall, and stand together. For strength and honor!\" \u2014Rokara",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afc47363ff32b175dfc4c2cb6218801158b4453c5001255efa416e19602ea9fc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_032",
+      "dbfId": 63099,
+      "name": "Seedcloud Buckler",
+      "cardSet": "Forged in the Barrens",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "durability": 3,
+      "text": "[x]<b>Deathrattle:</b> Give your\n_minions <b>Divine Shield</b>.",
+      "flavor": "A shield to some, a frisbee to others (mainly dogs).",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0233eba5c323dc77e99aa81cfe90c2ac2f6adae99119fc17627d687c3659e3d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_041",
+      "dbfId": 63515,
+      "name": "Shattering Blast",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Destroy all <b>Frozen</b> minions. ",
+      "flavor": "Let's be honest, they weren't going to unfreeze anyway.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0395dd8f4fef468e6c96234a5667374e8cbede48d6d2aeb3b5dbbd0cf8a90357.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "WC_016",
+      "dbfId": 63358,
+      "name": "Shroud of Concealment",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Draw 2 minions. Any played this turn gain <b>Stealth</b> for 1 turn.",
+      "flavor": "This page left intentionally blank.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15583fbf8689ad0825f8ae512d4a50e1d265917cc9330a4385576814f4cfdbbf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_025",
+      "dbfId": 62706,
+      "name": "Sunwell Initiate",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Frenzy:</b> Gain <b>Divine Shield</b>.",
+      "flavor": "Initiates don\u2019t study pronunciation until level 20.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/336fe469644f109f12f6b85b999ce4f05cce0264cc315f2c27c6a7c4f8f1cb99.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_322",
+      "dbfId": 62893,
+      "name": "Swinetusk Shank",
+      "cardSet": "Forged in the Barrens",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "durability": 2,
+      "text": "[x]After you play a Poison,\n_gain +1 Durability.",
+      "flavor": "Comes with a rack of ribs!",
+      "artist": "Kagi ",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4de68f60b19fe388f569991681bc6ac74ad34b185ff646fad961256fb7c3eaca.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_918",
+      "dbfId": 63218,
+      "name": "Tamsin Roame",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]Whenever you cast a Shadow\nspell that costs (1) or more,\nadd a copy to your hand\nthat costs (0).",
+      "flavor": "In life, Tamsin Roame was one of the Alliance's most promising mages; now she is the Horde's most dangerous warlock.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09850ee11094c1e3440ebec365e237cc2b0773f05c998541bfd6909be2b627eb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_038",
+      "dbfId": 63010,
+      "name": "Tavish Stormpike",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "After a friendly Beast attacks, summon a Beast from your deck that costs (1) less.",
+      "flavor": "\"Hurry up, laddie, we're getting overrun! Serpents everywhere! They may look cute, but do ye see the fury in their eyes?!\" \u2014Tavish Stormpike",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/813dac56651bea19bce669e63155b7e2d77f578fb714290ed53cdd72d3be3a93.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_065",
+      "dbfId": 62486,
+      "name": "Venomous Scorpid",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Poisonous</b>\n<b>Battlecry:</b> <b>Discover</b> a spell.",
+      "flavor": "Despite what Guff says, he is NOT a \"nice little guy.\"",
+      "artist": "Ian Ameling",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Sting Operation\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4ae302e04660572814a02e0e6793ea27eef4392fa92519e507b1e4f7bb2c86b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_327",
+      "dbfId": 63165,
+      "name": "Vile Call",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Summon two 2/2 Demons with <b>Lifesteal</b>.",
+      "flavor": "\"We're calling to inform you that your vehicle's insurance is about to expire.\"",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7b60c75c9e3689faa46098ec405930aa3e3f3d949cdd14a87db24b19a58b5c8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_015",
+      "dbfId": 63357,
+      "name": "Water Moccasin",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "[x]<b>Stealth</b>\nHas <b>Poisonous</b> while you\n_have no other minions.",
+      "flavor": "You need to be specific when you're ordering waterproof shoewear.",
+      "artist": "Daren Bader",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf4834854ca34bcccb321e0738f7a8e784e24130254ab4ba2c1a06a16347118e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_324",
+      "dbfId": 62895,
+      "name": "Apothecary Helbrim",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry and Deathrattle:</b> Add a random Poison to your hand.",
+      "flavor": "The best way to maintain your health is to poison everyone else.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3c3d9fff517689c66fbd814242f55af3cb3485e996f69bf84532b97c4035f1e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_078",
+      "dbfId": 62587,
+      "name": "Blademaster Samuro",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 1,
+      "health": 6,
+      "text": "[x]<b>Rush</b>\n<b>Frenzy:</b> Deal damage equal\nto this minion's Attack\n_to all enemy minions.",
+      "flavor": "Artists paint their visions meticulously on canvas. Blademasters paint with, uh, broader strokes.",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGetDiamond": "Unlockable after purchasing the Forged in the Barrens Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d97d9722aa73da038bdccfcebcf2ab338b7741cd692dc1bbac9951e98565b45e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_048",
+      "dbfId": 63074,
+      "name": "Bru'kan",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Nature Spell Damage +3</b>",
+      "flavor": "Bru'kan, his body weathered and weary, felt his time nearing its end. Teaching brave champions like Rokara gives him hope for a greater future.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "howToGetDiamond": "Obtained by owning 25 Forged in the Barrens Legendary cards.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecac081a683d3117a2a3a0c7f606354469d1252347f07c14b28c84f9ac6710be.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Nature Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_902",
+      "dbfId": 62993,
+      "name": "Cariel Roame",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]<b>Rush</b>, <b>Divine Shield</b>\nWhenever this attacks,\nreduce the Cost of Holy\n______spells in your hand by (1).___",
+      "flavor": "Cariel had pledged her honor to the Alliance, but when someone matching her long-lost sister's description was sighted at the Crossroads, Cariel did the unthinkable: she abandoned her post and set out across the Barrens.",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03732a58428424f9dd56a18830a32312d56a9b44d6cbc5acc4bb07161e2a00c9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_075",
+      "dbfId": 62584,
+      "name": "Crossroads Watch Post",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "health": 6,
+      "text": "[x]Can't attack. Whenever your\nopponent casts a spell, give\nyour minions +1/+1.",
+      "flavor": "All of Barrens Chat is recorded and kept on thousands of scrolls stored beneath this tower.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac29efbbc7e681938b2bd018e9726adecc9743a50d008ba94869a4f983fe71fc.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_027",
+      "dbfId": 62745,
+      "name": "Darkspear Berserker",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 7,
+      "text": "<b>Deathrattle:</b> Deal 5 damage to your hero.",
+      "flavor": "\"If I die, I'm taking my hero down with me.\"",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94db2dd4cdec62b96bc65a6170412418f0459a96978336570e403ec915d3bb39.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_750",
+      "dbfId": 63508,
+      "name": "Earth Revenant",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\n <b>Battlecry:</b> Deal 1 damage\nto all enemy minions.",
+      "flavor": "Have you guys seen a pair of rock legs lying around anywhere?",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10c2eed779740f20b64b3ea658eff1dba38adfa72087e12c873e156386d7cea0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_070",
+      "dbfId": 62549,
+      "name": "Gruntled Patron",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Frenzy:</b> Summon another Gruntled Patron.",
+      "flavor": "Gruntled and whelmed.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4f2792da8d6243f3d2ac0aea6dc6ccff9e3b43b464cf1599411e10270d8b72e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_069",
+      "dbfId": 62548,
+      "name": "Injured Marauder",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 10,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Deal 6 damage to this minion.",
+      "flavor": "He\u2019ll keep going despite the neighsayers.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1513f677cf04a4952ffc06507fd7b55f2300a04c1290e46e78adfc4875def21b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_881",
+      "dbfId": 63079,
+      "name": "Invigorating Sermon",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Give +1/+1 to all minions in your hand, deck, and battlefield.",
+      "flavor": "Every underdog sports coach knows this one.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b1fd9f09ea98c3bdff25477cad41f6caf37c64bf3470be1bfdbe83552fcc99e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_079",
+      "dbfId": 62588,
+      "name": "Kazakus, Golem Shaper",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If your deck has no 4-Cost cards, build a custom Golem.",
+      "flavor": "With a little love and some tenderness, we\u2019ll CRUSH OUR FOES!",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36c51ad7953f342e8cb39e790eecfd01ea194b06a150dd91b2cc2e3fd0d5fcf5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_333",
+      "dbfId": 63260,
+      "name": "Kurtrus Ashfallen",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Attack the left and\nright-most enemy minions.\n<b>Outcast:</b> <b>Immune</b> this turn.",
+      "flavor": "Kurtrus fled the Black Temple, abandoning Illidan's cause, to seek revenge against the Dreadlord Anetheron.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1a898f3f6f5371dc16e79950ef928862b08f03675002390cd032a6b0fd0296a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_316",
+      "dbfId": 62887,
+      "name": "Oil Rig Ambusher",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Deal 2 damage.\nIf this entered your hand\n_this turn, deal 4 instead.",
+      "flavor": "Days since last accident: 0",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3e6b1695fcae73e84ba3ccb5fb7574c3d07173992305ed266e90e6ddb073952.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_844",
+      "dbfId": 63118,
+      "name": "Outrider's Axe",
+      "cardSet": "Forged in the Barrens",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "durability": 3,
+      "text": "After your hero attacks and kills a minion, draw a card.",
+      "flavor": "\"I only have to get 4 Zhevra hooves? How hard could that be?\"",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb9277974750e31071fd5712a01a7210a45c8cc0f8375c2100401b0b2af15418.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_032",
+      "dbfId": 62812,
+      "name": "Piercing Shot",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Deal $6 damage to a minion. Excess damage hits the enemy hero.",
+      "flavor": "Goblins hate wasting money on unnecessary ammunition.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b92ef3fd87590344d50a8f98ca60312103f83189ffc70022ece1d485b6006611.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_540",
+      "dbfId": 63042,
+      "name": "Plaguemaw the Rotting",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]After a friendly minion with\n <b>Taunt</b> dies, summon a new\n_copy of it without <b>Taunt</b>.",
+      "flavor": "<i>This</i> is why you should brush your teeth three times a day!",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "race": "Quilboar",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5845cd8b4dac4559ff62286645c0b896374d265f63cb44afedb5d032cb178ad2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_534",
+      "dbfId": 63027,
+      "name": "Pride's Fury",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Give your minions +1/+3.",
+      "flavor": "Day 4: I think they're starting to suspect.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65d49bb59d38e5d74e4f6db8b7e439bffd5b0e950362a2eabaff311c253f8ac5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_845",
+      "dbfId": 63119,
+      "name": "Rancor",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "[x]Deal $2 damage to all\nminions. Gain 2 Armor\nfor each destroyed.",
+      "flavor": "Wise men say \"Only fools rush in.\" Wise Orcs say the opposite.",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd9b37eb006265551339f7cf5aff43956cfddbe31f4189510b09ee30b224d7f4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_544",
+      "dbfId": 63059,
+      "name": "Reckless Apprentice",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Fire your Hero Power at all enemies.",
+      "flavor": "It\u2019s all a great learning experience until someone accidentally aggros the boss.",
+      "artist": "Yaohua Xu",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c8853b48a41c2a065eb216059162da3ba186ad97041b4a0ead53895f6e5594e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_552",
+      "dbfId": 63517,
+      "name": "Scabbs Cutterbutter",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Combo:</b> The next two\ncards you play this turn\ncost (3) less.",
+      "flavor": "\"Never lie, steal, cheat, or drink. Unless you're compelled to, that is\u2026\" \u2014Scabbs Cutterbutter",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4989cbb12c2bd7ebcfa5e07055b51bbe3ebd4c85e165f923f2fe1185d05bcde2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_008",
+      "dbfId": 63335,
+      "name": "Sin'dorei Scentfinder",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 1,
+      "health": 6,
+      "text": "<b>Frenzy:</b> Summon four 1/1 Hyenas with <b>Rush</b>.",
+      "flavor": "Loves candles. Hates deodorant.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cb75992530e687a265c6d3ab23e58dd27f32d31bf0455d2b22e9bbf0b8d7b9e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_911",
+      "dbfId": 63192,
+      "name": "Soul Rend",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "[x]Deal $5 damage to all\nminions. Destroy a card in\nyour deck for each killed.",
+      "flavor": "About as close to feeling guilt as a warlock's ever going to get.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b81712e62a3e5b9eafd417bf707e235e51495d5389f4fb86ceb9908307ba3b45.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_081",
+      "dbfId": 63380,
+      "name": "Southsea Scoundrel",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a card in your opponent's deck. They draw theirs as well.",
+      "flavor": "\"\u2026and here we see the Southsea Scoundrel in their natural habitat: a den of scum and villainy.\"",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5612fa5f5dc727b3eea72b405c6edbe9feadf01780641b8d46fcfdddb4a14645.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_744",
+      "dbfId": 63251,
+      "name": "Spirit Healer",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "After you cast a Holy spell, give a random friendly minion +2 Health.",
+      "flavor": "\"You again? What did I tell you about trying to fight ALL the quilboars.\"",
+      "artist": "Yaohua Xu",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55dde15ba89047ea44d53057c54476a7a4e45603997c7a01b38168b3a863fe3d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "WC_023",
+      "dbfId": 63370,
+      "name": "Stealer of Souls",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "The first card you draw each turn costs Health instead of Mana.",
+      "flavor": "The tooth fairy gig didn't work out.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f553670b0bdedde02f10e38945dac7861f9e29291aebd3eb2abbdfce52e12237.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_535",
+      "dbfId": 63029,
+      "name": "Thickhide Kodo",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Gain 5 Armor.",
+      "flavor": "The introduction of professions was devastating for kodo populations.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe62363f1793da7d77c05a61756e0f663e735fbdf49d6fa69844cd8273d79e5c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_748",
+      "dbfId": 63261,
+      "name": "Varden Dawngrasp",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> <b>Freeze</b> all enemy\nminions. If any are already\n<b>Frozen</b>, deal 4 damage\nto them instead.",
+      "flavor": "Varden Dawngrasp could wield fire, summon hailstorms, and morph a night elf into a sheep with a snap of their fingers. Knowing how malleable reality could be, certain labels felt downright trivial.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d608a14ba6380d2ba33d62f03fae61b35c9b19df2142120c0e84520e5ac8a7eb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_328",
+      "dbfId": 63166,
+      "name": "Vengeful Spirit",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Outcast:</b> Draw 2 <b>Deathrattle</b> minions.",
+      "flavor": "Sheesh, even the spirits are edgy when it comes to Demon Hunters.",
+      "artist": "Wayne Wu",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16ea7f5eec962382abeec6f15556bf5d004d5130099c663fa9e95993c5640f50.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_037",
+      "dbfId": 63632,
+      "name": "Venomstrike Bow",
+      "cardSet": "Forged in the Barrens",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 1,
+      "durability": 2,
+      "text": "<b>Poisonous</b>",
+      "flavor": "\"You know you only have to coat the arrowhead in poison and not the entire bow, right?\"",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7f1d6a35b0bc7e6161b0b71fc0b35d980384ae1638943fefc7df3efba1c8806.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_878",
+      "dbfId": 62933,
+      "name": "Veteran Warmedic",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]After you cast a Holy spell,\nsummon a 2/2 Medic\nwith <b>Lifesteal</b>.",
+      "flavor": "In times of war, warmedics bring their own medics.",
+      "artist": "Wayne Wu",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/392ec588968d829bd5d87d82cc5edb4c693fd23b55f6fded0868b3a9ea2c82df.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_307",
+      "dbfId": 62871,
+      "name": "Void Flayer",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> For each spell\nin your hand, deal 1\ndamage to a random\nenemy minion.",
+      "flavor": "The Void, just like onions, has flayers.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff509aa8a5effa5f099c96a7dbd502429cb0b2448b5804b15756312ec43a9333.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_037",
+      "dbfId": 63088,
+      "name": "Warsong Wrangler",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> a\nBeast from your deck. Give\nall copies of it +2/+1 \n<i>(wherever_they_are)</i>.",
+      "flavor": "\"Me? Playing favorites? I love my beasts all the same!\"",
+      "artist": "Angelica Alieva",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2496f66e086b9847268b8fa387362a016399c24b6614205f2181f52cf0e724f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_840",
+      "dbfId": 63126,
+      "name": "Whirling Combatant",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]<b>Battlecry and Frenzy:</b>\nDeal 1 damage to all\nother minions.",
+      "flavor": "It's called capoeira! And yes, it is dangerous!",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c5b16cb7fb85b766cc450572d0e3400c8580eea1b44cfa5f4320f9c27648a16.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_735",
+      "dbfId": 63188,
+      "name": "Xyrella",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you've restored Health this turn, deal that much damage to all enemy minions.",
+      "flavor": "On the Night of Falling Stars, Xyrella had a vision of a shattered naaru. \"Go to the Barrens,\" the being said. \"Seek the shards of my broken body. Restore me, and I will restore your daughter.\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7be240fcc959e3f1df50ffa612559e8488a75ad0510df4bc0a9a7f5f7da07a87.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_014",
+      "dbfId": 63347,
+      "name": "Against All Odds",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Destroy ALL\nodd-Attack minions.",
+      "flavor": "Time to EVEN out the playing field.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e53dfcbfb2e1b6e39e40edc4d76ae8b11519eafc309a367e41964e3f23778882.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_551",
+      "dbfId": 63461,
+      "name": "Barak Kodobane",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Draw a 1, 2,\n__and 3-Cost spell.",
+      "flavor": "They say he's a pro at horseback archery.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57155baf59c3d4e99363120a9667f2eff5d3df7e41412e4f811035282ae10a31.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_073",
+      "dbfId": 62582,
+      "name": "Barrens Blacksmith",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Frenzy:</b> Give your other minions +2/+2.",
+      "flavor": "\"Maybe someday you\u2019ll make it to Gadgetzan, kid.\"",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc523da69641340f0f56416fbc2eb71ebde0fb3897caa0103aa9c93576d8345d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_072",
+      "dbfId": 62581,
+      "name": "Burning Blade Acolyte",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Summon a 5/8 Demonspawn\nwith <b>Taunt</b>.",
+      "flavor": "Wields a disappointingly normal looking blade.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Spawn Shop\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd1d7ae86f76453c47dae4c9f0dbfb670183ff0eb69c0472a4a27fc196dda46f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_879",
+      "dbfId": 62976,
+      "name": "Cannonmaster Smythe",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Transform your <b>Secrets</b> into 3/3 Soldiers. They transform back when they die.",
+      "flavor": "\"Smythe, it's been a real blast serving the Alliance with you.\"",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8024517178f30b3a8f3225619bdd2c3ed5f9e0f298681985c395b409cc99454.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_021",
+      "dbfId": 62702,
+      "name": "Gold Road Grunt",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "text": "[x]<b>Taunt</b>\n<b>Frenzy:</b> Gain Armor equal\nto the damage taken.",
+      "flavor": "No, no, no, Gold Roads are very different from Yellow Brick Roads.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f52ec9582542857ce6b13b4a0cb2df62070bb75d8be0db6de58adfed6399da0f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Frenzy"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_848",
+      "dbfId": 63279,
+      "name": "Lilypad Lurker",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> If you played an\nElemental last turn, transform\nan enemy minion into a\n0/1 Frog with <b>Taunt</b>.",
+      "flavor": "Honestly, the frog did nothing wrong.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c97b12c88aeca8fdc6ad45f0dba5d273dd0e9bb688cfe28b23420f6b6edebb34.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_846",
+      "dbfId": 63124,
+      "name": "Mor'shan Elite",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Taunt</b>. <b>Battlecry:</b> If your hero\nattacked this turn, summon\na copy of this.",
+      "flavor": "\"Fear not the orc who has slain a million training dummies, but the orc who keeps CAMPING MY CORPSE!\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7e7467ce800185adb4eb7fcf78ed7320d324ae3c59d35161762b8f6b1c224ec.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_919",
+      "dbfId": 63219,
+      "name": "Neeru Fireblade",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If your deck is empty, open a portal that fills your board with 3/2 Imps each turn.",
+      "flavor": "Look at this guy! He\u2019s obviously evil! OBVIOUSLY!!!",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d933d9d11b4cce30e34becb4fa43949a17faee4340013dce9545417ac94a0da2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_313",
+      "dbfId": 62877,
+      "name": "Priest of An'she",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Taunt</b>. <b>Battlecry:</b> If you've restored Health this turn, gain +3/+3.",
+      "flavor": "\"An\u2019she?\" \"Bless you!\" \"No, you, An'she\u2026\" \"Bless you again!\"",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eda5015cfc9ae6f2ac4dbbf96282b71ced879a7d91674893eaca59d1887f7bbf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_020",
+      "dbfId": 62701,
+      "name": "Razormane Raider",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 6,
+      "text": "<b>Frenzy:</b> Attack a\nrandom enemy.",
+      "flavor": "\"Call me hedgehog one more time. I dare you.\"",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4af1a03f334270428f09d1aef55c1775313063a89257776fa24a264093d6672e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_542",
+      "dbfId": 63057,
+      "name": "Refreshing Spring Water",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 5,
+      "text": "Draw 2 cards.\nRefresh 2 Mana Crystals for each spell drawn.",
+      "flavor": "\"Mana\" is just another name for \"electrolytes.\"",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6326eebd676b1e529371029d1aebf320fb219a660021a01f58a59435b9a32c0e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_080",
+      "dbfId": 62176,
+      "name": "Shadow Hunter Vol'jin",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Choose a minion. Swap it with a random one in its owner's hand.",
+      "flavor": "You wouldn\u2019t see this swap-meet on the Zandalari Roadshow.",
+      "artist": "Steven Prescott",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked when opening a Forged in the Barrens pack.",
+      "howToGetGold": "Unlocked with \"Equivalent Exchange\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12c87f07af680f81fcd256b36bae3e7f54de85a8832c5bb4171c0ee900848e90.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_896",
+      "dbfId": 63701,
+      "name": "Stonemaul Anchorman",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "[x]<b>Rush</b>\n<b>Frenzy:</b> Draw a card.",
+      "flavor": "\"Brug will read anything you put on the parchment prompter. Anything.\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/776136a25e95da911b347153094b298732d14c93d838d63a7120de4de52986a8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_917",
+      "dbfId": 63217,
+      "name": "Barrens Scavenger",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\nCosts (1) while your deck\nhas 10 or fewer cards.",
+      "flavor": "When the hundredth centaur dropped, so did her bracers.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7296294de61c585fc0c3aebb341d034d5aaec3945ea43c91a205d5231d741470.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_806",
+      "dbfId": 63520,
+      "name": "Floecaster",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "Costs (2) less for each <b>Frozen</b> enemy. ",
+      "flavor": "His real name is Melvin, but he prefers his friends call him ... <sigh> ...\"Floecaster.\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9adc3bd057cbe0dfc54b608224a70f4754e9db1d9015a8715ff0add36e7dae62.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "WC_026",
+      "dbfId": 63375,
+      "name": "Kresh, Lord of Turtling",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 9,
+      "text": "<b>Frenzy:</b> Gain 8 Armor. <b>Deathrattle:</b> Equip a 2/5 Turtle Spike.",
+      "flavor": "Never should have flushed him.",
+      "artist": "Daren Bader",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54c4d2c17910aa3ac95f58701abffc289ecbd14303bbdbf546b560f824aeb7a3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Frenzy"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_006",
+      "dbfId": 63332,
+      "name": "Lady Anacondra",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 7,
+      "text": "Your Nature spells\ncost (2) less.",
+      "flavor": "Do you think she got her name before or after she turned into a snake?",
+      "artist": "Steven Prescott",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab127aff41b89cb85c6fcffca707df43baf0b5258c13e054456cc1ebc8376d5a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_310",
+      "dbfId": 62874,
+      "name": "Lightshower Elemental",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Restore #8 Health\nto all friendly characters.",
+      "flavor": "The forecast calls for light showers, but you won\u2019t need an umbrella.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53fa5dc504b21f5385a1d0add04556d7eb46b9da7010cfb06d6313dccd6ca2cf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_071",
+      "dbfId": 62550,
+      "name": "Taurajo Brave",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 4,
+      "health": 8,
+      "text": "<b>Frenzy:</b> Destroy a random enemy minion.",
+      "flavor": "\"He's brave, but splinters will make any Tauren cry.\"",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea4549cfe2bf9147e92bd90c38dd7b57622fadadccd8bdb88b47a201d19299bf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Frenzy"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_329",
+      "dbfId": 63167,
+      "name": "Death Speaker Blackthorn",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Summon 3 <b>Deathrattle</b> minions that cost (5) or less from your deck.",
+      "flavor": "He can speak death but has a hard time reading it.",
+      "artist": "Samwise Didier",
+      "collectible": true,
+      "elite": true,
+      "race": "Quilboar",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bb2b7c07e80ffedb18564838379b81fe5a4668220cf9e9cfb0a45cf0bb6c146.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_538",
+      "dbfId": 63038,
+      "name": "Druid of the Plains",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 7,
+      "health": 6,
+      "text": "<b>Rush</b>\n<b>Frenzy:</b> Transform into a 6/7 Kodo with <b>Taunt</b>.",
+      "flavor": "Not to be confused with the aeronautically advanced Druid of the Planes.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38fe9a78b3f9a9d2213b92cfc3bb86ecb00a6a34e50eefcdb733f8efccda90fe.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Frenzy"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_077",
+      "dbfId": 62586,
+      "name": "Kargal Battlescar",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Summon a\n5/5 Lookout for each\nWatch Post you've\n__summoned this game.",
+      "flavor": "One if by land, two if by tree.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a6df2918db946fbb1e8bbbe6cd0e04e965d5e355fbfd4ab85e28563b4ff9b42.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_030",
+      "dbfId": 63398,
+      "name": "Mutanus the Devourer",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Eat a minion in\nyour opponent's hand.\nGain its stats.",
+      "flavor": "As long as Naralex stays under the blanket, Mutanus can't get him.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce949bd4377e134ca45b98c63ec19e604a8a7cea94d2c10e5f6696c366c032e1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_334",
+      "dbfId": 63274,
+      "name": "Overlord Saurfang",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Resurrect 2 friendly <b>Frenzy</b> minions. Deal 1 damage to all other minions.",
+      "flavor": "Eats more than his fair share of sour candy.",
+      "artist": "Glenn Rane",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2aacf376dd1232a96e824c587aaf1e055fba7815f32c001114ae20a56c957f86.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Frenzy"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_034",
+      "dbfId": 63102,
+      "name": "Party Up!",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 7,
+      "text": "Summon five 2/2 Adventurers with random bonus effects.",
+      "flavor": "Random? But what if we don't get a tank?",
+      "artist": "Yaohua Xu",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d4dd6c310a2d805c5cb3ecaf7881e423368974a0df594114f44d76684d56e37.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "WC_029",
+      "dbfId": 63397,
+      "name": "Selfless Sidekick",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Equip a random weapon from your deck.",
+      "flavor": "\"I got a real sense of humility from her when she bashed that quilboar's head in.\"",
+      "artist": "Vika Yarova",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8aac0ec178d67a2c0c4bf1615b0b1afd0f3de8e05341bb75ca826d099a5ddfc2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_539",
+      "dbfId": 63040,
+      "name": "Celestial Alignment",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 8,
+      "text": "Set your Mana Crystals to 0. Set the Cost of cards in your hand and deck to (1).",
+      "flavor": "\"Is my deck any good?\"\n\"I mean, if the stars align.\"",
+      "artist": "Gustav Schmidt",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ada6350d5b40f67c1570e523c0d9c6d61f5937690ed8f6f1ddf30088606277ff.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "WC_036",
+      "dbfId": 63502,
+      "name": "Deviate Dreadfang",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 4,
+      "health": 9,
+      "text": "After you cast a Nature spell, summon a 4/2 Viper with <b>Rush</b>.",
+      "flavor": "Even with wings, snakes STILL don't have legs.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1823b58643d60d7a3200a893dc17204dfd49c382c91638c53c1bd1406337296d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_547",
+      "dbfId": 63064,
+      "name": "Mordresh Fire Eye",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Battlecry:</b> If you've dealt 10\ndamage with your Hero Power\n this game, deal 10 damage\nto all enemies.@ <i>({0} left!)</i>@ <i>(Ready!)</i>",
+      "flavor": "You're not hardcore unless you died hardcore.",
+      "artist": "Qinghao Wu",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c31786130f9516f761bae930ee1a7af58913f85c808ee8a7f2b70b79fd710489.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "BAR_308",
+      "dbfId": 62872,
+      "name": "Power Word: Fortitude",
+      "cardSet": "Forged in the Barrens",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 8,
+      "text": "Give a minion +3/+5. Costs (1) less for each spell in your hand.",
+      "flavor": "Part of a balanced breakfast.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3e64b9cc9bd13e5fdf3297ef9de417fe8b8f6a8353e5f4d1c5f6e01a0506e24.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "BAR_042",
+      "dbfId": 63070,
+      "name": "Primordial Protector",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Draw your\nhighest Cost spell.\nSummon a random minion\nwith the same Cost.",
+      "flavor": "I thought the \"shape of water\" meant something else.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "howToGetGold": "Unlocked with \"Grand Guardian\" Achievement.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/677ae1ae66bdba8692cec61592b63c39723ea26aa534c3c1719507b34d28d927.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "WC_040",
+      "dbfId": 63230,
+      "name": "Taintheart Tormenter",
+      "cardSet": "Forged in the Barrens",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Taunt</b>\nYour opponent's spells cost (2) more.",
+      "flavor": "Oh boo hoo, did someone's World Tree burn down?",
+      "artist": "Ian Ameling",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42aae0166bbb2fe7a4f0017c5a2e02f9caa1a5c73806451188e5e8addef4c7f9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    }
+  ]
+}

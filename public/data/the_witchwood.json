@@ -1,0 +1,3108 @@
+{
+  "The Witchwood": [
+    {
+      "cardId": "GIL_600",
+      "dbfId": 47222,
+      "name": "Zap!",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Deal $2 damage to a minion. <b>Overload:</b> (1)",
+      "flavor": "The material components for this spell are wool socks and a rug.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73e7b79133be3f9914157fa190980421dec377a85328249924625c23c1de0887.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcbc7e83070d0d3c7b8e5d047790a601f655b2921143d792e1dabc347a0356b2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "AffectedBySpellPower"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_836",
+      "dbfId": 48393,
+      "name": "Blazing Invocation",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "<b>Discover</b> a <b>Battlecry</b> minion.",
+      "flavor": "A lot of shaman have started vaping their invocations.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4795a582b9811862792ad54b62cf5c478fc0b95602784e72a0c587ed96793a8d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fd76a3313c3630614f5de97c745522794b3b0ee167e45a0388a59cbe392355f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_142",
+      "dbfId": 46706,
+      "name": "Chameleos",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "Each turn this is in your hand, transform it into a card your opponent is holding.",
+      "flavor": "He's everyone you want to be.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccab20cf8b19c837912dd9e0e1d16e6aa1449f4838b50d2dbc1fec334027441f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3027eb94354c6f385ae89285f1b7958d5d57821c035bfd6f4fe1715736d9d72.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_543",
+      "dbfId": 47033,
+      "name": "Dark Possession",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Deal $2 damage to a friendly character. <b>Discover</b> a Demon.",
+      "flavor": "Wanted on three counts of gnomish possession.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d44feb6e02e31a094ff49b3c1ebe5b80db86bc7a92a41a74a6ef64467c2e453.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e82b1a5a84d4fccd5a4e44e8d55014737381a824cf9e61b21ead390c9b6c058.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "AffectedBySpellPower"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_903",
+      "dbfId": 48832,
+      "name": "Hidden Wisdom",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "[x]<b>Secret:</b> After your\nopponent plays three\ncards in a turn, draw\n2 cards.",
+      "flavor": "Find your own wisdom. Perhaps behind the couch.",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5b7e4e119824e8c2d0bee41a196e3bc999e4ad455014dd7610bcb1e5582b80e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dbf402f3449aea78e08db30e1b67ff9bf027115316a1ef957fc4eb9c358fe97.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_801",
+      "dbfId": 47821,
+      "name": "Snap Freeze",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Freeze</b> a minion.\nIf it's already <b>Frozen</b>, destroy it.",
+      "flavor": "Lick the ice block. I triple-double-dog-dare-you.",
+      "artist": "Gonzalo Ordonez",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1fefbdc69397620c6d15fd3deed54de32dde069cf53e528665ae3a6909b76b4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15b3accc857f631596a70be513dae010d8a332f54590cd46213ab349cfc8fa3f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_816",
+      "dbfId": 48106,
+      "name": "Swamp Dragon Egg",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 0,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Add a random Dragon to your hand.",
+      "flavor": "Would you eat them in a ditch? Would you eat them with a witch?",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92a115b7203775393ad319776aa1aca7e48dea1ecb9425ef30533aeb86b27a5d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a14de87f599a260a8f3272a0efed0c7b35efb1dd2056a4246ead9ccbc96b538e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_558",
+      "dbfId": 47072,
+      "name": "Swamp Leech",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Lifesteal</b>",
+      "flavor": "A face only a druid could love.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d75f23ae1e9bfac43b46db8605ce5c81cfd5b5b0074223f6a309b78ac730dfad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_580",
+      "dbfId": 47133,
+      "name": "Town Crier",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Draw a <b>Rush</b> minion from your deck.",
+      "flavor": "When he was younger, he was the town crybaby.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14699ff7d5ffe9238c947dd2645590a11586a86a4ef809baa31732fd85c0623d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97b556065db15aa81bc54da5e9efaa83cc61cdd778ae92909e34daa495059161.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_531",
+      "dbfId": 46998,
+      "name": "Witch's Apprentice",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 0,
+      "health": 1,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Add a random Shaman spell to your hand.",
+      "flavor": "Is she a frog that became a witch, or a witch that became a frog?",
+      "artist": "Sam Hogg",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ef49fd1eaec5c5a1d97b4d1fe8bc4fcb5b05b823e3f754012f6bb0dda47531f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e496e3bb3cfd04878b560239ee241ce336863eb25cfb67f7c49087ac6e210a6f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_663",
+      "dbfId": 47553,
+      "name": "Witchwood Apple",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Add two 2/2 Treants to your hand.",
+      "flavor": "An apple a day keeps the worgen at bay.",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b61d01d61c7c9c07618c9e9ffceea3db094f476a10194ac05bdd86dbed76d49.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1b8e84670061603f5fabc782fab7b0cae6f3b8f0a4f353da3d45e4b1efb9906.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_608",
+      "dbfId": 47262,
+      "name": "Witchwood Imp",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "[x]<b>Stealth</b>\n<b>Deathrattle:</b> Give a random\n  friendly minion +2 Health.  ",
+      "flavor": "<i>This</i> wood imp. Stop asking!",
+      "artist": "Kerem Beyit",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14954b66182fd5880025a3ced7479f2c1405e4aa46fd1a3dfeb96cbd0d835006.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e1cfca2ad5a04067cca334685bfd9e6a888f4f029d76ece9dbdd8599a5f01e6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_691",
+      "dbfId": 47692,
+      "name": "Archmage Arugal",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "Whenever you draw a minion, add a copy of it to_your hand.",
+      "flavor": "His worgen children call him Archmage AROO-OO-OO-OO-gal.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b03b510971c70dd0c49ff9c18c64b6419afd83e3bbe2f18cbc92a559331bfacd.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3223f14d56b04d78f3f220a97fff4d81ff8142f5122d26a7101fb423e6f8560f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_815",
+      "dbfId": 48039,
+      "name": "Baleful Banker",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Choose a friendly minion. Shuffle a copy into your deck.",
+      "flavor": "He's gotten big into crypt-o-currency.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccd76674fe5b48561c5c6defc54b4fc257ee54c54871125678fcae6cd51f0b2f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ff6cbf6dfc8a45e8850fdf0690880bda739e5e755b0a5a58bd524f752798d74.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_548",
+      "dbfId": 47054,
+      "name": "Book of Specters",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Draw 3 cards. Discard any spells drawn.",
+      "flavor": "Known throughout the land as the Spooky-nomicon.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76b0599a1413f14e39e62af8b7dd38d4e26e04b0cf1cf904f90463f8905cae21.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/335db087e530196226571f3ec5e2536f46f74ae985f22f0447730140877c9825.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_635",
+      "dbfId": 47416,
+      "name": "Cathedral Gargoyle",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, gain <b>Taunt</b> and <b>Divine Shield</b>.",
+      "flavor": "Fly like an eagle, drop like a rock.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4ef02210dfe9a2b5fe9e294e198e65000465c5f6103e6fe60dbbcdf6c96c17c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30fb5ac2e2f43ed975617e372e3c4d949e19341ab58710fa2544e3765aa33ed5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_506",
+      "dbfId": 46897,
+      "name": "Cheap Shot",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Echo</b>\n Deal $2 damage to a_minion.",
+      "flavor": "50% off. Every shot must go!",
+      "artist": "Rock Niu",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d64ad95f19ba7ecec420897778c7884dbce38c8c8b2ab0120fdbd82ee4ce12a6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2004c6a8e80266100bbb4f1a99ea64b0c0d94c04cc0ec1761ceecd7d5881f35.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Echo"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_665",
+      "dbfId": 47555,
+      "name": "Curse of Weakness",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Echo</b>\nGive all enemy minions -2_Attack until your next_turn.",
+      "flavor": "Warlocks refer to this as a \"balance change.\"",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8154d6adf91b43f9cc2c7ea60ec32d96b515fc8ddb72c130540f6a82e6a8ba81.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2181ff44d353982fc4fce415d72fb0da6b2d242bd630d8cd2f00acfe87dc1ca3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Echo"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_661",
+      "dbfId": 47549,
+      "name": "Divine Hymn",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Restore #6 Health to all friendly characters.",
+      "flavor": "Taken up an octave, it's highly effective against stained glass golems.",
+      "artist": "Tom Baxa",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a599804b2c88edac14d36cec1ffeaa4edeb3f5ff7fac3e37bc05ba2867b9d54.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13f072d981d876f243f1af705bf5210dd994c08971572d1b598fcc483397fa22.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_586",
+      "dbfId": 47152,
+      "name": "Earthen Might",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Give a minion +2/+2.\nIf it's an Elemental, add\na random Elemental\nto your hand.",
+      "flavor": "Or it might not.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01f3d3aff55932110c7e41564153311f019301c2b3afa1fc6d3e9ee03be65a96.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c0975a2af976b1c84d387bf2c795fc372346ea02334163f88805e757af32d0b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_678",
+      "dbfId": 47600,
+      "name": "Ghost Light Angler",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Echo</b>",
+      "flavor": "BoOooOogrglgrlgrlooOoOoo!",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "race": "Murloc",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d74b82e7a3301a6ff70cea247457f0ed116454202ee2b900cb10e887cb406027.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Echo"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_607t",
+      "dbfId": 47930,
+      "name": "Hunting Mastiff",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Echo</b>\n<b>Rush</b>",
+      "flavor": "\"Shh! You're going to start a howl!\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d5d77927bf9351d6139107588b67712f8757029ae97d25194fc3b5ac7be711a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Echo"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_513",
+      "dbfId": 46950,
+      "name": "Lost Spirit",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Give your minions +1 Attack.",
+      "flavor": "She simply refuses to ask for directions.",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1eab727181071b1cec991b43fad3850e1badc8519008a090496123a6d8b87f7a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c226b47bb3ecd442b6323a608dbdbb30432a9fa502de49c5737fbb8d4d77836.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_696",
+      "dbfId": 47799,
+      "name": "Pick Pocket",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Echo</b>\nAdd a random card to your hand <i>(from your opponent's class).</i>",
+      "flavor": "He'll pick anyone's pocket, except a gnome's. He'd never stoop so low.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b65030ec634d257b36ae9951439b64ad42b453b94e92f62cabd1c5d967911fa.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e57ceaa58a94259c7cc436eeabe742f33ddbc0b8791a7f9af4723a81f6246ab.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Echo"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_577",
+      "dbfId": 47128,
+      "name": "Rat Trap",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "[x]<b>Secret:</b> After your\nopponent plays three\ncards in a turn, summon\na 6/6 Rat.",
+      "flavor": "MISSING: One giant rat. Please return to King Togwaggle.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a1a6482a5acbec4ecfd33845786a6f7cecf8136a67ee1ce81f52cf56b25624d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40fb24c9078b5a11e14f5055b5ce3a7dc51776eb99f6a69d8d1eb74542f2017c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_203",
+      "dbfId": 46621,
+      "name": "Rebuke",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Enemy spells cost (5) more next turn.",
+      "flavor": "When one buke just isn\u2019t enough.",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13e37613988651f440728539ab48c571cd542e12767a6509a59eba5f92ca00c6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3539fa6c54803649d1a5bfc24b0104e743fa7566da4d3d1cab332fb3753869cd.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_155",
+      "dbfId": 46725,
+      "name": "Redband Wasp",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Rush</b>\nHas +3 Attack while damaged.",
+      "flavor": "Also comes in other colors, but red's in fashion this season.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9b06aef2579be42366bee50038db0abe8626ff7f4214f2c77bcb52cc940f84f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffa774ac94309152451fae86785484afeb72ef3ce0cc26f93b42b86e5bd43408.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_145",
+      "dbfId": 46713,
+      "name": "Sound the Bells!",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Echo</b>\nGive a minion +1/+2.",
+      "flavor": "Weirdly, the bells stop ringing after 5.",
+      "artist": "Milivoj Ceran",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3a7ce326432c4fd8d3a239c134b7c22bcb4cfb2d808eefa25998ec3eb4a3ac8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/535770375866db2a27453d201077ef25191041795215edc3901c2faab79187a0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Echo"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_529",
+      "dbfId": 46994,
+      "name": "Spellshifter",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "[x]<b>Spell Damage +1</b>\nEach turn this is in your hand,\nswap its Attack and Health.",
+      "flavor": "He also goes by \"worg-lock.\"",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60170351fb86c84f8d5c589eb1edb9158cc5a0137ad30fbeef696908f0be00ac.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eeda2142b1219000299059903d6b6633dd6be114e5e5d73f642db605a9b3cae9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_835",
+      "dbfId": 48360,
+      "name": "Squashling",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "[x]<b>Echo</b>\n<b>Battlecry:</b> Restore #2 Health.",
+      "flavor": "Everyone hail to the squashling song!",
+      "artist": "Tyler Walpole",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6369bb5187160b7f8b409bad271d926c34947d22548b66a0505b383594ce856.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a9b8ce5628608ae8b984a0ff56b832e91a72bba224a16c568c1981fb5216ce6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Echo"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_143",
+      "dbfId": 46710,
+      "name": "Vicious Scalehide",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Lifesteal</b>\n<b>Rush</b>",
+      "flavor": "They make wonderful pets if you're not allergic to blood loss.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/205caf0f35e2f9267fec23c3ed3011c211049998a81513e5d3dddae8e8f77fec.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_654",
+      "dbfId": 47515,
+      "name": "Warpath",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 0,
+      "health": 0,
+      "text": "<b>Echo</b>\nDeal $1 damage to all_minions.",
+      "flavor": "\"Left, right, left, right, there's none of the enemy left\u2026 Right?\"",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0985051366a8106ae8ffc3a9d1039e536bfe061af00e7024a7bc1e837afe8453.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38879678eba638350320534daf8dfd4f163127abe694ac6cb3839c9c775ddad3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Echo"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_653",
+      "dbfId": 47511,
+      "name": "Woodcutter's Axe",
+      "cardSet": "The Witchwood",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "durability": 2,
+      "text": "<b>Deathrattle:</b> Give +2/+1 to a random friendly minion.",
+      "flavor": "It's a lumberjack's axe and that's ok.",
+      "artist": "Izzy Hoover",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7b896c2c412c7c60f290ed7c9960e8af81eac73f5f32a696a54a88cb36eae65.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18666b3146620b8c8fd3a8717086d6c4c2079d0b5a0983ad437c5cf637e74c3d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_561",
+      "dbfId": 47077,
+      "name": "Blackwald Pixie",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Refresh your Hero Power.",
+      "flavor": "\"Oh hi bark.\"",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2253c3fb5d95ec0be775c3a61b67ca69d4c869a33180cddbe1d77cb69325651e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4d71f39de689b3eedd308fe837ed2d01c99f581caf6aa49d09cd86d64cb5b1b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_827",
+      "dbfId": 48199,
+      "name": "Blink Fox",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Add a random card to your hand <i>(from your opponent's class).</i>",
+      "flavor": "It's like, SUPER bad at staring contests.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aae4428f7054849e662a0ee339c6afd37c826c82f56de32a75f21b2281f82ea3.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12c6b3701bd709cb3650e3573bf96e57aff40f89afff4d6637bc84b498e6c0d5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_147",
+      "dbfId": 46715,
+      "name": "Cinderstorm",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Deal $5 damage randomly split among all enemies.",
+      "flavor": "Forecast: \"Cloudy with a chance of fireballs.\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ac85d514d4af14015e868a461a6252512977cd872dd94b353ad59b94d13c9fa.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ee466584dc829963c06fbdb03555bbac9951819d183fd55270a8a544d06369a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_902",
+      "dbfId": 48585,
+      "name": "Cutthroat Buccaneer",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Combo:</b> Give your weapon +1 Attack.",
+      "flavor": "In life he worked as a sword swallower.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Pirate",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f3d1a765b562a5612108c0841a40da469ffc635b742ad3f40ed9898e3a429a4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c695dd9cea6d3ef76f778eb21a06d041cf5f09582e863be312b14cd72da1bb7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_188",
+      "dbfId": 46859,
+      "name": "Druid of the Scythe",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Choose One -</b> Transform\ninto a 4/2 with <b>Rush</b>;\nor a 2/4 with <b>Taunt</b>.",
+      "flavor": "She's a scythe for sore eyes.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d55d2b170c49dbdfeacb6d20a5a009bff410f0faa8e976aca553b2c5bace896.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1481ae1ea142e2329200e1a36fcc0f392ec93bd80efdd5475a29c69dd726a5d7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_508",
+      "dbfId": 46904,
+      "name": "Duskbat",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If your hero took damage this turn, summon two 1/1 Bats.",
+      "flavor": "Happily married with two kids. It was love at first bite.",
+      "artist": "Jiajun Tian",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac22088307166c8edb4f83c6266f82a812f89ea4e10ff69286229e7aeacc8e3b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fb79466cd2d4f72c77bd443dc5457e368cf124823905657420132dbaea01003.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_200",
+      "dbfId": 46596,
+      "name": "Duskhaven Hunter",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "[x]<b>Stealth</b>\nEach turn this is in your hand,\nswap its Attack and Health.",
+      "flavor": "After a short paws, she's back to herself again.",
+      "artist": "Garrett Hanna",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb8c98b90268e256053abade1814e8603d980a18a5626d201e9fbae77166f732.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db5643346eef5b64007223276de9371a53dfcafb0017d6e3cff7617321c43f4b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_677",
+      "dbfId": 47599,
+      "name": "Face Collector",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Echo</b>\n<b>Battlecry:</b> Add a random <b>Legendary</b> minion to your hand.",
+      "flavor": "\u201cI\u2019ll trade you a Malfurion for an Anduin.\u201d",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e8f6c8882b562c3f320106c6aaa0b42aed26248c2b26c548c7f5430f19d5f14.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45141fca842e552c8bafb134165b3074259e0d35f8fa3f6393c8b2a0c9512680.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Echo"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_637",
+      "dbfId": 47423,
+      "name": "Ferocious Howl",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Draw a card.\nGain 1 Armor for each card in your hand.",
+      "flavor": "Have you ever heard the wolf cry to the blue corn moon?",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/507d2c705104996bcf2e23f185899857930c10afea7205d2d3514db137810eca.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1665f354f80f2e7aadd6afb5df14e74107a855770d0efd90c2f3b746e370b9ab.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_191",
+      "dbfId": 46864,
+      "name": "Fiendish Circle",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "[x]Summon four 1/1 Imps.",
+      "flavor": "Like a knitting circle, but less evil.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62813aa16643afbdc53879f7a6e5cea9e1cb30e22e8e5f7bd728b1bb1c865fd0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9395e4db12ccff75ca9fa062ffa8d8d7b3b5950cb8d46c2d04beafc8262c4a73.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_534",
+      "dbfId": 47014,
+      "name": "Hench-Clan Thug",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "After your hero attacks, give this minion +1/+1.",
+      "flavor": "Hard time making ends meet? Hate the League of Explorers? Get a job henching!",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b00b16c5093f7dafb36a8d5da2f5e8cdd1de14e8a519210517758678d3d2154e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/426aa18188f813fb485fc13edfd594f658c9d92dbe94de21a90d3cdd1eecb454.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_683",
+      "dbfId": 47607,
+      "name": "Marsh Drake",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Summon a 2/1 <b>Poisonous</b> Drakeslayer for your opponent.",
+      "flavor": "She would have gotten away with it, if it weren't for that meddling Drakeslayer.",
+      "artist": "Wayne Wu",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da3296fbae33c513c8250708b083beb7aabbcbaef949719c8c866dc29f0ecd83.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f0a6da4f517aa02319eef18ba320be1523709eaaf1085fe9c6e7a2b29d73dd4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_681",
+      "dbfId": 49502,
+      "name": "Nightmare Amalgam",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<i>This has all minion types.</i>",
+      "flavor": "Be all that you can be.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "All",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc328deee450be80a9c4862822c23c784df5000cb704bac2cdcdb3debe603bbc.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08d0368dd27909e494c35dba40fbc15c94fcc8e13682b705bc805a571776ed32.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_685",
+      "dbfId": 47614,
+      "name": "Paragon of Light",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "While this minion has 3 or more Attack, it has <b>Taunt</b> and <b>Lifesteal</b>.",
+      "flavor": "She\u2019s all fun and games until someone rings that stupid bell.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a528a0b1b6205222827b44a1cc31b4aa6643c8b17e0732506c31439c2809aa9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df37bb3718bdee981cb14ffabedff7dfb56842a47dad442fc3d14a7b5b7b233c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_207",
+      "dbfId": 46634,
+      "name": "Phantom Militia",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Echo</b>\n<b>Taunt</b>",
+      "flavor": "Recruited from the Gilnean opera house.",
+      "artist": "Dai Yang",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89e3235b7b00f4d037add3b3bb16c677ad875e38ba336899c8e1fe48779af5d2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Echo"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_201",
+      "dbfId": 46598,
+      "name": "Pumpkin Peasant",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]<b>Lifesteal</b>\nEach turn this is in your hand,\nswap its Attack and Health.",
+      "flavor": "Time to squash your opponent.",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d662903dcf21807b2bec2f34d36d76cca7587bd01e7bbf4d94d1f00fb28a2e5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecffdbf8246f0352d0d98ec4eb5c47b01ec72ebe478580b3d3ac5e87e7891483.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_113",
+      "dbfId": 46650,
+      "name": "Rabid Worgen",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Rush</b>",
+      "flavor": "\"I'm sorry, son.  We had to send Old Howler off\u2026to a farm\u2026to play\u2026\"",
+      "artist": "Chris Seaman",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/768bd37e7567ad7d2ea5647d378ff2255ae3d652486de0bb4264f095f0c7aeee.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_515",
+      "dbfId": 46936,
+      "name": "Ratcatcher",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Rush</b>\n<b>Battlecry:</b> Destroy a friendly minion and gain its Attack and Health.",
+      "flavor": "He's on the hunt for Togwaggle's missing rat.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d401dcbb45be6adc9f07a0d224439ae19ae00d745f27e63103e5f720a406ded1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/954371ef73ee22f65cafe568ad5309b9ef12b04eb5eff7a644e583450717d67a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_212",
+      "dbfId": 46661,
+      "name": "Ravencaller",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> Add two\nrandom 1-Cost minions\nto your hand.",
+      "flavor": "That Friends and Familiars Plan is really paying off!",
+      "artist": "Ben Zhang",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ba50c2f858f33681863ca05a8605ce73ef5fe1fa9fc952ecf380695a5b45860.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c2e9bdf317134a3f8318addfebc3d9a9356972858e0d7ed13374ac8993c5a89.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_213",
+      "dbfId": 46665,
+      "name": "Tanglefur Mystic",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Add a random\n2-Cost minion to each player's hand.",
+      "flavor": "Doom!  Only doom for you!  But pay good tip, maybe less doom.",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df06f30092827e0058ff8fc6edf9df88b16e223a7568422969f3acc1375a4323.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1eb33a00fc0e53eea849141a2c406c06e17ed791aa3a4711a419ac5aa3f6b89d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_813",
+      "dbfId": 48002,
+      "name": "Vivid Nightmare",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "[x]Choose a friendly minion.\nSummon a copy of it with\n1 Health remaining.",
+      "flavor": "\"I\u2026 I dreamed I accidentally crafted a golden Millhouse! It was so REAL!\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afb9ca53b562fe2352894ce804b1f3d4bec441146773e6e8dcb3376ce0285ce8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9646232dd2581347ab8a72c2ccf717fd1d27ebd5d3b2f2f4aff1b6875a2a14db.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_614",
+      "dbfId": 47287,
+      "name": "Voodoo Doll",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Choose a minion. <b>Deathrattle:</b> Destroy the chosen minion.",
+      "flavor": "\"Aww, I love it! It even kinda looks like me.\"",
+      "artist": "Charlene Le Scanff",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fb773e9468b14e7d033d911efd2ad2d415b41193d8d81b00904888917ca41c2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c51ea77e6ba3f24d06da5a4ea93d2e162e6e433bbedfc894431cbd68d06361e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_680",
+      "dbfId": 47602,
+      "name": "Walnut Sprite",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Echo</b>",
+      "flavor": "How do you make a walnut laugh? Crack it up!",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97415471f53e4d9fc2337208eb04e55c8e0378787d6b810bf40345ab27a58236.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Echo"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_819",
+      "dbfId": 48110,
+      "name": "Witch's Cauldron",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 0,
+      "health": 4,
+      "text": "After a friendly minion dies, add a random Shaman spell to your hand.",
+      "flavor": "Eye of murloc, ear of bat, foot of Fordring, fur of cat\u2026",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ff8c64c2650903b4a07b7f0159dc6210f6a1b856beb279022f5bf5899619534.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c4c6925a491e276c31d64b2673f3ba8ee5e0a4a16815c33f3ac4f5766baa927.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_571",
+      "dbfId": 47117,
+      "name": "Witching Hour",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Summon a random friendly Beast that died this game.",
+      "flavor": "The gates to the Gilnean pet cemetary MUST remain locked at all times.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3ea9625c0544955844f7dd98a7bd6f4a82b579e1d6ae9e7a3c602bb94397a06.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9f7faf7b97e2fba2ed6e25e38ad1c86c1b89c5f9f4d9cf5c2e7cd6f5ddeb7dc.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_116",
+      "dbfId": 46654,
+      "name": "Arcane Keysmith",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a <b>Secret</b>. Put it into the battlefield.",
+      "flavor": "She sells all manner of keys: from A flat to G sharp.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/859325795a22f94ced57679367248e633b7958ee4faa096235eb9b1b160e4281.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcfc7d269c526f27cc2dffe6e561ac57501869a004739ea664cf6d3693ee1274.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_634",
+      "dbfId": 47405,
+      "name": "Bellringer Sentry",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry and Deathrattle:</b> Put a <b>Secret</b> from your deck into the battlefield.",
+      "flavor": "\"Who are you? Eh, none of my business.\"",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69bf8614056924d347cd3bf807944822c532999432fe2f0002915c75ed57562a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a624fd329b120433b4f3ef3045d528af3bfbe964f90edd33c2e15d1bd9b5f9da.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_693",
+      "dbfId": 47694,
+      "name": "Blood Witch",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "At the start of your turn, deal 1 damage to your_hero.",
+      "flavor": "Like a sloppy joe for vampires.",
+      "artist": "Qinghao Wu",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6effe0a321a3387b859f0c421fc8d45c5c49eaa561a6c9418f6ce66f378f9f96.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70df544f418041357d71f251a17e7a8f2bc65d8535d0c2f9bb9e1dc08ba2ae20.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_828",
+      "dbfId": 48201,
+      "name": "Dire Frenzy",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Give a Beast +3/+3. Shuffle 3 copies into your deck with +3/+3.",
+      "flavor": "It's always Huffer. And Huffer. And Huffer. And Huffer.",
+      "artist": "Efrem Palacios",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f2fe02c383a7c94ad53068e0c6bc97df455e2aa11f38ce2dc87eaf61c0b63d6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d8e5fd94602814e54381e5cd0ce6f121518b8341b1b52c8480b76a5ccf3c2ca.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_527",
+      "dbfId": 46991,
+      "name": "Felsoul Inquisitor",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 1,
+      "health": 6,
+      "text": "<b>Lifesteal</b>\n<b>Taunt</b>",
+      "flavor": "Everyone expects an inquisition reference.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5728a4e27a8209de825f785cf5ee261ab32d004f7bc3e43032c65187eb8613f9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_833",
+      "dbfId": 48286,
+      "name": "Forest Guide",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 1,
+      "health": 6,
+      "text": "At the end of your turn, both players draw a card.",
+      "flavor": "\"Just sign this waiver, and we'll be on our way.\"",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cfd10de4ba4452732fc8330defd02ce8279a2b60f94fc0dad995af910740bfe.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0764a9c73a29c468ad4430d3841d4658837087c7811026a7460094260d679ec.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_650",
+      "dbfId": 47488,
+      "name": "Houndmaster Shaw",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "Your other minions have\n<b>Rush</b>.",
+      "flavor": "They\u2019re good dogs, Tess.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d546ce6e86550690f635e28e742c3cb2330a406f481bdb21b69f0b95d4342fc4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/218ed8d8b5aa0b19f281a708b681a9bc60e770729b58c696930692d1ad239437.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_622",
+      "dbfId": 47343,
+      "name": "Lifedrinker",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Deal 3 damage to\nthe enemy hero. Restore\n#3 Health to your hero.",
+      "flavor": "In a pinch, he'll also settle for Holy Water: Zero.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97bc630c07fe185d84a5e4c71da4e481f5ed42dcb27611d62000eb92bd46bb01.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be341876935a97180e1b5a932f26ef6de95262e1ef7c2ff2a063e4da5f629f38.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_125",
+      "dbfId": 46674,
+      "name": "Mad Hatter",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Randomly toss\n3 hats to other minions.\nEach hat gives +1/+1.",
+      "flavor": "He's entirely bonkers. All the best goblins are.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82356ad6aead7364358a9a7104289345997efbd8b4991eca408993ec3ed4e83f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95d5cf157988a592bcd79542e15fed463a1d93cf5190ef094bbc10ded5a163cf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_803",
+      "dbfId": 47825,
+      "name": "Militia Commander",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Rush</b>\n<b>Battlecry:</b> Gain +3_Attack this turn.",
+      "flavor": "She only needs two commands: \"Heel\" and \"Sic 'em!\"",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7909871944671a0676619b908124039005a7d3833cb71159026b9e9d26202df.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c878b039305d4a150f9c54289b0ac52f3e0d2f153a3ccbb2dac1cb2675a6957.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_510",
+      "dbfId": 46908,
+      "name": "Mistwraith",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "Whenever you play an <b>Echo</b>_card, gain +1/+1.",
+      "flavor": "One little Mistwraith sitting in a tree. M-I-S-T-I-N-G.",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd6a41c08b496baac5e5ec76e1fb208733cb5ebd6f0427fc1e6d2f05a27d898d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f5f46f3fec6a71a15674582465d070ff8192ecca7e130e0986eb9f562536860.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Echo"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_624",
+      "dbfId": 47348,
+      "name": "Night Prowler",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If this is the only minion on the battlefield, gain +3/+3.",
+      "flavor": "Listen to the mew-sic of the night.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1961f8040143cd3d25a637fbc9e78816bd92bc04745c69edbbf8b3d0942b1e91.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f4ccc73159229f163fbdf34123d819ff702b5d88422d85a94d83706b2f021b8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_581",
+      "dbfId": 47134,
+      "name": "Sandbinder",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Draw an Elemental from your deck.",
+      "flavor": "The secret is glue.",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b4037a5fd732662e2e73b19c7b00522e60a69b4fd156c174607329dd787c588.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8366f2c409cf452d56deb9096f28a4da000022c7bb38246688ae73f9f05df9b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_601",
+      "dbfId": 47241,
+      "name": "Scaleworm",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Rush</b>.",
+      "flavor": "A popular local alternative to bananas.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bddcbbf98e71eea8834bfb0f9ec2a64894877ac0f49e9d09ade8aa498364039f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b57c103856ac4ad860f8b0750a55550cb382b7c3ecfd6307532885c290e26b24.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_672",
+      "dbfId": 47594,
+      "name": "Spectral Cutlass",
+      "cardSet": "The Witchwood",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "durability": 2,
+      "text": "[x]<b>Lifesteal</b>\nWhenever you play a card\nfrom another class,\ngain +1 Durability.",
+      "flavor": "So sharp it can cut through a spectral tomato!",
+      "artist": "Nutchapol Thitinunthakorn",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af6aaf4e5c8a91ff30ec22b0956dce4a54fd1ad23127d86e88e80e8672062765.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48037fa6d63de915b9424c50202ebcce8f01b4b0fd3748c286b867419642c3bb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_528",
+      "dbfId": 46992,
+      "name": "Swift Messenger",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "[x]<b>Rush</b>\nEach turn this is in your hand,\nswap its Attack and Health.",
+      "flavor": "Same turn delivery - guaranteed!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e768b2d4e49f66c88ff022e391c5a760fc8f3e5e6cf1266bd27203921f3ff1a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2d2acc3fad4893aed524b2228a66903d016ab315a1cb1d9c523b5c733c24f10.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_817",
+      "dbfId": 48107,
+      "name": "The Glass Knight",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]<b>Divine Shield</b>\nWhenever you restore Health,\ngain <b>Divine Shield</b>.",
+      "flavor": "She seems scary, but she's got a glass jaw.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6f0c844b1ae0816386b4ca4ea53a4e12f2f4127f11b0a1c89f4b8b8cecac93f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6599ff4ee1fbbf6a0be7b4930c423d771f8021c1c82bcb370ab3ce401a70796.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_583",
+      "dbfId": 47138,
+      "name": "Totem Cruncher",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Destroy your Totems. Gain +2/+2 for each destroyed.",
+      "flavor": "When regular totem hours won't cut it.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/210e9828a5895e5b82bd5c6d3860302507df6431252986ba2361f9299878153f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c1d2c7ede32960c4d5ad7d80377eb4a7a0dc0c0a64182da9b156c38445e326f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_607",
+      "dbfId": 47256,
+      "name": "Toxmonger",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]Whenever you play a 1-Cost\nminion, give it <b>Poisonous</b>.",
+      "flavor": "Not all spiders are born poisonous. That's where he comes in.",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/858c4577e2bedf99ee978b05d7cc75ff000662a1d4f0b0ae9d0a3bc24a0c0fd5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c831f7b15bccdda4780fe9218385b5f515f65cead515069972c30c0b3e354bd3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_809",
+      "dbfId": 47895,
+      "name": "Unpowered Steambot",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 0,
+      "health": 9,
+      "text": "<b>Taunt</b>",
+      "flavor": "Overpowered Steambot got nerfed.",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49a577095a31f9d95579155ecf8abb4add96218d9b88f0c2ae56ab51b846a4a3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_664",
+      "dbfId": 47554,
+      "name": "Vex Crow",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "Whenever you cast a spell, summon a random\n2-Cost minion.",
+      "flavor": "As birds of ill omen, these crows often summon Doomsayers.",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b640f358b36e555b42401b30cdfd74706ed92726d14005d93e8bd7eb78c33df.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fa135bd5d00061778828eefc6296667f5bd2ccfb9ff47911b6b356caf6cbc0f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_687",
+      "dbfId": 47625,
+      "name": "WANTED!",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "Deal $3 damage to a minion. If that kills it, add a Coin to your hand.",
+      "flavor": "Wanted: Dead or Undead.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf402bf9c8d53f5a41ff179457722ecfc0bbdd4e38cf25b98488bc1dbe0939e5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d22134a3e70b823c634257ed07ad4d714171b7ee15c93b8842f747cb8ae07c14.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_518",
+      "dbfId": 46940,
+      "name": "Wing Blast",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Deal $4 damage to a minion. If a minion died this turn, this costs (1).",
+      "flavor": "Emeriss uses Wing Blast.  It's super effective!",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0579e5dc9110437e87528afb2141f6c19d55a0192a168a99e944b15e85f16ab1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d2686fd1c20fa62a07b90ef110090c420f32bb254b38d5f1a41141036d139ad.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_553",
+      "dbfId": 47063,
+      "name": "Wispering Woods",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "[x]Summon a 1/1 Wisp for\neach card in your hand.",
+      "flavor": "We didn't actually fire the guy who named Dark Wispers.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fdd308816ca1ee76841e946fb336540cb57856bdfcef2ee3b5fdd5df94e888c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27dec568f6ce51b654c586d9429dbe474e8807119fae0791717b3b141fc131a2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_584",
+      "dbfId": 47142,
+      "name": "Witchwood Piper",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Draw the lowest\nCost minion from your deck.",
+      "flavor": "She rids villages of annoying pests, like rats and children.",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9153840d043fe10ec785f305335627a1283c6625a4c36cbab2c831862ed09c67.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5a7c3494627560d77540a13c61aa5f601a4e28ee61655bd9ad0208544ff45fe.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_507",
+      "dbfId": 46903,
+      "name": "Bewitched Guardian",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 1,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Gain +1 Health\n_for each card in your hand._",
+      "flavor": "Amwitched. Beingwitched. Beenwitched.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/453d92935ef52beb18a5787cc993996b18bd9c5ef96ad9b9ff4aeb9184a98f33.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a37ac3a7500e83afbb5e2e56d25db37b2a6c2fb85659e33a8255587a63fa82ca.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_645",
+      "dbfId": 47438,
+      "name": "Bonfire Elemental",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If you played an_Elemental last turn, draw a card.",
+      "flavor": "Next step: Marshmallow elementals.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18320f174c1b64a6db15e861f209459a961cb65e484a5b60b1452790ae88029e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a98eeddb788c02f4c2fc1beb7fa0e01a6439d27516ee201c40f16b8ed8df3d24.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_905",
+      "dbfId": 48902,
+      "name": "Carrion Drake",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "text": "<b>Battlecry:</b> If a minion died this turn, gain <b>Poisonous</b>.",
+      "flavor": "Fits easily into overhead luggage bins.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b85ab79bd2390dbf643d236caded7f4d6f6219a1271679e739c9e0281a49367.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d50d3c3b1ef91c97cb024395beec7a26621a40bb219274312d22204624273cf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_648",
+      "dbfId": 47458,
+      "name": "Chief Inspector",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Destroy all enemy <b>Secrets</b>.",
+      "flavor": "Empty your pockets, I know you\u2019ve got a Wandering Monster in there!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e27807ee29bf6c7020972728c416467880f7735c7a4d37746bde1d4ce274c90f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f88fc50c55346225a1fcfe93cfbf06c86f7f63723b4c9804b19bfd39c4f1e1cd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_646",
+      "dbfId": 47439,
+      "name": "Clockwork Automaton",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "Double the damage and_healing of your Hero_Power.",
+      "flavor": "Most mechs are pretty chill, but this one is all wound up.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e95d0261959ddb82f5420ec9cc3c54e9b50609a81aaffc5a783f3c538ac70c3b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20b22fd12aa5036dd43410bd171948621b09b67b1f8deb3a73d555f5a1a9c9ac.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_640",
+      "dbfId": 47429,
+      "name": "Curio Collector",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "Whenever you draw a card, gain +1/+1.",
+      "flavor": "Experts worry that curios are a gateway to face-collecting.",
+      "artist": "Alex Konstad",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0576c40c1656dd8db216fb6c40bdb69652759e2579457203e146d58c88e9638.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df74bedf37cec0b725f1c9da55cdb0484b2b13b62c304fc93da253d4d13a885c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_547",
+      "dbfId": 47053,
+      "name": "Darius Crowley",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Rush</b>\nAfter this attacks and kills\na minion, gain +2/+2.",
+      "flavor": "You either die a villain, or live long enough to see yourself become the hero.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25b5872f099f24587eb84931cb201e5b97cd4c3c104ac5d46c1b53af8bfa4b27.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c435fc5c7b5fa9ae9c1d35db1267118cfee26f5e42c60d0563782e0ef37b4657.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_565",
+      "dbfId": 47085,
+      "name": "Deathweb Spider",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If your hero\ntook damage this turn, gain <b>Lifesteal</b>.",
+      "flavor": "The itsy bitsy spiders climbed up the village wall. Then came the witch and the spiders ate them all.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/851933600a6c94db460ba4b03a41cb0dedfac9fbb7bfe560c636de558dcea74e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5756c1e958c32cee590df29d13dc3b090fec2f3ee5b349fddfd9964ad1d1ec7e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_620",
+      "dbfId": 47298,
+      "name": "Dollmaster Dorian",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 2,
+      "health": 6,
+      "text": "Whenever you draw a minion, summon a 1/1 copy of it.",
+      "flavor": "The children were puzzled by the scratches covering the insides of their toy-boxes.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef12aa417befa5f4e52e807a5ea7e9f8dc2337f708b8e7473c67440b062bbd1c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13150bb2fa7c8181c6851b0cd7db80664c317c8a1a6b8a4bc1824a8f0ff2a217.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_800",
+      "dbfId": 47819,
+      "name": "Duskfallen Aviana",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "text": "On each player's turn, the first card played costs (0).",
+      "flavor": "Someone called her \"Tweety\". She didn't take it well.",
+      "artist": "Glenn Rane",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c2f0fc6e347ea0ca715773716dfefb9d1037ede4af7d6e9ebd9775da5bbbf89.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a62522b4e58ff158cdb7ee955ed408134f471cbc38888ecae5d393f97120388.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_655",
+      "dbfId": 47516,
+      "name": "Festeroot Hulk",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 7,
+      "text": "After a friendly minion attacks, gain +1 Attack.",
+      "flavor": "Tree puns arboring.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/352f9248b2e74308067c54a0c3c8af20546c206676ee204d2c866fa4896bd7ad.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61df97206bf6806e747043dafe6def6bbb91d4311c29505b3320ac36926b2476.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_545",
+      "dbfId": 47051,
+      "name": "Ghostly Charger",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Divine Shield</b>\n<b>Rush</b>",
+      "flavor": "Maybe we should have called him Ghostly Rusher.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4647acfddc07c44f6a43b7ddc848ead3e05a64d52dda987fdae8bad5d3ace986.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_134",
+      "dbfId": 46694,
+      "name": "Holy Water",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Deal $4 damage to a minion. If that kills it, add a copy of it to your_hand.",
+      "flavor": "For a healthier option, try Holy Water: Zero.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71bff594eed0c087fa3c22144a709fc05ba83b622544803bff3080d58a14d84f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7c6ac738bfa1a535eebe32155356ee70615d17081c3dcf6be0dd12498c8d45c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_682",
+      "dbfId": 47606,
+      "name": "Muck Hunter",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 8,
+      "text": "<b>Rush</b>\n<b>Battlecry:</b> Summon two 2/1_Mucklings for your opponent.",
+      "flavor": "You think your job mucks.",
+      "artist": "Pior Oberson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c7b7f68b2723a63c4236839c959eabc5634275fc84561fc16fddfc1390d4dbc.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1558bf0cbd2c6718554c8fa565aca60df7109a76cd41b9c274f68a04f1521e41.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_694",
+      "dbfId": 47696,
+      "name": "Prince Liam",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Transform all\n1-Cost cards in your deck\n_into <b>Legendary</b> minions.",
+      "flavor": "\"I have a very particular set of skills. Skills that make me a nightmare for witches like you.\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79d76ad739d6c585753e5ae499ddaaa33b9a49e7bdd85fee1d6098ccfc1ee374.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84a036044c7c65f191e0733314e744fa881a94883cf7dfcb9b9e6bb437d9b8a3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_156",
+      "dbfId": 46737,
+      "name": "Quartz Elemental",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 8,
+      "text": "Can't attack while damaged.",
+      "flavor": "These elementals, along with feldspar and mica, are often taken for granite.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81ad97ac5a6bbadfcec66092e040c74ce6ea034958b2e67f445a152c74316f4b.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a15377879e8f9f0fdd713a427c5adc35e81eb895ccaf859b642072ffec05c08f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_667",
+      "dbfId": 47557,
+      "name": "Rotten Applebaum",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Taunt</b>\n<b>Deathrattle:</b> Restore #6 Health to your hero.",
+      "flavor": "Key ingredient in Gilnean applesauce.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff4a3f05ca45e481e8761c53edd5bc889a082d72a47d33e692903af2a89b8d4c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1424459eb70f1f1c933e1d7be9f057ef82b6ddf40ae17dec7b45d70b32bd558e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_562",
+      "dbfId": 47078,
+      "name": "Vilebrood Skitterer",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Poisonous</b>\n<b>Rush</b>",
+      "flavor": "It aspires to be a Vilebrood Dancer, but it has eight left feet.",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ce87defc18b406e9683bed081495adcf584d72f8b3ff70acff960d3b5fb76bb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_623",
+      "dbfId": 47346,
+      "name": "Witchwood Grizzly",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 12,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Lose 1 Health\nfor each card in your\nopponent's hand.",
+      "flavor": "You know what they say about people with big hands? Small bears.",
+      "artist": "Alex Alexandrov",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/752658053458ac45cd6db73615c15574011b01a502c62ca75b2dcda0e8ce3c86.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4d41ed8b1d3ef562de5a789a10a6fe7fd54708b493467fedbca1e919df47eeb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_805",
+      "dbfId": 47836,
+      "name": "Coffin Crasher",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 6,
+      "health": 5,
+      "text": "<b>Deathrattle:</b> Summon a <b>Deathrattle</b> minion from your hand.",
+      "flavor": "Also does weddings.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/100e74e42b3a781ac680781ac583013bcd8de5969c8c67c6ee24f275659f2748.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47070f473469cd150a0f876367924965f763d6e53611c39c5cee5f0ad9af588a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_557",
+      "dbfId": 47071,
+      "name": "Cursed Castaway",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 5,
+      "health": 3,
+      "text": "<b>Rush</b>\n<b>Deathrattle:</b> Draw a <b>Combo</b> card from your deck.",
+      "flavor": "She was an ordinary castaway... until she found that cursed volleyball.",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "race": "Pirate",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cc0b283b538f2aa408ac6093e4f040e5a842984118c34f2a9dab46d4b4d2232.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8c1295bf59588ca981e754d65df0ecc165f15b81879b3f2d5be6f361750ed62.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_537",
+      "dbfId": 47016,
+      "name": "Deadly Arsenal",
+      "cardSet": "The Witchwood",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "Reveal a weapon from your deck. Deal its Attack to all minions.",
+      "flavor": "Oh look. A Gorehowl.",
+      "artist": "Wayne Reynolds",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57cfbff0c7eb4cfdaf1ef715b19caaab5a7afe5106493ecfb09b284087be1c70.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7f94a89337f03307ab547a0d9069acd8f640107182731f83bffece69d486d20.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "AffectedBySpellPower"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_618",
+      "dbfId": 47295,
+      "name": "Glinda Crowskin",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 7,
+      "text": "Minions in your hand have_<b>Echo</b>.",
+      "flavor": "Summon an unlimited* number of minions!**\n\n\n*Six\n**Wisps",
+      "artist": "Jomaro Kindred",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae2cc15b58aee232978f37588a2a27b5d7c75c8cb7c315d8268c9581bcfe558a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dabedbbd5e648d12ad2c4292dd485c07d26d61d1da5bb88586518b123c831df0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Echo"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_840",
+      "dbfId": 48560,
+      "name": "Lady in White",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Cast 'Inner Fire'\n_on every minion in your deck_\n<i>(set Attack equal to Health).</i>",
+      "flavor": "She was a lady in polka dots until the gnomish laundromat incident.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2787d2eff6450c2ef8d67cb38865229b6af6f88458aabc2a6d410261e272f0eb.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49810ec7aa5df138d48100362b10e4604aa363bc5f4c9289f8a98f408922114e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_124",
+      "dbfId": 46667,
+      "name": "Mossy Horror",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 2,
+      "health": 7,
+      "text": "<b>Battlecry:</b> Destroy all other_minions with 2_or_less_Attack.",
+      "flavor": "The hills have eyes. And teeth. Pretty bad breath, too.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d85fa59c2f84b56fd04b999aba88e9c41b861323bf70d6f8c1e5b2ba4ae31c32.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3aae6579de00b47b782c0308dec8dce74df333021c9cb3ef291aea43e5f401d6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_549",
+      "dbfId": 47055,
+      "name": "Toki, Time-Tinker",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Add a random\n<b>Legendary</b> minion from\nthe past to your hand.",
+      "flavor": "Just a twist to the left, one quarter turn to the right and \u2026 oops! Well, we didn\u2019t need that timeline anyway.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94cb8f1b22272506529b9a0ef4e7bbaa1c0746b4d74ea9414560d9f709d4edb7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3181a992c1e20e6d236f433ae771f2e05c04811d9d243e40bb4f2ae53d031e3f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_198",
+      "dbfId": 46874,
+      "name": "Azalina Soulthief",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Replace your hand with a copy of your_opponent's.",
+      "flavor": "The cards are always golden on the other side.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97c90525c1b64b4673e1922f1c8dba9f2e01c8053e55203ce8bb43c7474a79a1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a1e96511f31d0cbce95292896f6d2edecd1669649fc3402081fe008a25ad158.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_152",
+      "dbfId": 46721,
+      "name": "Blackhowl Gunspire",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 3,
+      "health": 8,
+      "text": "[x]Can't attack. Whenever\nthis minion takes damage,\ndeal 3 damage to a\nrandom enemy.",
+      "flavor": "The upper windows used to be for aiming. Then we thought: \"Hey! MORE cannons!\"",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fd9de5b9a7513040048faa7ed96f048ee0fcc194e2925cc6f1d043a0e6dc95f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9da5cc87700287a1bf524f3257e9edf789962b41488b1a4dc5ec4ef9b82d616.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_807",
+      "dbfId": 47873,
+      "name": "Bogshaper",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 4,
+      "health": 8,
+      "text": "Whenever you cast a spell, draw a minion from your_deck.",
+      "flavor": "The tricky part is getting them to HOLD their shape.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bec2b403de9ccee024d83da122fa1b9a0fee3ab3c5dd9650c4a19f286a1378c5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc8c81fa01b0580a0994590bb114658fc357ea4b3a9a878474926db522311166.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_578",
+      "dbfId": 47131,
+      "name": "Countess Ashmore",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Draw a <b>Rush</b>,\n<b>Lifesteal</b>, and <b>Deathrattle</b>\ncard from your deck.",
+      "flavor": "\"1 minion\u2026 ah, ah, ah! 2 minions\u2026 ah, ah, ah! 3 minions\u2026 ah, ah, ah!\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2aa43a222ba7584b3950d7cbff84171116ab1c61c43c28988b2f62b9a44f54b4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27a5bc757329d4f1dd4d47436952fbb25d5dcb494ec33c5bb7fafaf64925dd2b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_121",
+      "dbfId": 46660,
+      "name": "Darkmire Moonkin",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 2,
+      "health": 8,
+      "text": "<b>Spell Damage +2</b>",
+      "flavor": "Birds of a feather Moonfire together.",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1cfff1afaa06c3fe9ef4d7e902ed2fd7157e0c69e4bc2632574b3968306c51f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4973caad1a8a78d9cac03bbbc159541c695044dc2b654dc914f29244f33ad4bf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_120",
+      "dbfId": 46659,
+      "name": "Furious Ettin",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 5,
+      "health": 9,
+      "text": "<b>Taunt</b>",
+      "flavor": "One head is a morning person. The other head hates morning people.",
+      "artist": "Chris Seaman",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a503904c5961bc3da927fbccfd2bcf3636b6fba4459c59e028e53c202765f6d6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_825",
+      "dbfId": 48156,
+      "name": "Lord Godfrey",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Deal 2 damage to\nall other minions. If any die,\nrepeat this <b>Battlecry</b>.",
+      "flavor": "Betrayed the Alliance. Betrayed the Horde. All for 200 achievement points and a sweet, sweet hat.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8b19e9fbbfc4a31a357d310ebcb4015df114938c3f3e1ccd7ba007461f2f502.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf5d42667ac4fab7876d5029b5b5c46040a97b15e9a7e74abc7fdc80a4f518ba.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_190",
+      "dbfId": 46862,
+      "name": "Nightscale Matriarch",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 4,
+      "health": 9,
+      "text": "Whenever a friendly minion is healed, summon a 3/3_Whelp.",
+      "flavor": "Everywhelp, get in here!",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6be9888dcabd44b4e74791bd57cedf9ebe1b2a567406fad9c830b53471db37eb.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72dd3cc9925792d980158c4ac61ddb5696e768f2cd159c8e7b287178e014fca1.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_598",
+      "dbfId": 47211,
+      "name": "Tess Greymane",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Replay every card\nfrom another class you've\nplayed this game <i>(targets\nchosen randomly)</i>.",
+      "flavor": "Those who cannot remember their card history are doomed to repeat it.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65fc631e96c8202c20762419cecd1da8cbfb11fa358e9ab26f22790319e5b067.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d61d6c02bfc9e2053a9e03b175aaec3e8b03f94a5fdfd2a083628a690a3e3f63.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_117",
+      "dbfId": 46655,
+      "name": "Worgen Abomination",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "At the end of your turn, deal 2 damage to all other damaged minions.",
+      "flavor": "Does anyone want to play dead!?",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44e1e50ca2f3a4e47450b05641dd5b62e7e24b62ce90f676a80ad9873e38e8be.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31d0124a4657d710c7a5cac1f4a63e100c3fc8b84a1f7e3ded5f89bd211e4899.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_526",
+      "dbfId": 46988,
+      "name": "Wyrmguard",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 3,
+      "health": 11,
+      "text": "<b>Battlecry:</b> If you're holding a Dragon, gain +1 Attack and <b>Taunt</b>.",
+      "flavor": "They think they're trusted guardians. Dragons think they're convenient snacks.",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8650c2c0e178f4028966992fe8115a845991c803223ecd7e2927fe795286f1ec.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b013b6d3e8061b5dff6cf55c8c7caba53ce59243c6af7c1542fd607d5b90adea.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_119",
+      "dbfId": 46658,
+      "name": "Cauldron Elemental",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 7,
+      "health": 7,
+      "text": "Your other Elementals have +2 Attack.",
+      "flavor": "Decorating tip: Unused cauldrons can make a lovely elemental display.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cfadcb01c752cb641acd92094ed5f8c767a5725d231302d88d4d8b719f2d023a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b56eca485d6dbcaead31179cb2e524c581f31c49518ccc0584c6d3b58495b27c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_118",
+      "dbfId": 46656,
+      "name": "Deranged Doctor",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Deathrattle:</b> Restore #8 Health to your hero.",
+      "flavor": "Unfortunately, his doctorate is in Murloc Literature.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72d0152850af4cdae33483ea9449d0c562dc133d9483eded8ba9905ba090a6ed.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a606ed281d3703faacaa401a565890637a11b052189c48c62962eafae715bad8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_202",
+      "dbfId": 46601,
+      "name": "Gilnean Royal Guard",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 3,
+      "health": 8,
+      "text": "[x]<b>Divine Shield</b>, <b>Rush</b>\nEach turn this is in your hand,\nswap its Attack and Health.",
+      "flavor": "Admittedly, they kind of dropped the ball with Prince Liam.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c06046f54416f061a56ce9ede8373db165e17076075a325743901dc46f86b3e8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7fc9c652794351b104cfe72926ee73a12d023b159e176b23f682aebc8c136708.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_504",
+      "dbfId": 46887,
+      "name": "Hagatha the Witch",
+      "cardSet": "The Witchwood",
+      "type": "Hero",
+      "rarity": "Legendary",
+      "cost": 8,
+      "health": 30,
+      "armor": "5",
+      "text": "<b>Battlecry:</b> Deal 3 damage to all minions.",
+      "flavor": "Curse-bringer, tree-twister, mother of wretched things\u2026Hanzo main.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ce27c1e4177374f2e1e9f0ea1c3138323849651133138df2f15caf67630c95e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a114492cefa3e03589e73f7f562cf6b71a2b44bd8c3fff6dd6da3315660632f8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_596",
+      "dbfId": 47201,
+      "name": "Silver Sword",
+      "cardSet": "The Witchwood",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 3,
+      "durability": 4,
+      "text": "After your hero attacks, give your minions +1/+1.",
+      "flavor": "Silver\u2019s malleability limits its utility as an edged weapon. On the other hand... SHINY!",
+      "artist": "Nutchapol Thitinunthakorn",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a47c9878996c8acd713b3b68b9b139adf74d3528ceb7975107d1834268408521.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8fdec45e74aa75114b44ef04ee1caf0d12a4fd9f56e02f9232bb9654f26332e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "GIL_658",
+      "dbfId": 47520,
+      "name": "Splintergraft",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "[x]<b>Battlecry:</b> Choose a friendly\nminion. Add a 10/10 copy to\nyour hand that costs (10).",
+      "flavor": "We're going to need some bigger tweezers.",
+      "artist": "Craig Elliott",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df4b03ffe7826b699487e11bb926112bf79b326cd5d496427dc68381914b99be.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d1aa93ce070d0411a17d702290ae0e9d5806c108bf7bf1f37aa1d89f30697c0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_616",
+      "dbfId": 47292,
+      "name": "Splitting Festeroot",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Summon two 2/2 Splitting Saplings.",
+      "flavor": "No use crying over split Festeroot,",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b37d294c244840ab58962c74dd5f56f639445a3c424cd2cc7885f07ae14e1d29.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e3e1a7f97817227481a741a15e4de7f5ad599d6697db9af946cecdb54e748b5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_820",
+      "dbfId": 48111,
+      "name": "Shudderwock",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Repeat all other\n<b>Battlecries</b> from cards you\nplayed this game <i>(targets\nchosen randomly)</i>.",
+      "flavor": "Beware the Shudderwock, my son. We're fresh out of vorpal daggers.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0b367ab8e5075de176d7d47e54667761eadd5e718eeef24f8417db366f44b98.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/513659e366c1d2cc46b9539f4b17995838476c43144b72314f7ccfa2cebd5bde.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "GIL_128",
+      "dbfId": 46678,
+      "name": "Emeriss",
+      "cardSet": "The Witchwood",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Battlecry:</b> Double the Attack and Health of all minions in_your hand.",
+      "flavor": "Taste your world's corruption! It tastes like chicken.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a63c3085f4b1b1b2f6087a57a23166c5d879aee748f0380f4ec0f443accdb07.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a99ef5ad2f0d0721050a418626e6b309ee0b8d816afec38c560ac9c9c4b826d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    }
+  ]
+}

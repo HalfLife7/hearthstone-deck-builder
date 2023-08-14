@@ -1,0 +1,777 @@
+{
+  "Naxxramas": [
+    {
+      "cardId": "FP1_020",
+      "dbfId": 1804,
+      "name": "Avenge",
+      "cardSet": "Naxxramas",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Secret:</b> When one of your minions dies, give a random friendly minion +3/+2.",
+      "flavor": "Several paladins have joined together to deliver justice under the name \"Justice Force\".  Their lawyer talked them out of calling themselves the Justice League.",
+      "artist": "Zoltan & Gabor",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "howToGet": "Unlocked in Frostwyrm Lair, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in Frostwyrm Lair, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfdcc265b0f237c03fc4308cdb95043ef798ca4a03a904ab36ba0cd6452acdc8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_028",
+      "dbfId": 1910,
+      "name": "Undertaker",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "Whenever you summon a minion with <b>Deathrattle</b>, gain +1/+1.",
+      "flavor": "In a world where you can run to a spirit healer and resurrect yourself, Undertakers do pretty light business.",
+      "artist": "Jonboy Meyers",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/482a56911f141ad266dc8b73e60a3cf90883466e4b0935ca01d1e0205a408f1e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_011",
+      "dbfId": 1860,
+      "name": "Webspinner",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Add a random Beast card to your hand.",
+      "flavor": "Spider cocoons are like little pi\u00f1atas!",
+      "artist": "Dan Brereton",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "howToGet": "Unlocked in The Plague Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Plague Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/118354b1ee2688f2a87b0479e96ff7e35fdddbb4f3f9f17241aeea1696f1fddb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_001",
+      "dbfId": 1753,
+      "name": "Zombie Chow",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Restore #5 Health to the enemy hero.",
+      "flavor": "Zombie.  It's what's for dinner.",
+      "artist": "E. M. Gist",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1d73b508c4a22f60b747a950b4bf74a18d14cf98447e4a5659947947b024d1e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_003",
+      "dbfId": 1858,
+      "name": "Echoing Ooze",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Summon an exact copy of this minion at the end of the turn.",
+      "flavor": "OOZE... Ooze... Ooze... (ooze...)",
+      "artist": "Eric Browning",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in Frostwyrm Lair, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in Frostwyrm Lair, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8091f5be236a8bdb857fbfcac8e16d3753cd610c4b0a4a65b8130b352ee632a3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_002",
+      "dbfId": 1781,
+      "name": "Haunted Creeper",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Summon two 1/1 Spectral Spiders.",
+      "flavor": "Arachnofauxbia: Fear of fake spiders.",
+      "artist": "Jeremy Cranford",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Arachnid Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Arachnid Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9221e3fc92cfe8ec34ae2db0ab779ce6032602c0a1e442462010a45a9a7b69e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_004",
+      "dbfId": 1783,
+      "name": "Mad Scientist",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Put a <b>Secret</b> from your deck into the battlefield.",
+      "flavor": "His mother wanted him to be a mage or a warlock, but noooooooo, he had to go and be a scientist like his father.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8eb5569f006a8e34051b1b47526ca779c170f573e339d36dcb0e7167f05840bd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_017",
+      "dbfId": 1800,
+      "name": "Nerub'ar Weblord",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 4,
+      "text": "Minions with <b>Battlecry</b> cost (2) more.",
+      "flavor": "Weblords spend all day making giant trampoline parks.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Arachnid Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Arachnid Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13b5706879ff9b0f4eca6458fb6dd12dd6bf60466fe2f5d7612284d1705a7d42.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_007",
+      "dbfId": 1786,
+      "name": "Nerubian Egg",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 0,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Summon a 4/4 Nerubian.",
+      "flavor": "Eggs are a good source of protein and Nerubians.",
+      "artist": "Justin Thavirat",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Arachnid Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Arachnid Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05e2f1d6c76054f6c4c9dc7d7e00b2f88ae1cfb1270bca063402d7aa29916e19.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_025",
+      "dbfId": 1809,
+      "name": "Reincarnate",
+      "cardSet": "Naxxramas",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Destroy a minion, then return it to life with full Health.",
+      "flavor": "It's like birth, except you're an adult and you were just dead a second ago.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "howToGet": "Unlocked in The Military Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Military Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5aa3a747f95f156580346e2aac3bed7665514a04c47a88064251db350419a51.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "FP1_024",
+      "dbfId": 1808,
+      "name": "Unstable Ghoul",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Taunt</b>. <b>Deathrattle:</b> Deal 1 damage to all minions.",
+      "flavor": "Filling your Ghouls with Rocket Fuel is all the rage at Necromancer school.",
+      "artist": "Mike Nicholson",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Plague Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Plague Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4c3560d81f0093550220de525cc1d0b38d526f0dc92dab412e059485e58469f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99787a0a6c1bea2d7a52f8139f7390da078fa6ea66f655d193bd79bd421792c7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_029",
+      "dbfId": 1913,
+      "name": "Dancing Swords",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Your opponent draws a card.",
+      "flavor": "They like to dance to reggae.",
+      "artist": "Jon McConnell",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Military Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Military Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4ba8f5218b9942c4667af0d87f82ef6c111395dc1a50b79adcef0f86a2ace99.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_023",
+      "dbfId": 1807,
+      "name": "Dark Cultist",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Give a random friendly minion +3 Health.",
+      "flavor": "The Cult of the Damned has found it's best not to mention their name when recruiting new cultists.",
+      "artist": "Phroilan Gardner",
+      "collectible": true,
+      "playerClass": "Priest",
+      "howToGet": "Unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07a69d042a4c94020777e2fafe826d2a127d67064ed6ff6d9a533cd8360de7e5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_009",
+      "dbfId": 1790,
+      "name": "Deathlord",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 8,
+      "text": "<b>Taunt. Deathrattle:</b> Your opponent puts a minion from their deck into the battlefield.",
+      "flavor": "\"Rise from your grave!\" - Kel'Thuzad",
+      "artist": "Ben Olson",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Military Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Military Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82bbbf4288e831010d21e6496ae26a557a12b4e5bee57dbba2b3671421541064.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_018",
+      "dbfId": 1801,
+      "name": "Duplicate",
+      "cardSet": "Naxxramas",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "<b>Secret:</b> When a friendly minion dies, put 2 copies of it into your hand.",
+      "flavor": "The one time when duping cards won't get your account banned!",
+      "artist": "Alex Garner",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "howToGet": "Unlocked in The Plague Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Plague Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/334d83cd12b9f975431d9e9f0b018317c64c563cb5c643f4e5e18e541f494eff.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_005",
+      "dbfId": 1784,
+      "name": "Shade of Naxxramas",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b><b>Stealth</b>.</b> At the start of your turn, gain +1/+1.",
+      "flavor": "I would've thought the giant, floating necropolis that is Naxxramas would cast a bigger shadow.",
+      "artist": "Ittoku",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in Frostwyrm Lair, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in Frostwyrm Lair, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be3bfbebcb9593e4c1ec4f6286d5769a76f91146863d9711c4683739829b4773.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_027",
+      "dbfId": 1861,
+      "name": "Stoneskin Gargoyle",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 4,
+      "text": "At the start of your turn, restore this minion to full Health.",
+      "flavor": "Stoneskin Gargoyles love freeze tag.",
+      "artist": "Matt Smith",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Plague Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Plague Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5de62db0c943c3f8fd05cfbfb9ff05681f602a62574cfb2e6160dc0e6e972aa6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "FP1_026",
+      "dbfId": 1810,
+      "name": "Anub'ar Ambusher",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Deathrattle:</b> Return a random friendly minion to your hand.",
+      "flavor": "Originally he was called \"Anub'ar Guy who bounces a guy back to your hand\", but it lacked a certain zing.",
+      "artist": "Nate Bowden",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "howToGet": "Unlocked in The Arachnid Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Arachnid Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4bccbf7e90b2ef023455fca197b308bf9ba807abc6e076b9b1f8279d2ed88ac.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_031",
+      "dbfId": 1915,
+      "name": "Baron Rivendare",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 1,
+      "health": 7,
+      "text": "Your minions trigger their <b>Deathrattles</b> twice.",
+      "flavor": "There used to be five Horsemen but one of them left because a job opened up in the deadmines and the benefits were better.",
+      "artist": "Ralph Horsley",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Military Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Military Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4219cb0d28cd8b59401a40dfb9a7717216eb22dff711b767b76d5ea8a1648cf0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abf5ff2bffa6c80d2a689f74dbf6dfe8ec986116c65bca0c99d739f5c1e85d0b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_021",
+      "dbfId": 1805,
+      "name": "Death's Bite",
+      "cardSet": "Naxxramas",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "durability": 2,
+      "text": "<b>Deathrattle:</b> Deal 1 damage to all minions.",
+      "flavor": "\"Take a bite outta Death.\" - McScruff the Deathlord",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "howToGet": "Unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf283874be2684e0a8466c6e5341f9056a53fb54217a73ae05ae2d8c10c1d82c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_019",
+      "dbfId": 1802,
+      "name": "Poison Seeds",
+      "cardSet": "Naxxramas",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Destroy all minions and summon 2/2 Treants to replace them.",
+      "flavor": "\"Poisonseed Bagel\" is the least popular bagel at McTiggin's Druidic Bagel Emporium.",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "howToGet": "Unlocked in The Arachnid Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Arachnid Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62170e2c028b1c906c133bca9d143fc954b0f53371f8e0d9e4fa3a9f90f7af60.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "FP1_022",
+      "dbfId": 1806,
+      "name": "Voidcaller",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> Put a random Demon from your hand into the battlefield.",
+      "flavor": "\"Void!  Here, void!  Here, buddy!\"",
+      "artist": "Robb Shoberg",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "howToGet": "Unlocked in The Military Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Military Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af7ea9ddef99d6d4332e9496534b04d0abd1e0c399b31058edea485091cc5e14.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_016",
+      "dbfId": 1799,
+      "name": "Wailing Soul",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Battlecry: Silence</b> your other minions.",
+      "flavor": "This soul just <i>wails</i> on you. Dang, soul, let up already.",
+      "artist": "Glenn Rane",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/408a9d54f33e4f758f0f0c95ab7a907ec3556a21c2a3bfbeda665b9e36906224.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Silence"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_015",
+      "dbfId": 1797,
+      "name": "Feugen",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 7,
+      "text": "<b>Deathrattle:</b> If Stalagg also died this game, summon Thaddius.",
+      "flavor": "Feugen is sad because everyone likes Stalagg better.",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f07b742b50139e0ab88a4d1ab6d0a59d0d7a900ea7da14166741c62cf0ce5bd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_030",
+      "dbfId": 1914,
+      "name": "Loatheb",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Enemy spells cost (5) more next turn.",
+      "flavor": "Loatheb used to be a simple Bog Beast.  This is why we need stricter regulations on mining and agriculture.",
+      "artist": "Samwise",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Plague Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Plague Quarter, in the Naxxramas adventure.",
+      "howToGetDiamond": "Obtained by owning 30 Curse of Naxxramas cards.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9345e9389494e101d41fc9d75e6ac222211978650e5aed83d61859c9693da70a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_012",
+      "dbfId": 1793,
+      "name": "Sludge Belcher",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Taunt\nDeathrattle:</b> Summon a 1/2 Slime with <b>Taunt</b>.",
+      "flavor": "DO NOT GIVE HIM A ROOT BEER.",
+      "artist": "Nate Bowden",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Plague Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Plague Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20212d3033d919a37eb475971c3cab31a2fc4495f3e925867735d872e342f179.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_008",
+      "dbfId": 1789,
+      "name": "Spectral Knight",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "Can't be targeted by spells or Hero Powers.",
+      "flavor": "What do Faerie Dragons and Spectral Knights have in common?  They both love pasta!",
+      "artist": "Chris Rahn",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Military Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Military Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be6818ba606c7d56d702e1dae5819cd6569d09433f2f39297a81f755ee6f9c9d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "FP1_014",
+      "dbfId": 1796,
+      "name": "Stalagg",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 7,
+      "health": 4,
+      "text": "<b>Deathrattle:</b> If Feugen also died this game, summon Thaddius.",
+      "flavor": "Stalagg want to write own flavor text.  \"STALAGG AWESOME!\"",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Construct Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/288cf611915e0e22b0d23b2af1865b033f0e5b298a918b551b501ac093654151.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_010",
+      "dbfId": 1791,
+      "name": "Maexxna",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 2,
+      "health": 8,
+      "text": "<b>Poisonous</b>",
+      "flavor": "Maexxna gets super mad when people introduce her as \"Maxina\" or \"Maxxy\".",
+      "artist": "Howard Lyon",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in The Arachnid Quarter, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in The Arachnid Quarter, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2ac465a607d2adb5edcbce2c0f38928b404c201f1495dcd18715f5043fa7f06.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a67754f06b01d00c6c3aa1429e8603710a21bdaf6e9dc5a66b8506abe658d29d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "FP1_013",
+      "dbfId": 1794,
+      "name": "Kel'Thuzad",
+      "cardSet": "Naxxramas",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 6,
+      "health": 8,
+      "text": "At the end of each turn, summon all friendly minions that died this turn.",
+      "flavor": "Kel'Thuzad could not resist the call of the Lich King. Even when it's just a robo-call extolling the Lich King's virtues.",
+      "artist": "Chris Robinson",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked in Frostwyrm Lair, in the Naxxramas adventure.",
+      "howToGetGold": "Crafting unlocked in Frostwyrm Lair, in the Naxxramas adventure.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86c497996e5246638124e1379a79f1c55e00bd875c89681fc7505a4ff4efbedb.png",
+      "locale": "enUS"
+    }
+  ]
+}

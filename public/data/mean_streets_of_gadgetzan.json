@@ -1,0 +1,3138 @@
+{
+  "Mean Streets of Gadgetzan": [
+    {
+      "cardId": "CFM_630",
+      "dbfId": 40437,
+      "name": "Counterfeit Coin",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 0,
+      "text": "Gain 1 Mana Crystal this turn only.",
+      "flavor": "There is something funny about this coin\u2026 can't quite put my finger on it\u2026",
+      "artist": "Joe Wilson",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4b32d0c32e126eaede2bc549c0a737eae57cfb9e4a8bf38acfb485d3930c10c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/162a31c0620b6e11364cd85ad3b2240d70c012c3e5edc5f0ec184c811c2daa4e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_021",
+      "dbfId": 40324,
+      "name": "Freezing Potion",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "<b>Freeze</b> an enemy.",
+      "flavor": "This is delicious! Oh no. BRAIN FREEEEEEEZE!",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1536c1fdecfbb399555fd3e04824e338866f3f0b36af6dc3bc4915b93752957.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_315",
+      "dbfId": 40426,
+      "name": "Alleycat",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Summon a 1/1_Cat.",
+      "flavor": "To be a cool cat in Gadgetzan, you gotta have bling.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90210bdae286780f4ec6c1a784b5dd4edf04ee17fa3be14a143e5ce93b97740d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e8d0d48dfef6fd9334126bb8116702e7004860345a9e256714f486b75234568.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_313",
+      "dbfId": 40423,
+      "name": "Finders Keepers",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "<b>Discover</b> a card with_<b>Overload</b>. <b>Overload:</b> (1)",
+      "flavor": "INFINITE LOOP!",
+      "artist": "Ben Zhang",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afbd1a4c39d7572dbbc4931dc80f728d7ea61c94d324750fa1fdb239657a4651.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02596f7b066116ed09a12bf7ca1100b8626cdf859340cebda4cf27d9e7bc43cd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_800",
+      "dbfId": 40587,
+      "name": "Getaway Kodo",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "<b>Secret:</b> When a friendly minion dies, return it to your hand.",
+      "flavor": "Get to da Kodo! Now!",
+      "artist": "Rudy Siswanto",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95597406770083a8c84dd322ef132e76031541987b1f4e00eab759c639e21955.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74ac5f185527e6c40ea7953e505c784dfeabda87d235cd913a8de50d7b8624fc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_650",
+      "dbfId": 40531,
+      "name": "Grimscale Chum",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> Give a random\nMurloc in your hand +1/+1.",
+      "flavor": "Listen, see?  We'll take 'em to the docks, see?  And throw 'em in the sea, see? ",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d5656dc6ab7d69e8ed4d28cfb390293139fa1865a0d2a4f5ff9dac5eb90a3b9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d6391168d5cfab523b23e0a94fbb78241770729eac95bebc94c53b3b540b5c4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_940",
+      "dbfId": 40839,
+      "name": "I Know a Guy",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Discover</b> a <b>Taunt</b> minion.",
+      "flavor": "Well\u2026 a guy who knows a guy.",
+      "artist": "Kan Liu",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a65f3a68f656f52abc5f49a744abf9b92d5e09d4e5416b1ab1b0524e74e168d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0243f76f33434298326ffb57057aab4d9cf9ff622af5a49f304c88b37a0dd28.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_602",
+      "dbfId": 40372,
+      "name": "Jade Idol",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "<b>Choose One -</b> Summon a{1} {0} <b>Jade Golem</b>; or Shuffle 3 copies of this card into your deck.@<b>Choose One -</b> Summon a <b>Jade Golem</b>; or Shuffle 3 copies of this card into your deck.",
+      "flavor": "Shuffle or no guts.",
+      "artist": "Matthew O'Connor",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3598bce58c05fc283aca046680903b2ac2921b190b88458ab0f68b8bdba09934.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a769dc447e91853328431f60eba25765b10589679e98858e7c4c69b254823bb4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Jade Golem"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_066",
+      "dbfId": 40299,
+      "name": "Kabal Lackey",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> The next <b>Secret</b>\nyou play this turn costs (0).",
+      "flavor": "I'll tell you one thing he doesn't lack: GUMPTION.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b35b8020b2abe409abf70e1db8cd887ccbd2bc480ac9326464640d71518447d2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fab3c4498a1f4dc54280aea3ef5ee20c7ad27e1945e6e2c5beaaf64c71714f1b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_614",
+      "dbfId": 40397,
+      "name": "Mark of the Lotus",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Give your minions +1/+1.",
+      "flavor": "The mark of the Lotus is a little flower drawn in permanent marker on the ankle.",
+      "artist": "Wayne Reynolds",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc0cff479f5533b2b360dc0f55ea6e2275d0e24ac8a4ca29a55b2ea050fff7f0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbef82ab1df269851c9e07a95140f3cb87495c26b599d84d95cdd727f7049237.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_759",
+      "dbfId": 40577,
+      "name": "Meanstreet Marshal",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> If this minion has 2 or more Attack, draw a card.",
+      "flavor": "Remember, submit your bribes directly to the Marshal - it's the law!",
+      "artist": "Richie Marella",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2968a90ac8ddae447c84a982343f5ba34a9abf082a661056357041e2da2f709.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6698065feb2c69bf79e3548e9c79ff579d1fbdd720363a44dd71f17ce54b66cb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_120",
+      "dbfId": 41566,
+      "name": "Mistress of Mixtures",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Restore #4 Health to each hero.",
+      "flavor": "Her favorite mixture is cola and lime.",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8895ccc190e93535a910fef82196ccfd13b464fcacefb8af592751b8063673ef.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff82d60779ef7ae1a104fa331f7b77d770dce3c0317fc09ebef0ddd85bf05c7c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_637",
+      "dbfId": 40465,
+      "name": "Patches the Pirate",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "[x]After you play a Pirate,\nsummon this minion\nfrom your deck.",
+      "flavor": "What do sailors yell when Patches steals their treasure chest full of laws and other things being transported to parliament for a vote?  \"The Eyes have it!\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Pirate",
+      "otherRaces": [
+        "Demon"
+      ],
+      "playerClass": "Neutral",
+      "howToGetDiamond": "Collect all 20 Mean Streets of Gadgetzan Legendary cards.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/165507cd27f4c801a71ffa5da5e6f98252d79a3bee724bda35f74325ac9acfb2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51f9f1cea77949b3898c845fac4a657969ff6df58ec6f0ef8ff1c76fbff4c832.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_661",
+      "dbfId": 40936,
+      "name": "Pint-Size Potion",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "[x]Give all enemy minions\n-3 Attack this turn only.",
+      "flavor": "I hope you didn't disenchant your Shadow Word: Horror!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe80fb1883acdf878e9759ee07dc478f6abfa941aeaf7ae95cb9250babb0db1a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e31afbf6f1d0d63025b34f42466d28a308bb3caf24e4ce47f6d15914465e5d2.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_603",
+      "dbfId": 40373,
+      "name": "Potion of Madness",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Gain control of an enemy minion with 2 or less Attack until end of turn.",
+      "flavor": "You'd be insane NOT to drink it!",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64ee5ea628d8fd5615b581d4f80ffa4e1ccf0918ae69bc869c9a990d6cf49499.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b1ee94a32139d942f52a559487115b2200804cd3a1aee657664ab5ca0398765.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_325",
+      "dbfId": 40608,
+      "name": "Small-Time Buccaneer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "Has +2 Attack while you have a weapon equipped.",
+      "flavor": "\"Oh, I'm not serious about it.  I only pirate on the weekends.\"",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd7e3de123270de8eafe4686f0870caa8e897074409124641ccd70a35cacdb32.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c8df698d547d181815d79499b4d43b860b3ffc476fc3cdaf89e1d5ca853b998.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_334",
+      "dbfId": 40679,
+      "name": "Smuggler's Crate",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Give a random Beast in your hand +2/+2.",
+      "flavor": "Are you sure these are the crates that are supposed to go to the Gadgetzan petting zoo?",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43a0d0c3ac8ca4ad050c374633850cd4687524c9bacf04633eee470d6901dd1f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8d21571e2c582527fe06f627a8bcbf8de65527cb4a99d07c097560169911dd7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_305",
+      "dbfId": 40371,
+      "name": "Smuggler's Run",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Give all minions in your hand +1/+1.",
+      "flavor": "One of the most famous busts in Gadgetzan\u2019s history happened on Smuggler\u2019s Run, where Sergeant Sally apprehended a cadre of Grimy Goons transporting a massive number of illegal fish heads.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e3182b956bdf7f628a0de3861b55f099febcdd557f9313b66ab2448535c1ce7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b77997024ddee120417721119eb093a46db9f55033257f11ec54983c08896db7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_095",
+      "dbfId": 40549,
+      "name": "Weasel Tunneler",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Shuffle this minion into your opponent's deck.",
+      "flavor": "He's the reason the First Bank of Gadgetzan has steel floors.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7739653fdd8b12ca2e94a1f7dc4d2970a15b071b99b82240e5c05fb2523a50f5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71287d4c22e8f8819762d04b64f10c2862988b493249077f5f22374bd33a9ae1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_647",
+      "dbfId": 40493,
+      "name": "Blowgill Sniper",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Deal 1 damage.",
+      "flavor": "Imagine how much further his darts would go if he had lungs instead of gills!",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11e482d970cabd049978daa6087037bed1234f889f43f72cf80ec8f584527f58.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37a3ee66ed929339e9d76c23470fce7732cf27c6523c61f5cde66a889574517a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_696",
+      "dbfId": 40694,
+      "name": "Devolve",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Transform all enemy minions into random ones that cost (1) less.",
+      "flavor": "Ragnaros looked down. He looked like some kind of War Golem. \"WHAT HAVE YOU DONE TO ME,\" he yelled. But all that came out was a deep grinding sound. He began to cry.",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9407ad88fb1a0fb2987678ed3b02985d592f49736e8a835bc8e210943d88d178.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc6dcc8982f192282d87199787f93e9e1a5e2378d95fd25241236e48397dd70d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_790",
+      "dbfId": 41567,
+      "name": "Dirty Rat",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Your opponent\nsummons a random minion\nfrom their hand.",
+      "flavor": "It's not his fault\u2026  Someone keeps stealing his soap!",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c3c9fd883eecafd655b0d19f79bb86cb5687a56f58c9ea9c4e36ce01220df38.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8881ebd4a661ec488f5f67626d2da113c36c14883f7226ca865c9dd9fb0f189.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_654",
+      "dbfId": 40914,
+      "name": "Friendly Bartender",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "At the end of your turn, restore #1 Health to your_hero.",
+      "flavor": "\"What'll it be?  A Jade Brew?  A Grimy Goose?  A Kabal Manatini?\"",
+      "artist": "Jerry Mascho",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d06ebfce32f96f292630b5abc3462659b020aef10170eafb04cd0e91f8fef6df.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/becc64f2012cb93301c863e34da288ecca978cf41530ec23c49a068d42595d87.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_693",
+      "dbfId": 40696,
+      "name": "Gadgetzan Ferryman",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Combo:</b> Return a friendly minion to your hand.",
+      "flavor": "Is it just me, or is there something fishy about that ferryman?",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f88822c3e60875966a5bd3ab8491be7d0b6d3f045116b651fc0350516059975.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76fe86b0ff4be620dfa1d942ead69b9d71a723ae244705f52908ab1430c19595.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_659",
+      "dbfId": 40949,
+      "name": "Gadgetzan Socialite",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Restore #2_Health.",
+      "flavor": "Comment on her height, and she'll go from flapper to kneecapper in seconds flat. ",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99852d638e68eeae56da51de98f130bd1c86503f29ed8f0c61250d0a8551fbd7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28db0d04f53e6d3d6788137d3de389f25e4c9450f3affa868d7e2b20872efbda.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_321",
+      "dbfId": 40474,
+      "name": "Grimestreet Informant",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> a\nHunter, Paladin, or Warrior\ncard.",
+      "flavor": "\"Naw, naw.  You're talkin' about Grime BOULEVARD.  I ain't know nuthin' 'bout that.\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Grimy Goons",
+      "classes": [
+        "Hunter",
+        "Paladin",
+        "Warrior"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5534ccf4494c507f06bd8dd23057a1a66bd44eed33b65a6a1b4197c594115501.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f24221708cfeb91663d040cd034569fb7f7e65f0caf592c77895b5766b3776f1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_753",
+      "dbfId": 40567,
+      "name": "Grimestreet Outfitter",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give all minions in your hand +1/+1.",
+      "flavor": "If you bargain hard, he'll throw in the hat.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79c642291ece82c85f6e52c4306f3b62ac87e24a4877781c61145f2b2cb76ae0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8c9a3793d41c88011a154c2eab397571956e6ac532ea790ea1befb4402a659b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_026",
+      "dbfId": 40339,
+      "name": "Hidden Cache",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Secret:</b> After your opponent plays a minion, give a random minion in your hand +2/+2.",
+      "flavor": "There is an urban legend that the first Toxic Sewer Ooze was born because a rookie Goon stashed an open container of milk in a Hidden Cache.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67ae66d4b917ec4fe3ddfcfc90f6ba3dbd252388ebee532d98b2478a384ef7ea.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c66843b64f3f7e489887b2728ed8ddd1cfd3723a2d0ff20e83e115cdf165dab0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_643",
+      "dbfId": 40482,
+      "name": "Hobart Grapplehammer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give all weapons in your hand and deck +1 Attack.",
+      "flavor": "Grapplehammer is the horrible mind behind the Automatic Piranha Launcher (banned in 7 districts)!",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/400f23515b050ece688be0389fc964427f7bceea7f09bfbda06b9e58fab311b9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42bc403af1f1bc3dfb9016809df68267e444a3e7923ce00acda61078a5c5d50c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_717",
+      "dbfId": 40529,
+      "name": "Jade Claws",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> Summon a{1} {0} <b>Jade Golem</b>.\n<b><b>Overload</b>:</b> (1)@<b>Battlecry:</b> Summon a <b>Jade Golem</b>.\n<b><b>Overload</b>:</b> (1)",
+      "flavor": "\"Best manicure ever!\" - Aya Blackpaw",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2068da1eb2aaef87cdf46b5ef23b97005f6308889fdfe6457dd676cc5f2ed3be.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c734ed48578d285a0f1ff86f3814128a3ebb9a400069a54f6b35dc00dbdfe65.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "Jade Golem"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_690",
+      "dbfId": 40698,
+      "name": "Jade Shuriken",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $2 damage.\n<b>Combo:</b> Summon a{1} {0} <b>Jade Golem</b>.@Deal $2 damage.\n<b>Combo:</b> Summon a <b>Jade Golem</b>.",
+      "flavor": "Good news is, after you remove it from your wound, you can use it to pay your medical bills!",
+      "artist": "Izzy Hoover",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/792f0e50d1a43c3756da70d9c04f700e15b59e61855b514234b90017a2d7adfa.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a931248f1c8e926715ff99570c5da41b4c0dc05accf265fbbbc90e84ddd2fff5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Jade Golem"
+        },
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_691",
+      "dbfId": 40697,
+      "name": "Jade Swarmer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Stealth</b>\n<b>Deathrattle:</b> Summon a{1} {0} <b>Jade Golem</b>.@<b>Stealth</b>\n<b>Deathrattle:</b> Summon a <b>Jade Golem</b>.",
+      "flavor": "He's so good at swarming, he can swarm all by himself!",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbce9a069c7a609be958c622d9a47ec5397b7d89e7c4757a8fad35ac95e2b473.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f99a7ac2120e3c2953197c209861b4f3cb05ce04dba18e6f896af4c6415ffa0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Jade Golem"
+        },
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_606",
+      "dbfId": 40381,
+      "name": "Mana Geode",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Overheal:</b> Summon a\n2/2 Crystal.",
+      "flavor": "Gadgetzan, where even the pet rocks have pet rocks.",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62608fcf8f45a1b194598e759d1e8fcedc5d6d361458f8c65db09ca0f07eda7f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de4f0fa79d01dd785f2b18750950fd731038653fbace17b97ef43198850ce0df.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overheal"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_300",
+      "dbfId": 40364,
+      "name": "Public Defender",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 0,
+      "health": 7,
+      "text": "<b>Taunt</b>",
+      "flavor": "Happy to defend any public offender!",
+      "artist": "Alex Alexandrov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97dab013a8813260473045d1cf40b204060bc9cb6bfb8c4ce7f1b8376fa34f23.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_716",
+      "dbfId": 41414,
+      "name": "Sleep with the Fishes",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Deal $3 damage to all damaged minions.",
+      "flavor": "If you're sleeping with the fishes, we highly suggest not bringing an electric blanket.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3613a82b91b3e1956b765773c363e0ee1a2df77aebe9551e35a49f51fb9d56d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6b2bee9cbd7d6c25e296c1afb9fbe0bc4f18287b7cbdb68f39023fe602b85f7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_752",
+      "dbfId": 40566,
+      "name": "Stolen Goods",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Give a random <b>Taunt</b> minion in your hand +3/+3.",
+      "flavor": "It fell off a kodo, I promise!",
+      "artist": "Mark Gibbons",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75340fd5e0ca7f439a357653f8b62b0962a067f0778fa1162f71a5077fe73244.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12863c9df3e6d7f89f55629b72ea4734cc746683a3cbb786765f3de480ea7e8d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_338",
+      "dbfId": 40684,
+      "name": "Trogg Beastrager",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give a random Beast in your hand +1/+1.",
+      "flavor": "Still angry that the Gadgetzan Rager Club wouldn't accept him as a member.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/585eacc0d39eacc98a670f19a002e496d23dc495f4810da98bd1e95e18c7ef81.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16c55bdccce8adb27f24a5a782dbb29ea84969a68a65d438319d529be989b7b5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_807",
+      "dbfId": 40605,
+      "name": "Auctionmaster Beardo",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "After you cast a spell, refresh your Hero Power.",
+      "flavor": "Gadgetzan has always run an under-the-table auction house, and business has been PRETTY good for Beardo since the population explosion.  And since the explosion that destroyed the competing auction houses in the city.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c59ad40147891c7361ebe54f18ffef29474a90111d3c267c985e697f43562461.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b8c407a1c3ef2aaca72218e7635005003a0fb3aac13f0ac9460bd7ce174019b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_646",
+      "dbfId": 40492,
+      "name": "Backstreet Leper",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "text": "[x]<b>Deathrattle:</b> Deal 2 damage\nto the enemy hero.",
+      "flavor": "Quit playing games with his heart. And his fingers. And foot. It's rude.",
+      "artist": "Yewon Park",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c6db1c06db2330e56a0d4c8fd1b95497fa4aa42d10ebc9ccea0b2f64b196908.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8c25f541a1e53f88d011d7ac508cfefb362c3c01e7e168ed337754996605d6b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_611",
+      "dbfId": 40393,
+      "name": "Bloodfury Potion",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]Give a minion +3 Attack.\nIf it's a Demon, also\ngive it +3 Health.",
+      "flavor": "You know what really makes my blood boil? The skyrocketing price of Bloodfury potions!",
+      "artist": "Raven Mimura",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9902c1c52e7536cc190c64cf57464c91b83c87cf4a9d72532c9900d14291b542.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0bd9702a5141e6f6cad81dbb99ab45fbf29f6d5c39b25f4219dbf664820e4af.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_064",
+      "dbfId": 40294,
+      "name": "Blubber Baron",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 1,
+      "health": 1,
+      "text": "Whenever you summon a <b>Battlecry</b> minion while this_is in your hand, gain_+1/+1.",
+      "flavor": "When oil, railroad, steel, robber, and red are all already taken, your options are limited.",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60bcdaf67665584dd3e72b07607cca080328918b35f1cc19c2858e2c71d80ed4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cfd428e01b5f25e3816b9401671e35d8c30b5dc6eb430b8acd03c49080d66be.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_617",
+      "dbfId": 40404,
+      "name": "Celestial Dreamer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If you control a\nminion with 5 or more\nAttack, gain +2/+2.",
+      "flavor": "If you think her job is easy, YOU try falling asleep on cue.",
+      "artist": "Alex Garner",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8138e56403cf4d235407ca29a2857cda448c0fa9eff7aee8e03ef5ccf3a5f448.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/def8c94899f424497466ea588b0e2a202dc8dc57757081937859307b1831caf9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_609",
+      "dbfId": 40389,
+      "name": "Fel Orc Soulfiend",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 7,
+      "text": "At the start of your turn, deal 2 damage to this_minion.",
+      "flavor": "\"Doc says the persistent burning sensation in my soul is probably just an ulcer.\"",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1db806cc881324089564f76c32adbf5625896187d6ce47176e4d5d9ed35a39c0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68a12b6f0311874577e82878e3706b19e43721492857411876e81466a226005f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_755",
+      "dbfId": 40569,
+      "name": "Grimestreet Pawnbroker",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Give a random weapon in your hand +1/+1.",
+      "flavor": "\"I don't know a lot about used GvG cards, so I'm going to have to call in an expert.\"",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72a47634c12bf1504738ca6cb06b34657d45efe756ec1110c3444cf8176ae352.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41520d6d4744b1e8ab8eac660e9e7b927865d763c4434cafea5339faa9078932.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_853",
+      "dbfId": 40743,
+      "name": "Grimestreet Smuggler",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give a random minion in your hand +1/+1.",
+      "flavor": "She's got anything you want.  Need the latest derpinger?  No problem!",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Grimy Goons",
+      "classes": [
+        "Hunter",
+        "Paladin",
+        "Warrior"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53144bb0218b2cdb5011c8ca88f1e7fd02e7492fc7f3db1c376e09dfd85f2a2e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7cc03791ce17497b2380f41f7431abbc276fdf614947b161ad65d3e4d007fb6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_653",
+      "dbfId": 40911,
+      "name": "Hired Gun",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Taunt</b>",
+      "flavor": "He loves his job and would do it for free!  (But don't tell his boss!)",
+      "artist": "Eric Braddock",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/deb138835fff32a7e956d7974e5b4820ec120dc9b8a66c9b57e3373982cd38e2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_713",
+      "dbfId": 40523,
+      "name": "Jade Blossom",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Summon a{1} {0} <b>Jade Golem</b>. Gain an empty Mana Crystal.@Summon a <b>Jade Golem</b>. Gain an empty Mana Crystal.",
+      "flavor": "Meditating under a jade blossom is said to grant you wisdom, unless you have a pollen allergy.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a423ff4f59afd1b4f69a28fdb1734a72e102d813e323495df706f3599b092711.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/357593c0589a0b0fca54874eba808d4af55852e329dee135800f38f08438451d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Jade Golem"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_649",
+      "dbfId": 40496,
+      "name": "Kabal Courier",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a Mage, Priest, or Warlock card.",
+      "flavor": "Hey, you park your kodo under a harpy nest, you get what you deserve.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Kabal",
+      "classes": [
+        "Mage",
+        "Priest",
+        "Warlock"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4ff64de76566c04da3b8352b96c2c9f220514c04162384fad2a288bafdcc1f5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54e254d7010c1524e989f986d7aa74d404e3e946b6de4e8dd87bd69787fb6c37.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_626",
+      "dbfId": 40432,
+      "name": "Kabal Talonpriest",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give a friendly minion +3 Health.",
+      "flavor": "Inkmaster Solia had to figure out how to tattoo feathers.",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1bb0a51a82df991ce03ee4647ab1b74bef9ab97ea2c5ada5f2908870976fc7f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b321baf0d911bc8bb7c6f44baea037a448b667b4e42cc79af9519c9604b47588.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_660",
+      "dbfId": 40935,
+      "name": "Manic Soulcaster",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Choose a friendly minion. Shuffle a copy into your deck.",
+      "flavor": "When casting a tournament, you really have to put your soul into it!",
+      "artist": "J. Ejsing & E. Amundsen",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/684607764e94596bd593a1f528b51db88525fa50df899dc8092475a360a1e2a9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/829974a20d312a8326193109747feb8eabf0aa21a4e06b3ffc5b0aa7844892a8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_616",
+      "dbfId": 40401,
+      "name": "Pilfered Power",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Gain an empty Mana Crystal for each friendly minion.",
+      "flavor": "The Hozen don't get paid much, but at least they get to keep any excess mana.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e334d62f463d4ba2666fcce18251b507ceab024d1cf4aefd642ab31d189de792.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_620",
+      "dbfId": 40409,
+      "name": "Potion of Polymorph",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "<b>Secret:</b> After your opponent plays a minion, transform it into a\n1/1 Sheep.",
+      "flavor": "Tastes like Baaaaananas.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dee5504ba8ba002437e81ac07ef4c025e5db2c2a8957586df2ec5df234b60ca1.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b43aba7e173476b512bb12e3fda6492e93b9128aa690cce98dae6fc29cb7b17f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_316",
+      "dbfId": 40428,
+      "name": "Rat Pack",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Deathrattle:</b> Summon a\nnumber of 1/1 Rats equal\n_to this minion's Attack.",
+      "flavor": "He's gonna do it his way.",
+      "artist": "Ozhill Studio",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1dba722fe923b87f742ed48e67cfc087e7913b9a35ddad3a09e1b9a4c2499302.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acb0915a6e4300aab8830bcd3ff95dc87c7c48341935dbceed23672655b23d1f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_341",
+      "dbfId": 41118,
+      "name": "Sergeant Sally",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Deal damage equal to this minion's Attack to all enemy minions.",
+      "flavor": "\"Who is she?  Where did she come from?  We don't even have a police force here in Gadgetzan!!\" - Mayor Noggenfogger",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/656a5ced4b83c46171e9e8dd60201636ecddacbe5a67e14d5deaa3187bd2933c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/791520aa75b65377d74799e05c97353302f5f30dc9d69e7ab54e7ba69840eea8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_636",
+      "dbfId": 40464,
+      "name": "Shadow Rager",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 5,
+      "health": 1,
+      "text": "<b>Stealth</b>",
+      "flavor": "WE WENT THERE!",
+      "artist": "Jon Neimeister",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48dc3e10631536c5d2c3118618029c98feb7186009b7c29f6c3a50a406d183ef.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_781",
+      "dbfId": 40905,
+      "name": "Shaku, the Collector",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Stealth</b>. Whenever this\nattacks, add a random card\nto your hand <i>(from your\nopponent's class).</i>",
+      "flavor": "Aya even staged an intervention once, but Shaku still insists that he is not a hoarder.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dabfa821fc95dfbea3ba7c2b1b244d2f33ca3649aee9625ceeb5ec71e8525ec8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94cf2c7794d8012eb8e9f162a33870c707d0abc4dc8be0d7ae86acba81fbfa7c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_336",
+      "dbfId": 40681,
+      "name": "Shaky Zipgunner",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Deathrattle:</b> Give a random\nminion in your hand +2/+2.",
+      "flavor": "The Grimy Goons can get you any weapon you want but if you want it to not explode you gotta pay extra.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97669409dab43b766a3d0156e5f879c694e2431a8062dda7958a606abc90f466.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e5954ba44cbf8009bfb342bd423efd535514fafad92f896ca8001928fdc2595.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_905",
+      "dbfId": 40634,
+      "name": "Small-Time Recruits",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "[x]Draw three 1-Cost\nminions from your deck.",
+      "flavor": "Now we know why they wear tiny watches.",
+      "artist": "Daren Bader",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/995292dbbd54a0a6ff238c7e2893a62dffc12c58803cc147fd4b16f43fd505bf.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fed4024ab348bb3bae19405027d6b1b2f49330d78d63873fd947c2e667fdc18.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_039",
+      "dbfId": 40213,
+      "name": "Street Trickster",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 0,
+      "health": 7,
+      "text": "<b>Spell Damage +1</b>",
+      "flavor": "His first trick: making your wallet disappear!",
+      "artist": "Daria Tuzova",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/300471a940dadcda151771326334dadc09918722d3634d58d7db26466e19ce88.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/938e8fc9c26028cb69fc25479559616965098d87ba1c47eb7f5203df17525d2c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_655",
+      "dbfId": 40921,
+      "name": "Toxic Sewer Ooze",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Remove 1 Durability from your opponent's weapon.",
+      "flavor": "When Sergeant Sally shows up unexpectedly, DO NOT FLUSH YOUR MANA CRYSTALS DOWN THE TOILET.",
+      "artist": "Anton Kagounkina",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/345ce560aa8cc40f5395ee9022b15ca81d2c8a9937f32e7be62ed2f55c7c00af.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7603e13a02feeaff41ac229100a0839087e20c485ddd858bee92f23bb6b2f96e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_900",
+      "dbfId": 40598,
+      "name": "Unlicensed Apothecary",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 5,
+      "health": 5,
+      "text": "After you summon a minion, deal 5 damage to_your hero.",
+      "flavor": "Get the ingredients wrong on ONE healing potion and they take your license. What a world!",
+      "artist": "Jon Neimeister",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4d57501b07083c9ff2619f72478d912117bfe6e08731126caea09f15a3ad5e9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72538c996c95ae343ec3c3381bcfd8c5ddb4ea895458c4740ffdc8912f1d18ef.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_065",
+      "dbfId": 40297,
+      "name": "Volcanic Potion",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Deal $2 damage to all_minions.",
+      "flavor": "The secret ingredient in Kazakus's award-winning chili recipe.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c27a467abad4097384122e02d5c0590982c0cb6b196561a430d3199558fdff87.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df9287d8ec6b82bb0f8e9a8d9c57acdc37183d671f26cd8d21120d86b4ef4789.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_815",
+      "dbfId": 40636,
+      "name": "Wickerflame Burnbristle",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Divine Shield, Taunt, Lifesteal</b>",
+      "flavor": "Wickerflame spent years as a recruit for the Goons, never making the big-time because he always fired his chest-cannon too slowly.  \"Hey,\" he thought, \"maybe if I keep my beard lit on fire, I can do this faster.\"  BOOM, promoted.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e1f7f8f05ebefcd2adc06419fc3b35dcffa8dae0817680ac30c4f5711518f7a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_658",
+      "dbfId": 40931,
+      "name": "Backroom Bouncer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "Whenever a friendly minion dies, gain +1 Attack.",
+      "flavor": "\"WHY ARE YOU IN THE BACK ROOM?  WHO IS WATCHING THE FRONT?!\"",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6f4f927e51ebd41f070fe4a6afc3da9f51df88cbd63d8a50420e9b24c306adc.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dee9fc78df83456901f103c9ac09747f70c6892c3043936ff59f7ef7672a815.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_608",
+      "dbfId": 40957,
+      "name": "Blastcrystal Potion",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Destroy a minion and one of your Mana Crystals.",
+      "flavor": "There's a fine line between \"potion\" and \"grenade\". Wait. Actually, there's not.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a554bf0e3d0ecf665c66e7abc7def93a60a25e21e840e7362e4e020052595a25.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c7eb62903ed1973feb2e9d6665ed5500a81967c2c5eb4886985f77f7b6c76d7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_631",
+      "dbfId": 40438,
+      "name": "Brass Knuckles",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "durability": 3,
+      "text": "[x]After your hero attacks,\ngive a random minion in\nyour hand +1/+1.",
+      "flavor": "For the goon that wants to make a fashion statement.",
+      "artist": "Anton Kagounkina",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ded065818048ffb86e2cfde964ebc861ed6c5b5539fc51c3c8380f38da8db4d0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7915036a4522094c9047ccf3c1b5ef6e06371d07db894f088b2673c4edc2baf.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_310",
+      "dbfId": 40419,
+      "name": "Call in the Finishers",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Summon four 1/1 Murlocs.",
+      "flavor": "When you really need a job done\u2026 but you don't really care if it gets done right.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2915c471630abf77edc0e47e14c2979c9cbc3cab4a9137f38863d4a9fe99c4c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f3c2be5c60ea085c6d225790398376656e8f0188ddf585ee69d5af62b8c8dfd.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_610",
+      "dbfId": 40391,
+      "name": "Crystalweaver",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give your Demons +1/+1.",
+      "flavor": "The trick is soaking the crystals in warm milk to soften them up.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/118b0857ce601c7db0e474430dad741edc595dfc0b8781da412f170563074150.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb705f2d7541911cbbcf93970a783925e88663dbac565828562a8e8de3ef10c5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_851",
+      "dbfId": 40741,
+      "name": "Daring Reporter",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "Whenever your opponent draws a card, gain +1/+1.",
+      "flavor": "She's working on a story!  While skydiving!",
+      "artist": "Sojin Hwang",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dbc18910104612c36a0c893e8d5680e13d91e1d61dba2fb21b08fad201c521c8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c125d2c9f0434a128fd559410798665ce3bc317516df3bc3f6d2976b601eb7b8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_335",
+      "dbfId": 41126,
+      "name": "Dispatch Kodo",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Deal damage equal to this minion's Attack.",
+      "flavor": "\"Crime reported at First Bank of Gadgetzan.  Huge quantities of Jade being carried away by what looks like a bunch of Hozen.  Kodo 77 can you make it over there now?\"",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b52ff0d200e9eb9f77dc0f8f0a015bb9e706774005bebc37d26e2ab909727d84.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44701f7cfd9b95b22bc88ab76e069c232837089a361e2f8625187244a6e578c2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_605",
+      "dbfId": 40378,
+      "name": "Drakonid Operative",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> If you're holding\na Dragon, <b>Discover</b> a\ncopy of a card in your\nopponent's deck.",
+      "flavor": "His job is to spy on the Goons and the Jade Lotus, but he's OBVIOUSLY a dragon so it's pretty hard work.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6357ecf918a2c800139c357f2f0d755673eb6dc329120c3395167d2af864b51.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/963bce7b8e32f92b75b799afa13d4286e21e5a3c216dcc2960f9eb6134a085ca.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_808",
+      "dbfId": 40607,
+      "name": "Genzo, the Shark",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "Whenever this attacks, both players draw until they have 3 cards.",
+      "flavor": "Infamous in the seedy underground card rooms of Gadgetzan, he got his nickname winning the coveted Shark Plushie in the city's first Hearthstone tournament.",
+      "artist": "Garrett Hanna",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f74f1fad74fa325654e0167d488460f0030fa89bb0436cc1794ced9571361fdc.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0625cb3bd4fecc7cda3e9c201323c2852433a4a0d79ad2c96dea8cecf753ed9c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_604",
+      "dbfId": 40375,
+      "name": "Greater Healing Potion",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Restore #12 Health to a friendly character.",
+      "flavor": "Filled with electrolytes!",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ada94eb34fb318fd0fae777c0e2e2f3681024622666955ca55e1985a5d7e5ff.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efbd3b460a9301035ea2a84ad5eb645225d8bf0dfb38e81abdc45e7296e15762.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_754",
+      "dbfId": 40568,
+      "name": "Grimy Gadgeteer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "At the end of your turn, give a random minion in your hand +2/+2.",
+      "flavor": "\"You look like a Gadgetgun 3000-Mark IV man, am I right?\"",
+      "artist": "Wayne Reynolds",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71bac1afdfe9991d21e2b3f967513dd0435a184306558997bd68d939a41f03bc.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58e70027b6c7be59f90c6245b784d1df4ad309512cd8e831990b532271a57796.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_067",
+      "dbfId": 40344,
+      "name": "Hozen Healer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Battlecry</b>: Restore a minion to full Health.",
+      "flavor": "He didn't go to school for healing, but we keep losing all the good healers to Ratchet, so I guess we'll take him.",
+      "artist": "Sam Nielson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f46e8ca2061c61d4ac36597edd08e60f2f8f7a7c0de316fbd8bdaf465bda0166.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21f7ac6ab08851a90646cac58a699b9ed343f6c2022631979b0eecd37f97bf98.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_707",
+      "dbfId": 40455,
+      "name": "Jade Lightning",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Deal $4 damage. Summon a{1} {0} <b>Jade Golem</b>.@Deal $4 damage. Summon a <b>Jade Golem</b>.",
+      "flavor": "Jade Lightning, goooo Jade Lightning!",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fd5c1491d001899fa67c66645cdd9041da50c1868e29bb844ef530a34e9a6ab.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2380888cf25a411c5704f3315e887f9b7b93d3764213ea033174154b922492a4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Jade Golem"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_715",
+      "dbfId": 40527,
+      "name": "Jade Spirit",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Summon a{1} {0} <b>Jade_Golem</b>.@<b>Battlecry:</b> Summon a <b>Jade_Golem</b>.",
+      "flavor": "\"He's so cute!  I just want to squeeze him, then use him for Jade Golem parts!\" - Aya Blackpaw",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "multiClassGroup": "Jade Lotus",
+      "classes": [
+        "Druid",
+        "Rogue",
+        "Shaman"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db914c7fa3e79c98d46fa3bbc1c829d516769dcc895ac5b787c82ca8d074c4fa.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/332d475968cf0b8277033c2afdde2d694a8f7590f625f21adf4be8c3baf8be49.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Jade Golem"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_061",
+      "dbfId": 40285,
+      "name": "Jinyu Waterspeaker",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Restore #6 Health.\n<b>Overload:</b> (1)",
+      "flavor": "Waterspeakers can tell the future! So the Jade Lotus employs them to speculate on the Auction House.",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/940a632ebb4cb26eb64adb3307ee62684ae87b911b339dbab2cd4697d49dca11.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a5ed7d714a1389d3c6602b7291e29f4db9607e2201e3ae7c72f06dfc5424443.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_619",
+      "dbfId": 40407,
+      "name": "Kabal Chemist",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Add a random Potion to your hand.",
+      "flavor": "Sure you could have that Polymorph potion, but wouldn't you rather have this mystery potion?  It could be anything.  Even a Polymorph potion!",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Kabal",
+      "classes": [
+        "Mage",
+        "Priest",
+        "Warlock"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d76f74aeffbea1ba22cd4bfcc01dbba31d158f1c1d8b277c223e68202bb91b76.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21d831a402d2a196732c82a3db36225ebd8eef4fb15da12de558eda3d3dc8b68.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_621",
+      "dbfId": 40408,
+      "name": "Kazakus",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If your deck\nhas no duplicates,\n_create a custom spell.",
+      "flavor": "The mysterious leader of the Kabal is NOT a dragon, and does NOT deal in illegal potions.  Any public statements to the contrary will be met with litigation and Dragonfire Potions.",
+      "artist": "Jomaro Kindred",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Kabal",
+      "classes": [
+        "Mage",
+        "Priest",
+        "Warlock"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61b14a6cf725ff9f74eae6f516f626a260d5932570ea33b91c4e1b90b55dfc98.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0ac6afd0052ff2b005afeaa1b21aa0ddcf0870f059964248e2c7777658f31d3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_063",
+      "dbfId": 40289,
+      "name": "Kooky Chemist",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Swap the Attack and Health of a minion.",
+      "flavor": "#abs",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f0f9c6453367c2341abc78bd6ef9d4635a4bffe919c4f1a4c533259f020f9e0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8feae5a73d33b579fc02d5f050b6d4468e03853129d00fe4283c739b5529e63c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_697",
+      "dbfId": 40693,
+      "name": "Lotus Illusionist",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]After this minion attacks\na hero, transform it into a\n_random 6-Cost minion.",
+      "flavor": "If you think her Xavius and Sylvanas cosplay is great, wait till you see her Reno Jackson!",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9b31179be54c98bb8db68bc289052b96dc51ec2efaa6f9dae72479dae6b05b2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a172db170fb668cecb1702c7111b1f23e552c9b34f178d66dbf8a8cb7324c1e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_651",
+      "dbfId": 40889,
+      "name": "Naga Corsair",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give your weapon +1 Attack.",
+      "flavor": "Hook-tails are nice and all but she keeps getting stuck on things.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "race": "Pirate",
+      "otherRaces": [
+        "Naga"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a76207f7f114c3df3720bad2d9886016e105d2f7f53e2ffdf9dfb85bc52afcf6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f08f90cfda9ea4c466f99e7b0a90a9804d3bb750519e8e38ab2e9895dc524233.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_699",
+      "dbfId": 40691,
+      "name": "Seadevil Stinger",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> The next Murloc\nyou play this turn costs\n_Health instead of Mana.",
+      "flavor": "Pretty harmless unless you're a Seadevil.",
+      "artist": "Yewon Park",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17998a66b5cb228842dfcb1c12f2493f74819ae94a0e4e974086c4609524f58c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd8bf3c361828e71c03387ba7e057bd3d85f8fe350673decd7c04bda43fe89b5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_694",
+      "dbfId": 40695,
+      "name": "Shadow Sensei",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Give a <b>Stealthed</b> minion +2/+2.",
+      "flavor": "He used to be Aya's tutor, but she fired him for bugging her too much.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef0da82b617476eba612543ec5cdeb20597277a895d4f33f01e237ada46747ee.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5441544df16b7bc5ad4539efe8a1bac67c5492451933a9d192267b201694b3f7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_809",
+      "dbfId": 40611,
+      "name": "Tanaris Hogchopper",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> If your opponent's\nhand is empty, gain <b>Charge</b>.",
+      "flavor": "The Hogchoppers are well-known throughout Kalimdor for being a real, actual group.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7beb30dc34f2a99d4c5d0728167576e928b1ff28d53c6b33e834027c4c313b5f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a784359093110d6c927e9b10d16e25a68be6aabd958d289160d1bd37dd18b34.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_665",
+      "dbfId": 40950,
+      "name": "Worgen Greaser",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 6,
+      "health": 4,
+      "flavor": "Hair products are 79% of his monthly budget.",
+      "artist": "Alex Alexandrov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1367e97af2cf004b3e4f27e535015a89fd2e8d9a3e2ce400d8db3ad4c13742f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_756",
+      "dbfId": 40574,
+      "name": "Alley Armorsmith",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 7,
+      "text": "[x]<b>Taunt</b>\nWhenever this minion\ndeals damage, gain\nthat much Armor.",
+      "flavor": "The rent is cheap and she passes the savings onto YOU!",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abfe2ac0cb7cf0a9c4c956db51039635a9f8db96b4af44630f2d91ee560299e4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/365b8b91fdce06fd5d1420c8e3b532557d1c779f248857fa313ac59d410ff018.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_667",
+      "dbfId": 40952,
+      "name": "Bomb Squad",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Deal 5 damage\nto an enemy minion.\n<b>Deathrattle:</b> Deal 5 damage\nto your hero.",
+      "flavor": "Please don't explode!  Please don't explode!  Please don't explode! ",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdd9f5d8100b26d73bcb64943332843eee2d84cb4a39fea66d525f68150b42b6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/babe9f9700ee4b29c01a69d2a637ccd8f4cec8c35ed192ec5791ff8ab6d23bac.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_669",
+      "dbfId": 40954,
+      "name": "Burgly Bully",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "Whenever your opponent casts a spell, add a Coin to your hand.",
+      "flavor": "He only burgles to pay the bills.  He is really just a bully at heart.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/865e010e1be24f01db9bcab3e38eb6f3dd5d02907f5f2e0658bb642244fd52c5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_671",
+      "dbfId": 40988,
+      "name": "Cryomancer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If an enemy is <b>Frozen</b>, gain +2/+2.",
+      "flavor": "She loves Frozen. I mean who doesn't?",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86357707464015f5e86201a2a9f7d588a72b06383cce4ee609cdd4074175d4aa.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fad6da35df4ce4224819434f28884703c14336b0f1c02358bb3d8c2426be488.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_668",
+      "dbfId": 40953,
+      "name": "Doppelgangster",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Summon 2 copies of this minion.",
+      "flavor": "\"Every me, get in here!\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a998eeaf88396a2c92884610e66c24b364840608893c112d7ed2158e9e2c0c54.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60421151d6ce9a3f4413258f6f3772db68503e101e2016bd9ff7d2ce6a8c9bfa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_344",
+      "dbfId": 40803,
+      "name": "Finja, the Flying Star",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]<b>Stealth</b>\n   Whenever this attacks and   \nkills a minion, summon 2\n_Murlocs from your deck.",
+      "flavor": "The last true master of Finjitsu.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "elite": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6b332878adbbfd51083724a0702a1dc1df8749d12a72410ee11b0e7579bcf22.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0c52a89d643449d287aee0dfa8698f63dc1c7d5bc2f644faa3a0338dd931231.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_639",
+      "dbfId": 40469,
+      "name": "Grimestreet Enforcer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "At the end of your turn, give all minions in your hand +1/+1.",
+      "flavor": "\"Sir, you don't have a permit to park your mount here.\"",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9688f0e50320cfcf2944e7a86982a0db04b43f19cc82969dcc03e807a40c5006.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9caf221dc46618b93dff27ec284c2a26a8fe7a4ee32baf77e279ed223c7fd32.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_666",
+      "dbfId": 40951,
+      "name": "Grook Fu Master",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Windfury</b>",
+      "flavor": "Grook Fu, the ancient Hozen art of bashing heads with a stick.",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b12c128d5115f9d5b59dd9e3f11a175b0429ff79b3c8bc51819e90f94773adb8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_657",
+      "dbfId": 40929,
+      "name": "Kabal Songstealer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> <b>Silence</b> a minion.",
+      "flavor": "Gadgetzan Writer\u2019s Award goes to the player who writes the most compelling fanfic about why this Arakkoa has a golden frog in his hand!",
+      "artist": "Alex Alexandrov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8daa9c2d9b9c405459516e1afbd93d4c92876c070d91dadc912e2a795561fa20.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/294eccdb2ec1c346d8ae1f2459112d12e452b070140c63cd05cf66af0004c53a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_333",
+      "dbfId": 40678,
+      "name": "Knuckles",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 7,
+      "text": "After this attacks a\nminion, it also hits the enemy hero.",
+      "flavor": "When confronted with accusations of performance-enhancing bananas, Knuckles replied, \"I get my fruit from trees I knock down with my bare hands like everyone else.\"",
+      "artist": "Sam Nielson",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5839bee9ca628993c1b065e1adc70149718604fd5f30ae30de31e004c46b31d4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_852",
+      "dbfId": 40742,
+      "name": "Lotus Agents",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 3,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a Druid, Rogue, or Shaman card.",
+      "flavor": "Mostly, they stand around and look cool.",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Jade Lotus",
+      "classes": [
+        "Druid",
+        "Rogue",
+        "Shaman"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/191035f44657b9b5eb6611287f97e7dc893f62e1e53a583d8ae8594beae53c3c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7c72473e673d545a9d2f58dca86cd29b81e60822efe46ce87e0e0675b506bef.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_634",
+      "dbfId": 40441,
+      "name": "Lotus Assassin",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Stealth</b>. Whenever this attacks and kills a minion, gain <b>Stealth</b>.",
+      "flavor": "For 5000g, you can just give the Jade Lotus any name and they will assassinate and/or embarrass them.",
+      "artist": "Garrett Hanna",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b312a0963bfe9dc377d09791e87f40f96733d437c8dcf69c48308c25127360be.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b0b191f26eadfc337c5b2e9571bb80b6ba5762c555891c2ba458b42fcc8766e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_811",
+      "dbfId": 40615,
+      "name": "Lunar Visions",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Draw 2 cards. Minions drawn cost (2) less.",
+      "flavor": "The true mystery of lunar visions is how there is nothing to watch when there are so many channels.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ebd43e64ac6ef830bc56e9790e829f10fd9cefdb82a0c49afa133b4c4cd0080.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c135b7e1bf65e4a59ce468c4a3f996e7eda9f8b92510b61f1ea8256123e1fd59.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_337",
+      "dbfId": 40683,
+      "name": "Piranha Launcher",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Weapon",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 2,
+      "durability": 4,
+      "text": "[x]After your hero attacks,\nsummon a 1/1 Piranha.",
+      "flavor": "A great improvement over the guppy launcher.",
+      "artist": "Nick Southham",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55f1e6a465a18a137cd751324e8f791edfe97712adc73fa7bbefbe90085c17b6.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b92bd937e8671ebe57cd2af7cb14a22934274dfa649a342d90254a40652950e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_020",
+      "dbfId": 40323,
+      "name": "Raza the Chained",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]  <b>Battlecry:</b> If your deck has  \nno duplicates, your Hero\n Power costs (0) this game.",
+      "flavor": "\"Could you do me a favor and get the keys from Kazakus?\"",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d22f815808abf3a99d06695610e74b860b119095622626416db243cd96d87548.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7312faaf7be425d34ec21cebb0f3e0d7858d0bd39fcb24607f197bacf1b15916.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_060",
+      "dbfId": 40281,
+      "name": "Red Mana Wyrm",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 2,
+      "health": 6,
+      "text": "Whenever you cast a spell, gain +2 Attack.",
+      "flavor": "It has double the Attack.  \"Go on.\"  And double the Health.  \"Yes??\"  And its trigger has twice the effect.  \"WHAT???\"  And it costs\u2026  Five times more.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38c1d0acdcbcf77f3dfa4dd30cffe80939f5d530f5aa1406740cd970cb0c0ad0.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81457dab11ccb4193e71d5f13a550a549e58cd3e26e35529b818613e8477a5c8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_652",
+      "dbfId": 40906,
+      "name": "Second-Rate Bruiser",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\nCosts (2) less if your\nopponent has at least\nthree minions.",
+      "flavor": "He'll be a first-rate bruiser once he gets used to his contacts.",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad2d89b6613a14869bae248642398c429c47c6f8adc28927e734b56b7c081465.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df6d1b73928cb2e28bae456a0cee9a8bc746f1ad05b4dce39a8a56f879f30271.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_688",
+      "dbfId": 40700,
+      "name": "Spiked Hogrider",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If an enemy minion has <b>Taunt</b>, gain_<b>Charge</b>.",
+      "flavor": "Did you know the Hogchoppers compete every year at the Mirage Raceway?  They do.  It's a real group.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69adb718204ba82f73eefb7278408bebcd5843642b28c5fde54232064c209d6d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2427ea08dad1cf9fe7c878033a9ba77cf484ce5492c42553d99992dd062c5242.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Charge"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_656",
+      "dbfId": 40928,
+      "name": "Streetwise Investigator",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Enemy minions lose <b>Stealth</b>.",
+      "flavor": "\"Hmmmm\u2026  Call it a hunch, but I'm starting to think that there may be some kind of criminal activity going on in Gadgetzan.\"",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4db707045c8b833d981e3dbd5caacbd57c279baa563d13a63b8ee026997c4204.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df3d8a503d1939046d11848ca2ec6878e6e0e485906e36426a8e9696a69a06f3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_816",
+      "dbfId": 40641,
+      "name": "Virmen Sensei",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Give a friendly Beast +2/+2.",
+      "flavor": "There is no carrot.",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/360f5aecd9a98ac6bb63dd93c0ff1823574ac4069961985732fc85387435d7d7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f74f6fb1b07847c92453ae5557c34718fe40829a01d049087c8fe5a1889fe4eb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_324",
+      "dbfId": 40486,
+      "name": "White Eyes",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Taunt</b>\n<b>Deathrattle:</b> Shuffle\n'The Storm Guardian' into your deck.",
+      "flavor": "My life for Aya!",
+      "artist": "Cole Eastburn",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09adf9a7593fff8052898cdee050a55d9693b29bbeec0d03e9d26a52c0803a30.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f7c6801b45bd834d5011eac3f0b864c655172bfddf27e0357e480bc544fe1cc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_854",
+      "dbfId": 40744,
+      "name": "Ancient of Blossoms",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 3,
+      "health": 8,
+      "text": "<b>Taunt</b>",
+      "flavor": "His new shampoo is really working!",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9811cd062e4c92cb9bda17fbab03537baa461b0bb970161e228cb2f734d1723e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_902",
+      "dbfId": 40596,
+      "name": "Aya Blackpaw",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 5,
+      "health": 3,
+      "text": "<b>Battlecry and Deathrattle:</b> Summon a{1} {0} <b>Jade Golem</b>. @ <b>Battlecry and Deathrattle:</b> Summon a <b>Jade Golem</b>.",
+      "flavor": "Though young, Aya took over as the leader of Jade Lotus through her charisma and strategic acumen when her predecessor was accidentally crushed by a jade golem.",
+      "artist": "Glenn Rane",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Jade Lotus",
+      "classes": [
+        "Druid",
+        "Rogue",
+        "Shaman"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7baf85b5121d5ce8fdb09c3c0147f0a760fb11398c056e12de71e4f9a5c61cfa.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa6c8ceb2b865f09fb25df96865ee93b1f1c2406ec02be256d1c8e16cad14edd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Jade Golem"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_648",
+      "dbfId": 40494,
+      "name": "Big-Time Racketeer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Summon a 6/6_Ogre.",
+      "flavor": "\"It'd be a shame if someone disenchanted those Legendaries.\"",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f639b0eea0561fe873562ae53d56d7d1a76874e09a1829a78c3d591e3232d5b4.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a7d4213235338ad6273ac84395cde3554741bb26b3030167951e74c453c17c2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_855",
+      "dbfId": 40745,
+      "name": "Defias Cleaner",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 7,
+      "text": "<b>Battlecry:</b> <b>Silence</b> a minion with <b>Deathrattle</b>.",
+      "flavor": "His house cleaning service is quite thorough.  Not a spot to be found... or any of your stuff!",
+      "artist": "Gonzalo Ordonez",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a1c5fc1282002c52e55a7889ea6ca66b443f489fa6b74573379c967fa0e671f.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/507e15eb54c2d01404bfa0cddd17a1a0895cfeed27bc6e528c078e8e1b178960.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_662",
+      "dbfId": 40938,
+      "name": "Dragonfire Potion",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "[x]Deal $5 damage to all\nminions except Dragons.",
+      "flavor": "No one was brave enough to fire the dragon in person\u2026 so they made the potion do it.",
+      "artist": "Charlene Le Scanff",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b237a78c4e42c9921b8e883e64b6f292291218ca1c9e7a3a77164c18e5635bca.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f500188eb8b432bf8dda85a6572bc5f274bfcb0a71f860775e246f1b7a64017f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_094",
+      "dbfId": 40517,
+      "name": "Felfire Potion",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Deal $5 damage to all characters.",
+      "flavor": "Kazakus has a squad of imps bottling Felfire round-the-clock and he *still* can't keep up with demand.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa50662b12070e4eda1b18797d6b354885165ada9b34b99ed72b88d54117fd69.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53063b19acc9f0b5f9b53f08e81d21900ce4a303526a8ea8b55559aa29f5b989.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_328",
+      "dbfId": 40617,
+      "name": "Fight Promoter",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> If you control\na minion with 6 or more\n_Health, draw two cards.",
+      "flavor": "\"Yeah, I can get you Knuckles.  No, no, he's been clean for *weeks*.\"",
+      "artist": "Eric Braddock",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58f0fc03767e575de17f4260c51659192ba53ad95f321e0ba180808f9459cca7.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5721039d7c30faacff95f55fcd9f3558d81d620ff7d4ce9348257813d8a895d9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_343",
+      "dbfId": 40797,
+      "name": "Jade Behemoth",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Summon a{1}\n{0} <b>Jade Golem</b>.@[x]<b>Taunt</b>\n<b>Battlecry:</b> Summon a\n<b>Jade Golem</b>.",
+      "flavor": "I think we should talk about the jade elephant in the room.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8f14768b568fe0e2e56609df74d4a6b327eb40f31394a6022078be4bd727d27.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97a659cd9d4433afedf53eebdcdc68657d7c36282acbaec9f793f563f2b3a3b7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Jade Golem"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_760",
+      "dbfId": 40583,
+      "name": "Kabal Crystal Runner",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "Costs (2) less for each <b>Secret</b> you've played this_game.",
+      "flavor": "\"Listen, I can cut you in on a little of this premium mana, but you can't tell my boss.\"",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6d07a01973f2e8291ccad16cf7796a1bac53ce312bc96dbc9d88e8d33af5ea5.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2f9ec164b3c5de97a735253714527bcc74961544266bb01ba1696a21d0b6170.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_663",
+      "dbfId": 40940,
+      "name": "Kabal Trafficker",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]At the end of your turn,\nadd a random Demon\nto your hand.",
+      "flavor": "She ships illicit mana crystals around the world in packages marked: FUNNEL CAKE.",
+      "artist": "Jon Neimeister",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ee7e2859a70842e23ec8fdabfcd5252a96fa8faf54fd6d43d06332343a08fd9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ab1d6204db6bcb090566ea7fca78211f3f29da910a1f17e4d8486ed98d613c8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_810",
+      "dbfId": 40613,
+      "name": "Leatherclad Hogleader",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If your opponent has 6 or more cards in hand, gain <b>Charge</b>.",
+      "flavor": "The Hogchoppers, the terrors of Tanaris, can always be found at one tavern or another in Gadgetzan, refueling for totally real and legit adventures that they go on.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b02f3a7fb7837058c27243402a7f91d09d5c297502b1be055c4af6fa76bee19.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ebd3dd0044d3b0cf8cdd8e2bbfd31b215d791d689e9e18dc1d8fe7f1f2b4b2da.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Charge"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_342",
+      "dbfId": 40791,
+      "name": "Luckydo Buccaneer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If your weapon has at least 3 Attack, gain +4/+4.",
+      "flavor": "You can't just leave a Luckydo somewhere.  You gotta keep 'em with you!  Especially in Gadgetzan!",
+      "artist": "Mark Gibbons",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a668200133c4dffa1c165551f64937fb79b5dcee8bb96f21713903f84b5c6961.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9a5f7f46ce60ea533c441cafb5e948fd94e1c845221d11978f147b39ec869f0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_672",
+      "dbfId": 41841,
+      "name": "Madam Goya",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Choose a friendly minion. Swap it with a minion in your deck.",
+      "flavor": "She has set up her Black Market here in Gadgetzan for one purpose, to make a KILLING when Beanie Babies make their inevitable comeback.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68531eb39a8b60e00bddc8fc251d0665e6f2f26d442e78edf552f173651cdcfa.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7ccbb217c423b766bf4dcb36528fe70453674f91062bd0f69d75d0f5ae2b2c0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_025",
+      "dbfId": 40337,
+      "name": "Wind-up Burglebot",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "Whenever this attacks a minion and survives, draw_a card.",
+      "flavor": "Don't blame the bot for his crimes...  Blame whoever keeps winding him up!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1404af8ca50cb34f86ca5ec66cc1e37e3d19ea9b6befa1d02a6ac797fd5dd0ca.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcd9f07d94db596c6fddb18503412fb250fd964c7bd37e294b6d634563791fa7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_806",
+      "dbfId": 40603,
+      "name": "Wrathion",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Taunt</b>. <b>Battlecry:</b> Draw cards until you draw one that isn't a Dragon.",
+      "flavor": "Wrathion, son of Deathwing, is a dragon.  Why isn't he tagged as a dragon, you ask?  WHAT, ARE YOU TRYING TO BLOW HIS COVER??",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a4680c4769101f0d0a264950746f7de1fe9ad094319e08e8d2af452de3e2926.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1f98474917fe1b757a5467c64677d034de6a4f72b1e282bb544dca21b76b096.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_751",
+      "dbfId": 40541,
+      "name": "Abyssal Enforcer",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Deal 3 damage to all other characters.",
+      "flavor": "The Kabal print this on every package of illicit Mana Crystals: WARNING - DO NOT PUT WITHIN REACH OF ABYSSALS. THIS IS NOT APPROVED FOR USE BY FLAMING DEMONS OF ANY KIND.",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb4c1768d88417e2b52b1a437c0cb69f4f9c25ab6ad4f26720812bfdb9c53e2e.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b95fdd72dc8effb40282e903ffbeecb37704005a3dd3d2434b2b8284f389872d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_685",
+      "dbfId": 40703,
+      "name": "Don Han'Cho",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Give a random minion in your hand +5/+5.",
+      "flavor": "The brilliant mastermind of the Grimy Goons, Han sometimes thinks about ditching the idiot Cho, but that would just tear him apart.",
+      "artist": "Tyson Murphy",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "multiClassGroup": "Grimy Goons",
+      "classes": [
+        "Hunter",
+        "Paladin",
+        "Warrior"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8636f08a2da67041dc2a21f3d26f11a53207252200c8d2977e9693926ccbea9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d54667667dff02059d85375317135c029f356adc48e395a6a830464ebde788da.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_623",
+      "dbfId": 40411,
+      "name": "Greater Arcane Missiles",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 7,
+      "text": "Shoot three missiles at random enemies that deal $3 damage each.",
+      "flavor": "Wow, and I thought Arcane Missiles was great!",
+      "artist": "Evgeniy Zaqumyennyy",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85571ea57b431f9011af2d36dd99ba418d39385c02c6b8d7e187e016af5869ee.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcc7d998d188d8d5223785537cf1aeaa9c39be81f533ad1522ec293e6e78f50c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_062",
+      "dbfId": 40295,
+      "name": "Grimestreet Protector",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Give adjacent\n_minions <b>Divine Shield</b>.",
+      "flavor": "Some new asphalt should do the trick.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce8c84337a8cb6355fa43b21f69512285150507f6375ad2ac2f3a74d1afeeb7c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8b3f513c75329c9ae2a60845c2a2f4c6290d137cae78769567b6a311e379628.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_687",
+      "dbfId": 40701,
+      "name": "Inkmaster Solia",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> If your deck has\nno duplicates, the next\nspell you cast this turn\ncosts (0).",
+      "flavor": "Solia marks the Kabal with intricate tattoos that grant immense power. Also it makes it harder for other gangs to recruit from their numbers. BACK OFF, GOONS.",
+      "artist": "J. Ejsing & E. Amundsen",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc66d07191d088e312e9b260fa19afee7123a7d972426600849c62659c5f9c31.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26e923ddf965374beb2ac7b5ec885e7601dd8ab8a92a7aba0e6ab0e28f93929e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_312",
+      "dbfId": 40422,
+      "name": "Jade Chieftain",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Summon a{1} {0} <b>Jade Golem</b>. Give it <b>Taunt</b>. @<b>Battlecry:</b> Summon a <b>Jade Golem</b>. Give it <b>Taunt</b>.",
+      "flavor": "Seeing his Jade Golem grow up into the tall, handsome 6/6 standing before him was the proudest moment of his life.",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/936c9eb037c78be0cac4bdf2d727620084365db8efc27e340cf467d757454148.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b56326b796c342b7ac490ed1cc5995def52a06e57cc3058e8bc0cc7ddeb60171.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Jade Golem"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_750",
+      "dbfId": 40537,
+      "name": "Krul the Unshackled",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 7,
+      "health": 9,
+      "text": "[x]<b>Battlecry:</b> If your deck has\nno duplicates, summon all\n_Demons from your hand._",
+      "flavor": "Spicklefizz pondered his life choices as he looked at the chain around his neck. \"Become a warlock,\" they said. \"You get to enslave demons,\" they said.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0bea1396ddf59d6b10f8e05c3b70644b65060140316ca86849e23868da5989d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a706d4016cd74bd96ad9a3b28c6e5b0216288f23df0dcf3601305d13ed691cfb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "CFM_670",
+      "dbfId": 40955,
+      "name": "Mayor Noggenfogger",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 5,
+      "health": 4,
+      "text": "All targets are chosen randomly.",
+      "flavor": "This flavor text was randomly generated.  If it happens to form words and make sense, that is purely by chance.",
+      "artist": "Tooth",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b609710b03542f55a4e98cdfcacbf48758105f5abda14dff55b3a83fe42207a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "CFM_308",
+      "dbfId": 40416,
+      "name": "Kun the Forgotten King",
+      "cardSet": "Mean Streets of Gadgetzan",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Choose One -</b> Gain 10 Armor; or Refresh your Mana Crystals.",
+      "flavor": "Aya siphons a bit of Kun's soul to animate each golem in her Jade army. To his credit, he's being a great sport about it.",
+      "artist": "Jon Neimeister",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a0f7c584fe2fa493346f5dc1ded1d2e8f7a25301e5da04d83a93e42d9dfa1e9.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef2a6ec6d9128c9a4670b92ebf7ec97445b1c464515eb83fd8c6623583dabcb4.png",
+      "locale": "enUS"
+    }
+  ]
+}

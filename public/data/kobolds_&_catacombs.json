@@ -1,0 +1,3016 @@
+{
+  "Kobolds & Catacombs": [
+    {
+      "cardId": "LOOT_104",
+      "dbfId": 43420,
+      "name": "Shifting Scroll",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Each turn this is in your hand, transform it into a random Mage spell.",
+      "flavor": "Next turn, this is going to be AMAZING.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/936501f8b061fce6bb208332223610d7cf849a03444eaa1541c4ed9ae6376eea.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_231",
+      "dbfId": 45590,
+      "name": "Arcane Artificer",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "Whenever you cast a spell, gain Armor equal to its_Cost.",
+      "flavor": "Ethereal armor dissipates in 6 hours which can cause extreme awkwardness for first time buyers.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/039aa5ea63418d406caefaeb4801480cd1888d646f86473ac1c2db9a4a10146a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_047",
+      "dbfId": 43282,
+      "name": "Barkskin",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Give a minion +3 Health. Gain 3 Armor.",
+      "flavor": "Make like a tree\u2026 and gain armor.",
+      "artist": "Lucas Graciano",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ffeeddb75290c5248884f08991e41cf0242199d2e94f77c04d619203570f53a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_222",
+      "dbfId": 45537,
+      "name": "Candleshot",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "durability": 3,
+      "text": "Your hero is <b>Immune</b> while attacking.",
+      "flavor": "Once called Cahn\u2019delar, Shortbow of the Ancient Whisker.",
+      "artist": "Anton Kagounkin",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b506bb46e475b9518feb153992603fd86096ca3d37697c9ac8880ed32129c514.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_017",
+      "dbfId": 43128,
+      "name": "Dark Pact",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "faction": "Alliance",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Destroy a friendly minion. Restore #8 Health to your hero.",
+      "flavor": "\"Don't worry about the fine print. Just sign here.\"",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ba0fb61b87c63f19645c066d149bc6e98bd22ae16a38f692900955786e6e421.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_258",
+      "dbfId": 45707,
+      "name": "Dire Mole",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "flavor": "You especially don't want to make a dire mountain out of a dire mole hill.",
+      "artist": "Daren Bader",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa827e41f41a5779e276f620aa0c1912e998fb37786509e684537186a3fb1d6e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_218",
+      "dbfId": 45547,
+      "name": "Feral Gibberer",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "After this minion attacks a hero, add a copy of it to_your hand.",
+      "flavor": "It's certainly not civilized gibbering.",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b57838addda17e558b3194bf7d69e4de454f086d157113f4d224d6a0d7a0f90a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_154",
+      "dbfId": 43528,
+      "name": "Gravelsnout Knight",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 1,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Summon a random 1-Cost minion for_your opponent.",
+      "flavor": "The mole of La Mancha rides again!",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4619da5e5a909261b0c9fa0ddcd7d0ec87235a5f19a9fa042996ffbbf475bc1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_542",
+      "dbfId": 47035,
+      "name": "Kingsbane",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "durability": 3,
+      "text": "[x]Always keeps\nenchantments.\n<b>Deathrattle:</b> Shuffle this\ninto your deck.",
+      "flavor": "But it has a soft spot for emperors.",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d8a3da671d904b948e666284bccb27d8a563fcaafa5fb7a65e580001d81c521.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0db354b357daa2553c2227385758f2d3315b8ac9dabaac372ac3623f81566904.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_014",
+      "dbfId": 43122,
+      "name": "Kobold Librarian",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Draw a card. Deal 2 damage to your_hero.",
+      "flavor": "Kobolds sort books using a gooey decimal system.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71fe919735a97f58e6d52e58c1f390883dd234be78628603342b174f61c5b306.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_051",
+      "dbfId": 43288,
+      "name": "Lesser Jasper Spellstone",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "armor": "1",
+      "text": "Deal $2 damage to a minion. @<i>(Gain 3 Armor to upgrade.)</i>",
+      "flavor": "In ancient woods, elves fought the curse\nThe demon\u2019s shadow to disperse\nBut hatred raged and frail souls turned\nNow horned and hooved their forests burned.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58ecd41a89cbe6ca751f2574c62aa845ee1b8ca12f5518e093b6fcb7b3d7d615.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_353",
+      "dbfId": 45979,
+      "name": "Psionic Probe",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Copy a spell in your opponent's deck and add it to your hand.",
+      "flavor": "She prefers calling it \"Psionic Tickling.\"",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3b5b14297cab087cc340913c319d8e235bbabeca7900feef25ec55051bde6cb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_504",
+      "dbfId": 46303,
+      "name": "Unstable Evolution",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "<b>Echo</b>\nTransform a friendly minion into one that costs (1) more.",
+      "flavor": "They grow up so fast.",
+      "artist": "Tooth",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/609e3f795e1bb3ebb887ea3efed0aebd17bb92af4d83c6ae7a5509c42b8e4e31.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Echo"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_117",
+      "dbfId": 43463,
+      "name": "Wax Elemental",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 0,
+      "health": 2,
+      "text": "<b>Taunt</b>\n<b>Divine Shield</b>",
+      "flavor": "Takes double damage from wick-based weapons.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4cf760c6121cb6bd9ee9f34452a4e410603641cd044202f1e7c6a95198846339.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_044",
+      "dbfId": 43277,
+      "name": "Bladed Gauntlet",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 2,
+      "durability": 2,
+      "text": "Has Attack equal to your Armor. Can't attack heroes.",
+      "flavor": "CAUTION: DO NOT SCRATCH NOSE.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fca7a308164ac6a74332c7310d211747064522ab607406ee788443c7d85a7e6a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_033",
+      "dbfId": 43237,
+      "name": "Cavern Shinyfinder",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Draw a weapon from your deck.",
+      "flavor": "They call her the candled vandal.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/420101eb9a138cb43ae1f7b7ede037ea458dff66ad2793fe5d4827b38ee0a5d0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_204",
+      "dbfId": 45520,
+      "name": "Cheat Death",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Secret:</b> When a friendly minion dies, return it to your hand.\nIt costs (2) less.",
+      "flavor": "Reported.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2dc1cbd2fdcd3f7b6d477182424d357f087c95b6df5a68d6e4682790623ddc56.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_060",
+      "dbfId": 43322,
+      "name": "Crushing Hand",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $8 damage to a minion. <b><b>Overload</b>:</b> (3)",
+      "flavor": "Shamans always have the firmest handshakes.",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/daed2878319c4e851ba6135ef84e78b1dc99a188996c37d109d4c281b32397dd.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_363",
+      "dbfId": 46007,
+      "name": "Drygulch Jailor",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Add 3 Silver_Hand Recruits to_your_hand.",
+      "flavor": "Hard time: 6-10 turns for candle-nappin'.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2f3cd8f3410ff9f0766c66583dd190c8048f68dd3477cf2b15fe23f308b81ed.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_367",
+      "dbfId": 46031,
+      "name": "Drywhisker Armorer",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> For each enemy minion, gain 2 Armor.",
+      "flavor": "Kobolds use anything for armor: Pots, pans, garbage cans\u2026 even other kobolds.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed0916ab549acf99d7b33eac4919b4930dc47bf02529eac85979a44a5112ed79.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_214",
+      "dbfId": 45535,
+      "name": "Evasion",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "<b>Secret:</b> After your hero takes damage, become <b>Immune</b> this turn.",
+      "flavor": "Works on weapons, missiles, and taxes.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec2841a0568e5396441259f02d185817154f33bd385aefe40e900515db639c0f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_062",
+      "dbfId": 43329,
+      "name": "Kobold Hermit",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Choose a basic Totem. Summon it.",
+      "flavor": "To truly understand candles, it takes YEARS of quiet contemplation.",
+      "artist": "Dany Orizio",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d5c1cbd4f6bf3fc741f1872b3e1426a1d722c2ecc2651f1833af11fa1e9c926.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_091",
+      "dbfId": 43382,
+      "name": "Lesser Pearl Spellstone",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "health": 1,
+      "text": "Summon a 2/2 Spirit with <b>Taunt</b>. @<i>(Restore 3 Health to upgrade.)</i>",
+      "flavor": "In ages old, when Ancients broke\nAzari of the Legion spoke\nTo tempt the mortals: gems of power\n The weak succumbed, their souls devoured.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57d659ebd16f962fa56e938b00b968a12b9e7bbb464aa53f00a7263bc8fab509.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_103",
+      "dbfId": 43414,
+      "name": "Lesser Ruby Spellstone",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Add 1 random Mage spell to your hand. @<i>(Play 2 Elementals to_upgrade.)</i>",
+      "flavor": "The final stone undid its master\nSpun into wards by nameless caster\nAzari wailed a savage roar\nNow sealed in nether, evermore.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a605fd041dcad6de8fa95e6375e1c862164da18fe8dcb594dd15715f5587f3c4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_517",
+      "dbfId": 46432,
+      "name": "Murmuring Elemental",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Your next <b>Battlecry</b> this turn triggers_twice.",
+      "flavor": "D\u00e9j\u00e0 Dude.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/638087aa32af72921cd3d12ca5a03d15db262d675a088c9b5944bccd122daf58.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_413",
+      "dbfId": 45930,
+      "name": "Plated Beetle",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Gain 3 Armor.",
+      "flavor": "\"Ok, your party has defeated the beetle.\" \"I put it on my head.\" \"What?\" \"I put it on my head. Like a hat.\"",
+      "artist": "Ian Ameling",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8df509b91945805aac8d418abf894b00c901880d4855c9379451d6abc6765fc5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_088",
+      "dbfId": 43373,
+      "name": "Potion of Heroism",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Give a minion <b>Divine_Shield</b>.\nDraw a card.",
+      "flavor": "Also known as \"Liquid Courage.\"",
+      "artist": "Luke Mancini",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c7e7b0a510a3a5b9a8576b870b8c6eb9337bed7a6ef5e0a88894490b8131937.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_170",
+      "dbfId": 45269,
+      "name": "Raven Familiar",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Reveal a spell in each deck. If yours costs more, draw it.",
+      "flavor": "Quoth the raven, 'Does yours cost more?'",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ad4ce181b9ee278d691ba7123d6d3fc629f376da25777b3f4e9819da42b9a71.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_111",
+      "dbfId": 43453,
+      "name": "Scorp-o-matic",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Destroy a minion with 1 or less Attack.",
+      "flavor": "Back in my day, we had to manually scorp.",
+      "artist": "Phil Saunders",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63a10014eb00a58403c3f61d38df5fdf3e2007d1c5f06e498c31746cdba71e77.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_210",
+      "dbfId": 45529,
+      "name": "Sudden Betrayal",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "<b>Secret:</b> When a minion attacks your hero, instead it attacks one of_its neighbors.",
+      "flavor": "You thought he was your bro-bold, but turns out he's your foe-bold.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3e0ec8e42c288876e7acd23abf5f4a56a99e98ed5525348218255a2a1cb974d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_013",
+      "dbfId": 43121,
+      "name": "Vulgar Homunculus",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Deal 2 damage to your hero.",
+      "flavor": "Fortunately he has an even number of fingers.",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f671a8d394202f5a6467cbef4c34a420445f907043fe0892d51ad6ca032d111c.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90342a9fc0b9b583a64c8515bf3d658cd4d93c2e306e53508cf5aea49d95fc2f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_079",
+      "dbfId": 43359,
+      "name": "Wandering Monster",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Secret:</b> When an enemy attacks your hero, summon a 3-Cost minion as the new target.",
+      "flavor": "Not all who wander are lost. This one is lost though, for sure.",
+      "artist": "Trent Kaniuga & James Martin",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97cd24e241aca87bf0526a9c14afe1740600414619509980d68636dfda6a8876.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_398",
+      "dbfId": 46258,
+      "name": "Benevolent Djinn",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "At the end of your turn, restore #3 Health to your_hero.",
+      "flavor": "Wish #1: funnel cakes. Wish #2: funnel cakes. Wish #3: FUNNEL CAKES.",
+      "artist": "Ware Lee",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85d7413a17d0765d795bebaac80b2ade1716e31ed24b7c65eed2b41c82e3acdb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_152",
+      "dbfId": 43523,
+      "name": "Boisterous Bard",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "faction": "Alliance",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give your other minions +1 Health.",
+      "flavor": "As a kid, she fought with rocks.  Now she fights with ROCK!",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae20f0dd37b5489929ea4ef29b5af1eb4e3a4047daeaf9fd23d7910c62862f7a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_078",
+      "dbfId": 43358,
+      "name": "Cave Hydra",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "Also damages the minions next to whomever\nthis attacks.",
+      "flavor": "Can be upgraded into a Cave Lurker.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00ecc5018d41f6a498e9a2070734a4e967242d8c1b5d71b9b25edc76fabddea8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aacae2c82eacc578bfb88ae0a12b7b222fde4338b83331818d36657216b70f1e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_209",
+      "dbfId": 45528,
+      "name": "Dragon Soul",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 3,
+      "durability": 3,
+      "text": "After you cast 3 spells in a turn, summon a 5/5 Dragon.",
+      "flavor": "Crafted by Deathwing's goblin horde, but the dragon added the rainbow sparkles himself.",
+      "artist": "Tyler Walpole",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b86a583c06d83daba590b9e46637b5efb69599f6cb8d192f807b4e343f59f52.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa11d1cb1015600003a682ba917ea939ee1a058310f27e29a523cccd2fb2eff9.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_132",
+      "dbfId": 43486,
+      "name": "Dragonslayer",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Deal 6 damage to a Dragon.",
+      "flavor": "A pair of stout dwarves nearly averted the Cataclysm.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/873527afef8a2a7f5080e195d98523df90b5b5638e753d39704eb7a226493121.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_101",
+      "dbfId": 43407,
+      "name": "Explosive Runes",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "<b>Secret:</b> After your opponent plays a minion, deal $6 damage to it and any excess to their hero.",
+      "flavor": "Sometimes it's safer NOT to read the warning signs.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1cdde92a0b045e31a982ff906b95bb7f04ce2d89cca75cb4cdc4fef20924137b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        },
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_388",
+      "dbfId": 46087,
+      "name": "Fungal Enchanter",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Restore #2 Health to all friendly characters.",
+      "flavor": "Qualifications: Born with pointy hat.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4087f232a2b4b0f418f5d84493b127273428150ddc42ceffad74ad4be9053a01.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_534",
+      "dbfId": 46495,
+      "name": "Gilded Gargoyle",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Add a Coin to your hand.",
+      "flavor": "You hear a coin rattling inside the slotted gargoyle...What could it mean?",
+      "artist": "E. M. Gist",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca08d0a68092d98125af789ed4a9ddd3f58905e0662416c0a7e22c1a51b6a040.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_351",
+      "dbfId": 45945,
+      "name": "Greedy Sprite",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Gain an empty Mana Crystal.",
+      "flavor": "Sparkliest of the seven deadly sprites.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32490e6f967da4c338b7ae85300788f8cb246c8ac4bffc6f63fb7a8699dcfa50.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_373",
+      "dbfId": 46067,
+      "name": "Healing Rain",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Restore #12 Health randomly split among all friendly characters.",
+      "flavor": "It's filled with electrolytes!",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77b6a1d4d7a9600579b6ae58fbd01544593789cb630bb1f77fb8db28ad0f30c2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_347",
+      "dbfId": 45929,
+      "name": "Kobold Apprentice",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Deal 3 damage randomly split among all_enemies.",
+      "flavor": "Horrible secret: The Darkness is immune to Arcane Missiles.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7f1f92d39c7cbaa91a7d0b46ac5914cee25a9ac356e7afd2638748aa3344ca9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_041",
+      "dbfId": 43269,
+      "name": "Kobold Barbarian",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 4,
+      "text": "At the start of your turn, attack a random enemy.",
+      "flavor": "What is best in life? To make candle. To keep candle. To hear lamentations of candle-takers.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f97a12692f5972183d3c12913e357af8a66576346052f641000759b27aa5e3c5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_124",
+      "dbfId": 43473,
+      "name": "Lone Champion",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you control no other minions, gain <b>Taunt</b> and <b>Divine Shield</b>.",
+      "flavor": "He is a champion, with no friends. He'll keep on fighting, til the end!",
+      "artist": "Jomaro Kindred",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d8984d98df1cd0b0510fc2070e4008a884337dfc7f8cd3f69f0fdd52eaf71fe.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_344",
+      "dbfId": 45905,
+      "name": "Primal Talismans",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Give your minions \"<b>Deathrattle:</b> Summon a random basic Totem.\"",
+      "flavor": "All that remained from the first kobold colony: a single talisman and the word \"Flamestrike.\"",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/553ec87c23a88688cf8f3f82bc01788190987ba43e9095bf7097ffcedea21e6c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_364",
+      "dbfId": 46026,
+      "name": "Reckless Flurry",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 3,
+      "text": "Spend all your Armor. Deal that much damage to all minions.",
+      "flavor": "Look. Cautious Flurries will only get you so far in life.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9092f94b97b4ec2b41bfc494da50fe52879ca531f595f9e8efdbeea1e07f7ea.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_389",
+      "dbfId": 46088,
+      "name": "Rummaging Kobold",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Return one of your destroyed weapons to your hand.",
+      "flavor": "\"Broken longsword is brand new shortsword.\" - Kobold Proverb",
+      "artist": "Trent Kaniuga & James Martin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/727b17befb72e3a99bc225dc4447c4a1d7fc2466881a9dfbe0e7f6b7eae6bd32.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_069",
+      "dbfId": 43345,
+      "name": "Sewer Crawler",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Summon a 2/3_Giant Rat.",
+      "flavor": "His clothing is \"ratty\" in more ways than one.",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e43a0d9fd128a3eb03bb7c47b8c168f852e38502dadb9f980215375f594b3aa7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_394",
+      "dbfId": 46118,
+      "name": "Shrieking Shroom",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 1,
+      "health": 2,
+      "text": "At the end of your turn, summon a random\n1-Cost minion.",
+      "flavor": "Auditioning for the next Fungal Idol. ",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0204013c9d1b79ca2f67da45e10576e59812fa0536cb57ff82153e32846d01de.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_165",
+      "dbfId": 45263,
+      "name": "Sonya Shadowdancer",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "After a friendly minion dies, add a 1/1 copy of it to your hand. It costs (1).",
+      "flavor": "Love like you've never been hurt. Dance like a 1/1 is watching.",
+      "artist": "J. Axer",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/555c4965ef43c4a602a55464974ed4b93ca2631f6edacd3d281e0e93407f8d38.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_125",
+      "dbfId": 43474,
+      "name": "Stoneskin Basilisk",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Divine Shield</b>\n <b>Poisonous</b>",
+      "flavor": "He got that way from looking into a mirror.",
+      "artist": "Julian Del Rey",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8952f2ca2ac5987e367911d428b75a26b1affad2ec317217015fea726c1ee9be.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_134",
+      "dbfId": 43489,
+      "name": "Toothy Chest",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 0,
+      "health": 4,
+      "text": "At the start of your turn, set this minion's Attack to 4.",
+      "flavor": "Do you want to eat an adventurer?  I want to eat an adventurer!",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/127dcf894c6ac52c2409846a18a06fa5c9ef7aec1191d1db35eb9ec789fd38d9.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_528",
+      "dbfId": 46460,
+      "name": "Twilight Acolyte",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you're holding\na Dragon, swap this minion's Attack with another minion's. ",
+      "flavor": "The dragons mostly keep him around as a snack.",
+      "artist": "Tooth",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5ce353d7d696be354d157ca73c5fb4a63f67ae1d16aeb5c348cc3faa74600fc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_187",
+      "dbfId": 45353,
+      "name": "Twilight's Call",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Summon 1/1 copies of 2 friendly <b>Deathrattle</b> minions\nthat died this game.",
+      "flavor": "If you\u2019re experiencing resurrection sickness, press 1.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1744cdb0d509968d579892fc4cbf0149fc5d85f6c619c5cfa902ce8ea182225f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_278",
+      "dbfId": 45759,
+      "name": "Unidentified Elixir",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Give a minion +2/+2. Gains a bonus effect in_your hand.",
+      "flavor": "\"Here, taste this.\" (Slurp) \"What is it?\" \"I don't know, I found it in one of the labs.\"",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/129270030128661a21df9b70ad5283a096eab46b30dfc93ab50846dad06b2bef.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_286",
+      "dbfId": 45782,
+      "name": "Unidentified Maul",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "durability": 2,
+      "text": "Gains a bonus effect in_your hand.",
+      "flavor": "When all you have is an unidentified maul, everything else looks like an unidentified nail.",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b36b327105f1619854cc782080f2a43379dc0c3f408d46034882d4101db255e8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_529",
+      "dbfId": 46461,
+      "name": "Void Ripper",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Swap the\nAttack and Health of all_other_minions.",
+      "flavor": "You had to put the portable hole inside the bag of holding, didn't you?!",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c82839932f7365eb28d69fd305838a8daf024ecf64df6d4cfa8c039816abfccf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_516",
+      "dbfId": 46403,
+      "name": "Zola the Gorgon",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Choose a friendly minion. Add a Golden copy of it to your hand.",
+      "flavor": "Her name seems a bit cheesy.",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "elite": true,
+      "race": "Naga",
+      "playerClass": "Neutral",
+      "howToGetDiamond": "Obtained by owning 23 Kobolds and Catacombs Legendary cards.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38fd4fcef9ea83f747ea8f5341b0b469a894ef14870e49916dd06f7ee440193f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_056",
+      "dbfId": 43304,
+      "name": "Astral Tiger",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Deathrattle:</b> Shuffle a\n copy of this minion into_your_deck.",
+      "flavor": "Astral kitty litter is surprisingly hard to find.",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fee6f3d5530a6be13cac1b780a36902bfb8ade00909be2ad1d7fed7bbd75584e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_054",
+      "dbfId": 43294,
+      "name": "Branching Paths",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "[x]<b>Choose Twice -</b> Draw a\ncard; Give your minions \n+1 Attack; Gain 6 Armor.",
+      "flavor": "Three paths diverged in a darkened hall, and I \u2013\nI took the one less traveled by,\nAnd got eaten by a slime.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6894f2fd5fa9a0ff04e8f7b070e6447e6c1d79679673f64d31412b5cc1783e46.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_093",
+      "dbfId": 43384,
+      "name": "Call to Arms",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "[x]<b>Recruit</b> 3 minions that\n cost (2) or less.",
+      "flavor": "More personal than a text to arms.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5b33153a9f49cb070bb7fcc6e53c79351a4053df693b4eb5298a6b5dce55c6c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Recruit"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_233",
+      "dbfId": 45594,
+      "name": "Cursed Disciple",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Summon a 5/1 Revenant.",
+      "flavor": "Politer than his brother, the cursing disciple, but far more evil.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98dc6dfe1a57daeb381d3e950458c46392c4938e21f0d10e6496f81060c9bb6c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_410",
+      "dbfId": 45899,
+      "name": "Duskbreaker",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> If you're holding\na Dragon, deal 3 damage to all other minions.",
+      "flavor": "Waking up at the break of dusk is just not as impressive.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce8ce17fe8af03530fb1c2a108c6bc7d546be4737d9cb9aabbdefdeb54587a5c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_118",
+      "dbfId": 43465,
+      "name": "Ebon Dragonsmith",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Reduce the Cost of a random weapon in your hand by (2).",
+      "flavor": "Having a furnace-mouth is really handy for a blacksmith.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30290c27dd7e86fb2e9b819dd9fcc880ff8ddaeb4fea0ff9c3158b6ee5b801f8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_211",
+      "dbfId": 45531,
+      "name": "Elven Minstrel",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Combo:</b> Draw 2 minions from your deck.",
+      "flavor": "\"After that gig in Hamlin went south, I swore off rats.\"",
+      "artist": "Wayne Wu ",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9bbd911628acb8df85df6729f848ffbd33822bcb323f8de1be73ed28f064a449.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_026",
+      "dbfId": 43228,
+      "name": "Fal'dorei Strider",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Shuffle 3\nAmbushes into your deck.\nWhen drawn, summon\na 4/4 Spider.",
+      "flavor": "What\u2019s worse? Seeing the spider, or NOT seeing the spider, but knowing it\u2019s somewhere in your deck?",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdb31a5a8fe20544c1e2fa0cc8b5619f72b6929988f74220deddc755408be62f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_077",
+      "dbfId": 43357,
+      "name": "Flanking Strike",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Deal $3 damage to a minion. Summon a 3/3 Wolf.",
+      "flavor": "Wolves to the left and arrows to the right, here I am stuck in the middle with you.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ea9cc100be3f817c78e9e4dbc26d70d18506a6ca3c7002750677bdd183ca275.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_144",
+      "dbfId": 43507,
+      "name": "Hoarding Dragon",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 5,
+      "health": 6,
+      "text": "<b>Deathrattle:</b> Give your opponent two Coins.",
+      "flavor": "Keeps his two cents to himself.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b59bf9da348fe519a11fffc57531185da67cecadda88c559b98f6ea0f0848619.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_018",
+      "dbfId": 43133,
+      "name": "Hooked Reaver",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> If you have 15 or_less Health, gain +3/+3_and <b>Taunt</b>.",
+      "flavor": "The hook is just an accessory. He can reave just fine without it.",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a00e3308d343bab9eacbef437812f0ef8c8f78e51573ceb886b1c9148bf8827c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_048",
+      "dbfId": 43284,
+      "name": "Ironwood Golem",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "<b>Taunt</b>\nCan only attack if you have 3 or more Armor.",
+      "flavor": "Marketed as a \"rust-proof iron golem.\"",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa0adfd219b36cca4edfbe5aaca5aed89f0349276c7af8f61c2494bf9e37d914.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_382",
+      "dbfId": 46079,
+      "name": "Kobold Monk",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "Your hero can't be targeted by spells or Hero_Powers.",
+      "flavor": "There is no candle.",
+      "artist": "Sam Nielson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e93e0530e9b7d6af37340cd46162f279e0316b010e0f7e974354ba5a99611eb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_043",
+      "dbfId": 43272,
+      "name": "Lesser Amethyst Spellstone",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "<b>Lifesteal.</b> Deal $3 damage to a minion. <i>(Take damage from your cards to upgrade.)</i>",
+      "flavor": "A purple stone Azari carved\nFor dark hearts, craving, power-starved.\nThe first to bow, the warlock Rin,\nEmbraced the darkness, slew her kin.",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dfc24634969241146569d9072a8df11f608ed234a5d5ca9c6d73a6faceb579eb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_537",
+      "dbfId": 46541,
+      "name": "Leyline Manipulator",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If you're holding any cards that didn't start in your deck, reduce their Cost by (2).",
+      "flavor": "The shortest distance between two points is a leyline.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78cad7f7ac342f1cf8f60a64d070f5024f2a28a35e0488e9f1e527f2f7492b95.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_309",
+      "dbfId": 45828,
+      "name": "Oaken Summons",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Gain 6 Armor.\n<b>Recruit</b> a minion that costs (4) or less.",
+      "flavor": "The Guild used oak trees until they all turned to ash.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55ade0bd3b48a9665cc6b46e76e91bc58967dabfb8ec819a9ff6ae0e5a62563c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Recruit"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_193",
+      "dbfId": 46892,
+      "name": "Shimmering Courser",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "Only you can target\nthis with spells and\nHero Powers.",
+      "flavor": "A courser is a courser of course, of course, she's more of a unicorn than a horse...",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0f7b2e0ec3dac6c7481ffad543eb193c1a44814143786620cdbd036c57ff400.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_291",
+      "dbfId": 45784,
+      "name": "Shroom Brewer",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Restore #4_Health.",
+      "flavor": "Side effects guaranteed!",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/917e9b8d7dd5bfcffc4520a92623ce80d4eed4b06108aceaa8f44bc03173e3ed.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_136",
+      "dbfId": 43493,
+      "name": "Sneaky Devil",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "faction": "Alliance",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Stealth</b>\nYour other minions have +1 Attack.",
+      "flavor": "The result of a tragic accident involving a Defias Thug, a Wand of Polymorph, and a bundle of Fel Lotus.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08f4c3704086cd14974d41dac3e0a66e5021af3b221c7af45ca286d2e9108b9d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_526",
+      "dbfId": 46454,
+      "name": "The Darkness",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 20,
+      "health": 20,
+      "text": "[x]Starts <b>Dormant</b>.\n<b>Battlecry:</b> Shuffle 3 Candles\ninto the enemy deck. When\ndrawn, this awakens.",
+      "flavor": "I would rather light a single candle than curse the darkness. But I'm willing to do both.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bded34825386d836a02ac13c1028d7accfff1be498945c1ac21e6f7a28db5065.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_392",
+      "dbfId": 46107,
+      "name": "Twig of the World Tree",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 1,
+      "durability": 5,
+      "text": "<b>Deathrattle:</b> Refresh your Mana Crystals.",
+      "flavor": "For druids who want to branch out.",
+      "artist": "Alexey Aparin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61651a26432cf0e20a17054cd4a94c49fea00611f0ffe0212e7945d005b3ae4a.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f4dd59bbf5da9ac7afc037cc8cb63031f19538bf6aaf479f25ad97eb338cdeb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_130",
+      "dbfId": 43483,
+      "name": "Arcane Tyrant",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "Costs (0) if you've cast a spell that costs (5) or more this turn.",
+      "flavor": "Tyrant is such a strong word.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1c0c079ccce28ec5da87476c48c32da65e9f3cf4a508fdc9ae2a2de8e5b37ab.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_161",
+      "dbfId": 45195,
+      "name": "Carnivorous Cube",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Destroy\na friendly minion.\n<b>Deathrattle:</b> Summon 2 copies of it.",
+      "flavor": "He's always grumpy until he's eaten his first barista of the morning.",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e167c6d516d0f89e1b6d52cd0b3deaa3e239ecbfacf7ae14100ead9ae85651b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_417",
+      "dbfId": 46286,
+      "name": "Cataclysm",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Destroy all minions. Discard 2 cards.",
+      "flavor": "RUN FROM SKY CANDLES! THEY BURN! RUN!",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18cce4b3a3c723d44efc5335d01f2b4be2c4fdb2c507766e87633a53374d11f0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_122",
+      "dbfId": 43469,
+      "name": "Corrosive Sludge",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "faction": "Alliance",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Destroy your opponent's weapon.",
+      "flavor": "The result of centuries of terrible sanitation.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b223cb0eb6723f3b9c32daee0599a9e25b905210548d93260d3a39c3fbac597.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_106",
+      "dbfId": 43424,
+      "name": "Deck of Wonders",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Shuffle 5 Scrolls into your deck. When drawn, cast a random spell.",
+      "flavor": "\"Pick a card, any card. Wait! No! Not that one!\" - Last words of previous owner",
+      "artist": "Efrem Palacios",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c917d168209b2d0ea68b6a706f6cf5d7119f2037860f5734cd8aeee575a1ad9f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_172",
+      "dbfId": 45271,
+      "name": "Dragon's Fury",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Reveal a spell from your deck. Deal damage equal to its Cost to all_minions.",
+      "flavor": "\u201cC\u2019mon Hucklemuck. She\u2019ll never notice if we take just one little coin.\u201d",
+      "artist": "Andrew Hou",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78518a692ff779c9e7a7bf87711b76fcc35aa1a2ee49f4aa14c14e60946bc040.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "AffectedBySpellPower"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_167",
+      "dbfId": 45265,
+      "name": "Fungalmancer",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Give adjacent minions +2/+2.",
+      "flavor": "Fungalmancy is the easy major for those who can't cut it at Waxmancy.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e844c2638779456f21c9c512b1096ab14eec4bab5c400fb28e405527b8e06ab5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_150",
+      "dbfId": 43517,
+      "name": "Furbolg Mossbinder",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "faction": "Alliance",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Transform a friendly minion into a 6/6_Elemental.",
+      "flavor": "Behold, the unstoppable power of MOSS!",
+      "artist": "Steve Prescott",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de5150caf9e7953c9b90ee80cb6ee28e62cf1ba51c4dd6da8b9287d520a0210a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_131",
+      "dbfId": 43485,
+      "name": "Green Jelly",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "At the end of your turn, summon a 1/2 Ooze with_<b>Taunt</b>.",
+      "flavor": "This card really breaks out of the mold.",
+      "artist": "Anton Kagounkin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/856cc045c358b2b6f47ba255bca3b654afdd6529f84f33998d73c0199c161b3b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_375",
+      "dbfId": 46069,
+      "name": "Guild Recruiter",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 2,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Recruit</b> a minion that costs (4) or less.",
+      "flavor": "The original telemarketer.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3cfe99e9f196b87f3592400db9ca946102012e7262c27c2b42b4a9757e064c4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Recruit"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_329",
+      "dbfId": 45859,
+      "name": "Ixlid, Fungal Lord",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 2,
+      "health": 4,
+      "text": "After you play a minion, summon a copy of it.",
+      "flavor": "We suggest crafting Ixlid; he'll grow on you. Literally.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58ff689802522ea893fd144d83ffaeadbb97dce67bd58cfe8e6249928361b4cc.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_412",
+      "dbfId": 45936,
+      "name": "Kobold Illusionist",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "faction": "Alliance",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Summon a 1/1 copy of a minion from your hand.",
+      "flavor": "He can make ANYTHING look like a candle.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d257f4d72c2d4cf43d776e1b0bd058eb67d3c0b6d9902bd6c0a3872141e5427.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_080",
+      "dbfId": 43363,
+      "name": "Lesser Emerald Spellstone",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Summon two 3/3_Wolves. <i>(Play a <b>Secret</b> to upgrade.)</i>",
+      "flavor": "An emerald stone for Tauren hands\nWho sought its strength to save their lands\nTheir tribes now lost, their rage released\nWho\u2019s hunting now? And who\u2019s the beast?",
+      "artist": "Joe Wilson",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/faf3ccea8ce28a12682beeaf140f7c50401cc867125bf0cdcd0ff0b4e9d21212.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b1600e216c8596b44e3cefe6d87f4fe1bd4d8baa5490e9df8ad34aab6406ef8.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_503",
+      "dbfId": 46296,
+      "name": "Lesser Onyx Spellstone",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Destroy 1 random enemy minion.\n@<i>(Play 3 <b>Deathrattle</b> cards to upgrade.)</i>",
+      "flavor": "The trolls of old embraced the gift\nA jewel of black for daggers swift\nNo party lasts who finds the stone\nThose wielding it soon stand alone.",
+      "artist": "Arthur Bozonnet",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7fe344f24e0cbe9e8889892085d80cf76aad84bab3f77f21b905fc9bee2cc502.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_333",
+      "dbfId": 45877,
+      "name": "Level Up!",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "Give your Silver Hand Recruits +2/+2 and_<b>Taunt</b>.",
+      "flavor": "Ding!\n\nGrats.",
+      "artist": "Wayne Reynolds",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3531688b051205b90f13ae811af44e32e26e816f7e56183ab3936f9efef5be61.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_420",
+      "dbfId": 46299,
+      "name": "Skull of the Man'ari",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 5,
+      "durability": 3,
+      "text": "At the start of your turn, summon a Demon from your hand.",
+      "flavor": "Don't trust the skull.",
+      "artist": "Matthew O'Connor",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60e3d11035523b415185621703bd76f5e33915dab15323336bca1523c8066a10.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0bfddb3b2d1c7edcbab147721c8b76c79cc650cbec5497f5a81978284c575d5e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "InvisibleDeathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_315",
+      "dbfId": 45837,
+      "name": "Trogg Gloomeater",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 1,
+      "health": 5,
+      "text": "<b>Taunt</b>\n<b>Poisonous</b>",
+      "flavor": "His breath smells like agony and despair, which is still better than most troggs.",
+      "artist": "Chris Seaman",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c63b342557776e84e507eb7cab1d8300c15ebe8352e5318f4c5c237cec9f38d0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_518",
+      "dbfId": 46440,
+      "name": "Windshear Stormcaller",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> If you control all 4 basic Totems, summon Al'Akir_the_Windlord.",
+      "flavor": "Don't ever doubt Al'Akir's love for basic totems.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f1342ff7314009efd0816ec0e0dda708fab060d13403acad275c33993814a30.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_108",
+      "dbfId": 43426,
+      "name": "Aluneth",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 0,
+      "durability": 3,
+      "text": "At the end of your turn, draw 3 cards.",
+      "flavor": "PHENOMENAL ARCANE POWER\u2026itty bitty living space.",
+      "artist": "Izzy Hoover",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b579daa69f5ab15bbe9e448d87485b90eb802c39659bb801c42d027ea2910db.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06f5b1efef564e72035a2221453a649183e6754d9b4e8d5f2434a7feb6b50003.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "InvisibleDeathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_313",
+      "dbfId": 45833,
+      "name": "Crystal Lion",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Divine Shield</b>\nCosts (1) less for each Silver\nHand Recruit you control.",
+      "flavor": "Standard issue recruit gear: 1 silver sword, 1 Lordaeron insignia, 2 bags of crystal kibble.",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4efd4d40b7542fdeb3619d582858de3c4166f642ae46391b947d1becbbb55f2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_370",
+      "dbfId": 46058,
+      "name": "Gather Your Party",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "<b>Recruit</b> a minion.",
+      "flavor": "Thrilling adventure! Danger guaranteed! Loot uncertain! Death optional!  Who\u2019s with me?",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c2343a3ef735bfcc0c9159a0c1fbda1c13534029f70028ffb824f23f2939a14.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Recruit"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_365",
+      "dbfId": 46027,
+      "name": "Gemstudded Golem",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 5,
+      "health": 9,
+      "text": "<b>Taunt</b>\nCan only attack if you have 5 or more Armor.",
+      "flavor": "Perfectly accessorized to attract adventurers.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75a5fdedcb2661fb78bc383d154fc0e9f9b809914ea38039657fc282a402890d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_358",
+      "dbfId": 45995,
+      "name": "Grumble, Worldshaker",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Battlecry:</b> Return your other minions to your hand. They cost (1).",
+      "flavor": "The grumbling grew to a mighty rumbling, and out of the caverns the kobolds came tumbling. ",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "elite": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b280e9fae4b01284a73f148c218becca245a2ccd8b06df5b90d974355e49fd59.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_383",
+      "dbfId": 46082,
+      "name": "Hungry Ettin",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 4,
+      "health": 10,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Summon a random 2-Cost minion for your opponent.",
+      "flavor": "How can he be hungry\u2026 if he's Ettin!?",
+      "artist": "Dave Allsop",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05c9b53e5e8b7ebdfc8611009eda00ac90db648c50e189efb9a3220e43be99a6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_306",
+      "dbfId": 45820,
+      "name": "Possessed Lackey",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 2,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> <b>Recruit</b> a_Demon.",
+      "flavor": "If you don't keep up with your payments, it'll be a repossessed lackey.",
+      "artist": "Garrett Hanna",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb592552ddaad16a5629cd0f28646256aa03367c6ea13e44803864fd0e26000e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Recruit"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_415",
+      "dbfId": 46040,
+      "name": "Rin, the First Disciple",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 3,
+      "health": 6,
+      "text": "<b>Taunt</b>\n<b>Deathrattle:</b> Add 'The First Seal' to your hand.",
+      "flavor": "Signed and sealed, she delivers oblivion.",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11556a7106abc7d1a79c720c241451b948f44a08008833c598b7928bfee851e4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_520",
+      "dbfId": 46445,
+      "name": "Seeping Oozeling",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Gain the <b>Deathrattle</b> of a random minion in your deck.",
+      "flavor": "Uh, you might want to get that looked at.",
+      "artist": "Anton Kagounkin",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b85fd944b4ba7125237e4d32630a42f26c554c5c554397c9d24d2680b95f65a4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_539",
+      "dbfId": 46551,
+      "name": "Spiteful Summoner",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Reveal a spell\nfrom your deck. Summon\n a random minion with\nthe same Cost.",
+      "flavor": "Sometimes she'll summon a Doomsayer. Out of spite.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8e65a5223bb1fe6a97f78c4ea40ade07f0f4909eab3a4d4ad110fb4605dcc70.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b3335cdb5b9ad16a335318673ba96f45bf4b74a341b92760c2ae366bfca227b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_217",
+      "dbfId": 45546,
+      "name": "To My Side!",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 6,
+      "text": "[x]Summon an Animal\nCompanion, or 2 if your\ndeck has no minions.",
+      "flavor": "I hunt alone.  Well, me and Misha.  And Huffer.  And Leokk.",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/954cbd7d0d24d006c682e3386601965874a98d86ebd86dc87c1ce7bb0cb81d8f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_285",
+      "dbfId": 45775,
+      "name": "Unidentified Shield",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 6,
+      "text": "Gain 5 Armor.\nGains a bonus effect in_your hand.",
+      "flavor": "The kobold stared at the bundle for a long time. \u201cAh hah!\u201d he said. \u201cIt\u2019s a shield.\u201d",
+      "artist": "Dan Scott",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c89589a3af60d62212082f07347c9bcf400f18bb5da51884719c6daad9c6247.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_500",
+      "dbfId": 46263,
+      "name": "Val'anyr",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 4,
+      "durability": 2,
+      "text": "<b>Deathrattle:</b> Give a minion in your hand +4/+2. When it dies, reequip this.",
+      "flavor": "Recently unearthed in one of the deepest kobold caves. Traded for a large candle.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b06c8f5fa70e39efbe561847b5f08c66cb8169177dbe197ff233068d83fb4da8.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2580157bbe197ce41fc868f70ff0b0e2a0379491ee9843be1c5cecbf738c4989.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_149",
+      "dbfId": 43515,
+      "name": "Corridor Creeper",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Epic",
+      "cost": 7,
+      "attack": 2,
+      "health": 5,
+      "text": "Costs (1) less whenever a minion dies while this is_in_your hand.",
+      "flavor": "It likes the smell of dead things, which is curious, as it has no visible nose.",
+      "artist": "Nick Southham",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cabe8d12ea02daf6a1b296c198394f11ce5212730e992a507aec2c3920fa21fd.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_522",
+      "dbfId": 46450,
+      "name": "Crushing Walls",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 7,
+      "text": "Destroy your opponent's left and right-most minions.",
+      "flavor": "\"It could be worse!\" \"It's worse.\"",
+      "artist": "Trent Kaniuga",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22ee48133c9449f68cb653b6cf6b1d3af992e2804bbb823a4f57ad01d617139a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_507",
+      "dbfId": 46307,
+      "name": "Lesser Diamond Spellstone",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 7,
+      "text": "Resurrect 2 different friendly minions. @<i>(Cast 4 spells to upgrade.)</i>",
+      "flavor": "A diamond, white, this stone the eighth\nA precious jewel for those of faith\nA whispered prayer restores the lost\nBut none among them know the cost.",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7b278ee7e1020a8473e3ce28e516c765f80fdda4b8d0a621c0e478184062b9c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_203",
+      "dbfId": 45519,
+      "name": "Lesser Mithril Spellstone",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 7,
+      "text": "Summon one 5/5 Mithril Golem. <i>(Equip a weapon to upgrade.)</i>",
+      "flavor": "To dwarves of stone the demon called\nWith promises of might, enthralled\nIn grasping greed they found their doom\nForever bound in mithril tombs.",
+      "artist": "A. J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1927d5751fb95edc558461534c17efc2a616b7f21eb2f177e18437aabe26912.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_064",
+      "dbfId": 43331,
+      "name": "Lesser Sapphire Spellstone",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 7,
+      "text": "Summon 1 copy of a friendly minion. @<i>(<b>Overload</b> 3 Mana Crystals to upgrade.)</i>",
+      "flavor": "A stone of blue, embraced with glee\nBy murloc lords beneath the sea\nSoon numberless they swarmed the shore\nFirst two, then four, then more...and more...",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62d5ad64bb15cf64f5d0a44c84dbc2ef5259806e3746a987025dfb9490685c2c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_216",
+      "dbfId": 45539,
+      "name": "Lynessa Sunsorrow",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 1,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> Cast each spell\nyou cast on your minions\n this game on this one.",
+      "flavor": "A diet of pure magic is great for the complexion but wreaks havoc on one's mood.",
+      "artist": "Tyler West Studio",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/deac35c406f512f44c159325b28635385ad166e8109b9a0d4c891bfa36e6c1fc.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_008",
+      "dbfId": 43112,
+      "name": "Psychic Scream",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 7,
+      "text": "Shuffle all minions into your opponent's deck.",
+      "flavor": "Everybody! Hit the deck!",
+      "artist": "Chris Seaman",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5af0b4d8cd75f93030346174fefdbbfaef11fbf9ed5b294d7d543abff331e29.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_085",
+      "dbfId": 43369,
+      "name": "Rhok'delar",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 4,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> If your deck has no minions, fill your_hand with Hunter_spells.",
+      "flavor": "Rhok'delar is ready to Rhok'de'casbah!",
+      "artist": "Trent Kaniuga & James Martin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a846d1dc5ab0c4d68e669f836f60a1da8daefcd6d7f79ae7b337fe7f1d801032.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7ab5898c821a1842e1202f26cc8a11b08dbd15d46b25d0cdf20c88311204252.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_184",
+      "dbfId": 45287,
+      "name": "Silver Vanguard",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> <b>Recruit</b> an\n8-Cost minion.",
+      "flavor": "Float like a Faerie Dragon, sting like a Hivequeen.",
+      "artist": "Alex Garner",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fe4163822c658776828ca38097b9f9138c0e70e58503d589830090dae210061.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Recruit"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_538",
+      "dbfId": 46544,
+      "name": "Temporus",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Your opponent takes two turns. Then you take two turns.",
+      "flavor": "Follows adventurers, seeking the ultimate time magic: the ability to reload.",
+      "artist": "Daren Bader",
+      "collectible": true,
+      "elite": true,
+      "race": "Dragon",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/442c11925009594cd75c4332026b2c1f5e641728fe94dbc296cd427c70f1704f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_519",
+      "dbfId": 46442,
+      "name": "Geosculptor Yip",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 4,
+      "health": 8,
+      "text": "At the end of your turn, summon a random minion with_Cost_equal_to_your Armor <i>(up to 10)</i>.",
+      "flavor": "Once crafted a gauntlet out of earwax and pure ambition.",
+      "artist": "Mike Azevedo",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb0e0078b53e93f57f8df5958042432af6cebd397c348357aa0b3e4f20b705c5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_414",
+      "dbfId": 46032,
+      "name": "Grand Archivist",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 8,
+      "attack": 4,
+      "health": 7,
+      "text": "At the end of your turn, cast a spell from your deck <i>(targets chosen randomly)</i>.",
+      "flavor": "Qualifications: Found pointy hat.",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/760dc574085c30cd032948ea710e69c8c8ed9e064d91724e525c6abca0a3eba6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "LOOT_314",
+      "dbfId": 45835,
+      "name": "Grizzled Guardian",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 3,
+      "health": 5,
+      "text": "<b>Taunt</b>\n<b>Deathrattle:</b> <b>Recruit</b> 2_minions that cost (4)_or_less.",
+      "flavor": "Favorite sandwich? Grizzled cheese.",
+      "artist": "Alexey Aparin",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/702de6a5ee2420a5dec4c7d3eff55d964290aa8c4044cf200ac9edf6f9762a9d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Recruit"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_511",
+      "dbfId": 46390,
+      "name": "Kathrena Winterwisp",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry and Deathrattle:</b> <b>Recruit</b> a Beast.",
+      "flavor": "She\u2019s not one of those treehugger elves \u2013 but she does like the occasional cuddle.",
+      "artist": "Garrett Hanna",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d64b3e44bc6263c7b34d94ea843f4a51c02fc2e01d69cae302a05d37480c245a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Recruit"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_541",
+      "dbfId": 46589,
+      "name": "King Togwaggle",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Swap decks\nwith your opponent.\nGive them a Ransom\nspell to swap back.",
+      "flavor": "Management of the Kobold Empire requires a careful balance between a lack of social services and fiscal irresponsibility.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64a66bf07d0e11df58ba4ca192b2ddf2ecf8d4eb514aa60023003919780a92b6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_357",
+      "dbfId": 45988,
+      "name": "Marin the Fox",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 6,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Summon a 0/8 Treasure Chest for your opponent. <i>(Break it for awesome loot!)</i>",
+      "flavor": "My name is Marin the Fox. You took my treasure. Prepare to die.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Unlocked by opening a Kobolds & Catacombs pack.",
+      "howToGetGold": "Unlocked with the BlizzCon 2017 virtual ticket.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e89989f08047a90bd94a7550d1698d0a2b5c45406cb2504cd589c8d308bcc2c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_506",
+      "dbfId": 46305,
+      "name": "The Runespear",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 3,
+      "durability": 3,
+      "text": "After your hero attacks, <b>Discover</b> a spell\nand cast it with random targets.",
+      "flavor": "When asked what the runes do, the tauren smith smiled: \"A little of this, a little of that...\"",
+      "artist": "Jakub Kasper",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e60afe8c0aae4b9a342aae5b4a6a3d7d9c8d8984dbb3f15cd86ddfc4517a0bd2.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c8c08746234f9087332777d119065189683e5966b6a93b29163dab6c72cf5e1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_153",
+      "dbfId": 43526,
+      "name": "Violet Wurm",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 7,
+      "health": 7,
+      "text": "<b>Deathrattle:</b> Summon seven 1/1 Grubs.",
+      "flavor": "It's wurms all the way down.",
+      "artist": "J. Cranford",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/408294a5b6f5600da5065fc67c46092d4028a04ad6cb2bdc1333b3b845cc37c2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_380",
+      "dbfId": 46077,
+      "name": "Woecleaver",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 3,
+      "durability": 3,
+      "text": "After your hero attacks, <b>Recruit</b> a minion.",
+      "flavor": "Turn that frown into TWO frowns!",
+      "artist": "Matthew O'Connor",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18e0e643cf1a34c7de096b87173d553922f0633e67d44ec8caf54599458f9d2d.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec7eb7fa9b5fe395933c822ff33ed9755ba79832572de7e7dec9c698fec2316b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Recruit"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_535",
+      "dbfId": 46499,
+      "name": "Dragoncaller Alanna",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Summon a 5/5 Dragon for each spell you cast this game that costs (5) or more.",
+      "flavor": "Her secret is using a gentle voice and carrying a baggie of hotdogs.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/262802bf4ae97be43411a958da41ed043ac93f5042ac975d7e6a2bf936849c23.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_540",
+      "dbfId": 46557,
+      "name": "Dragonhatcher",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 9,
+      "attack": 2,
+      "health": 4,
+      "text": "At the end of your turn, <b>Recruit</b> a Dragon.",
+      "flavor": "Which came first?  The dragon or the dragonhatcher?",
+      "artist": "Peter Stapleton",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af07df29866ed86510add3bc671787df031cacba7222f9ad7852015dad2338b1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Recruit"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_521",
+      "dbfId": 46449,
+      "name": "Master Oakheart",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 9,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> <b>Recruit</b> a 1, 2, and 3-Attack minion.",
+      "flavor": "His adventuring party consists of Goldshire Footman, Frostwolf Grunt and Hadronox.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e526ca6b4857870b44882cd34c8d6b9c59e82da8f15f67b5c27f237eb262afae.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Recruit"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_137",
+      "dbfId": 43494,
+      "name": "Sleepy Dragon",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 9,
+      "attack": 4,
+      "health": 12,
+      "text": "<b>Taunt</b>",
+      "flavor": "Local villagers call her \"Naps Under the Mountain.\"",
+      "artist": "Sean McNally",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ab3c3f7fc1ea55bc5faffb14ce0d2ef6cf8bd496c3183b01b0a2244c2c84672.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "LOOT_368",
+      "dbfId": 46056,
+      "name": "Voidlord",
+      "cardSet": "Kobolds & Catacombs",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 9,
+      "attack": 3,
+      "health": 9,
+      "text": "[x]<b>Taunt</b>\n <b>Deathrattle:</b> Summon three\n1/3 Demons with <b>Taunt</b>.",
+      "flavor": "Never let it hold your checkbook.",
+      "artist": "Jerry Mascho",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3eebc226fdec4255ffce1f7c3e1d6b3f20ff9602a397863f71d484cee4db9996.png",
+      "imgGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d93b96693d80e8c0c431cd0c7da7a1bfde3afeb9a22040261379461368f83aa8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    }
+  ]
+}

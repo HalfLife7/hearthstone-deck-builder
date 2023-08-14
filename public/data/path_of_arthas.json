@@ -1,0 +1,709 @@
+{
+  "Path of Arthas": [
+    {
+      "cardId": "RLK_042",
+      "dbfId": 78338,
+      "name": "Horn of Winter",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 0,
+      "text": "Refresh 2 Mana Crystals. ",
+      "flavor": "Much better than the Horn of Loseter.",
+      "artist": "Rutherford Gong",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Frost",
+      "runeCost": {
+        "blood": 0,
+        "frost": 2,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee2e355e689f8c074216ba922616fed718e5d55211816bf58d95b1f37e7cbf8c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "RLK_516",
+      "dbfId": 82067,
+      "name": "Bone Breaker",
+      "cardSet": "Path of Arthas",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "durability": 2,
+      "text": "[x]After your hero attacks a\nminion, deal 2 damage\nto the enemy hero.",
+      "flavor": "Many weapons are bone breakers if you swing hard enough.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8539fe3f82e707b231065bb51a8a8b6e00b0ee142c1aa86b9480d57b934599e7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "RLK_038",
+      "dbfId": 78334,
+      "name": "Icy Touch",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Deal $2 damage to an enemy and <b>Freeze</b> it.",
+      "flavor": "Vibe check.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43782bd8c115e046fd4234929ef320b9125024807873633a1823c11e346cc4e4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_110",
+      "dbfId": 80014,
+      "name": "Ymirjar Frostbreaker",
+      "cardSet": "Path of Arthas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Gain +1_Attack for each Frost spell\nin your hand.",
+      "flavor": "Also gains +1 Attack for each time your opponent mispronounces his name.",
+      "artist": "Paul Mafayon",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45dabf70ff200e4bb2e22f3bfeee7ed4024d99e3b39d1a96efc9d466fa04d2d4.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_712",
+      "dbfId": 80664,
+      "name": "Blood Tap",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Give all minions in your hand +1/+1.\nSpend 2 <b>Corpses</b> to give them +1/+1 more.",
+      "flavor": "Come join us in the tavern! We have whatever you're drinking on tap. Yes, even that.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Shadow",
+      "runeCost": {
+        "blood": 2,
+        "frost": 0,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e83c1a04fa4fccdefca59693366ed53a8e661876185c694d43f682f692f0008e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corpse"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_057",
+      "dbfId": 78349,
+      "name": "Dark Transformation",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Transform an Undead into a 4/5 Undead Monstrosity with <b>Rush</b>.",
+      "flavor": "The Northrend Arm Wrestling Championship just found its new champion.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Shadow",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 1
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/792c9495aa5dffca88fd8b4d9f51e41f2f54480c9beb3b5ac3bb6abda88eac7f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_083",
+      "dbfId": 78649,
+      "name": "Deathchiller",
+      "cardSet": "Path of Arthas",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]After you cast a spell,\ndeal 1 damage to two\nrandom enemies.",
+      "flavor": "Man, death is like the most chill state... you've got nothing to do but relax.",
+      "artist": "Ramzy Kamen",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 2,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60563298ca02c5824a02423caabdbd4e9349e2c5f6a5a6fdf621e7882d376f5c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "RLK_066",
+      "dbfId": 78356,
+      "name": "Hematurge",
+      "cardSet": "Path of Arthas",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Spend a\n<b>Corpse</b> to <b>Discover</b> a\nBlood Rune card.",
+      "flavor": "She's here to PUMP! YOU UP!",
+      "artist": "Dez Bencosme",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 2,
+        "frost": 0,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f378954173863b8c9fbe9b0c333c8e61ed90f468a6dbba39c8b573cb651d57b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Corpse"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_018",
+      "dbfId": 78320,
+      "name": "Plague Strike",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Deal $3 damage to\na minion. If that kills it,\nsummon a 2/2 Zombie\nwith <b>Rush</b>.",
+      "flavor": "Not wanting to infect anyone with his cold, the Death Knight politely coughed into his shoulder.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Shadow",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 1
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83b3bf6038ce37762a9ee7e95f713bd4fbf9ec111158dd0e45c4e7546bbd5177.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_056",
+      "dbfId": 78348,
+      "name": "Unholy Frenzy",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Choose an enemy minion.\nYour minions attack it.\nResummon any that die.",
+      "flavor": "GROUP HUG!",
+      "artist": "Ian Ameling",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 1
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc15477387462d02916cc426cd0c2239ad67dbdf468f91018454a4a465d0d369.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "RLK_711",
+      "dbfId": 80663,
+      "name": "Vicious Bloodworm",
+      "cardSet": "Path of Arthas",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Give a minion in\nyour hand Attack equal to\nthis minion's Attack.",
+      "flavor": "Not to be confused with the Viscous Bloodworm.",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 1,
+        "frost": 0,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7eb0aae805c36a15ddc538cd5129b9af9831e06e29526d0af353aca74bfebec7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_087",
+      "dbfId": 79503,
+      "name": "Asphyxiate",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Destroy the highest Attack enemy minion.",
+      "flavor": "I find your abundance of Attack disturbing.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Shadow",
+      "runeCost": {
+        "blood": 2,
+        "frost": 0,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa37ff8efa202d788bb230e2554d0d179da9055ed52fb3b44b1b7326a4c763c6.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "RLK_731",
+      "dbfId": 81849,
+      "name": "Darkfallen Neophyte",
+      "cardSet": "Path of Arthas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Spend 2 <b>Corpses</b>\nto give all minions in your\nhand +2 Attack.",
+      "flavor": "It's actually a hairball.",
+      "artist": "Angelina Chernyak",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 1,
+        "frost": 0,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ecbdcd08c28df760d92245015d2a46f2f707849fc309540989e2ebc96348360.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Corpse"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_512",
+      "dbfId": 81973,
+      "name": "Glacial Advance",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Deal $4 damage.\nYour next spell this turn costs (1) less.",
+      "flavor": "You just wait, I'll get there in 10 years and then you'll be sorry.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Frost",
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d776f46d503aafc329b8d1604c272a7fb0392f374af43411b6ae97022917afe.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "RLK_015",
+      "dbfId": 78317,
+      "name": "Howling Blast",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "[x]Deal $3 damage to an\nenemy and <b>Freeze</b> it.\nDeal $1 damage to all\nother enemies.",
+      "flavor": "For Death Knights, yelling really loudly is a valid attack strategy.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Frost",
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ded8fa1c08070ab20d6e060514a0074e1a8b2e28a7adfa908b6e6f28f1537e7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_713",
+      "dbfId": 80708,
+      "name": "Lady Deathwhisper",
+      "cardSet": "Path of Arthas",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Deathrattle:</b> Copy all\nFrost spells in your hand.",
+      "flavor": "\"Psst... Omelette death fromage.\"",
+      "artist": "Jay Axer",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "howToGetSignature": "Earnable on the <i>March of the Lich King</i> Reward Track.",
+      "howToGetDiamond": "Obtained by purchasing the Golden Path of Arthas set or the Diamond Lady Deathwhisper card.",
+      "runeCost": {
+        "blood": 0,
+        "frost": 3,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53ff283851a4d0c5b7be173e7792bee182fd94395ec50b6bd8c42abca74bc9f2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_745",
+      "dbfId": 82073,
+      "name": "Malignant Horror",
+      "cardSet": "Path of Arthas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]<b>Reborn</b>\nAt the end of your turn,\nspend 4 <b>Corpses</b> to summon\na copy of this minion.",
+      "flavor": "Pop goes the pustule.",
+      "artist": "Richie Marella",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecd8d08c0f602134504b9186dca7434505989c1d316ef9beaf135484e8fd8411.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Reborn"
+        },
+        {
+          "name": "Corpse"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_740",
+      "dbfId": 81961,
+      "name": "Might of Menethil",
+      "cardSet": "Path of Arthas",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "durability": 2,
+      "text": "<b>Battlecry:</b> Spend\nup to 3 <b>Corpses</b>.\n<b>Freeze</b> that many\nenemy minions.",
+      "flavor": "Menethil's Might, at night, fights the light, not quite the blight, right?",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 2,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/881721dbf67a2c1c76e874d331db73b96b3d81f1a2bf14872fae696d0f7d477b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Corpse"
+        },
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_062",
+      "dbfId": 78354,
+      "name": "Nerubian Swarmguard",
+      "cardSet": "Path of Arthas",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Summon two\ncopies of this minion.",
+      "flavor": "How long can this go on? Apparently even in death.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 1
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e820dd3377db9ed1cf0495846a29eb6478c7892c802dad70a381d280652065e1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_118",
+      "dbfId": 80085,
+      "name": "Tomb Guardians",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 4,
+      "text": "Summon two 2/2 Zombies with <b>Taunt</b>. Spend 4 <b>Corpses</b> to\ngive them <b>Reborn</b>.",
+      "flavor": "An absolute thriller.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Shadow",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 2
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a53036ee15ad6503c4986cb0545c0fc4c98de78ddf2937a9e561c447cf009357.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corpse"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_730",
+      "dbfId": 81206,
+      "name": "Blood Boil",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "<b>Lifesteal</b>\nInfect all enemy minions. At the end of your turns, they take 2 damage.",
+      "flavor": "And once your blood is at a boil, throw in the plaguetti.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Shadow",
+      "runeCost": {
+        "blood": 2,
+        "frost": 0,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39666b1ca1261808a0b6c20eed6eb7b6dc4c42eaed0eb7bc48e414364ab4d239.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_504",
+      "dbfId": 80820,
+      "name": "Corpse Bride",
+      "cardSet": "Path of Arthas",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Spend up to 10\n<b>Corpses</b>. Summon a Risen\nGroom with stats equal\nto the amount spent.",
+      "flavor": "Until undeath do us part.",
+      "artist": "Angelina Chernyak",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2bd54fcfb1b0896cf785ed58390777f30e83ff4fc7a628e7907b529ed8c3ed38.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Corpse"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_505",
+      "dbfId": 80822,
+      "name": "Marrow Manipulator",
+      "cardSet": "Path of Arthas",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Spend up to 5\n<b>Corpses</b>. Deal 2 damage to\na random enemy for each.",
+      "flavor": "Also buffs your Calcium by 1000mg.",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 3,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bfa77ec2f0ef5fd9c33adfb37455a2ad3067c669cf74bd66cb97e2cba8a5b37.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Corpse"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_086",
+      "dbfId": 78169,
+      "name": "Frostmourne",
+      "cardSet": "Path of Arthas",
+      "type": "Weapon",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 5,
+      "durability": 3,
+      "text": "<b>Deathrattle:</b> Summon every minion killed by this weapon.",
+      "flavor": "Death Nights, Frost Morn, what's next - Blood Noon?",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Death Knight",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c0a1bb5fa6526b3375c4e0d3003637dc137b3de86fe90b2d0476a7162baf368.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_063",
+      "dbfId": 78355,
+      "name": "Frostwyrm's Fury",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 7,
+      "text": "Deal $5 damage. <b>Freeze</b> all enemy minions.\nSummon a 5/5 Frostwyrm.",
+      "flavor": "Terrible destruction, but minty fresh breath!",
+      "artist": "Grafit ",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Frost",
+      "runeCost": {
+        "blood": 0,
+        "frost": 3,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb83f038eb282ef430b917721c799527ad7cb55eade35a6df15914719f86d77f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Freeze"
+        }
+      ]
+    },
+    {
+      "cardId": "RLK_122",
+      "dbfId": 80090,
+      "name": "The Scourge",
+      "cardSet": "Path of Arthas",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 9,
+      "text": "Fill your board with random Undead.",
+      "flavor": "\u201cYou speak of justice? Of cowardice? I will show you the justice of the grave and the true meaning of fear.\u201d ",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Death Knight",
+      "spellSchool": "Shadow",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 2
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98ebce2e0692bb6e4d8838fa12f96665bd07713ed3ef3019aea2342a07db9d0a.png",
+      "locale": "enUS"
+    }
+  ]
+}

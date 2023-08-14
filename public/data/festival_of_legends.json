@@ -1,0 +1,4375 @@
+{
+  "Festival of Legends": [
+    {
+      "cardId": "ETC_367",
+      "dbfId": 92276,
+      "name": "Melomania",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 0,
+      "text": "Each time you play a minion this turn,\nadd a random Shaman spell to your hand.",
+      "flavor": "I once saw a horse that had watermelons for hair. It was a melon mane, ya?!",
+      "artist": "Valeria Styajkina",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17e3a40dd2fe318429c6259cfc722acdc11d259135c82b22c49e3292673c2de7.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "JAM_017",
+      "dbfId": 94820,
+      "name": "Through Fel and Flames",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 0,
+      "text": "Give a minion <b>Rush</b>. <b>Finale:</b> And +1/+1.",
+      "flavor": "It's a Fel spell, but also a FIRE spell.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "multiClassGroup": "Warrior/Demon Hunter",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b08f199cfe34a8148725d70ad46af87d6001d39e2bb433a91c0b7fd5cc3efe66.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_102",
+      "dbfId": 91986,
+      "name": "Air Guitarist",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Give your weapon +1 Durability.",
+      "flavor": "Nailing that solo was a breeze.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12993fac745e9cf3b74c2644a0e177624713908c87939f58ae763cb8bb2f3b28.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_109",
+      "dbfId": 92254,
+      "name": "Annoying Fan",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Choose a minion. It can't attack while this is alive.",
+      "flavor": "No, Annoy-o-Tron, an air horn is not an instrument.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95cea3c0efec72897b1c879370133c6d7ab368994c0943723ecff5684945cb5e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_076",
+      "dbfId": 90591,
+      "name": "Breakdance",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 1,
+      "text": "Return a friendly minion to your hand. Summon a Dancer with\nits stats and <b>Rush</b>.",
+      "flavor": "\"Commander! Uhh... I'm... Pretty sure we just got served? I'm not really trained for this.\"",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/266d139a2379d859444218900224f0145b2866032398f958a405dd0d416917e5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_201",
+      "dbfId": 96996,
+      "name": "Bunch of Bananas",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Give a minion +1/+1.\n<i>(3 Bananas left!)</i>",
+      "flavor": "This card has bananas (spelled: B-A-N-A-N-A-S).",
+      "artist": "Jim Nelson",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f3c52705d64ce993c1cceac54a23b14ee8e6aec8a6c4bd874959c3ac9546179.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "JAM_001",
+      "dbfId": 95336,
+      "name": "Costumed Singer",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "At the end of your turn,\ndraw a <b>Secret</b>.",
+      "flavor": "Who knows which forgotten, washed-up, former C-list celebrity might be in there!",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "playerClass": "Mage",
+      "multiClassGroup": "Mage/Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4107de9fe839d3b91e77ea595df89550c8ac2d371642e590a98426fa3e1ae386.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_104",
+      "dbfId": 92243,
+      "name": "Crowd Surfer",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "[x]<b>Deathrattle:</b> Give ANY\nother minion +1/+1 and\nthis <b>Deathrattle</b>.",
+      "flavor": "I'm pretty sure it's the band that's supposed to be crowd surfing, but you do you little dude.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable after purchasing the <i>Festival of Legends</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2bdc835355150a5618d631c94b3267b202ec07668d83e071cb84ae978083a995.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_022",
+      "dbfId": 98377,
+      "name": "Deafen",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Silence</b> a minion. <b>Combo:</b> Also deal $2 damage to it.",
+      "flavor": "Hey, Volsat, we can't hear you. You're on mute.",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Priest",
+      "multiClassGroup": "Rogue/Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c20cf34d43d58aff781c9d9a240cb979afc5021254c7818875f2ecd82ac60265.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        },
+        {
+          "name": "Silence"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_424",
+      "dbfId": 91251,
+      "name": "Death Growl",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "Choose a minion.\nSpread its <b>Deathrattle</b>\nto adjacent minions.",
+      "flavor": "GRRRRR I'M SO ANGRY BECAUSE I'M DEAD!",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 1
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6ca50aee0e962223bbbf2dfab32c5236e6cb6d4e2728611324fd54cfbb74210.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_449",
+      "dbfId": 97403,
+      "name": "Fan Club",
+      "cardSet": "Festival of Legends",
+      "type": "Location",
+      "rarity": "Common",
+      "cost": 1,
+      "health": 2,
+      "text": "Restore #3 Health to all friendly characters.",
+      "flavor": "\"Well that was weird. Yeah, I just walked up to the president of the fan club, he blabbered on for like 10 minutes, and then gave me a bike voucher...\"",
+      "artist": "Evgeniy Dlinnov",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e1fb97f9426c5f2b0252496c1bff0e47e726de3b1887b6a50ac8c3d5c30e60f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_359",
+      "dbfId": 92228,
+      "name": "Flowrider",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "[x]<b>Battlecry:</b> If you're\n<b>Overloaded</b>, <b>Discover</b> a\nspell from your deck.",
+      "flavor": "Her music sounds a lot better underwater where you can't hear it at all.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Naga",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/931b53eadc383967a932ad50b9751fbcbbef0a19c347020c68e348a4de6beec0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_382",
+      "dbfId": 94218,
+      "name": "Free Spirit",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "[x]<b>Battlecry and Deathrattle:</b>\nYour Hero Power gains 1\nmore Armor this game.",
+      "flavor": "His soul was supposed to go to Ardenweald, but you can't chain a free spirit down.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "race": "Beast",
+      "otherRaces": [
+        "Undead"
+      ],
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4f2f7e412baf3ae27c9d5e5c7babbc00a413bb39dfa7495bf9dcf8ab36a0b50.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_106",
+      "dbfId": 92249,
+      "name": "Frequency Oscillator",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> The next Mech you play costs (1) less.",
+      "flavor": "Our lawyer made us change the flavor text of this card so we wouldn't get sued.",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5baca9388e07ebeaa0fd0aa4d741dbe03d0d851306d4b0d9cadd98d17cb019b9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_025",
+      "dbfId": 95394,
+      "name": "Funnel Cake",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 1,
+      "text": "[x]Restore #3 Health to a\n minion and its neighbors.\nFor each one <b>Overhealed</b>,\nrefresh a Mana Crystal.",
+      "flavor": "After all this time\u2026. I thought it'd be bigger!",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Priest",
+      "multiClassGroup": "Priest/Druid",
+      "classes": [
+        "Druid",
+        "Priest"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/636477a7f8fdde9feb90679e2e7d93d79f283436a5ac8fab9b2a02a85d124db9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overheal"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_312",
+      "dbfId": 90681,
+      "name": "Idol's Adoration",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 1,
+      "durability": 2,
+      "text": "Your Hero Power costs (0). After you use it, lose 1 Durability.",
+      "flavor": "That is a mic, not a door.",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fd9132d8ac199cdd339a4382c4a1811dbba89ee5941500c0afec147209abd59.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_074",
+      "dbfId": 90583,
+      "name": "Mixtape",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "<b>Discover</b> a copy of a card your opponent played this game.",
+      "flavor": "That tape has got poetry and clarinet on it, Garona. POETRY. AND CLARINET.",
+      "artist": "Gabriel Lopes",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b21a65dfd478ec529dee3cb9a1990b16e5788bbb97d6ab7c68574418d84b6605.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_375",
+      "dbfId": 94204,
+      "name": "Peaceful Piper",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Choose One -</b> Draw a Beast; or <b>Discover</b> one.",
+      "flavor": "\"Is there anything worth more than peace and love on the planet Azeroth?\"",
+      "artist": "Tanamaes Leejierasaes",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e9326c7a9995d8c012b697a1392d6bfc5e5ac04eca882c98ae6e9614ed26695.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_355",
+      "dbfId": 91888,
+      "name": "Razorfen Rockstar",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "After you gain Armor,\ngain 2 more.",
+      "flavor": "Quilboar feel Rock in their blood. And blood in their rocks.",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38e47ff3a25c26a70c9115ea862349169f702837687867f74bee9391de8153a3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_358",
+      "dbfId": 92227,
+      "name": "Saxophone Soloist",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 1,
+      "attack": 1,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> If you control\nno other minions, add\na Saxophone Soloist\nto your hand.",
+      "flavor": "He used to play to crowds of adoring Murlocs, but 20 years later all that's left is gigs at secluded clubs and regrets. Where did all the time go? His dreams of fame and fortune, snuffed out like the flame of a small candle in a dimly lit bar. Nothing but",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6d653a86a032f9654d613f10b36a859e286c4bf2d9e48c31e81cb944144bf57.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_535",
+      "dbfId": 90738,
+      "name": "Synthesize",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Add a random 1, 2,\nand 3-Cost Elemental to_your hand.",
+      "flavor": "After the invention of elemental audio processing, Azeroth went through a major synth phase.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab121949e125d27f0d51eb2f322abba7d04e41cfeea46ec046ecc7b13503b38f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_394",
+      "dbfId": 96946,
+      "name": "Taste of Chaos",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "Deal $2 damage\nto a minion. <b>Finale:</b> <b>Discover</b> a Fel spell.",
+      "flavor": "It's spicy!",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d53b9a3d62209f975e54c21bce79bd3be8d296c037ffc6f9a4d5a0bad363959f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_831",
+      "dbfId": 91494,
+      "name": "Thornmantle Musician",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "<b>Finale:</b> The next Beast you summon gets +1/+1.",
+      "flavor": "She calls the hyena her \"little chef\". Not sure what that's about.",
+      "artist": "Adam Byrne",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be88b750e89d2992f5d643434e0ad080c83ab8beb5050c31c9afd885a3680a9e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_363",
+      "dbfId": 92266,
+      "name": "Verse Riff",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 1,
+      "text": "[x]Give your hero +2 Attack\nthis turn. Gain 2 Armor.\n<b>Finale:</b> Play your last Riff.",
+      "flavor": "Well anyways, here's Worgen Wall.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8005b9f997d9b679f1ffd51732ae7a07d9be73e12c1321247b88f16d522255b5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_081",
+      "dbfId": 90854,
+      "name": "Void Virtuoso",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 1,
+      "attack": 1,
+      "health": 3,
+      "text": "During your turn,\nyour hero is <b>Immune</b>.",
+      "flavor": "That is one interesting dress code.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "howToGetSignature": "Earnable in <i>Legends Take the Stage</i> special event.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66fb184545c95b2849e8185d790f74189b870eeb1b88db13f0a0d0df1e5472e2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_833",
+      "dbfId": 91496,
+      "name": "Arrow Smith",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]After you cast a spell,\ndeal 1 damage to the\nlowest Health enemy.",
+      "flavor": "\"What do you mean it's a <i>violin</i> bow!?!\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Naga",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c8dfe70642811196b31c918c5e43b198db686b6f748c047297db91c49b1f6fc.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_087",
+      "dbfId": 91078,
+      "name": "Audio Amplifier",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Set your maximum Mana and\nhand size to 11.",
+      "flavor": "And you thought we were putting Wildheart Guff in Core. We'd never do that! WINK WINK.",
+      "artist": "Daniil Kudriavtsev",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>Festival of Legends</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a976f7bead55711f0094e573926914089a78a9eb06d28ed8ef13053140779818.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_325",
+      "dbfId": 90699,
+      "name": "Audio Medic",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "<b>Rush</b>\n<b>Finale:</b> Gain <b>Lifesteal</b>.",
+      "flavor": "His performance isn't over, watch!",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b24f7847c4ff6de3ea7117ca7ccb7d72bdae9d96c3577501e5db75017443a68.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Finale"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_536",
+      "dbfId": 90856,
+      "name": "Audio Splitter",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 3,
+      "health": 2,
+      "text": "<b>Deathrattle:</b> Copy the\nhighest Cost spell in\nyour hand.",
+      "flavor": "\"I tried to give him some constructive criticism but gosh, he really hates feedback!\"",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbb8c31ec6d7d7a9083358ad9faaec60ee401f208e6e48d8915c72b2fb919a3a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_068",
+      "dbfId": 90439,
+      "name": "Baritone Imp",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Take Fatigue\ndamage. Gain that much\nAttack and Health.@[x]<b>Battlecry:</b> Take {0} Fatigue\ndamage. Gain that much\nAttack and Health.",
+      "flavor": "He used to be an epic sax guy, but now he's just a common.",
+      "artist": "Guillaume Beauch\u00eane",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31022cbbf0fd43aecc7719ab88cbee2e20ea807c0884118732df83c047976c3a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_207",
+      "dbfId": 97362,
+      "name": "Barrel of Monkeys",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Summon a 1/4 Monkey with <b>Taunt</b>.\n<i>(3 Monkeys left!)</i>",
+      "flavor": "There used to be four monkeys, but then one fell off and bumped his head.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a2a8de353a6f2e9855b5488f6c893022e400d025b13b5546f2149a52406d6d0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_006",
+      "dbfId": 98390,
+      "name": "Cold Feet",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Enemy minions cost\n(5) more next turn.",
+      "flavor": "Looks like some of the dancers still need to warm up.",
+      "artist": "Angelica Alieva",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "multiClassGroup": "Death Knight/Paladin",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0ba79667eddcae07e0fc2b264fa0e6a1dc45c11e5e91c822b17123fb723f89c.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_521",
+      "dbfId": 90368,
+      "name": "Cosmic Keyboard",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 2,
+      "durability": 3,
+      "text": "[x]After you cast a spell,\nsummon an Elemental with\nstats equal to its Cost.\nLose 1 Durability.",
+      "flavor": "Mine is signed by Algalon himself.",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da57b0b5184703c1556ea327b93c571ac51c78c7c470314519fa01604e4483cf.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_069",
+      "dbfId": 90440,
+      "name": "Crescendo",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "[x]Take Fatigue damage.\nDeal that much damage\nto all enemies.@[x]Take {0} Fatigue damage.\nDeal that much damage\nto all enemies.",
+      "flavor": "The more you flail your arms, the better the orchestra plays! Yup, that's definitely how it works.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a43b60ebf6d794c8000daf19246cf184256d4968063a7f3e769569f5709de01.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "JAM_009",
+      "dbfId": 98411,
+      "name": "Dance Floor",
+      "cardSet": "Festival of Legends",
+      "type": "Location",
+      "rarity": "Common",
+      "cost": 2,
+      "health": 2,
+      "text": "[x]Give your minions <b>Rush</b>.",
+      "flavor": "I don't think Rush would ever be here.",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e65e70dc2e9a63dff35bf547c2598db3e67cd444c99c581ad8a52a72c888280a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_008",
+      "dbfId": 98410,
+      "name": "Dead Air",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Destroy your Undead. Resummon them.",
+      "flavor": "We'll be right back after a word from our specters.",
+      "artist": "Grace Liu",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 1
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c557e185249704eef2b97f4b4ad9f701f19f65ddcbf235fced3d7a52cc6e08f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_077",
+      "dbfId": 90600,
+      "name": "Disc Jockey",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 4,
+      "health": 1,
+      "text": "<b>Combo:</b> Add a random\n<b>Combo</b> card to your hand.",
+      "flavor": "Hype coefficient insufficient.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "race": "Mech",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e603f217103c4d6df2246daf6f42157c79b83de78fdd4b1b530f14b94125c712.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_332",
+      "dbfId": 90952,
+      "name": "Dreamboat",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Restore #3 Health to all other friendly minions. Gain +1/+1 for each one <b>Overhealed</b>.",
+      "flavor": "As the only member that can sing underwater, Paz saved Poison Bloom's Zin-Azshari tour from failure.",
+      "artist": "Valeria Styajkina",
+      "collectible": true,
+      "race": "Naga",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b9131747bc8c576ac0408f214e9a7bc9cbfa75903978f6bb6377f0bcb1d73f7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overheal"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_398",
+      "dbfId": 96997,
+      "name": "Eye of Shadow",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "Your hero has <b>Lifesteal</b>.",
+      "flavor": "It's hard to makeup flavor text sometimes.",
+      "artist": "Alex Stone",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b676da51d880fdd8193458d5d0a3355ee14d73f6fbbeb230a97f94375f37d12.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_027",
+      "dbfId": 98413,
+      "name": "Fanboy",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Choose One -</b> Give a friendly\nminion +2 Attack and <b>Rush</b>;\nor +2 Health and <b>Lifesteal</b>.",
+      "flavor": "His name? Stan.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Priest",
+      "multiClassGroup": "Priest/Druid",
+      "classes": [
+        "Druid",
+        "Priest"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/375c85b03f23bc5fff271f1c58d2445ab9237a2ee8ad09b15babf1350f521e32.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_084",
+      "dbfId": 90996,
+      "name": "Felstring Harp",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 2,
+      "durability": 3,
+      "text": "[x]Whenever your hero would\ntake damage on your turn,\nrestore 2 Health instead.\nLose 1 Durability.",
+      "flavor": "Playing it will singe your fingers and wither your soul, but at least it never needs restringing!",
+      "artist": "Gabriel Lopes",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2620bce86e9fa1d37c60c3028b936c8b01403b905450a5be544b7739893bfa79.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_385",
+      "dbfId": 94249,
+      "name": "Groovy Cat",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry and Deathrattle:</b> Your Hero Power gives your hero 1 more Attack this game.",
+      "flavor": "\"Like, what if we're all just cards living in this box called Hearthstone, man?\"",
+      "artist": "Eva Widermann",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e28c8b00d9f3801491b1bedd8614fcd6968839d6475a0ee80ff1b487a8900d6a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_717",
+      "dbfId": 88403,
+      "name": "Harmonic Hip Hop",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "Deal $1 damage. Give your weapon +3 Attack.\n<i>(Swaps each turn.)</i>",
+      "flavor": "I can name four things that rhyme with 'orange': Four inch, Door hinge, Syringe, and uh\u2026 Shmorange.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/646ac70075617266a62dbb5207ca1508aa113b2478719b398d96504cadf70ffc.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_379",
+      "dbfId": 94210,
+      "name": "Harmonic Mood",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Give your hero +2 Attack this turn. Gain 4 Armor.\n<i>(Swaps each turn.)</i>",
+      "flavor": "ROYGBive your hero +2 Attack this turn.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cb92ff7d37855dfe27487ee0a89c3f4f6a2a7dbc882ac3ae1b61c75f91900eb.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "JAM_003",
+      "dbfId": 96618,
+      "name": "Hidden Meaning",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Secret:</b> When your opponent ends their turn with no Mana, summon a random 3-Cost minion.",
+      "flavor": "I'm telling you, if you play the song backwards at triple speed I SWEAR Mukla sings about the Burning Legion.",
+      "artist": "Kevin Sidharta",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2ed3bd159d67974e01cc4483a52a97d2ebecb896cc1bcfdff0612edbbafbeb1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_103",
+      "dbfId": 91989,
+      "name": "Hipster",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> <b>Discover</b> a spell\nfrom your opponent's class\nthat isn't in their deck.",
+      "flavor": "Oh, so you like Hearthstone? Name every spell.",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetSignature": "Earnable after purchasing the <i>Festival of Legends</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/baa382213b8d0261b073949bb28739fff43b40cf81e42c08f63c57085fd529e7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_206",
+      "dbfId": 97361,
+      "name": "Infinitize the Maxitude",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 2,
+      "text": "<b>Discover</b> a spell.\nReduce its Cost by (1).\n<b>Finale:</b> Return this to\nyour hand at end of turn.",
+      "flavor": "When your music is instrumental, it doesn't matter if the words make no sense.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd7309bfefa3ec2e274e392d154d01e15786b928e7bac55a141cd92747aec726.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_418",
+      "dbfId": 90808,
+      "name": "Instrument Tech",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 1,
+      "health": 2,
+      "text": "<b>Battlecry:</b> Draw a weapon.",
+      "flavor": "A tech card without Tradeable? CRINGE.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8d3cc64720d4f6b17edec17572273074a5f423d146dfa26b750b96772d82d1e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_013",
+      "dbfId": 96628,
+      "name": "Jam Session",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "[x]Give a friendly minion\n+3/+3. Deal $1 damage\nto all other minions.\n<b>Overload:</b> (1)",
+      "flavor": "Their skills will make you jelly.",
+      "artist": "Ramzy Kamen",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "multiClassGroup": "Shaman/Warrior",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/030a6abf4775a42463ab21aef57b340c05728d1ceb7180cb17b409b02a8d929d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_010",
+      "dbfId": 95345,
+      "name": "Jukebox Totem",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 0,
+      "health": 4,
+      "text": "[x]At the end of your turn,\nsummon a 1/1 Silver\nHand Recruit.",
+      "flavor": "If you really love Hearthstone, put another coin in the Totem baby!",
+      "artist": "Daniil Kudriavtsev",
+      "collectible": true,
+      "race": "Totem",
+      "otherRaces": [
+        "Mech"
+      ],
+      "playerClass": "Paladin",
+      "multiClassGroup": "Paladin/Shaman",
+      "classes": [
+        "Paladin",
+        "Shaman"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f1d049bc6a10b947f0523568289685febbb64bde63e34813bc66e2e078bf274.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_533",
+      "dbfId": 90648,
+      "name": "Mosh Pit",
+      "cardSet": "Festival of Legends",
+      "type": "Location",
+      "rarity": "Common",
+      "cost": 2,
+      "health": 2,
+      "text": "[x]Spend 3 <b>Corpses</b> to give\na friendly minion <b>Reborn</b>.",
+      "flavor": "Let the Corpses hit the floor!",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30337ababbfb6a7c7728a074a0e9c7cdfeef85e828597a8104eaaae535b88847.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corpse"
+        },
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_021",
+      "dbfId": 95377,
+      "name": "One Hit Wonder",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Rush</b>\n<b>Combo:</b> Gain <b><b>Poisonous</b>.</b>",
+      "flavor": "They're trying to get a second hit in with their next single, \"Divine Shield\".",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4b813aa67a39cb8645b1d6b81051cfe905d783ac6f3f5b5c30dbdc6bb0118cf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Combo"
+        },
+        {
+          "name": "Poisonous"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_350",
+      "dbfId": 91874,
+      "name": "Party Animal",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Give +1/+1\nto a minion of each type\nin your hand.",
+      "flavor": "He's the wildlife of the party! ",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>Festival of Legends</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f69be71e03d17b101929f8438f2dfc2377b6b03ba6f4b4ddc110e1bcc75ecb37.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_026",
+      "dbfId": 95395,
+      "name": "Popular Pixie",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Choose One -</b> Refresh\nyour Hero Power; or\nYour next one costs (0).",
+      "flavor": "Popular Pixie personally prefers particularly powerful pop performances.",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea02526f62d36b22e28dd615fe159876f32f38f7a8a2f60325ff4dbd71afeffd.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_338",
+      "dbfId": 91067,
+      "name": "Power Chord: Synchronize",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "[x]Choose a minion. Add\na copy of it to your hand.\n<b>Finale:</b> Give both +1/+2.",
+      "flavor": "\"It's all about you, girl\nOn your 16,000th birthday\"",
+      "artist": "Vika Yarova",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6f7f5e51e7831395496500def7b38825f010fcad90f8edcddfaa4a4a6327c41.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_015",
+      "dbfId": 95408,
+      "name": "Remixed Tuning Fork",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 2,
+      "durability": 2,
+      "text": "Gains an extra effect in\nyour hand that changes\neach turn.",
+      "flavor": "You can tune a fork, but you can't tune a fish.",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d34571ce7729e0b565e15c6e2cb8dc70ef45007179c8a13d18b06a5db3e9a76.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_532",
+      "dbfId": 90592,
+      "name": "Rewind",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 2,
+      "text": "<b>Discover</b> a copy of another spell you've cast this game.",
+      "flavor": "If you don't find the spell you want, just cast this one more time and see if you get lucky.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20b181591844134462999da822682388c742446b3e43140f3be187ddaccac4eb.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_372",
+      "dbfId": 92340,
+      "name": "Roaring Applause",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "Draw a card.\nRepeat for each minion type you control.",
+      "flavor": "Please clap.",
+      "artist": "Kevin Sidharta",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7fa11c8d58561bc644d19dcc019b2179bbd03bf5d4f0933bff1fd80a48804e65.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_742",
+      "dbfId": 88982,
+      "name": "Rolling Stone",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Rush</b>\n<b>Battlecry:</b> If the last card\nyou played costs (1),\ngain +1/+1.",
+      "flavor": "Sadly, the mariachi band it used to play in gathers no m\u00e1s.",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c6f0488d298824143dfa745c590d3c5b54da469a721fe9124ae1ff4ab3ca5ef.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_411",
+      "dbfId": 90612,
+      "name": "SECURITY!!",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 2,
+      "text": "Summon two 1/1 Illidari with <b>Rush</b>.\n<b>Outcast:</b> Summon\none more.",
+      "flavor": "Check all of the boxes that contain VENGEANCE to play this card.",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b5742683d1bb2ec149b2d8c088086ee34aabefcb6b103c85690bbff52c1d38a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_410",
+      "dbfId": 90608,
+      "name": "Snakebite",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 2,
+      "attack": 1,
+      "health": 1,
+      "text": "<b>Rush</b>\n<b>Battlecry:</b> Gain +1/+1\nfor each minion that died this turn.@ <i>(@)</i>",
+      "flavor": "Don't look her in the eyes or you'll turn to ROCK!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Naga",
+      "playerClass": "Demon Hunter",
+      "howToGetSignature": "Earnable after purchasing the <i>Festival of Legends</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ff7a0332f3785191515b46de71327732ba1c480ada83c59eb5677bd7515c946.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_320",
+      "dbfId": 90694,
+      "name": "Spotlight",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 2,
+      "text": "<b>Tradeable</b>\nConvert a friendly <b>Divine_Shield</b> into a\n5/5 Elemental.",
+      "flavor": "Everyone's eyes are on you! Well, they're also looking at the giant Elemental that we're using as a spotlight, but mainly at you!",
+      "artist": "Hideaki Takamura",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d29a323888076cce1e18cef4bb8be5ef0d2c8b723ffea31fd8a90f6c15734468.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Tradeable"
+        },
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_105",
+      "dbfId": 92246,
+      "name": "Stereo Totem",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 2,
+      "attack": 0,
+      "health": 3,
+      "text": "At the end of your turn, give a random minion in your hand +2/+2.",
+      "flavor": "Pass the ox cord!",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Totem",
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>Festival of Legends</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c500eb476b325dc9ad250aa8501f0dbb2b6f1adec737b32ae1a93570978d3b88.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_423",
+      "dbfId": 91232,
+      "name": "Arcanite Ripper",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "durability": 2,
+      "text": "[x]<b>Deathrattle:</b> Summon a @/@\n<b>Lifesteal</b> Undead. <i>(Change\nyour Health on your turn while\nequipped to improve!)</i>",
+      "flavor": "A guitar with a skull - perfect for headbanging.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 1,
+        "frost": 0,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5696add99f38ba290fbb361c7c151be97213738185aa8cf07dd5d0db1d8ff4fa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_072",
+      "dbfId": 90561,
+      "name": "Beatboxer",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]<b>Combo:</b> Deal 4 damage\nrandomly split among\nall enemies.",
+      "flavor": "\"ERROR. CANNOT COMPUTE 'NO PUNCHING ALLOWED DURING MUSICAL PERFORMANCE'.\"",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8d2493650f32b73d3d7dccce1811aa9f97077476c0fdb7f9b169f51352350ac.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_318",
+      "dbfId": 90689,
+      "name": "Boogie Down",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Summon two 1-Cost minions from your deck.\n<b>Finale:</b> Give them <b>Taunt</b>.",
+      "flavor": "Whatever you do, do NOT sashay to the right.",
+      "artist": "Angelica Alieva",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa6831576da01204f4abdc1582f4b1c823d3fca94c8b6df23b35cbc6b281aa07.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_079",
+      "dbfId": 90606,
+      "name": "Bounce Around (ft. Garona)",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 3,
+      "text": "Return all friendly minions to your hand. They cost (1) this turn.",
+      "flavor": "Another one.",
+      "artist": "Caroline Gariba",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc51f34ea572228de6db5f4c48c7ee1a594bde177b57c159e46aac8fd943a4b0.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_369",
+      "dbfId": 92325,
+      "name": "Chill Vibes",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Restore #8 Health.\n<b>Finale:</b> Summon a 3/3\nElemental with <b>Taunt</b>.",
+      "flavor": "\"You're listening to 47.7 Shaman FM radio. It's time to kick back, relax, and take in the music.\"",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Frost",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5f9afb42cdea74c8314cd4414baa130ab4c5e0f16336ee90004ece93f340579.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_364",
+      "dbfId": 92267,
+      "name": "Chorus Riff",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Draw a minion. Give it +3/+3.\n<b>Finale:</b> Play your last Riff.",
+      "flavor": "What do you mean, what do you mean, I SAY WHAT DO YOU MEEEEEAN, mean, mean, meaaaaaaan this chorus is repetitive?",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fed5e0e57993f58c3f8d3185c3732d3565756fcb2e870a6573bbd724c23564da.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_101",
+      "dbfId": 91885,
+      "name": "Cowbell Soloist",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 4,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> If you control\nno other minions, deal\n2 damage.",
+      "flavor": "Hot take: We need LESS cowbell. Much, much less.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetSignature": "Earnable in <i>Legends Take the Stage</i> special event.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70f9ef19287db15875464aac6b1ae3e9a9fc26fdf1bbae7c49084ced09f37edf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_523",
+      "dbfId": 90484,
+      "name": "Death Metal Knight",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Taunt</b>\nCosts Health instead\nof Mana if your hero was\nhealed this turn.",
+      "flavor": "He prefers listening to bands dead rather than live.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 2,
+        "frost": 0,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d4808229a86dbc1823acb361108449d23d65e2e881ff742d27071748da7a556.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_083",
+      "dbfId": 90994,
+      "name": "Demonic Dynamics",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]<b>Discover</b> 2 Demons.\n<b>Finale:</b> Give them +1/+2.",
+      "flavor": "The Blue Imp Group sure knows how to put on a show!",
+      "artist": "Todd Harris",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Fel",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78581190542950d989e12029f0dfe337df3ab72a89b4a6bf7077462bc46e380f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_317",
+      "dbfId": 90688,
+      "name": "Disco Maul",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "durability": 2,
+      "text": "[x]<b>Deathrattle:</b> Give a random\nfriendly minion +@/+@.\n<i>(Play minions while\nequipped to improve!)</i>",
+      "flavor": "Nah, dis go face.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c9c37fd48270595cd26009cad62a3ec939c343f86b0fbdeb0764db616a47056.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_542",
+      "dbfId": 92240,
+      "name": "Festival Security",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "faction": "Neutral",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\n<b>Finale:</b> Force all enemy\nminions to attack this.",
+      "flavor": "\"Incident in the mosh pit? Copy that, be there in a year.\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>Festival of Legends</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc651db5de778c28c2876dbde71c83b9de75b47a06f3a7ed6256783bb03f2979.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_032",
+      "dbfId": 94852,
+      "name": "Fiddlefire Imp",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Add a random Fire Mage and Fire Warlock spell to your hand.",
+      "flavor": "Most find the stages set aflame by the Grimtotem too dangerous to perform on, but to him they're perfect!",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "multiClassGroup": "Warlock/Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7a249686c952e41317f841c8dee1092d8a2f40d61e9a0e45f257ddbe74a7df8.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_337",
+      "dbfId": 91066,
+      "name": "Funkfin",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": " <b>Divine Shield</b>\nYour minions with\n<b>Divine Shield</b> have +2_Attack.",
+      "flavor": "Shake your groove fin!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Murloc",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b4bac700ff605c9f3ed57e34267888f86bc82613e1219de888577265d33faff.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Aura"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_209",
+      "dbfId": 97528,
+      "name": "Hardcore Cultist",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Battlecry:</b> Deal 2 damage.\n<b>Finale:</b> To all enemies.",
+      "flavor": "Thumb in = devil horns. Thumb out = I love you. A VERY important distinction when you're at a metal concert.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1087ab4e850d0de9f80e9b79234771128653be477509746c6e18fa3b0bc43fa.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_427",
+      "dbfId": 91412,
+      "name": "Harmonic Metal",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "[x]Give 4 random minions\nin your hand +2/+2.\n<i>(Swaps each turn.)</i>",
+      "flavor": "I have bashed together plenty of pieces of metal in my day and not ONCE has it sounded harmonic.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 1,
+        "frost": 0,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80f9b36d5fa1cf60ee07ac29385149f2c47937e4a41b11d14300c0ff65f24600.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_028",
+      "dbfId": 87642,
+      "name": "Harmonica Soloist",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 4,
+      "health": 2,
+      "text": "<b>Battlecry:</b> If you control no other minions, <b>Discover</b> and cast a <b>Secret</b>.",
+      "flavor": "A magician never reveals their Secrets. A musician on the other hand...",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1046cf0b695b49938ee6d2b128706e123b1d7daad8ac00af124a67476d54e41.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        },
+        {
+          "name": "Secret"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_339",
+      "dbfId": 91079,
+      "name": "Heartthrob",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 2,
+      "health": 5,
+      "text": "<b>Overheal:</b> Summon a random minion with Cost equal to the amount <b>Overhealed</b>.",
+      "flavor": "Oh no, Harth! Look out! He's here to rob you!",
+      "artist": "Valeria Styajkina",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Priest",
+      "howToGetSignature": "Earnable after purchasing the <i>Festival of Legends</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72b0712f0200c300e6cc1aecc45e73a31946f68ff4e2ecad72178634275dd35b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overheal"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_534",
+      "dbfId": 90671,
+      "name": "Holotechnician",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "After ANY minion takes exactly 1 damage,\ndestroy it.",
+      "flavor": "Ironically, operating the spotlight comes with very little recognition.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51c4096ad05223c8b6e57871c8542f5cffaf4530bfc5d89503ac59d0d17ac7da.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_813",
+      "dbfId": 90781,
+      "name": "Jazz Bass",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "durability": 2,
+      "text": "[x]<b>Deathrattle:</b> Your next\nspell costs (@) less.\n<i>(<b>Overload</b> while equipped\nto improve!)</i>",
+      "flavor": "No birds, <i>plural</i>, were harmed in the making of this bass.",
+      "artist": "Studio Hive ",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/128b0d2470820586655bd59cbfcbd54e5dc925cb3cbccc4589e3058ba6a26de0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_528",
+      "dbfId": 90534,
+      "name": "Lightshow",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]Shoot two beams at enemies\nthat deal $2 damage. Shoot\none more for each Lightshow\nyou've cast this game.@ <i>(@)</i>",
+      "flavor": "Always remember P.L.U.R.: Peace, Laser-beams, Unity, Respect.",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/799cce9966b102b90d7aa85284b824f7fb55f5b48407afaaae2471e72fa67981.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_335",
+      "dbfId": 90959,
+      "name": "Love Everlasting",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 3,
+      "text": "Your first spell each turn costs (2) less. Lasts until you don't play a spell on your turn.",
+      "flavor": "Poison Bloom was accused of plagiarizing the \"Ooh, how long can this go on (ooh yeah)\" hook from an old-school musical group called The Saronite Chain Gang.",
+      "artist": "Valeria Styajkina",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4268c2059848db403f011411cf7ee0671fd155ad84999d41c8eeda87c0b65c2e.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_422",
+      "dbfId": 91215,
+      "name": "Metrognome",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]After you play a {0}-Cost\ncard, draw a {1}-Cost card.\n<i>(Then increase!)</i>",
+      "flavor": "He's very popular on Click-Clock.",
+      "artist": "Melvin Chan",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3edfc4131b87398e9976bafea626a35d7057aef607cb2d83dc361099f566bfc5.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_075",
+      "dbfId": 90586,
+      "name": "Mic Drop",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 3,
+      "text": "Draw 2 cards.\n<b>Finale:</b> Give your weapon +2 Attack.",
+      "flavor": "The perfect card to play after emoting.",
+      "artist": "Ramzy Kamen",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6767c45e2b59a9813e867049b98933f0fad6cb951d714ca7080ea538d2beb20.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_420",
+      "dbfId": 90968,
+      "name": "Outfit Tailor",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Battlecry:</b> Give a friendly\nminion Attack and Health\nequal to this minion's.",
+      "flavor": "She has this terrible habit of eating melted cheese while on the job.",
+      "artist": "Angelina Chernyak",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5881395e52ca1416d827d630317a776a4b205bc96b55c807cb12bf27da8ad981.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_326",
+      "dbfId": 90700,
+      "name": "Paparazzi",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a <b>Legendary</b> minion.",
+      "flavor": "When you're a Legendary minion, you get a shiny orange gem, a dragon emblem, and about 100 of these people following you everywhere. ",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24e02ceb77b05f0ece8502ec6abf630a83debf3bdc8167b98b6955dcede58e6c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_113",
+      "dbfId": 92332,
+      "name": "Photographer Fizzle",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Take a Snapshot\nof your current hand and\nshuffle it into your deck.",
+      "flavor": "Look at this photograph.",
+      "artist": "Patrik Bjorkstrom",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f43df8b9d849d420906913a6df83af12e95be5ec733c762ce5fd9bb702e0c0ad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_023",
+      "dbfId": 95825,
+      "name": "Plagiarizarrr",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Get a copy\nof the top card of your opponent's deck.",
+      "flavor": "He's also working on his own Hearthstone expansion: Festival of Epics.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Pirate",
+      "playerClass": "Priest",
+      "multiClassGroup": "Rogue/Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a97fa69eeadad716819deb7f94ec5340ad32ea614bda9574cf19a02b4f66ab6c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_408",
+      "dbfId": 90541,
+      "name": "Power Slider",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 2,
+      "health": 3,
+      "text": "[x]<b>Rush</b>\n<b>Battlecry</b>: Gain +1/+1 for\neach minion type you've\nplayed this game.@ <i>(@)</i>",
+      "flavor": "There's a huge difference between a battle-axe and an axe-guitar. One is for combat, and the other is for combat AND rocking out.",
+      "artist": "Alex Stone",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b30ea5580a143b7d176d8352edf00ffe2ce189f46431462b84dafb9f6cb58cf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_518",
+      "dbfId": 90356,
+      "name": "Record Scratcher",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 3,
+      "attack": 3,
+      "durability": 2,
+      "text": "[x]<b>Deathrattle:</b> Refresh\n@ Mana |4(Crystal, Crystals).\n<i>(Play <b>Combo</b> cards while\n____equipped to improve!)</i>__",
+      "flavor": "A Rogue's favorite audio sample is an orchestral stab.",
+      "artist": "Studio Hive ",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afb563a8c11faa059e0042cea176d65ae699f8b63389e675c25ebf893bc61a43.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Combo"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_000",
+      "dbfId": 94727,
+      "name": "Remixed Dispense-o-bot",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "Gains an extra effect in your hand that changes each turn.",
+      "flavor": "\"Mine gave me free money!\"\n\"Mine gave me free ice cream!\"\n\"\u2026 mine gave me two sheep that explode. They were free but I still want a refund.\"",
+      "artist": "Mooncolony",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43cccf34e30bff7c89e3d5ed2b5f50909b41c1679bf1e51d364a84ecdb2c9cf3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "JAM_033",
+      "dbfId": 95464,
+      "name": "Remixed Musician",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Rush</b>\nGains an extra effect in\nyour hand that changes\neach turn.",
+      "flavor": "Like every bard I know, he's a chaotic Neutral jack of all trades.",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3bc44804611292d130304b8c13e722d8f8777abda979bf5a82d50e0dbf7fb28.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_012",
+      "dbfId": 95454,
+      "name": "Remixed Totemcarver",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 2,
+      "text": "Gains an extra effect in your hand that changes each turn.",
+      "flavor": "Music always sounds better on old, wooden speakers.",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a9826b693a40c00e1e5f75f412b188688641b47a0dda7e8c52a989b527c694b.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "JAM_031",
+      "dbfId": 98417,
+      "name": "Reverberations",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Summon a copy of a minion. Each one dies after taking damage.",
+      "flavor": "This sounds much louder in the void.",
+      "artist": "Michaela Nienaber",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "multiClassGroup": "Warlock/Mage",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e88010a4ae42d3fdaeafd116ee838e10ad549f3647b48078bfe268ffcff437c4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_073",
+      "dbfId": 90572,
+      "name": "Rhyme Spinner",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 1,
+      "health": 3,
+      "text": "[x]<b>Rush</b>\n<b>Combo:</b> Gain +1/+1 for each\nother <b>Combo</b> card you've\n played this game.@ <i>(@)</i>",
+      "flavor": "For ONCE we're not talking about ice!",
+      "artist": "Maria Trepalina",
+      "collectible": true,
+      "playerClass": "Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d6acb2189777ba990c761954694eadac6b6581d7b18e09201bac17bf9f63d83.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Combo"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_121",
+      "dbfId": 94248,
+      "name": "Rock Master Voone",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 3,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> Copy a minion\nof each minion type in\nyour hand.",
+      "flavor": "After several audience members were burnt to a crisp, Voone's band became a lot less all-in on Dragons.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "howToGetSignature": "Obtainable in <i>Festival of Legends</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a67d9219e8a655a49cc9fc0a6ede6109484d490cac288dd55515bbb7a5816812.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_107",
+      "dbfId": 92250,
+      "name": "Rowdy Fan",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 1,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Choose a minion. It has +3 Attack while this is alive.",
+      "flavor": "\"This song is so good, it makes me want to PUNCH SOMEONE IN THE FACE!!\"",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "race": "Quilboar",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0cffb2fce89ac001d92893cbf9fb23716df6c7e899e1ab2f58713286e094e7d0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_200",
+      "dbfId": 97003,
+      "name": "Rush the Stage",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "[x]Draw two <b>Rush</b> minions.\nThey cost (1) less.",
+      "flavor": "Left Shark, get to the stage now!",
+      "artist": "Arthur Gimaldinov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c0a4d91a6306f73bacb19fbc1aefa5714d796d260786e0e1ce4dd3a29b7d749.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_305",
+      "dbfId": 90366,
+      "name": "Shadow Chord: Distort",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 3,
+      "text": "Give a minion -5/-5.\nIf it has 0 Attack, destroy it.",
+      "flavor": "For some unknown reason, using distortion intentionally in your music will attract hundreds of geckos to your location.",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63ab29ab0756e1dda19784aa28e6c96a7c5181b39eb7661259ef15d9e2e379e3.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_330",
+      "dbfId": 90945,
+      "name": "Starlight Groove",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 3,
+      "text": "Give your hero <b>Divine Shield</b>. For the rest of the game, playing a Holy spell refreshes it.",
+      "flavor": "In space, no one can hear you groove.",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f413bf747831e79ffacf8ce45d0ca14ab4065704ab8df658a5daffbf3be478ad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_089",
+      "dbfId": 91175,
+      "name": "Static Waveform",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 5,
+      "health": 6,
+      "text": "At the start of EACH turn, lose 1 Attack or Health <i>(chosen randomly).</i>",
+      "flavor": "LET ME <i>SEE</i> YOU MAKE SOME NOISE!!!",
+      "artist": "Daniil Kudriavtsev",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7ecf3012781b0fdecd173a1648298bd3ead79c9fdc1fd1cc8840db0fdc27c18.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "JAM_020",
+      "dbfId": 95374,
+      "name": "Tough Crowd",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 3,
+      "attack": 2,
+      "health": 1,
+      "text": "<b>Outcast:</b> Return a minion to its owner's hand.",
+      "flavor": "\"Your music's bad and you should feel bad.\"",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Rogue",
+      "multiClassGroup": "Demon Hunter/Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46850a2fb22c8465e0f371d85636d6a69c9b7e112bac437e1c58c99a82812e8c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_098",
+      "dbfId": 91511,
+      "name": "Worgen Roadie",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 3,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Summon a 0/3\nInstrument Case for your\nopponent. <i>(Break it for\na random weapon!)</i>",
+      "flavor": "\"I asked for an instrument, and you give me a CURSED BLADE!?\"",
+      "artist": "Kami Johnson",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>Festival of Legends</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37ff9c15c480f6ae2221a409ad4eab108e8e3b312481a5a34f6394484621c7ba.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_024",
+      "dbfId": 97579,
+      "name": "Ambient Lightspawn",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Finale and Overheal:</b>\nGive another random\nfriendly minion +2/+2.",
+      "flavor": "Make sure it's smaller than your other lightspawns for the best fill lighting.",
+      "artist": "Todd Harris",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Priest",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82cad269858a215055d83e41e6384569a0bf61808061d10dd8126cc343ad0e05.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overheal"
+        },
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_014",
+      "dbfId": 94821,
+      "name": "Backstage Bouncer",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 5,
+      "text": "<b>Taunt</b>\n<b>Battlecry:</b> Transform a friendly minion into a copy of this.",
+      "flavor": "Doesn't see your name on the list. Also doesn't know how to read the names on the list.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Warrior",
+      "multiClassGroup": "Shaman/Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be1e8ef44ebd5c60899ec9880f74480d17ed44bd735e887028e754dfc2697eb1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_357",
+      "dbfId": 92225,
+      "name": "Brass Elemental",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Rush</b>, <b>Divine Shield</b>,\n<b>Taunt</b>, <b>Windfury</b>",
+      "flavor": "You handle the water spells. It's got the earth, wind, and fire covered.",
+      "artist": "Daniil Kudriavtsev",
+      "collectible": true,
+      "race": "Elemental",
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1b468637a33b0698d967cedbd2b2c654823d89867d1d16083adcc989f94539f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_543",
+      "dbfId": 92242,
+      "name": "Candleraiser",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Divine Shield</b>\n<b>Finale:</b> Give adjacent\nminions <b>Divine Shield</b>.",
+      "flavor": "You would not believe your eyes\nIf ten million kobold guys\nLit up the world to this ogre beat",
+      "artist": "Jason Kang",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f45f8a07a45dda104f1e049540573b6aa3b7f6318e3c34e019b4ee13dc1fcc7e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_007",
+      "dbfId": 94736,
+      "name": "Cool Ghoul",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 1,
+      "text": "<b>Divine Shield</b>\n<b>Reborn</b>",
+      "flavor": "He has disco fever! :D\nBecause of the disco plague. :(",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "multiClassGroup": "Death Knight/Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a4bd79d2964c299d2e30f5fbaf88eacc9e241b3591c4fcc4dc06670a1282d3c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Reborn"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_110",
+      "dbfId": 92256,
+      "name": "Cover Artist",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 3,
+      "text": "<b>Battlecry:</b> Transform into\na 3/3 copy of a minion.",
+      "flavor": "The Faceless Ones are servants of Yogg-Saron, and they feed on fear. Right now they are feeding on our fear of you realizing we copied this flavor text.",
+      "artist": "Jay Axer",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/161bb0a448944ec5ac43d271e322885f2b6b60d989ef62eb610fe3ea523dab26.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_070",
+      "dbfId": 90461,
+      "name": "Crazed Conductor",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Take Fatigue\ndamage. Summon that\nmany 3/3 Imps.@[x]<b>Battlecry:</b> Take {0} Fatigue\ndamage. Summon that\nmany 3/3 Imps.",
+      "flavor": "\"The Twisting Nether is singing to me\u2026 WHAT IS THAT MELODY!?\"",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78e93a3d2b73b8d84f6a25ac9b9365118251497224e622c77567633e83e34bb5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_080",
+      "dbfId": 90749,
+      "name": "E.T.C., Band Manager",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]While building your deck,\nassemble a band of 3 cards.\n_<b>Battlecry: Discover</b> one!",
+      "flavor": "\"This next band features the one and only M.C. Tech on the drums, the fungal king of the keyboard Loatheb, and the showstopping vocal chops of Spellbreaker!\"",
+      "artist": "Edgar Hidalgo",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Earnable after opening a <i>Festival of Legends</i> card pack.",
+      "howToGetDiamond": "Obtained by purchasing the Diamond E.T.C., Band Manager card.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/459bd569f3402a7dbd1bb5378ba35907dc49fb729daaf8d8bf5b7c442c518500.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_316",
+      "dbfId": 90687,
+      "name": "Fight Over Me",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "Choose two enemy minions. They fight!\nAdd copies of any that\ndie to your hand.",
+      "flavor": "And you thought the battles between the Alliance and Horde got ugly\u2026",
+      "artist": "Vika Yarova",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9df419a59bdf8f20f53cac701d53dfa52de0c373e940b1d2e66d9ef4eb39e24.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_336",
+      "dbfId": 90972,
+      "name": "Freebird",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "health": 2,
+      "text": "[x]<b>Charge</b>\n<b>Battlecry:</b> Gain +1/+1 for\neach other Freebird you've\nplayed this game.@ <i>(@)</i>",
+      "flavor": "Free!? But it costs Mana!",
+      "artist": "Daniele Orizio",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35c1c3ab46fe3d66cbd95019224f91c271c589adb8227e033ce4388b448cd7b0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Charge"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_405",
+      "dbfId": 90532,
+      "name": "Glaivetar",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "durability": 2,
+      "text": "[x]_<b>Deathrattle:</b> Draw @ |4(card, cards)._\n<i>(Play <b>Outcast</b> cards while\n_equipped to improve!)</i>",
+      "flavor": "Might need tuning, I think it's a bit sharp.",
+      "artist": "Studio Hive ",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b747344243f368189990b19430b407d7d482774dd4bc1c6e947770458c0ea36c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Outcast"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_035",
+      "dbfId": 95630,
+      "name": "Grimtotem Buzzkill",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 5,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Discard a weapon to draw 3 cards.",
+      "flavor": "I'd be mad too if you called me a 'buzzkill'.",
+      "artist": "Mike Sass",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6f3e3e05bfa321be56b6dd02c7c423c0e64c41b7390ddc2e98ece88f08bdcff.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_399",
+      "dbfId": 96999,
+      "name": "Halveria Darkraven",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Rush</b>\nAfter a friendly <b>Rush</b>\nminion attacks, give your minions +1_Attack.",
+      "flavor": "You know someone's cool when their name sounds like a font.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "howToGetDiamond": "Obtained by owning 27 <i>Festival of Legends</i> Legendary cards.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5eb7213a77b6efbb2d3ac9a2f3c68fe31f513afe77483aca066098469d0c340.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_334",
+      "dbfId": 90956,
+      "name": "Heartbreaker Hedanis",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 8,
+      "text": "[x]<b>Battlecry:</b> Deal 4 damage\nto this minion.\n<b>Overheal:</b> Deal 5 damage\nto a random enemy.",
+      "flavor": "Hedanis has won over the hearts and minds of millions of fans all over Azeroth! Shadow magic had nothing to do with it - not that you asked or anything.",
+      "artist": "Dez Bencosme",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Priest",
+      "howToGetDiamond": "Earnable after purchasing the <i>Festival of Legends</i> Tavern Pass.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84b9e93e63fe2c06c4a166e83e133b4fa2c6b69c0f3db49dc66caaf34aea9fba.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Overheal"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_400",
+      "dbfId": 90441,
+      "name": "Instrument Smasher",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]Whenever your weapon is\ndestroyed, equip a random\nDemon Hunter weapon.",
+      "flavor": "Guitar? Nah, she plays percussion.",
+      "artist": "Juan Calle",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89a1cf5db487bac7a32c18b753f54e2cd98f3846c7560f68493cadcb7a45a9a4.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_324",
+      "dbfId": 90698,
+      "name": "Jitterbug",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 3,
+      "text": "<b>Divine Shield</b>\nAfter a friendly character loses_<b>Divine Shield</b>, draw a card.",
+      "flavor": "The only bug that was intentional.",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/46b7f27cb39e17f7769f0f25742e593cf5030850c2e42b9451f14e5694cf76ef.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Divine Shield"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_832",
+      "dbfId": 91495,
+      "name": "Jungle Jammer",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 4,
+      "durability": 2,
+      "text": "[x]<b>Deathrattle:</b> Summon a\nrandom @-Cost Beast.\n<i>(Cast spells while\n____equipped to improve!)</i>__",
+      "flavor": "When asked what animal they would be, people always say things like \"I'd be wolf-lion hybrid mix. King of the jungle, but still sociable and ferocious.\" No, you'd be a rat.",
+      "artist": "Cynthia  Garcia",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9aa7d46a2e400aeed1d5f6110108b65edcbfe1e2ad00b8027f7136893c8ac01.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_029",
+      "dbfId": 87648,
+      "name": "Keyboard Soloist",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> If you control no\nother minions, summon\ntwo 1/2 Amps with\n<b>Spell Damage +1</b>.",
+      "flavor": "Give her a hand, everybody! Or maybe 4!",
+      "artist": "James Ryman",
+      "collectible": true,
+      "race": "Naga",
+      "playerClass": "Mage",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1dc08a426440726e81583ff3748df3e1aafd3366026c182eb552df26aeec315.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Spell Damage"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_520",
+      "dbfId": 90359,
+      "name": "Kodohide Drumkit",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "durability": 2,
+      "text": "[x]<b>Deathrattle:</b> Deal @\ndamage to all minions.\n<i>(Gain Armor while\n____equipped to improve!)</i>__",
+      "flavor": "Stolen from a druidic drum circle, now destined to make music that is actually good.",
+      "artist": "Studio Hive ",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf8e23654fdfb8a6cd57878b0be91b1c640ac3ea4e1f065228a6aa1afba5e7d0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_111",
+      "dbfId": 92258,
+      "name": "Merch Seller",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]At the end of your turn, put\na random spell on the top\n_of your opponent's deck.",
+      "flavor": "\"Sorry, we're all out of Mediums. All we've got left are Gnome, Extra Large, and Annihilan.\"",
+      "artist": "Tanamaes Leejierasaes",
+      "collectible": true,
+      "race": "Naga",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f46fa537ae93fa306c0c2cf7dbe0ad5506164a8a7d53407a1c7aa7ea58d4eb09.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_108",
+      "dbfId": 92252,
+      "name": "Obsessive Fan",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 6,
+      "text": "<b>Battlecry:</b> Choose a minion. It has <b>Stealth</b> while this is alive.",
+      "flavor": "\"Obsessed? No! I'm just really really really really really really really really really really into E.T.C.'s music and everything he says, does, thinks, lives, and breathes!\"",
+      "artist": "Vika Yarova",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02a2064473a36beb6d154789f77653f69a8debee1bfb09da2fc457246853431e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Stealth"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_425",
+      "dbfId": 91252,
+      "name": "Pozzik, Audio Engineer",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Add two 3/3 Bots to your opponent's hand. <b>Deathrattle:</b> Summon them for yourself.",
+      "flavor": "\"I'm down here, fixin' all the Gnomish tech that breaks down mid-set while that buffoon Fizzle is up there taking pictures of the sky. YOU tell ME who's the better engineer!\"",
+      "artist": "Kevin Sidharta",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGet": "Earnable after collecting 30 <i>Festival of Legends</i> cards.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/334f32a9e7f63d64400012e3181079062b03ee05efafc99272683261fe5ee84b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_540",
+      "dbfId": 92235,
+      "name": "Pyrotechnician",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 4,
+      "attack": 2,
+      "health": 5,
+      "text": "[x]After you cast a spell,\nadd a random Fire spell\nto your hand.",
+      "flavor": "The difference between a pyrotechnician and a pyromaniac is a paycheck.",
+      "artist": "Mauricio Herrera",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3202617018f8eeb43ee0898d384fb9a6f1040290879e68c9d867526d6061b39.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_387",
+      "dbfId": 94251,
+      "name": "Rhythm and Roots",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 4,
+      "text": "[x]<b>Choose One (Secretly) -</b>\nSummon three 5/5\nAncients in 2 turns; or\n8/8 Giants in 4 turns.",
+      "flavor": "For Zok's latest song, he decided to go back to his roots. Like the ones on a tree. Tree roots.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8327c634f46e8308c0ea5358a6274264ec3cdba1b073eb27de74138805feb37a.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "JAM_019",
+      "dbfId": 94802,
+      "name": "Rhythmdancer Risa",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 4,
+      "attack": 3,
+      "health": 5,
+      "text": "[x]<b>Rush</b>\nAfter your hero attacks,\nreturn this to your hand\nand set its Cost to (1).",
+      "flavor": "Shadowstep to the left!\nDouble jump to the right!\nClass cross!",
+      "artist": "Sergey Tsvelykh",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Rogue",
+      "multiClassGroup": "Demon Hunter/Rogue",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d412b1078975f12df0579b99b240b6bfbdb8e77b050018c57368b079b3429cad.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_034",
+      "dbfId": 95405,
+      "name": "Speaker Stomper",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 4,
+      "health": 4,
+      "text": "[x]<b>Tradeable</b>\n<b>Battlecry:</b> Enemy spells\ncost (2) more next turn.",
+      "flavor": "Just like in Hoofloose.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b2bef369e06ba9f09107c55aed86b363cfb4fd7484a318f63ea65fa80b532fe.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Tradeable"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_384",
+      "dbfId": 94225,
+      "name": "Spread the Word",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 4,
+      "text": "Draw 2 cards.\nCosts (1) less for each Attack your hero has.",
+      "flavor": "W_____O_____R_____D",
+      "artist": "Todd Harris",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a28082cecc4e399e099455f1ac9acca8867ecb3d3c0897cfc3da92fecce6b8f.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_388",
+      "dbfId": 94381,
+      "name": "Timber Tambourine",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "cost": 4,
+      "attack": 2,
+      "durability": 3,
+      "text": "[x]<b>Deathrattle:</b> Summon @\n5/5 |4(Ancient, Ancients). <i>(Play cards\nthat cost (5) or more while\n__equipped to improve!)</i>",
+      "flavor": "Timberine anyone? TIMBERINE!?",
+      "artist": "Cynthia  Garcia",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/167f288e424b9c3411a784d26d180e4cc7741bde0c10456a656535cfac528fe5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_205",
+      "dbfId": 97360,
+      "name": "Volume Up",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 4,
+      "text": "Draw 3 spells.\n<b>Finale:</b> <b>Discover</b>\na copy of one.",
+      "flavor": "You have to pay Mana to do that!? I thought it was just in the settings menu!",
+      "artist": "Angelica Alieva",
+      "collectible": true,
+      "playerClass": "Mage",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79b041b35477252ebae5cf84118b3777f2c7864424006e569af291151c9c482c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_005",
+      "dbfId": 95344,
+      "name": "Yelling Yodeler",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 4,
+      "attack": 3,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Trigger a friendly\nminion's <b>Deathrattle</b> twice.",
+      "flavor": "Maybe it's OK for the Grimtotem to destroy <i>some</i> music forever.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "multiClassGroup": "Hunter/Death Knight",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa857dfbff05a790bf3571fdbbf38be8a675ac04441c28e1c261f7e5cb116a79.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_356",
+      "dbfId": 92222,
+      "name": "Altered Chord",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "<b>Lifesteal</b>\nDeal $6 damage to a\nminion. Costs (3) less\nif you're <b>Overloaded</b>.",
+      "flavor": "I'll never understand how bands and orchestras allow musicians that just\u2026. play... off-key. Would love opinions on this.",
+      "artist": "Juan Calle",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0aba34c1e2405e40c21dd8362c1ea50385e3a9d121760210115648d669e6851.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_838",
+      "dbfId": 92296,
+      "name": "Big Dreams",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Summon the\nhighest Cost Beast\nfrom your hand. It goes <b>Dormant</b> for 2 turns.",
+      "flavor": "Just a small town Taunka\nLivin' in a lonely... waunka",
+      "artist": "Tanamaes Leejierasaes",
+      "collectible": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f00f9f893de98da6557de638194db17b80ba451323adf9f625dd36b64cd50ce.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Dormant"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_417",
+      "dbfId": 90678,
+      "name": "Blackrock 'n' Roll",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 5,
+      "text": "Give all minions in your deck Attack and Health equal to their Cost.",
+      "flavor": "Thank goodness it's not called Black-ska Mountain.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warrior",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a74b20099404247e422fb465fe3b077abd5c406cc253a19e7289ba2e5135ca6d.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "JAM_028",
+      "dbfId": 94798,
+      "name": "Blood Treant",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 2,
+      "health": 2,
+      "text": "Costs Health instead\nof Mana.",
+      "flavor": "The blood of my enemies makes for some great fertilizer!",
+      "artist": "Ian Ameling",
+      "collectible": true,
+      "playerClass": "Druid",
+      "multiClassGroup": "Druid/Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6bc9d6e1afd8429a0924eadedaa85243451751d665fc8e753b14abdef30e14a1.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_428",
+      "dbfId": 91493,
+      "name": "Boneshredder",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 5,
+      "health": 4,
+      "text": "[x]<b>Battlecry:</b> Spend 5 <b>Corpses</b> to\ntrigger and gain the <b>Deathrattle</b>\nof a random friendly minion\nthat died this game.",
+      "flavor": "Is that his makeup or just his natural fur pattern?",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 1
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45885dfbf9602466f5378b42411ed838ca3c44e427c310cdf12dc8d65c03e3ed.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Corpse"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_365",
+      "dbfId": 92268,
+      "name": "Bridge Riff",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Epic",
+      "cost": 5,
+      "text": "[x]Summon a 3/4 Rocker with\n<b>Taunt</b> and a 4/3 with <b>Rush</b>.\n<b>Finale:</b> Play your last Riff.",
+      "flavor": "Can be played in other places too.",
+      "artist": "Alex Stone",
+      "collectible": true,
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5803f3a926f1b68a63d4c97f33f29ec34dc9b234bb2c21f288a27517cf78dc93.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_035",
+      "dbfId": 87682,
+      "name": "Drum Soloist",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> If you control\nno other minions, gain\n+2/+2 and <b>Rush</b>.",
+      "flavor": "\"Was I rushin' or was I dragon?\"",
+      "artist": "Zoltan Boros",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Warrior",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92f0b77d27338cf4a08cce18307a2c0786908d4066fee017b2e688b6271b9625.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_037",
+      "dbfId": 96621,
+      "name": "Elite Tauren Champion",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Finale:</b> Start a ROCK DUEL!\n___Players must spend all their___\nMana each turn or else they\ntake 8 <i>(or more)</i> damage!",
+      "flavor": "Strumming his guitar with a molten ember from the first fire of Azeroth, E.T.C.'s ear-splitting, heart-wrenching, head-banging solo held back Magatha and her forces of evil, single-handedly saving music for centuries to come.",
+      "artist": "Rafael Zanchetin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/729c12c05097378041d628b326c4fe5dbb67afb4693873171264bf96364359ce.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_088",
+      "dbfId": 91080,
+      "name": "Ghost Writer",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 4,
+      "text": "<b>Battlecry:</b> <b>Discover</b> a spell. <b>Finale:</b> <b>Discover</b> another.",
+      "flavor": "This eccentric scribe was cursed to an afterlife of never being recognized for his talents! Muahaha!",
+      "artist": "Edgar Hidalgo",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>Festival of Legends</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cecb625aeac7eec65e8b8ab7bfafe8bfe3eba120537deb3337d556dad5a461a3.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Finale"
+        },
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_413",
+      "dbfId": 90615,
+      "name": "Going Down Swinging",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 5,
+      "text": "[x]Give your hero +2 Attack\nand <b>Immune</b> this turn, then\n attack each enemy minion.",
+      "flavor": "Halveria was outcast from Gilneas for being too edgy, which she sees as an achievement.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84a3396f45af01a758788bfb5c936fb2c6256ab29083616961ab5a93e7ebff58.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_026",
+      "dbfId": 87639,
+      "name": "Guitar Soloist",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 3,
+      "text": "[x]<b>Battlecry:</b> If you control no\nother minions, draw a spell,\na minion, and a weapon.",
+      "flavor": "She is the hero of the guitar. The guitar hero. Trademark.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be04ac51f483b76f079baa0487a411cdc311d599de5b0b31535301cdaf2a71a0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_506",
+      "dbfId": 88580,
+      "name": "Harmonic Disco",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "<b>Discover</b> a 5-Cost minion. Summon it\nwith +1/+1.\n<i>(Swaps each turn.)</i>",
+      "flavor": "\"Worry not, festival patrons! A disco is hardly any means for panic!\"",
+      "artist": "Vlad Botos",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9005a6292b6ec9760a106408219562811f8b8ab8f6ac25647512676733bb346.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_371",
+      "dbfId": 92338,
+      "name": "Inzah",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> For the rest of the game, your <b>Overload</b> cards cost (1) less.",
+      "flavor": "Inzah plays the trumpet, saxophone, piano, guitar, AND bass. No wonder he's always so overloaded!",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "howToGetSignature": "Obtainable in <i>Festival of Legends</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b4c168cd6735448129e91ed6437adfaa97e33eb25a11e253e93ae9b07e3e18b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_362",
+      "dbfId": 92232,
+      "name": "JIVE, INSECT!",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 5,
+      "text": "Transform a minion into\nRagnaros the Firelord.\n<b>Overload:</b> (2)",
+      "flavor": "\"WHY IS NO ONE JIVING? I SPECIFICALLY REQUESTED IT!\"",
+      "artist": "Ivan Fomin",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Shaman",
+      "spellSchool": "Fire",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f24dda0f47ca48c47d4c5f637aad84b31f8d33f470f3caf063c090ba9b855a0.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_329",
+      "dbfId": 90944,
+      "name": "Kangor, Dancing King",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 3,
+      "text": "[x]<b>Lifesteal</b>\n<b>Deathrattle:</b> Swap this with\na minion from your hand\nand give it <b>Lifesteal</b>.",
+      "flavor": "After Dr. Boom's involvement with the League of EVIL, Kangor cut ties with the Boomsday Labs and began pursuing his true passion - DISCO!!!",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Paladin",
+      "howToGetSignature": "Obtainable in <i>Festival of Legends</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7db46f19be7a81e75b9370537d597a0df6990d0f303193c1dd02a4214cd20c56.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_036",
+      "dbfId": 94822,
+      "name": "Magatha, Bane of Music",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Battlecry:</b> Draw 5 cards. Give any spells drawn\nto your opponent.",
+      "flavor": "Not to be confused with that one other \"-agatha\" that likes when you play minions.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Neutral",
+      "howToGetDiamond": "Obtained by purchasing the Golden Audiopocalypse Mini-Set.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0aa4e41e818384ae3cffbae2cc2c87e5610a6efd156b37b11ec6c5a9d0fd6e6.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_078",
+      "dbfId": 90603,
+      "name": "MC Blingtron",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 5,
+      "health": 5,
+      "text": "[x]<b>Battlecry:</b> Both players equip\n1/2 Microphones. Your\nopponent's increases all\ndamage they take by 1!",
+      "flavor": "If this is the outcome of the robot uprising, then sign me up!",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "elite": true,
+      "race": "Mech",
+      "playerClass": "Rogue",
+      "howToGetSignature": "Obtainable in <i>Festival of Legends</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90ac28963c3cc7cfd84aa001ae1289e4de309b9554f3bbcdbc44e94546d88a11.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_034",
+      "dbfId": 87681,
+      "name": "Opera Soloist",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "<b>Battlecry:</b> If you control\nno other minions, deal\n3 damage to all enemy minions.",
+      "flavor": "It ain't over until the imp mother sings.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7cb97a9743cc4075dcf3891598ff580839eb4ee51ab3a18281d8d8bad6149636.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_018",
+      "dbfId": 95856,
+      "name": "Remixed Rhapsody",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "Deal $3 damage\nto all minions. Gains an extra effect in your hand that changes each turn.",
+      "flavor": "\"Is this real life?\"\n\"No, this is a card game.\"",
+      "artist": "Anton Zemskov",
+      "collectible": true,
+      "playerClass": "Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14df56bb10c7a3a0923a3d0d8abfc092afc1eb6c4a806cc911ed7889ec1c8976.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "ETC_071",
+      "dbfId": 90463,
+      "name": "Rin, Orchestrator of Doom",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>. <b>Deathrattle:</b> Both\nplayers draw 2 cards, discard\n2 cards, and destroy the top\n2 cards of their deck.",
+      "flavor": "Rin's orchestra is the best of the best. When your replacement is just one summoning away, you have to play perfectly.",
+      "artist": "Anzka Nguyen",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "howToGetDiamond": "Obtained by purchasing the Diamond Rin, Orchestrator of Doom card.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a71ddc29183dc039ddbaec1999b0149dec9662b4e1793b4217089e8250fe786.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_522",
+      "dbfId": 90481,
+      "name": "Screaming Banshee",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 5,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]<b>Lifesteal</b>\n_After your hero gains Health,_\nsummon a Soul with that\n_much Attack and Health.",
+      "flavor": "Her singing will be sure to wake you up (wake you up inside).",
+      "artist": "Konstantin Turovec",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 1,
+        "frost": 0,
+        "unholy": 0
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd7eb4b6358a310d129f2cac25c853ed394b11a2910b4534162b9eafa657ce03.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_002",
+      "dbfId": 96627,
+      "name": "Star Power",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 5,
+      "text": "[x]Deal $5 damage to a\nrandom enemy minion.\nRepeat this with 1\nless damage.",
+      "flavor": "Five of the spectators were star-struck.",
+      "artist": "Ursula Dorada",
+      "collectible": true,
+      "playerClass": "Mage",
+      "multiClassGroup": "Mage/Hunter",
+      "spellSchool": "Arcane",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96d97c9bccafb7c13c7adfe0f6a79841bedb4e259b30a8489e7ce1097698eb74.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "ImmuneToSpellpower"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_376",
+      "dbfId": 94205,
+      "name": "Summer Flowerchild",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 5,
+      "attack": 4,
+      "health": 5,
+      "text": "[x]__<b>Battlecry:</b> Draw two cards__\nthat cost (6) or more.\n<b>Finale:</b> They cost (1) less.",
+      "flavor": "\"Ugh, those Winter Floweradults just don't get our music.\"",
+      "artist": "Tanamaes Leejierasaes",
+      "collectible": true,
+      "playerClass": "Druid",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df7c8217469d59f472637d1adf7641890285ca5d146d0bf4a49988eccb308f9d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_085",
+      "dbfId": 91001,
+      "name": "Symphony of Sins",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 5,
+      "text": "[x]<b>Discover</b> and play a\nMovement. Shuffle the\nother 6 into your deck.",
+      "flavor": "Makes for some killer final boss music.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcbfbb3e6c61f2bc1340da324ad2567a97dc55ab0079b61c5c01bace10c2e999.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Discover"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_541",
+      "dbfId": 92237,
+      "name": "Tony, King of Piracy",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 5,
+      "attack": 4,
+      "health": 6,
+      "text": "Both players' decks\nare swapped.\n<b>Finale:</b> Draw a card.",
+      "flavor": "Tony prefers sailing on torrents rather than streams.",
+      "artist": "A.J. Nazzaro",
+      "collectible": true,
+      "elite": true,
+      "race": "Pirate",
+      "playerClass": "Neutral",
+      "howToGetSignature": "Obtainable in <i>Festival of Legends</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/470fb2ac2f03d1aa01f6b9e34c87fa635e9fd18292180d69fed4cb44b4d87af5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Aura"
+        },
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_082",
+      "dbfId": 90993,
+      "name": "Dirge of Despair",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "[x]Deal $3 damage to a\ncharacter. If that kills it,\nsummon a Demon from\nyour deck.",
+      "flavor": "Oh, the misery!",
+      "artist": "Sergey Tsvelykh",
+      "collectible": true,
+      "playerClass": "Warlock",
+      "spellSchool": "Shadow",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a20f086cf97bfb96cd0dd1f9ccb76cec1eddbc76b63d8227c5ae05d1fe812d83.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "JAM_029",
+      "dbfId": 98382,
+      "name": "Doomkin",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 3,
+      "health": 4,
+      "text": "<b>Battlecry:</b> Take one of\nyour opponent's empty Mana_Crystals.",
+      "flavor": "Now THIS is Mana cheating.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "playerClass": "Druid",
+      "multiClassGroup": "Druid/Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/873fcd1af9ba23d33a548966529c1f3e61c68604a61bc913bd37df843e15bc17.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_314",
+      "dbfId": 90683,
+      "name": "Harmonic Pop",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 6,
+      "text": "Deal $3 damage to all minions. Summon\na 6/6 Popstar.\n<i>(Swaps each turn.)</i>",
+      "flavor": "Here with supporting vocals: Snap and Crackle!",
+      "artist": "Vika Yarova",
+      "collectible": true,
+      "playerClass": "Priest",
+      "spellSchool": "Holy",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ce162b01663097a45273415677d945aeed56f957839e161c905fb397e737dca.png",
+      "locale": "enUS"
+    },
+    {
+      "cardId": "JAM_004",
+      "dbfId": 94735,
+      "name": "Hollow Hound",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 6,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]<b>Lifesteal</b>, <b>Rush</b>\nAlso damages minions next\nto whomever this attacks.",
+      "flavor": "Uh oh, the hollow hound is coming out of its cage! Don't worry though, it's doing just fine.",
+      "artist": "Slawomir Maniak",
+      "collectible": true,
+      "race": "Undead",
+      "otherRaces": [
+        "Beast"
+      ],
+      "playerClass": "Hunter",
+      "multiClassGroup": "Hunter/Death Knight",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de206712c9dfb6135b7d3cea895fa9a8af4ea5a507d2218783bb3f71de316860.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Lifesteal"
+        },
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_011",
+      "dbfId": 95350,
+      "name": "Horn of the Windlord",
+      "cardSet": "Festival of Legends",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 3,
+      "durability": 4,
+      "text": "[x]<b>Windfury</b>\nWhenever your hero\nattacks a minion, set\nits stats to 3/3.",
+      "flavor": "Woodwinds! Obey my command!",
+      "artist": "Studio Hive ",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "multiClassGroup": "Paladin/Shaman",
+      "classes": [
+        "Paladin",
+        "Shaman"
+      ],
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc79aeffc31f2c4d4f64e9a73e26c46afa0150cc75e1f57c41232e37c36a60ee.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Windfury"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_328",
+      "dbfId": 90941,
+      "name": "Lead Dancer",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 6,
+      "attack": 4,
+      "health": 2,
+      "text": "[x]<b>Deathrattle:</b> Summon a\nminion from your deck\nwith less Attack than\nthis minion.",
+      "flavor": "\"Follow my lead!\"\n\n*dies*",
+      "artist": "Angelica Alieva",
+      "collectible": true,
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81f10ebc2e8587184647a81c585ac0d328ebe56b391afbdbb66766abc783de56.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_836",
+      "dbfId": 91498,
+      "name": "Mister Mukla",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 6,
+      "attack": 10,
+      "health": 10,
+      "text": "[x]<b>Rush</b>. <b>Battlecry:</b> Fill\nyour opponent's hand\nwith Bananas.",
+      "flavor": "Music is Mukla's escape from his anger. When he's on-stage, it's like he's a whole different gorilla\u2026 Until you boo him.",
+      "artist": "Nicola Saviori",
+      "collectible": true,
+      "elite": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "howToGetSignature": "Obtainable in <i>Festival of Legends</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/665312f7cb4a5e0093ac5e9b799677dbfb8b722c1975300431f0aa185474e93b.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        },
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_349",
+      "dbfId": 91872,
+      "name": "Unpopular Has-Been",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 6,
+      "attack": 5,
+      "health": 5,
+      "text": "<b>Deathrattle:</b> Summon a random 5-Cost minion from the past.",
+      "flavor": "Oh man, she used to rock more than ANYONE back in the Year of the Kraken. I wish I could've seen her perform back then\u2026",
+      "artist": "Sergey Tsvelykh",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b885e3a16ebf5d8c5acf89b0ccdd8398ae20cc1ed24a81be0509cc807deda65e.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_016",
+      "dbfId": 94819,
+      "name": "Abyssal Bassist",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 7,
+      "attack": 4,
+      "health": 7,
+      "text": "[x]<b>Taunt</b>, <b>Lifesteal</b>\nCosts (2) less for each\nweapon you've equipped\nthis game.",
+      "flavor": "DROP THE BASS (INTO THE ABYSS)!",
+      "artist": "Jaemin Kim",
+      "collectible": true,
+      "race": "Demon",
+      "playerClass": "Demon Hunter",
+      "multiClassGroup": "Warrior/Demon Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73eb97c53919a9b06772d6e6c4543cb06bb0650d5d501f78ae9bc3de30f88ac7.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_373",
+      "dbfId": 94201,
+      "name": "Drum Circle",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Rare",
+      "cost": 7,
+      "text": "<b>Choose One -</b> Summon five 2/2 Treants;\nor Give your minions +2/+4 and <b>Taunt</b>.",
+      "flavor": "It's more of a drum pentagon, really.",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Druid",
+      "spellSchool": "Nature",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/283b7e281175a8359a3c827df740ec8091a995245903f026410fba752073d7f1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_370",
+      "dbfId": 92335,
+      "name": "Pack the House",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Common",
+      "cost": 7,
+      "text": "Summon a random 6, 5, 4, and 3-Cost minion.\n<b>Overload:</b> (2)",
+      "flavor": "How many Pack the Houses would a pack house if a pack could house Pack the House?",
+      "artist": "BOSi Studio",
+      "collectible": true,
+      "playerClass": "Shaman",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a70f2ce8f92048e1e7d736390bdb7d75894bbd257ffcfe99b2f04ead073273b2.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Overload"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_409",
+      "dbfId": 90543,
+      "name": "The One-Amalgam Band",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Gain a\n random bonus effect for\neach minion type you've\nplayed this game.@ <i>(@)</i>",
+      "flavor": "Why be good with ONE instrument when you can be terrible with ALL of them!!!",
+      "artist": "Vladimir Kafanov",
+      "collectible": true,
+      "elite": true,
+      "race": "All",
+      "playerClass": "Neutral",
+      "howToGetSignature": "Obtainable in <i>Festival of Legends</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/150d279652e8727bdf4a7ac17e6c5f172a9ff6ddbd48f5edbc5e10a85aa6299a.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_386",
+      "dbfId": 94250,
+      "name": "Zok Fogsnout",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 7,
+      "attack": 6,
+      "health": 6,
+      "text": "[x]<b>Battlecry:</b> Summon two\n{0}/{1} Quilboar with <b>Taunt</b>.\n_<i>(Improved by your hero Attack_\n__& Armor gained this turn!)</i>",
+      "flavor": "Despite having only 3 digits on each hand, Zok plays Bass like he has 5.",
+      "artist": "Max Grecke",
+      "collectible": true,
+      "elite": true,
+      "race": "Quilboar",
+      "playerClass": "Druid",
+      "howToGetSignature": "Obtainable in <i>Festival of Legends</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d11eedad2b1e6451a6f62163f978a786b8ac86e96cdc0318d9dec39436ee06c.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_526",
+      "dbfId": 90497,
+      "name": "Cage Head",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 8,
+      "attack": 5,
+      "health": 1,
+      "text": "<b>Deathrattle:</b> Summon\na 9/9 Blight Boar with <b>Charge</b> and <b>Taunt</b>.",
+      "flavor": "You get your head stuck in a cage ONCE, and all of a sudden you've got a new nickname.",
+      "artist": "Alex Horley Orlandelli",
+      "collectible": true,
+      "elite": true,
+      "race": "Undead",
+      "playerClass": "Death Knight",
+      "howToGetSignature": "Obtainable in <i>Festival of Legends</i> card packs.",
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 2
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7541e08b7e05a898e5e6312c0903e09bc9dc482684111d8324b12f23b58312e9.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Charge"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_099",
+      "dbfId": 91659,
+      "name": "Concert Promo-Drake",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 8,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Tradeable</b>\n<b>Finale:</b> Destroy an\nenemy minion.",
+      "flavor": "There's a reason why it's promoting the festival instead of playing in it - it's a rhyme-lost protodrake.",
+      "artist": "L. Lullabi & K. Turovec",
+      "collectible": true,
+      "race": "Dragon",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71d279b4d5e4bd0d54f96ff094c2268e5bddf96dca1eef3e21ec548e2b48a39d.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Tradeable"
+        },
+        {
+          "name": "Finale"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_419",
+      "dbfId": 90966,
+      "name": "Mish-Mash Mosher",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 8,
+      "attack": 3,
+      "health": 10,
+      "text": "[x]<b>Rush</b>\nAfter this attacks, gain\n+1 Attack and attack a\n_random enemy minion.",
+      "flavor": "In the pit, he feels more alive than ever.",
+      "artist": "Luca Zontini",
+      "collectible": true,
+      "race": "Undead",
+      "playerClass": "Neutral",
+      "howToGetGold": "Earnable on the <i>Festival of Legends</i> Reward Track.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b06818003375577a7734ecea7e37c9b4289414f204998cc312481f0daf917ae5.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_208",
+      "dbfId": 97363,
+      "name": "Stranglethorn Heart",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 8,
+      "text": "<b>Tradeable</b>\nResurrect all friendly\nBeasts that cost (5)\nor more.",
+      "flavor": "The Stranglethorn mentality is to be happy with the bare necessities.",
+      "artist": "Mooncolony ",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20d8070700914b27c8a29f7cf693e3132017962bd68c3cd8e8a710e0a3806e5f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Tradeable"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_321",
+      "dbfId": 90695,
+      "name": "Annoy-o-Troupe",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Epic",
+      "cost": 9,
+      "attack": 3,
+      "health": 6,
+      "text": "[x]<b>Taunt</b>, <b>Divine Shield</b>\n<b>Deathrattle:</b> Summon three\n1/2 Mechs with <b>Taunt</b>\nand <b>Divine Shield</b>.",
+      "flavor": "Some classes get Void Lords, other classes get Annoyed Lords.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Mech",
+      "playerClass": "Paladin",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14f9847b8610322afea5b0055a529603df0a2329851a8fe3cfc5b1db4360a1a1.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Divine Shield"
+        },
+        {
+          "name": "Deathrattle"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_086",
+      "dbfId": 91076,
+      "name": "Amplified Elekk",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Common",
+      "cost": 10,
+      "attack": 6,
+      "health": 12,
+      "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Deal 3 damage\nto all enemy minions.",
+      "flavor": "Before this show can continue, we have to bass-boost the elephant in the room.",
+      "artist": "Matt Dixon",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Neutral",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa30df85ecf11782d77e13bb57585959c20b4d0f9f0cf2240d68d21fec833c25.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Deathrattle"
+        },
+        {
+          "name": "Taunt"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_840",
+      "dbfId": 92328,
+      "name": "Banjosaur",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Rare",
+      "cost": 10,
+      "attack": 5,
+      "health": 6,
+      "text": "[x]<b>Rush</b>\nWhenever this attacks, draw\na Beast and gain its stats.",
+      "flavor": "You'll all be singing along once he gets to the tyranno-chorus.",
+      "artist": "Todd Harris",
+      "collectible": true,
+      "race": "Beast",
+      "playerClass": "Hunter",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e170d43e1551ad2297bb805952dd37710be40fffcc37c14719b7b432977aa49.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Rush"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_210",
+      "dbfId": 97532,
+      "name": "Climactic Necrotic Explosion",
+      "cardSet": "Festival of Legends",
+      "type": "Spell",
+      "rarity": "Legendary",
+      "cost": 10,
+      "text": "[x]<b>Lifesteal</b>. Deal ${0} damage.\nSummon {1} {2}/{3} Souls.\n<i>(Randomly improved by\n<b>Corpses</b> you've spent)</i>",
+      "flavor": "The less legible the band's logo, the more hardcore it is.",
+      "artist": "James Ryman",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Death Knight",
+      "runeCost": {
+        "blood": 1,
+        "frost": 1,
+        "unholy": 1
+      },
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4260a902f5cd4e7a34372f70844bcde4fdee56ae4aa36b6fedb9238cf3bf98f.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Corpse"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    },
+    {
+      "cardId": "ETC_395",
+      "dbfId": 96992,
+      "name": "DJ Manastorm",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 10,
+      "attack": 8,
+      "health": 8,
+      "text": "<b>Battlecry:</b> Set the Cost of spells in your hand to (0).\nAfter you cast one, the others cost (1) more.",
+      "flavor": "Do not sleep on his Tinker Town deep house set - absolutely legendary.",
+      "artist": "Konstantin Porubov",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Mage",
+      "howToGetSignature": "Obtainable in <i>Festival of Legends</i> card packs.",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38e774abee377f13e091cec5f3479170687859936e69094ccd9bf0d452ca9bcf.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Battlecry"
+        }
+      ]
+    },
+    {
+      "cardId": "JAM_030",
+      "dbfId": 95404,
+      "name": "Fanottem, Lord of the Opera",
+      "cardSet": "Festival of Legends",
+      "type": "Minion",
+      "rarity": "Legendary",
+      "cost": 30,
+      "attack": 15,
+      "health": 15,
+      "text": "<b>Taunt</b>, <b>Lifesteal</b>\nThis card's Cost is\nequal to the amount of cards in your deck.",
+      "flavor": "Writing a compelling symphony takes time. Usually around 20 turns or more.",
+      "artist": "Brian Despain",
+      "collectible": true,
+      "elite": true,
+      "playerClass": "Warlock",
+      "img": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62588a37bbb838bb754c168cd0a073d03fafe3bf5c3c3b91fe84e30d89415984.png",
+      "locale": "enUS",
+      "mechanics": [
+        {
+          "name": "Taunt"
+        },
+        {
+          "name": "Lifesteal"
+        }
+      ]
+    }
+  ]
+}
