@@ -265,4 +265,30 @@ describe('CardList', () => {
         expect(screen.queryByAltText('Preparation')).not.toBeInTheDocument()
         expect(screen.queryByAltText('High Inquisitor Whitemane')).toBeInTheDocument()
     })
+
+    it ('should clear the deck when you change classes', async () => {
+        const user = userEvent.setup();
+        useQuery.mockReturnValue({isLoading: false, error: false, data: mockData})
+
+        render(
+            <DeckProvider>
+                <CardList/>
+            </DeckProvider>
+        );
+
+        const allImages = screen.queryAllByRole('img');
+
+        await waitFor(() => {
+            expect(allImages.length).toEqual(mockData["Legacy"].length)
+        });
+
+        await user.click(allImages[0])
+
+        expect(screen.getByText(mockData["Legacy"][0].name)).toBeInTheDocument();
+
+        await user.click(screen.getByRole('textbox', { name: 'Select a class'}))
+        await user.click(screen.getByText('Priest'))
+
+        expect(screen.queryByText(mockData["Legacy"][0].name)).not.toBeInTheDocument();
+    })
 })

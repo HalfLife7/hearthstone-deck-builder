@@ -10,6 +10,9 @@ const deckReducer = (state, action) => {
         case 'REMOVE': {
             return state.filter((item) => item.cardId !== action.value.cardId)
         }
+        case 'CLEAR': {
+            return []
+        }
         default: {
             throw new Error(`Unsupported action type: ${action.type}`)
         }

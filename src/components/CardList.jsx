@@ -1,9 +1,10 @@
 import CardSetDataList from "./CardSetDataList.jsx";
 import Card from "./Card.jsx";
-import React, {useState} from "react";
+import React, {useContext, useState} from "react";
 import {useQuery} from "react-query";
 import DeckMenu from "./DeckMenu.jsx";
 import ClassDataList from "./ClassDataList.jsx";
+import {DeckContext} from "../context/DeckContext.jsx";
 
 const fileNames = [
     "ashes_of_outland",
@@ -65,6 +66,7 @@ const CardList = () => {
     const {isLoading, error, data, refetch} = useQuery(['cardsData', selectedCardSet], () =>
         fetch(`/data/${selectedCardSet}.json`).then(res => res.json()),
     )
+    const [deckState, deckDispatch] = useContext(DeckContext);
 
     const handleCardSetDataListOnChange = async (e) => {
         const cardSetInputValue = e.toLowerCase().replace(/ /g, "_")
@@ -76,6 +78,7 @@ const CardList = () => {
 
     const handleClassDataListOnChange = (e) => {
         setPlayerClass(e);
+        deckDispatch({type: 'CLEAR'})
     }
 
     if (isLoading) return 'Loading...'
