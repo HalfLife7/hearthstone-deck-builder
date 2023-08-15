@@ -10,6 +10,9 @@ const deckReducer = (state, action) => {
         case 'REMOVE': {
             return state.filter((item) => item.cardId !== action.value.cardId)
         }
+        case 'CLEAR': {
+            return []
+        }
         default: {
             throw new Error(`Unsupported action type: ${action.type}`)
         }
@@ -17,7 +20,9 @@ const deckReducer = (state, action) => {
 }
 export const DeckProvider = (props) => {
     const [state, dispatch] = useReducer(deckReducer, [])
-    const value = React.useMemo(() => [state, dispatch], [state])
+    // https://kentcdodds.com/blog/usememo-and-usecallback
+    // useMemo is slower here since the calculation is not expensive (1 line)?
+    // const value = React.useMemo(() => [state, dispatch], [state])
 
-    return <DeckContext.Provider value={value} {...props}/>
+    return <DeckContext.Provider value={[state, dispatch]} {...props}/>
 }

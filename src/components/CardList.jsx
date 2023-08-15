@@ -1,9 +1,11 @@
 import CardSetDataList from "./CardSetDataList.jsx";
 import Card from "./Card.jsx";
-import React, {useState} from "react";
+import React, {useContext, useState} from "react";
 import {useQuery} from "react-query";
 import DeckMenu from "./DeckMenu.jsx";
 import ClassDataList from "./ClassDataList.jsx";
+import {DeckContext} from "../context/DeckContext.jsx";
+import {Confirmation} from "./Confirmation.jsx";
 
 const fileNames = [
     "ashes_of_outland",
@@ -60,11 +62,14 @@ const fileNames = [
 ]
 
 const CardList = () => {
+    const [classInputValue, setClassInputValue] = useState("")
     const [playerClass, setPlayerClass] = useState("")
     const [selectedCardSet, setSelectedCardSet] = useState("legacy")
+    const [modalVisible, setModalVisible] = useState(false);
     const {isLoading, error, data, refetch} = useQuery(['cardsData', selectedCardSet], () =>
         fetch(`/data/${selectedCardSet}.json`).then(res => res.json()),
     )
+    const [deckState, deckDispatch] = useContext(DeckContext);
 
     const handleCardSetDataListOnChange = async (e) => {
         const cardSetInputValue = e.toLowerCase().replace(/ /g, "_")
@@ -75,7 +80,19 @@ const CardList = () => {
     }
 
     const handleClassDataListOnChange = (e) => {
-        setPlayerClass(e);
+        setModalVisible(true)
+        setClassInputValue(e);
+    }
+
+    const handleConfirmationCallback = () => {
+        setPlayerClass(classInputValue);
+        deckDispatch({type: 'CLEAR'})
+        setModalVisible(false)
+    }
+
+    const handleCancelCallback = () => {
+        setClassInputValue('')
+        setModalVisible(false)
     }
 
     if (isLoading) return 'Loading...'
@@ -86,6 +103,12 @@ const CardList = () => {
 
     return (
         <div className="flex flex-col">
+            {modalVisible &&
+                <Confirmation
+                    confirmCallback={handleConfirmationCallback}
+                    cancelCallback={handleCancelCallback}
+                />
+            }
             <div className="w-full bg-gray-300">
                 <CardSetDataList items={fileNames} onChange={handleCardSetDataListOnChange}/>
                 <ClassDataList onChange={handleClassDataListOnChange}/>

@@ -262,7 +262,72 @@ describe('CardList', () => {
         await user.type(input, "Priest")
         await user.click(screen.getByText("Priest"))
 
+        const confirmationButton = await screen.findByRole("button", { name: 'Confirm'})
+        await userEvent.click(confirmationButton)
+
         expect(screen.queryByAltText('Preparation')).not.toBeInTheDocument()
         expect(screen.queryByAltText('High Inquisitor Whitemane')).toBeInTheDocument()
+    })
+
+    it ('should clear the deck when you change classes after confirming', async () => {
+        const user = userEvent.setup();
+        useQuery.mockReturnValue({isLoading: false, error: false, data: mockData})
+
+        render(
+            <DeckProvider>
+                <CardList/>
+            </DeckProvider>
+        );
+
+        const allImages = screen.queryAllByRole('img');
+
+        await waitFor(() => {
+            expect(allImages.length).toEqual(mockData["Legacy"].length)
+        });
+
+        // click on a card
+        await user.click(allImages[0])
+
+        // confirm the card is in the deck
+        expect(screen.getByText(mockData["Legacy"][0].name)).toBeInTheDocument();
+
+        await user.click(screen.getByRole('textbox', { name: 'Select a class'}))
+        await user.click(screen.getByText('Priest'))
+
+        const confirmationButton = await screen.findByRole("button", { name: 'Confirm'})
+        await userEvent.click(confirmationButton)
+
+        expect(screen.queryByText(mockData["Legacy"][0].name)).not.toBeInTheDocument();
+        expect(screen.queryByText("Cancel")).not.toBeInTheDocument();
+    })
+
+    it ('should not clear the deck when you hit cancel', async () => {
+        const user = userEvent.setup();
+        useQuery.mockReturnValue({isLoading: false, error: false, data: mockData})
+
+        render(
+            <DeckProvider>
+                <CardList/>
+            </DeckProvider>
+        );
+
+        const allImages = screen.queryAllByRole('img');
+
+        await waitFor(() => {
+            expect(allImages.length).toEqual(mockData["Legacy"].length)
+        });
+
+        await user.click(allImages[0])
+
+        expect(screen.getByText(mockData["Legacy"][0].name)).toBeInTheDocument();
+
+        await user.click(screen.getByRole('textbox', { name: 'Select a class'}))
+        await user.click(screen.getByText('Priest'))
+
+        const cancelButton = await screen.findByRole("button", { name: 'Cancel'})
+        await userEvent.click(cancelButton)
+
+        expect(screen.queryByText(mockData["Legacy"][0].name)).toBeInTheDocument();
+        expect(screen.queryByText("Cancel")).not.toBeInTheDocument();
     })
 })
