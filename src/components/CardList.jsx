@@ -3,6 +3,7 @@ import Card from "./Card.jsx";
 import React, {useState} from "react";
 import {useQuery} from "react-query";
 import DeckMenu from "./DeckMenu.jsx";
+import ClassDataList from "./ClassDataList.jsx";
 
 const fileNames = [
     "ashes_of_outland",
@@ -59,6 +60,7 @@ const fileNames = [
 ]
 
 const CardList = () => {
+    const [playerClass, setPlayerClass] = useState("")
     const [selectedCardSet, setSelectedCardSet] = useState("legacy")
     const {isLoading, error, data, refetch} = useQuery(['cardsData', selectedCardSet], () =>
         fetch(`/data/${selectedCardSet}.json`).then(res => res.json()),
@@ -72,6 +74,10 @@ const CardList = () => {
         }
     }
 
+    const handleClassDataListOnChange = (e) => {
+        setPlayerClass(e);
+    }
+
     if (isLoading) return 'Loading...'
 
     if (error) return 'An error has occurred: ' + error.message
@@ -82,10 +88,21 @@ const CardList = () => {
         <div className="flex flex-col">
             <div className="w-full bg-gray-300">
                 <CardSetDataList items={fileNames} onChange={handleCardSetDataListOnChange}/>
+                <ClassDataList onChange={handleClassDataListOnChange}/>
             </div>
             <div className="flex flex-row">
                 <div className="flex flex-wrap justify-center w-4/5">
-                    {data[Object.keys(data)[0]].filter((card) => card.img).map((card) => {
+                    {data[Object.keys(data)[0]].filter((card) => {
+                        if (!card.img) {
+                            return false
+                        }
+
+                        if (!playerClass) {
+                            return true
+                        }
+
+                        return (card.playerClass === playerClass || card.playerClass === "Neutral");
+                    }).map((card) => {
                         return <Card key={card.cardId} card={card}/>
                     })}
                 </div>

@@ -20,7 +20,7 @@ describe('CardSetDataList', () => {
         const user = userEvent.setup();
         render(<CardSetDataList items={cardSetNames}/>)
 
-        await user.click(screen.getByRole('textbox', {name: "Select or search for a card set"}))
+        await user.click(screen.getByRole('textbox', {name: "Select a card set"}))
 
         cardSetNames.map((setName) => {
             expect(screen.getByText(setName.split("_").join(" "))).toBeInTheDocument()
@@ -32,7 +32,7 @@ describe('CardSetDataList', () => {
         const user = userEvent.setup();
         render(<CardSetDataList items={cardSetNames}/>)
 
-        await user.click(screen.getByRole('textbox', {name: "Select or search for a card set"}))
+        await user.click(screen.getByRole('textbox', {name: "Select a card set"}))
 
         cardSetNames.map((setName) => {
             expect(screen.getByText(setName.split("_").join(" "))).toBeInTheDocument()
@@ -51,7 +51,7 @@ describe('CardSetDataList', () => {
         const user = userEvent.setup();
         render(<CardSetDataList items={cardSetNames} onChange={jest.fn()}/>)
 
-        const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
+        const input = screen.getByRole('textbox', {name: "Select a card set"})
         await user.click(input)
 
         cardSetNames.map((setName) => {
@@ -67,7 +67,7 @@ describe('CardSetDataList', () => {
         const user = userEvent.setup();
         render(<CardSetDataList items={cardSetNames}/>)
 
-        const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
+        const input = screen.getByRole('textbox', {name: "Select a card set"})
         await user.type(input, "ba")
 
         const expectedSetNames = ["basic", "battlegrounds"]
@@ -84,7 +84,7 @@ describe('CardSetDataList', () => {
         const user = userEvent.setup();
         render(<CardSetDataList items={cardSetNames}/>)
 
-        const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
+        const input = screen.getByRole('textbox', {name: "Select a card set"})
         await user.type(input, "Ashes of")
 
         const expectedSetNames = ["ashes_of_outland"]
@@ -103,7 +103,7 @@ describe('CardSetDataList', () => {
         const user = userEvent.setup();
         render(<CardSetDataList items={cardSetNames} onChange={mockOnChange}/>)
 
-        const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
+        const input = screen.getByRole('textbox', {name: "Select a card set"})
         await user.type(input, "Blackrock Mountain")
 
         await user.type(input, '{enter}')
@@ -115,7 +115,7 @@ describe('CardSetDataList', () => {
         const user = userEvent.setup();
         render(<CardSetDataList items={cardSetNames} onChange={mockOnChange}/>)
 
-        const input = screen.getByRole('textbox', {name: "Select or search for a card set"})
+        const input = screen.getByRole('textbox', {name: "Select a card set"})
         await user.type(input, "Blackrock Mountain")
 
         await user.type(input, '{escape}')
