@@ -5,7 +5,7 @@ import {useQuery} from "react-query";
 import DeckMenu from "./DeckMenu.jsx";
 import ClassDataList from "./ClassDataList.jsx";
 import {DeckContext} from "../context/DeckContext.jsx";
-import {Confirmation} from "./Confirmation.jsx";
+import {ConfirmationModal} from "./ConfirmationModal.jsx";
 
 const fileNames = [
     "ashes_of_outland",
@@ -102,9 +102,9 @@ const CardList = () => {
     if (!data) return null;
 
     return (
-        <div className="flex flex-col">
+        <div className="flex flex-col relative">
             {modalVisible &&
-                <Confirmation
+                <ConfirmationModal
                     confirmCallback={handleConfirmationCallback}
                     cancelCallback={handleCancelCallback}
                 />

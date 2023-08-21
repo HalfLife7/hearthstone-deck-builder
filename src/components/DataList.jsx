@@ -68,7 +68,7 @@ const DataList = ({items, onChange, label}) => {
                 aria-label={`Select a ${label.toLowerCase()}`}
             />
             {showDropdown && (
-                <ul className="absolute z-50 w-48 max-h-40 overflow-y-auto ml-24">
+                <ul className="absolute z-30 w-48 max-h-40 overflow-y-auto ml-24">
                     {visibleSuggestions.map((item, index) => (
                         <li
                             className="capitalize px-2 py-1 bg-white border cursor-pointer hover:whitespace-normal"
